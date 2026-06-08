@@ -1,0 +1,23 @@
+id: pojk-2020-040
+judul: Peraturan Otoritas Jasa Keuangan Nomor 40/POJK.05/2020 tentang Perintah Tertulis
+  Untuk Penanganan Permasalahan Lembaga Jasa Keuangan Nonbank
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

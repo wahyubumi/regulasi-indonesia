@@ -1,0 +1,21 @@
+pusat:
+  - id: presiden
+    nama: "Presiden Republik Indonesia"
+  - id: dpr
+    nama: "Dewan Perwakilan Rakyat"
+  - id: kementerian
+    nama: "Kementerian"
+
+lembaga:
+  - id: ojk
+    nama: "Otoritas Jasa Keuangan"
+  - id: bi
+    nama: "Bank Indonesia"
+  - id: bssn
+    nama: "Badan Siber dan Sandi Negara"
+  - id: lkpp
+    nama: "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah"
+  - id: bps
+    nama: "Badan Pusat Statistik"
+  - id: kemendagri
+    nama: "Kementerian Dalam Negeri"

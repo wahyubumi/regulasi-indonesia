@@ -1,0 +1,24 @@
+id: uu-1994-010
+judul: Undang-Undang Nomor 10 Tahun 1994 tentang Perubahan Atas Undang-Undang Nomor
+  7 Tahun 1983 Tentang Pajak Penghasilan Sebagaimana Telah Diubah Dengan Undang-Undangnomor
+  7 Tahun 1991
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

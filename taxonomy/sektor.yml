@@ -1,0 +1,16 @@
+- id: pemerintahan
+  nama: "Pemerintahan"
+- id: hukum
+  nama: "Hukum"
+- id: ekonomi
+  nama: "Ekonomi"
+- id: keuangan
+  nama: "Keuangan"
+- id: teknologi-informasi
+  nama: "Teknologi Informasi"
+- id: kesehatan
+  nama: "Kesehatan"
+- id: pendidikan
+  nama: "Pendidikan"
+- id: lingkungan
+  nama: "Lingkungan"

@@ -1,0 +1,67 @@
+id: seojk-2023-018
+jenis: seojk
+jenis_lengkap: Surat Edaran Otoritas Jasa Keuangan
+nomor: 18/SEOJK.03/2023
+nomor_lengkap: 18/SEOJK.03/2023
+tahun: 2023
+judul: Tata Cara Penggunaan Jasa Akuntan Publik Dan Kantor
+judul_lengkap: Surat Edaran Otoritas Jasa Keuangan Nomor 18/SEOJK.03/2023 tentang
+  Tata Cara Penggunaan Jasa Akuntan Publik Dan Kantor
+tingkat: lembaga
+hierarki_level: null
+lembaga_penerbit:
+- Otoritas Jasa Keuangan
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: https://apolo.ojk.go.id
+  alternatif:
+  - https://aria.ojk.go.id
+  - https://ojk.go.id/ereporting
+  - https://sipenaojk.ojk.go.id
+  - https://spe.ojk.go.id
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/SEOJK_18_2023_Tata_Cara_Penggunaan_Jasa_Akuntan_Publik.md.

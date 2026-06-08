@@ -1,0 +1,25 @@
+id: kepojk-2026-030
+judul: Keputusan Anggota Dewan Komisioner Otoritas Jasa Keuangan Nomor KEP-30/D.05/2026
+  tentang Pencabutan Atas Penetapan Perusahaan Asuransi Umum, Perusahaan Asuransi
+  Umum Syariah, Perusahaan Penjaminan Dan Perusahaan Penjaminan Syariah Sebagai Pelapor
+  Dalam Sistem Layanan Informasi Keuangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

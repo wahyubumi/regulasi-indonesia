@@ -1,0 +1,23 @@
+id: permenkominfo-2023-001
+judul: Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2023 tentang Interoperabilitas
+  Data dalam Penyelenggaraan SPBE dan Satu Data Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://restfulapi.net
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

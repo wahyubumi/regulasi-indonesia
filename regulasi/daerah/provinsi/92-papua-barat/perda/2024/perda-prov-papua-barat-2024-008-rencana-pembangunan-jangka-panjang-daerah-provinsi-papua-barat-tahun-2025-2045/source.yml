@@ -1,0 +1,23 @@
+id: perda-prov-92-2024-008
+judul: Peraturan Daerah Provinsi Nomor 8 Tahun 2024 tentang Rencana Pembangunan Jangka
+  Panjang Daerah Provinsi Papua Barat Tahun 2025-2045
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://1data.menpan.go.id/
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

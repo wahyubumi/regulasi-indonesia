@@ -1,0 +1,24 @@
+id: semenpanrb-2022-018
+judul: Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+  Nomor 18 Tahun 2022 tentang Keterpaduan Layanan Digital Nasional Melalui Penerapan
+  Arsitektur Spbe Dan Peta Rencana Spbe
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://s.id/SE_KeterpaduanLayananDigitalNasional
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

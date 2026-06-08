@@ -1,0 +1,897 @@
+- id: '1945'
+  jumlah: 1
+  regulasi:
+  - id: uud-1945-000
+    jenis: uud
+    nomor: ''
+    tahun: 1945
+    judul: Undang-Undang Dasar Negara Republik Indonesia
+    path: regulasi/pusat/uud/1945/uud-1945-undang-undang-dasar-negara-republik-indonesia
+- id: '1983'
+  jumlah: 1
+  regulasi:
+  - id: uu-1983-007
+    jenis: uu
+    nomor: '7'
+    tahun: 1983
+    judul: Pajak Penghasilan
+    path: regulasi/pusat/uu/1983/uu-1983-007-pajak-penghasilan
+- id: '1991'
+  jumlah: 1
+  regulasi:
+  - id: uu-1991-007
+    jenis: uu
+    nomor: '7'
+    tahun: 1991
+    judul: Perubahan Atas Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan
+    path: regulasi/pusat/uu/1991/uu-1991-007-perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan
+- id: '1994'
+  jumlah: 1
+  regulasi:
+  - id: uu-1994-010
+    jenis: uu
+    nomor: '10'
+    tahun: 1994
+    judul: Perubahan Atas Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan
+      Sebagaimana Telah Diubah Dengan Undang-Undangnomor 7 Tahun 1991
+    path: regulasi/pusat/uu/1994/uu-1994-010-perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana-telah-diubah-dengan-undang-undangnomor-7-tahun-1991
+- id: '1997'
+  jumlah: 1
+  regulasi:
+  - id: uu-1997-008
+    jenis: uu
+    nomor: '8'
+    tahun: 1997
+    judul: Dokumen Perusahaan
+    path: regulasi/pusat/uu/1997/uu-1997-008-dokumen-perusahaan
+- id: '1999'
+  jumlah: 2
+  regulasi:
+  - id: pp-1999-087
+    jenis: pp
+    nomor: '87'
+    tahun: 1999
+    judul: Tata Cara Penyerahan Dan Pemusnahan Dokumen Perusahaan
+    path: regulasi/pusat/pp/1999/pp-1999-087-tata-cara-penyerahan-dan-pemusnahan-dokumen-perusahaan
+  - id: uu-1999-045
+    jenis: uu
+    nomor: '45'
+    tahun: 1999
+    judul: Pembentukan Propinsi Irian Jaya Tengah, Propinsi Irian Jaya Barat, Kabupaten
+      Paniai, Kabupaten Mimika, Kabupaten Puncak Jaya, Dan Kota Sorong
+    path: regulasi/pusat/uu/1999/uu-1999-045-pembentukan-propinsi-irian-jaya-tengah-propinsi-irian-jaya-barat-kabupaten-paniai-kabupaten-mimika-kabupaten-puncak-jaya-dan-kota-sorong
+- id: '2000'
+  jumlah: 2
+  regulasi:
+  - id: uu-2000-017
+    jenis: uu
+    nomor: '17'
+    tahun: 2000
+    judul: Perubahan Ketiga Atas Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan
+    path: regulasi/pusat/uu/2000/uu-2000-017-perubahan-ketiga-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan
+  - id: uu-2000-005
+    jenis: uu
+    nomor: '5'
+    tahun: 2000
+    judul: Perubahan Atas Undang-Undang Nomor 45 Tahun 1999
+    path: regulasi/pusat/uu/2000/uu-2000-005-perubahan-atas-undang-undang-nomor-45-tahun-1999
+- id: '2001'
+  jumlah: 1
+  regulasi:
+  - id: uu-2001-021
+    jenis: uu
+    nomor: '21'
+    tahun: 2001
+    judul: Otonomi Khusus Bagi Provinsi Papua
+    path: regulasi/pusat/uu/2001/uu-2001-021-otonomi-khusus-bagi-provinsi-papua
+- id: '2003'
+  jumlah: 1
+  regulasi:
+  - id: uu-2003-013
+    jenis: uu
+    nomor: '13'
+    tahun: 2003
+    judul: Ketenagakerjaan
+    path: regulasi/pusat/uu/2003/uu-2003-013-ketenagakerjaan
+- id: '2007'
+  jumlah: 2
+  regulasi:
+  - id: pp-2007-024
+    jenis: pp
+    nomor: '24'
+    tahun: 2007
+    judul: Perubahan Nama Provinsi Irian Jaya Barat Menjadi Provinsi Papua Barat
+    path: regulasi/pusat/pp/2007/pp-2007-024-perubahan-nama-provinsi-irian-jaya-barat-menjadi-provinsi-papua-barat
+  - id: uu-2007-040
+    jenis: uu
+    nomor: '40'
+    tahun: 2007
+    judul: Perseroan Terbatas
+    path: regulasi/pusat/uu/2007/uu-2007-040-perseroan-terbatas
+- id: '2008'
+  jumlah: 4
+  regulasi:
+  - id: perpres-2008-002
+    jenis: perpres
+    nomor: '2'
+    tahun: 2008
+    judul: Lembaga Penjaminan
+    path: regulasi/pusat/perpres/2008/perpres-2008-002-lembaga-penjaminan
+  - id: uu-2008-011
+    jenis: uu
+    nomor: '11'
+    tahun: 2008
+    judul: Informasi Dan Transaksi Elektronik
+    path: regulasi/pusat/uu/2008/uu-2008-011-informasi-dan-transaksi-elektronik
+  - id: uu-2008-014
+    jenis: uu
+    nomor: '14'
+    tahun: 2008
+    judul: Keterbukaan Informasi Publik
+    path: regulasi/pusat/uu/2008/uu-2008-014-keterbukaan-informasi-publik
+  - id: uu-2008-036
+    jenis: uu
+    nomor: '36'
+    tahun: 2008
+    judul: Perubahan Keempat Atas Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan
+    path: regulasi/pusat/uu/2008/uu-2008-036-perubahan-keempat-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan
+- id: '2009'
+  jumlah: 1
+  regulasi:
+  - id: uu-2009-043
+    jenis: uu
+    nomor: '43'
+    tahun: 2009
+    judul: Kearsipan
+    path: regulasi/pusat/uu/2009/uu-2009-043-kearsipan
+- id: '2010'
+  jumlah: 1
+  regulasi:
+  - id: uu-2010-008
+    jenis: uu
+    nomor: '8'
+    tahun: 2010
+    judul: Pencegahan Dan Pemberantasan Tindak Pidana Pencucian Uang
+    path: regulasi/pusat/uu/2010/uu-2010-008-pencegahan-dan-pemberantasan-tindak-pidana-pencucian-uang
+- id: '2013'
+  jumlah: 2
+  regulasi:
+  - id: perda-prov-91-2013-026
+    jenis: perda-prov
+    nomor: '26'
+    tahun: 2013
+    judul: Perseroan Terbatas Penjaminan Kredit Daerah Provinsi Papua
+    path: regulasi/daerah/provinsi/91-papua/perda/2013/perda-prov-papua-2013-026-perseroan-terbatas-penjaminan-kredit-daerah-provinsi-papua
+  - id: pojk-2013-003
+    jenis: pojk
+    nomor: '3'
+    tahun: 2013
+    judul: Laporan Bulanan Lembaga Jasa Keuangan Non-Bank
+    path: regulasi/lembaga/ojk/2013/pojk-2013-003-laporan-bulanan-lembaga-jasa-keuangan-non-bank
+- id: '2014'
+  jumlah: 3
+  regulasi:
+  - id: pojk-2014-011
+    jenis: pojk
+    nomor: 11/POJK.05/2014
+    tahun: 2014
+    judul: Pemeriksaan Langsung Lembaga Jasa Keuangan Non-Bank
+    path: regulasi/lembaga/ojk/2014/pojk-2014-011-pemeriksaan-langsung-lembaga-jasa-keuangan-non-bank
+  - id: pojk-2014-003
+    jenis: pojk
+    nomor: 3/POJK.02/2014
+    tahun: 2014
+    judul: Tata Cara Pelaksanaan Pungutan Oleh Otoritas Jasa Keuangan
+    path: regulasi/lembaga/ojk/2014/pojk-2014-003-tata-cara-pelaksanaan-pungutan-oleh-otoritas-jasa-keuangan
+  - id: uu-2014-023
+    jenis: uu
+    nomor: '23'
+    tahun: 2014
+    judul: Pemerintahan Daerah
+    path: regulasi/pusat/uu/2014/uu-2014-023-pemerintahan-daerah
+- id: '2015'
+  jumlah: 1
+  regulasi:
+  - id: pojk-2015-041
+    jenis: pojk
+    nomor: 41/POJK.05/2015
+    tahun: 2015
+    judul: Tata Cara Penetapan Pengelola Statuter Pada Lembaga Jasa Keuangan
+    path: regulasi/lembaga/ojk/2015/pojk-2015-041-tata-cara-penetapan-pengelola-statuter-pada-lembaga-jasa-keuangan
+- id: '2016'
+  jumlah: 10
+  regulasi:
+  - id: pojk-2016-001
+    jenis: pojk
+    nomor: 1/POJK.05/2016
+    tahun: 2016
+    judul: Investasi Surat Berharga Negara Bagi Lembaga Jasa Keuangan Non-Bank
+    path: regulasi/lembaga/ojk/2016/pojk-2016-001-investasi-surat-berharga-negara-bagi-lembaga-jasa-keuangan-non-bank
+  - id: pojk-2016-027
+    jenis: pojk
+    nomor: 27/POJK.03/2016
+    tahun: 2016
+    judul: Penilaian Kemampuan Dan Kepatutan Bagi Pihak Utama Lembaga Jasa Keuangan
+    path: regulasi/lembaga/ojk/2016/pojk-2016-027-penilaian-kemampuan-dan-kepatutan-bagi-pihak-utama-lembaga-jasa-keuangan
+  - id: pojk-2016-036
+    jenis: pojk
+    nomor: 36/POJK.05/2016
+    tahun: 2016
+    judul: Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 1/Pojk.05/2016 Tentang
+      Investasi Surat Berharga Negara Bagi Lembaga Jasa Keuangan Non-Bank
+    path: regulasi/lembaga/ojk/2016/pojk-2016-036-perubahan-atas-peraturan-otoritas-jasa-keuangan-nomor-1-pojk-05-2016-tentang-investasi-surat-berharga-negara-bagi-lembaga-jasa-keuangan-non-bank
+  - id: pojk-2016-063
+    jenis: pojk
+    nomor: 63/POJK.05/2016
+    tahun: 2016
+    judul: Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 11/Pojk.05/2014 Tentang
+      Pemeriksaan Langsung Lembaga Jasa Keuangan Non-Bank
+    path: regulasi/lembaga/ojk/2016/pojk-2016-063-perubahan-atas-peraturan-otoritas-jasa-keuangan-nomor-11-pojk-05-2014-tentang-pemeriksaan-langsung-lembaga-jasa-keuangan-non-bank
+  - id: seojk-2016-010
+    jenis: seojk
+    nomor: 10/SEOJK.05/2016
+    tahun: 2016
+    judul: Pedoman Penerapan Manajemen Risiko Dan Laporan Hasil Penilaian
+    path: regulasi/lembaga/ojk/2016/seojk-2016-010-pedoman-penerapan-manajemen-risiko-dan-laporan-hasil-penilaian
+  - id: seojk-2016-031
+    jenis: seojk
+    nomor: 31/SEOJK.05/2016
+    tahun: 2016
+    judul: Penilaian Kemampuan Dan Kepatutan Bagi Pihak Utama Lembaga
+    path: regulasi/lembaga/ojk/2016/seojk-2016-031-penilaian-kemampuan-dan-kepatutan-bagi-pihak-utama-lembaga
+  - id: seojk-2016-037
+    jenis: seojk
+    nomor: 37/SEOJK.03/2016
+    tahun: 2016
+    judul: Lembaga Pemeringkat Dan Peringkat Yang Diakui Otoritas Jasa
+    path: regulasi/lembaga/ojk/2016/seojk-2016-037-lembaga-pemeringkat-dan-peringkat-yang-diakui-otoritas-jasa
+  - id: uu-2016-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2016
+    judul: Penjaminan
+    path: regulasi/pusat/uu/2016/uu-2016-001-penjaminan
+  - id: uu-2016-019
+    jenis: uu
+    nomor: '19'
+    tahun: 2016
+    judul: Perubahan atas Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan
+      Transaksi Elektronik
+    path: regulasi/pusat/uu/2016/uu-2016-019-perubahan-atas-undang-undang-nomor-11-tahun-2008-tentang-informasi-dan-transaksi-elektronik
+  - id: uu-2016-009
+    jenis: uu
+    nomor: '9'
+    tahun: 2016
+    judul: Pencegahan Dan Penanganan Krisis Sistem Keuangan
+    path: regulasi/pusat/uu/2016/uu-2016-009-pencegahan-dan-penanganan-krisis-sistem-keuangan
+- id: '2017'
+  jumlah: 10
+  regulasi:
+  - id: pojk-2017-001
+    jenis: pojk
+    nomor: 1/POJK.05/2017
+    tahun: 2017
+    judul: Perizinan Usaha Dan Kelembagaan Lembaga Penjamin
+    path: regulasi/lembaga/ojk/2017/pojk-2017-001-perizinan-usaha-dan-kelembagaan-lembaga-penjamin
+  - id: pojk-2017-018
+    jenis: pojk
+    nomor: 18/POJK.03/2017
+    tahun: 2017
+    judul: Pelaporan Dan Permintaan Informasi Debitur Melalui Sistem Layanan Informasi
+      Keuangan
+    path: regulasi/lembaga/ojk/2017/pojk-2017-018-pelaporan-dan-permintaan-informasi-debitur-melalui-sistem-layanan-informasi-keuangan
+  - id: pojk-2017-002
+    jenis: pojk
+    nomor: 2/POJK.05/2017
+    tahun: 2017
+    judul: Penyelenggaraan Usaha Lembaga Penjamin
+    path: regulasi/lembaga/ojk/2017/pojk-2017-002-penyelenggaraan-usaha-lembaga-penjamin
+  - id: pojk-2017-003
+    jenis: pojk
+    nomor: 3/POJK.05/2017
+    tahun: 2017
+    judul: Tata Kelola Perusahaan Yang Baik Bagi Lembaga Penjamin
+    path: regulasi/lembaga/ojk/2017/pojk-2017-003-tata-kelola-perusahaan-yang-baik-bagi-lembaga-penjamin
+  - id: pojk-2017-056
+    jenis: pojk
+    nomor: 56/POJK.05/2017
+    tahun: 2017
+    judul: Perubahan Kedua Atas Peraturan Otoritas Jasa Keuangan Nomor 1/Pojk.05/2016
+      Tentang Investasi Surat Berharga Negara Bagi Lembaga Jasa Keuangan Non-Bank
+    path: regulasi/lembaga/ojk/2017/pojk-2017-056-perubahan-kedua-atas-peraturan-otoritas-jasa-keuangan-nomor-1-pojk-05-2016-tentang-investasi-surat-berharga-negara-bagi-lembaga-jasa-keuangan-non-bank
+  - id: pp-2017-054
+    jenis: pp
+    nomor: '54'
+    tahun: 2017
+    judul: Badan Usaha Milik Daerah
+    path: regulasi/pusat/pp/2017/pp-2017-054-badan-usaha-milik-daerah
+  - id: seojk-2017-030
+    jenis: seojk
+    nomor: 30/SEOJK.07/2017
+    tahun: 2017
+    judul: Pelaksanaan Kegiatan Dalam Rangka Meningkatkan Literasi Keuangan Di
+    path: regulasi/lembaga/ojk/2017/seojk-2017-030-pelaksanaan-kegiatan-dalam-rangka-meningkatkan-literasi-keuangan-di
+  - id: seojk-2017-031
+    jenis: seojk
+    nomor: 31/SEOJK.07/2017
+    tahun: 2017
+    judul: Pelaksanaan Kegiatan Dalam Rangka Meningkatkan Inklusi Keuangan Di Sektor
+      Jasa Keuangan
+    path: regulasi/lembaga/ojk/2017/seojk-2017-031-pelaksanaan-kegiatan-dalam-rangka-meningkatkan-inklusi-keuangan-di-sektor-jasa-keuangan
+  - id: seojk-2017-037
+    jenis: seojk
+    nomor: 37/SEOJK.05/2017
+    tahun: 2017
+    judul: Pedoman Penerapan Program Anti Pencucian Uang Dan Pencegahan
+    path: regulasi/lembaga/ojk/2017/seojk-2017-037-pedoman-penerapan-program-anti-pencucian-uang-dan-pencegahan
+  - id: seojk-2017-054
+    jenis: seojk
+    nomor: 54/SEOJK.05/2017
+    tahun: 2017
+    judul: Laporan Penerapan Tata Kelola Perusahaan Yang Baik Bagi
+    path: regulasi/lembaga/ojk/2017/seojk-2017-054-laporan-penerapan-tata-kelola-perusahaan-yang-baik-bagi
+- id: '2018'
+  jumlah: 12
+  regulasi:
+  - id: permen-2018-118
+    jenis: permen
+    nomor: '118'
+    tahun: 2018
+    judul: Rencana Bisnis, Rencana Kerja Dan Anggaran, Kerja Sama, Pelaporan Dan Evaluasi
+      Badan Usaha Milik Daerah
+    path: regulasi/pusat/permen/2018/permen-2018-118-rencana-bisnis-rencana-kerja-dan-anggaran-kerja-sama-pelaporan-dan-evaluasi-badan-usaha-milik-daerah
+  - id: permen-2018-037
+    jenis: permen
+    nomor: '37'
+    tahun: 2018
+    judul: Pengangkatan Dan Pemberhentian Anggota Dewan Pengawas Atau Anggota Komisaris
+      Dan Anggota Direksi Badan Usaha Milik Daerah
+    path: regulasi/pusat/permen/2018/permen-2018-037-pengangkatan-dan-pemberhentian-anggota-dewan-pengawas-atau-anggota-komisaris-dan-anggota-direksi-badan-usaha-milik-daerah
+  - id: permenpanrb-2018-019
+    jenis: permenpanrb
+    nomor: '19'
+    tahun: 2018
+    judul: Penyusunan Peta Proses Bisnis Instansi Pemerintah
+    path: regulasi/pusat/permen/2018/permenpanrb-2018-019-penyusunan-peta-proses-bisnis-instansi-pemerintah
+  - id: perpres-2018-095
+    jenis: perpres
+    nomor: '95'
+    tahun: 2018
+    judul: Sistem Pemerintahan Berbasis Elektronik
+    path: regulasi/pusat/perpres/2018/perpres-2018-095-sistem-pemerintahan-berbasis-elektronik
+  - id: pojk-2018-018
+    jenis: pojk
+    nomor: 18/POJK.07/2018
+    tahun: 2018
+    judul: Layanan Pengaduan Konsumen Di Sektor Jasa Keuangan
+    path: regulasi/lembaga/ojk/2018/pojk-2018-018-layanan-pengaduan-konsumen-di-sektor-jasa-keuangan
+  - id: pojk-2018-022
+    jenis: pojk
+    nomor: 22/POJK.02/2018
+    tahun: 2018
+    judul: Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 3/Pojk.02/2014 Tentang
+      Tata Cara Pelaksanaan Pungutan Oleh Otoritas Jasa Keuangan
+    path: regulasi/lembaga/ojk/2018/pojk-2018-022-perubahan-atas-peraturan-otoritas-jasa-keuangan-nomor-3-pojk-02-2014-tentang-tata-cara-pelaksanaan-pungutan-oleh-otoritas-jasa-keuangan
+  - id: pojk-2018-026
+    jenis: pojk
+    nomor: 26/POJK.02/2018
+    tahun: 2018
+    judul: Perubahan Kedua Atas Peraturan Otoritas Jasa Keuangan Nomor 4/Pojk.04/2014
+      Tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda Di Sektor Jasa
+      Keuangan
+    path: regulasi/lembaga/ojk/2018/pojk-2018-026-perubahan-kedua-atas-peraturan-otoritas-jasa-keuangan-nomor-4-pojk-04-2014-tentang-tata-cara-penagihan-sanksi-administratif-berupa-denda-di-sektor-jasa-keuangan
+  - id: pojk-2018-030
+    jenis: pojk
+    nomor: 30/POJK.05/2018
+    tahun: 2018
+    judul: Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 2/Pojk.05/2017 Tentang
+      Penyelenggaraan Usaha Lembaga Penjamin
+    path: regulasi/lembaga/ojk/2018/pojk-2018-030-perubahan-atas-peraturan-otoritas-jasa-keuangan-nomor-2-pojk-05-2017-tentang-penyelenggaraan-usaha-lembaga-penjamin
+  - id: pojk-2018-034
+    jenis: pojk
+    nomor: 34/POJK.03/2018
+    tahun: 2018
+    judul: Penilaian Kembali Bagi Pihak Utama Lembaga Jasa Keuangan
+    path: regulasi/lembaga/ojk/2018/pojk-2018-034-penilaian-kembali-bagi-pihak-utama-lembaga-jasa-keuangan
+  - id: seojk-2018-017
+    jenis: seojk
+    nomor: 17/SEOJK.07/2018
+    tahun: 2018
+    judul: Pedoman Pelaksanaan Layanan Pengaduan Konsumen Di Sektor Jasa
+    path: regulasi/lembaga/ojk/2018/seojk-2018-017-pedoman-pelaksanaan-layanan-pengaduan-konsumen-di-sektor-jasa
+  - id: seojk-2018-018
+    jenis: seojk
+    nomor: 18/SEOJK.05/2018
+    tahun: 2018
+    judul: Kesehatan Keuangan Lembaga Penjamin
+    path: regulasi/lembaga/ojk/2018/seojk-2018-018-kesehatan-keuangan-lembaga-penjamin
+  - id: seojk-2018-020
+    jenis: seojk
+    nomor: 20/SEOJK.05/2018
+    tahun: 2018
+    judul: Perizinan Persetujuan Pelaporan Lembaga Penjamin
+    path: regulasi/lembaga/ojk/2018/seojk-2018-020-perizinan-persetujuan-pelaporan-lembaga-penjamin
+- id: '2019'
+  jumlah: 6
+  regulasi:
+  - id: permen-2019-070
+    jenis: permen
+    nomor: '70'
+    tahun: 2019
+    judul: Sistem Informasi Pemerintahan Daerah
+    path: regulasi/pusat/permen/2019/permen-2019-070-sistem-informasi-pemerintahan-daerah
+  - id: perpres-2019-039
+    jenis: perpres
+    nomor: '39'
+    tahun: 2019
+    judul: Satu Data Indonesia
+    path: regulasi/pusat/perpres/2019/perpres-2019-039-satu-data-indonesia
+  - id: pojk-2019-026
+    jenis: pojk
+    nomor: '26'
+    tahun: 2019
+    judul: Perizinan Secara Elektronik Di Sektor Jasa Keuangan
+    path: regulasi/lembaga/ojk/2019/pojk-2019-026-perizinan-secara-elektronik-di-sektor-jasa-keuangan
+  - id: pojk-2019-044
+    jenis: pojk
+    nomor: 44/POJK.05/2019
+    tahun: 2019
+    judul: Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 41/Pojk.05/2015 Tentang
+      Tata Cara Penetapan Pengelola Statuter Pada Lembaga Jasa Keuangan
+    path: regulasi/lembaga/ojk/2019/pojk-2019-044-perubahan-atas-peraturan-otoritas-jasa-keuangan-nomor-41-pojk-05-2015-tentang-tata-cara-penetapan-pengelola-statuter-pada-lembaga-jasa-keuangan
+  - id: pp-2019-071
+    jenis: pp
+    nomor: '71'
+    tahun: 2019
+    judul: Penyelenggaraan Sistem dan Transaksi Elektronik
+    path: regulasi/pusat/pp/2019/pp-2019-071-penyelenggaraan-sistem-dan-transaksi-elektronik
+  - id: seojk-2019-015
+    jenis: seojk
+    nomor: 15/SEOJK.05/2019
+    tahun: 2019
+    judul: Penilaian Kembali Pihak Utama Ljknb
+    path: regulasi/lembaga/ojk/2019/seojk-2019-015-penilaian-kembali-pihak-utama-ljknb
+- id: '2020'
+  jumlah: 14
+  regulasi:
+  - id: kepmenpanrb-2020-679
+    jenis: kepmenpanrb
+    nomor: '679'
+    tahun: 2020
+    judul: Aplikasi Umum Bidang Kearsipan Dinamis
+    path: regulasi/pusat/permen/2020/kepmenpanrb-2020-679-aplikasi-umum-bidang-kearsipan-dinamis
+  - id: perbssn-2020-010
+    jenis: perbssn
+    nomor: '10'
+    tahun: 2020
+    judul: Tim Tanggap Insiden Siber
+    path: regulasi/lembaga/bssn/2020/perbssn-2020-010-tim-tanggap-insiden-siber
+  - id: permenpanrb-2020-005
+    jenis: permenpanrb
+    nomor: '5'
+    tahun: 2020
+    judul: Pedoman Manajemen Risiko Sistem Pemerintahan Berbasis Elektronik
+    path: regulasi/pusat/permen/2020/permenpanrb-2020-005-pedoman-manajemen-risiko-sistem-pemerintahan-berbasis-elektronik
+  - id: permenpanrb-2020-059
+    jenis: permenpanrb
+    nomor: '59'
+    tahun: 2020
+    judul: Pemantauan Dan Evaluasi Sistem Pemerintahan Berbasis Elektronik
+    path: regulasi/pusat/permen/2020/permenpanrb-2020-059-pemantauan-dan-evaluasi-sistem-pemerintahan-berbasis-elektronik
+  - id: pojk-2020-014
+    jenis: pojk
+    nomor: 14/POJK.05/2020
+    tahun: 2020
+    judul: Kebijakan Countercyclical Dampak Penyebaran Coronavirus Disease 2019 Bagi
+      Lembaga Jasa Keuangan Nonbank
+    path: regulasi/lembaga/ojk/2020/pojk-2020-014-kebijakan-countercyclical-dampak-penyebaran-coronavirus-disease-2019-bagi-lembaga-jasa-keuangan-nonbank
+  - id: pojk-2020-028
+    jenis: pojk
+    nomor: 28/POJK.05/2020
+    tahun: 2020
+    judul: Penilaian Tingkat Kesehatan Lembaga Jasa Keuangan Nonbank
+    path: regulasi/lembaga/ojk/2020/pojk-2020-028-penilaian-tingkat-kesehatan-lembaga-jasa-keuangan-nonbank
+  - id: pojk-2020-030
+    jenis: pojk
+    nomor: 30/POJK.05/2020
+    tahun: 2020
+    judul: Perubahan Kedua Atas Peraturan Otoritas Jasa Keuangan Nomor 11/Pojk.05/2014
+      Tentang Pemeriksaan Langsung Lembaga Jasa Keuangan Nonbank
+    path: regulasi/lembaga/ojk/2020/pojk-2020-030-perubahan-kedua-atas-peraturan-otoritas-jasa-keuangan-nomor-11-pojk-05-2014-tentang-pemeriksaan-langsung-lembaga-jasa-keuangan-nonbank
+  - id: pojk-2020-031
+    jenis: pojk
+    nomor: 31/POJK.07/2020
+    tahun: 2020
+    judul: Penyelenggaraan Layanan Konsumen Dan Masyarakat Di Sektor Jasa Keuangan
+      Oleh Otoritas Jasa Keuangan
+    path: regulasi/lembaga/ojk/2020/pojk-2020-031-penyelenggaraan-layanan-konsumen-dan-masyarakat-di-sektor-jasa-keuangan-oleh-otoritas-jasa-keuangan
+  - id: pojk-2020-036
+    jenis: pojk
+    nomor: 36/POJK.02/2020
+    tahun: 2020
+    judul: Perubahan Ketiga Atas Peraturan Otoritas Jasa Keuangan Nomor 4/Pojk.04/2014
+      Tentang Tata Cara Penagihan Sanksi Administratif Berupa Denda Di Sektor Jasa
+      Keuangan
+    path: regulasi/lembaga/ojk/2020/pojk-2020-036-perubahan-ketiga-atas-peraturan-otoritas-jasa-keuangan-nomor-4-pojk-04-2014-tentang-tata-cara-penagihan-sanksi-administratif-berupa-denda-di-sektor-jasa-keuangan
+  - id: pojk-2020-040
+    jenis: pojk
+    nomor: 40/POJK.05/2020
+    tahun: 2020
+    judul: Perintah Tertulis Untuk Penanganan Permasalahan Lembaga Jasa Keuangan Nonbank
+    path: regulasi/lembaga/ojk/2020/pojk-2020-040-perintah-tertulis-untuk-penanganan-permasalahan-lembaga-jasa-keuangan-nonbank
+  - id: pojk-2020-044
+    jenis: pojk
+    nomor: 44/POJK.05/2020
+    tahun: 2020
+    judul: Penerapan Manajemen Risiko Bagi Lembaga Jasa Keuangan Nonbank
+    path: regulasi/lembaga/ojk/2020/pojk-2020-044-penerapan-manajemen-risiko-bagi-lembaga-jasa-keuangan-nonbank
+  - id: pojk-2020-061
+    jenis: pojk
+    nomor: 61/POJK.07/2020
+    tahun: 2020
+    judul: Lembaga Alternatif Penyelesaian Sengketa Sektor Jasa Keuangan
+    path: regulasi/lembaga/ojk/2020/pojk-2020-061-lembaga-alternatif-penyelesaian-sengketa-sektor-jasa-keuangan
+  - id: pojk-2020-064
+    jenis: pojk
+    nomor: 64/POJK.03/2020
+    tahun: 2020
+    judul: Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 18/Pojk.03/2017 Tentang
+      Pelaporan Dan Permintaan Informasi Debitur Melalui Sistem Layanan Informasi
+      Keuangan
+    path: regulasi/lembaga/ojk/2020/pojk-2020-064-perubahan-atas-peraturan-otoritas-jasa-keuangan-nomor-18-pojk-03-2017-tentang-pelaporan-dan-permintaan-informasi-debitur-melalui-sistem-layanan-informasi-keuangan
+  - id: seojk-2020-004
+    jenis: seojk
+    nomor: 4/SEOJK.05/2020
+    tahun: 2020
+    judul: Rencana Bisnis Lembaga Penjamin
+    path: regulasi/lembaga/ojk/2020/seojk-2020-004-rencana-bisnis-lembaga-penjamin
+- id: '2021'
+  jumlah: 10
+  regulasi:
+  - id: perbssn-2021-004
+    jenis: perbssn
+    nomor: '4'
+    tahun: 2021
+    judul: Pedoman Manajemen Keamanan Informasi Sistem Pemerintahan Berbasis Elektronik
+      Dan Standar Teknis Dan Prosedur Keamanan Sistem Pemerintahan Berbasis Elektronik
+    path: regulasi/lembaga/bssn/2021/perbssn-2021-004-pedoman-manajemen-keamanan-informasi-sistem-pemerintahan-berbasis-elektronik-dan-standar-teknis-dan-prosedur-keamanan-sistem-pemerintahan-berbasis-elektronik
+  - id: pergub-91-2021-046
+    jenis: pergub
+    nomor: '46'
+    tahun: 2021
+    judul: Pengadaan Barang/Jasa Pemerintah Di Provinsi Papua
+    path: regulasi/daerah/provinsi/91-papua/pergub/2021/pergub-papua-2021-046-pengadaan-barang-jasa-pemerintah-di-provinsi-papua
+  - id: permen-2021-047
+    jenis: permen
+    nomor: '47'
+    tahun: 2021
+    judul: Tata Cara Pelaksanaan Pembukuan, Inventarisasi, Dan Pelaporan Barang Milik
+      Daerah
+    path: regulasi/pusat/permen/2021/permen-2021-047-tata-cara-pelaksanaan-pembukuan-inventarisasi-dan-pelaporan-barang-milik-daerah
+  - id: pojk-2021-011
+    jenis: pojk
+    nomor: 11/POJK.02/2021
+    tahun: 2021
+    judul: Penatalaksanaan Lembaga Sertifikasi Profesi Di Sektor Jasa Keuangan
+    path: regulasi/lembaga/ojk/2021/pojk-2021-011-penatalaksanaan-lembaga-sertifikasi-profesi-di-sektor-jasa-keuangan
+  - id: pojk-2021-004
+    jenis: pojk
+    nomor: 4/POJK.05/2021
+    tahun: 2021
+    judul: Penerapan Manajemen Risiko Dalam Penggunaan Teknologi Informasi Oleh Lembaga
+      Jasa Keuangan Nonbank
+    path: regulasi/lembaga/ojk/2021/pojk-2021-004-penerapan-manajemen-risiko-dalam-penggunaan-teknologi-informasi-oleh-lembaga-jasa-keuangan-nonbank
+  - id: pojk-2021-009
+    jenis: pojk
+    nomor: 9/POJK.05/2021
+    tahun: 2021
+    judul: Penetapan Status Dan Tindak Lanjut Pengawasan Lembaga Jasa Keuangan Nonbank
+    path: regulasi/lembaga/ojk/2021/pojk-2021-009-penetapan-status-dan-tindak-lanjut-pengawasan-lembaga-jasa-keuangan-nonbank
+  - id: seojk-2021-022
+    jenis: seojk
+    nomor: 22/SEOJK.05/2021
+    tahun: 2021
+    judul: Manajemen Risiko Ti Ljknb
+    path: regulasi/lembaga/ojk/2021/seojk-2021-022-manajemen-risiko-ti-ljknb
+  - id: seojk-2021-003
+    jenis: seojk
+    nomor: 3/SEOJK.03/2021
+    tahun: 2021
+    judul: Pelaporan Dan Permintaan Informasi Debitur Melalui Sistem Layanan
+    path: regulasi/lembaga/ojk/2021/seojk-2021-003-pelaporan-dan-permintaan-informasi-debitur-melalui-sistem-layanan
+  - id: uu-2021-002
+    jenis: uu
+    nomor: '2'
+    tahun: 2021
+    judul: Perubahan Kedua Atas Undang-Undang Nomor 21 Tahun 2001 Tentang Otonomi
+      Khusus Bagi Provinsi Papua
+    path: regulasi/pusat/uu/2021/uu-2021-002-perubahan-kedua-atas-undang-undang-nomor-21-tahun-2001-tentang-otonomi-khusus-bagi-provinsi-papua
+  - id: uu-2021-007
+    jenis: uu
+    nomor: '7'
+    tahun: 2021
+    judul: Harmonisasi Peraturan Perpajakan
+    path: regulasi/pusat/uu/2021/uu-2021-007-harmonisasi-peraturan-perpajakan
+- id: '2022'
+  jumlah: 10
+  regulasi:
+  - id: permenpanrb-2022-029
+    jenis: permenpanrb
+    nomor: '29'
+    tahun: 2022
+    judul: Pemantauan dan Evaluasi Kinerja Penyelenggaraan Pelayanan Publik
+    path: regulasi/pusat/permen/2022/permenpanrb-2022-029-pemantauan-dan-evaluasi-kinerja-penyelenggaraan-pelayanan-publik
+  - id: permenpanrb-2022-007
+    jenis: permenpanrb
+    nomor: '7'
+    tahun: 2022
+    judul: Sistem Kerja Pada Instansi Pemerintah untuk Penyederhanaan Birokrasi
+    path: regulasi/pusat/permen/2022/permenpanrb-2022-007-sistem-kerja-pada-instansi-pemerintah-untuk-penyederhanaan-birokrasi
+  - id: perpres-2022-132
+    jenis: perpres
+    nomor: '132'
+    tahun: 2022
+    judul: Arsitektur Sistem Pemerintahan Berbasis Elektronik Nasional
+    path: regulasi/pusat/perpres/2022/perpres-2022-132-arsitektur-sistem-pemerintahan-berbasis-elektronik-nasional
+  - id: pojk-2022-018
+    jenis: pojk
+    nomor: '18'
+    tahun: 2022
+    judul: Perintah Tertulis
+    path: regulasi/lembaga/ojk/2022/pojk-2022-018-perintah-tertulis
+  - id: pojk-2022-019
+    jenis: pojk
+    nomor: '19'
+    tahun: 2022
+    judul: Perlakuan Khusus Untuk Lembaga Jasa Keuangan Pada Daerah Dan Sektor Tertentu
+      Di Indonesia Yang Terkena Dampak Bencana
+    path: regulasi/lembaga/ojk/2022/pojk-2022-019-perlakuan-khusus-untuk-lembaga-jasa-keuangan-pada-daerah-dan-sektor-tertentu-di-indonesia-yang-terkena-dampak-bencana
+  - id: pojk-2022-006
+    jenis: pojk
+    nomor: 6/POJK.07/2022
+    tahun: 2022
+    judul: Perlindungan Konsumen Dan Masyarakat Di Sektor Jasa Keuangan
+    path: regulasi/lembaga/ojk/2022/pojk-2022-006-perlindungan-konsumen-dan-masyarakat-di-sektor-jasa-keuangan
+  - id: semenpanrb-2022-018
+    jenis: semenpanrb
+    nomor: '18'
+    tahun: 2022
+    judul: Keterpaduan Layanan Digital Nasional Melalui Penerapan Arsitektur Spbe
+      Dan Peta Rencana Spbe
+    path: regulasi/pusat/permen/2022/semenpanrb-2022-018-keterpaduan-layanan-digital-nasional-melalui-penerapan-arsitektur-spbe-dan-peta-rencana-spbe
+  - id: seojk-2022-032
+    jenis: seojk
+    nomor: 32/SEOJK.05/2022
+    tahun: 2022
+    judul: Penilaian Kembali Bagi Pihak Utama Lembaga Jasa Keuangan
+    path: regulasi/lembaga/ojk/2022/seojk-2022-032-penilaian-kembali-bagi-pihak-utama-lembaga-jasa-keuangan
+  - id: uu-2022-027
+    jenis: uu
+    nomor: '27'
+    tahun: 2022
+    judul: Pelindungan Data Pribadi
+    path: regulasi/pusat/uu/2022/uu-2022-027-pelindungan-data-pribadi
+  - id: uu-2022-029
+    jenis: uu
+    nomor: '29'
+    tahun: 2022
+    judul: Pembentukan Provinsi Papua Barat Daya
+    path: regulasi/pusat/uu/2022/uu-2022-029-pembentukan-provinsi-papua-barat-daya
+- id: '2023'
+  jumlah: 13
+  regulasi:
+  - id: perda-prov-91-2023-002
+    jenis: perda-prov
+    nomor: '2'
+    tahun: 2023
+    judul: Pengelolaan Barang Milik Daerah
+    path: regulasi/daerah/provinsi/91-papua/perda/2023/perda-prov-papua-2023-002-pengelolaan-barang-milik-daerah
+  - id: permenkominfo-2023-001
+    jenis: permenkominfo
+    nomor: '1'
+    tahun: 2023
+    judul: Interoperabilitas Data dalam Penyelenggaraan SPBE dan Satu Data Indonesia
+    path: regulasi/pusat/permen/2023/permenkominfo-2023-001-interoperabilitas-data-dalam-penyelenggaraan-spbe-dan-satu-data-indonesia
+  - id: permenpanrb-2023-004
+    jenis: permenpanrb
+    nomor: '4'
+    tahun: 2023
+    judul: Perubahan atas Permen PANRB Nomor 29 Tahun 2022
+    path: regulasi/pusat/permen/2023/permenpanrb-2023-004-perubahan-atas-permen-panrb-nomor-29-tahun-2022
+  - id: permenpanrb-2023-008
+    jenis: permenpanrb
+    nomor: '8'
+    tahun: 2023
+    judul: Tata Cara Sinkronisasi Rencana Kerja Di Bidang Manajemen Aparatur Sipil
+      Negara
+    path: regulasi/pusat/permen/2023/permenpanrb-2023-008-tata-cara-sinkronisasi-rencana-kerja-di-bidang-manajemen-aparatur-sipil-negara
+  - id: perpres-2023-082
+    jenis: perpres
+    nomor: '82'
+    tahun: 2023
+    judul: Percepatan Transformasi Digital Dan Keterpaduan Layanan Digital Nasional
+    path: regulasi/pusat/perpres/2023/perpres-2023-082-percepatan-transformasi-digital-dan-keterpaduan-layanan-digital-nasional
+  - id: pojk-2023-022
+    jenis: pojk
+    nomor: '22'
+    tahun: 2023
+    judul: Pelindungan Konsumen Dan Masyarakat Di Sektor Jasa Keuangan
+    path: regulasi/lembaga/ojk/2023/pojk-2023-022-pelindungan-konsumen-dan-masyarakat-di-sektor-jasa-keuangan
+  - id: pojk-2023-003
+    jenis: pojk
+    nomor: '3'
+    tahun: 2023
+    judul: Peningkatan Literasi Dan Inklusi Keuangan Di Sektor Jasa Keuangan Bagi
+      Konsumen Dan Masyarakat
+    path: regulasi/lembaga/ojk/2023/pojk-2023-003-peningkatan-literasi-dan-inklusi-keuangan-di-sektor-jasa-keuangan-bagi-konsumen-dan-masyarakat
+  - id: pojk-2023-008
+    jenis: pojk
+    nomor: '8'
+    tahun: 2023
+    judul: Penerapan Program Anti Pencucian Uang, Pencegahan Pendanaan Terorisme,
+      Dan Pencegahan Pendanaan Proliferasi Senjata Pemusnah Massal Di Sektor Jasa
+      Keuangan
+    path: regulasi/lembaga/ojk/2023/pojk-2023-008-penerapan-program-anti-pencucian-uang-pencegahan-pendanaan-terorisme-dan-pencegahan-pendanaan-proliferasi-senjata-pemusnah-massal-di-sektor-jasa-keuangan
+  - id: pojk-2023-009
+    jenis: pojk
+    nomor: '9'
+    tahun: 2023
+    judul: Penggunaan Jasa Akuntan Publik Dan Kantor Akuntan Publik Dalam Kegiatan
+      Jasa Keuangan
+    path: regulasi/lembaga/ojk/2023/pojk-2023-009-penggunaan-jasa-akuntan-publik-dan-kantor-akuntan-publik-dalam-kegiatan-jasa-keuangan
+  - id: seojk-2023-018
+    jenis: seojk
+    nomor: 18/SEOJK.03/2023
+    tahun: 2023
+    judul: Tata Cara Penggunaan Jasa Akuntan Publik Dan Kantor
+    path: regulasi/lembaga/ojk/2023/seojk-2023-018-tata-cara-penggunaan-jasa-akuntan-publik-dan-kantor
+  - id: seojk-2023-023
+    jenis: seojk
+    nomor: 23/SEOJK.05/2023
+    tahun: 2023
+    judul: Penilaian Kemampuan dan Kepatutan bagi Pihak Utama Perusahaan Perasuransian,
+      Lembaga Penjamin, dan Dana Pensiun
+    path: regulasi/lembaga/ojk/2023/seojk-2023-023-penilaian-kemampuan-dan-kepatutan-bagi-pihak-utama-perusahaan-perasuransian-lembaga-penjamin-dan-dana-pensiun
+  - id: uu-2023-004
+    jenis: uu
+    nomor: '4'
+    tahun: 2023
+    judul: Pengembangan Dan Penguatan Sektor Keuangan
+    path: regulasi/pusat/uu/2023/uu-2023-004-pengembangan-dan-penguatan-sektor-keuangan
+  - id: uu-2023-006
+    jenis: uu
+    nomor: '6'
+    tahun: 2023
+    judul: Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022
+      Tentang Cipta Kerja Menjadi Undang-Undang
+    path: regulasi/pusat/uu/2023/uu-2023-006-penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-2-tahun-2022-tentang-cipta-kerja-menjadi-undang-undang
+- id: '2024'
+  jumlah: 10
+  regulasi:
+  - id: perda-prov-92-2024-008
+    jenis: perda-prov
+    nomor: '8'
+    tahun: 2024
+    judul: Rencana Pembangunan Jangka Panjang Daerah Provinsi Papua Barat Tahun 2025-2045
+    path: regulasi/daerah/provinsi/92-papua-barat/perda/2024/perda-prov-papua-barat-2024-008-rencana-pembangunan-jangka-panjang-daerah-provinsi-papua-barat-tahun-2025-2045
+  - id: pojk-2024-011
+    jenis: pojk
+    nomor: '11'
+    tahun: 2024
+    judul: Perubahan Kedua Atas Peraturan Otoritas Jasa Keuangan Nomor 18/Pojk.03/2017
+      Tentang Pelaporan Dan Permintaan Informasi Debitur Melalui Sistem Layanan Informasi
+      Keuangan
+    path: regulasi/lembaga/ojk/2024/pojk-2024-011-perubahan-kedua-atas-peraturan-otoritas-jasa-keuangan-nomor-18-pojk-03-2017-tentang-pelaporan-dan-permintaan-informasi-debitur-melalui-sistem-layanan-informasi-keuangan
+  - id: pojk-2024-012
+    jenis: pojk
+    nomor: '12'
+    tahun: 2024
+    judul: Penerapan Strategi Anti Fraud Bagi Lembaga Jasa Keuangan
+    path: regulasi/lembaga/ojk/2024/pojk-2024-012-penerapan-strategi-anti-fraud-bagi-lembaga-jasa-keuangan
+  - id: pojk-2024-014
+    jenis: pojk
+    nomor: '14'
+    tahun: 2024
+    judul: Satuan Tugas Penanganan Kegiatan Usaha Tanpa Izin Di Sektor Keuangan
+    path: regulasi/lembaga/ojk/2024/pojk-2024-014-satuan-tugas-penanganan-kegiatan-usaha-tanpa-izin-di-sektor-keuangan
+  - id: pojk-2024-044
+    jenis: pojk
+    nomor: '44'
+    tahun: 2024
+    judul: Rahasia Bank
+    path: regulasi/lembaga/ojk/2024/pojk-2024-044-rahasia-bank
+  - id: semenkominfo-2024-004
+    jenis: semenkominfo
+    nomor: '4'
+    tahun: 2024
+    judul: Pemanfaatan Sistem Penghubung Layanan Pemerintah
+    path: regulasi/pusat/permen/2024/semenkominfo-2024-004-pemanfaatan-sistem-penghubung-layanan-pemerintah
+  - id: seojk-2024-013
+    jenis: seojk
+    nomor: 13/SEOJK.08/2024
+    tahun: 2024
+    judul: Penyusunan Dan Penyampaian Laporan Rencana Dan Laporan Realisasi
+    path: regulasi/lembaga/ojk/2024/seojk-2024-013-penyusunan-dan-penyampaian-laporan-rencana-dan-laporan-realisasi
+  - id: seojk-2024-018
+    jenis: seojk
+    nomor: 18/SEOJK.08/2024
+    tahun: 2024
+    judul: Penilaian Sendiri Terhadap Pemenuhan Ketentuan Pelindungan Konsumen Dan
+    path: regulasi/lembaga/ojk/2024/seojk-2024-018-penilaian-sendiri-terhadap-pemenuhan-ketentuan-pelindungan-konsumen-dan
+  - id: seojk-2024-009
+    jenis: seojk
+    nomor: 9/SEOJK.05/2024
+    tahun: 2024
+    judul: Seojk No 9Seojk052024Penilaian Kualitas Atas Tagihan Subrogasi Kegiatan
+    path: regulasi/lembaga/ojk/2024/seojk-2024-009-seojk-no-9seojk052024penilaian-kualitas-atas-tagihan-subrogasi-kegiatan
+  - id: uu-2024-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2024
+    judul: Perubahan Kedua Atas Undang-Undang Nomor 11 Tahun 2Oo8 Tentang Informasi
+      Dan Transaksi Elektronik
+    path: regulasi/pusat/uu/2024/uu-2024-001-perubahan-kedua-atas-undang-undang-nomor-11-tahun-2oo8-tentang-informasi-dan-transaksi-elektronik
+- id: '2025'
+  jumlah: 8
+  regulasi:
+  - id: perda-prov-92-2025-005
+    jenis: perda-prov
+    nomor: '5'
+    tahun: 2025
+    judul: Rencana Pembangunan Jangka Menengah Daerah Provinsi Papua Barat Tahun 2025-2029
+    path: regulasi/daerah/provinsi/92-papua-barat/perda/2025/perda-prov-papua-barat-2025-005-rencana-pembangunan-jangka-menengah-daerah-provinsi-papua-barat-tahun-2025-2029
+  - id: pergub-92-2025-014
+    jenis: pergub
+    nomor: '14'
+    tahun: 2025
+    judul: RKPD Provinsi Papua Barat Tahun 2026
+    path: regulasi/daerah/provinsi/92-papua-barat/pergub/2025/pergub-papua-barat-2025-014-rkpd-provinsi-papua-barat-tahun-2026
+  - id: perlur-3404-2025-002
+    jenis: perlur
+    nomor: '2'
+    tahun: 2025
+    judul: Penjabaran Perubahan Anggaran Pendapatan dan Belanja Kalurahan Sendangadi
+      Tahun Anggaran 2025
+    path: regulasi/daerah/kabupaten/3404-sleman/perlur/2025/perlur-sleman-2025-002-penjabaran-perubahan-anggaran-pendapatan-dan-belanja-kalurahan-sendangadi-tahun-anggaran-2025
+  - id: permenpanrb-2025-005
+    jenis: permenpanrb
+    nomor: '5'
+    tahun: 2025
+    judul: Penyelenggaraan Sistem Pengelolaan Pengaduan Pelayanan Publik Nasional
+    path: regulasi/pusat/permen/2025/permenpanrb-2025-005-penyelenggaraan-sistem-pengelolaan-pengaduan-pelayanan-publik-nasional
+  - id: pojk-2025-010
+    jenis: pojk
+    nomor: '10'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 1/Pojk.05/2017 Tentang
+      Perizinan Usaha Dan Kelembagaan Lembaga Penjamin
+    path: regulasi/lembaga/ojk/2025/pojk-2025-010-perubahan-atas-peraturan-otoritas-jasa-keuangan-nomor-1-pojk-05-2017-tentang-perizinan-usaha-dan-kelembagaan-lembaga-penjamin
+  - id: pojk-2025-011
+    jenis: pojk
+    nomor: '11'
+    tahun: 2025
+    judul: Penyelenggaraan Usaha Lembaga Penjamin
+    path: regulasi/lembaga/ojk/2025/pojk-2025-011-penyelenggaraan-usaha-lembaga-penjamin
+  - id: pojk-2025-005
+    jenis: pojk
+    nomor: '5'
+    tahun: 2025
+    judul: Profesi Penunjang Di Sektor Jasa Keuangan
+    path: regulasi/lembaga/ojk/2025/pojk-2025-005-profesi-penunjang-di-sektor-jasa-keuangan
+  - id: seojk-2025-012
+    jenis: seojk
+    nomor: 12/SEOJK.05/2025
+    tahun: 2025
+    judul: Seojk No 12Seojk052025 Sertifikasi Kompetensi Kerja Bagi Perusahaan
+    path: regulasi/lembaga/ojk/2025/seojk-2025-012-seojk-no-12seojk052025-sertifikasi-kompetensi-kerja-bagi-perusahaan
+- id: '2026'
+  jumlah: 1
+  regulasi:
+  - id: kepojk-2026-030
+    jenis: kepojk
+    nomor: KEP-30/D.05/2026
+    tahun: 2026
+    judul: Pencabutan Atas Penetapan Perusahaan Asuransi Umum, Perusahaan Asuransi
+      Umum Syariah, Perusahaan Penjaminan Dan Perusahaan Penjaminan Syariah Sebagai
+      Pelapor Dalam Sistem Layanan Informasi Keuangan
+    path: regulasi/lembaga/ojk/2026/kepojk-2026-030-pencabutan-atas-penetapan-perusahaan-asuransi-umum-perusahaan-asuransi-umum-syariah-perusahaan-penjaminan-dan-perusahaan-penjaminan-syariah-sebagai-pelapor-dalam-sistem-layanan-informasi-keuangan

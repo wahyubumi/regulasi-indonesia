@@ -1,0 +1,23 @@
+id: seojk-2024-009
+judul: Surat Edaran Otoritas Jasa Keuangan Nomor 9/SEOJK.05/2024 tentang Seojk No
+  9Seojk052024Penilaian Kualitas Atas Tagihan Subrogasi Kegiatan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://jdih.ojk.go.id/
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

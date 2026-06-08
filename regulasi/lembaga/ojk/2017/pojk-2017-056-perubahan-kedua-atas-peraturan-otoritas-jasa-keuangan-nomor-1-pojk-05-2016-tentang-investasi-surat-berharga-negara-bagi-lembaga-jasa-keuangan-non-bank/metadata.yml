@@ -1,0 +1,65 @@
+id: pojk-2017-056
+jenis: pojk
+jenis_lengkap: Peraturan Otoritas Jasa Keuangan
+nomor: 56/POJK.05/2017
+nomor_lengkap: 56/POJK.05/2017
+tahun: 2017
+judul: Perubahan Kedua Atas Peraturan Otoritas Jasa Keuangan Nomor 1/Pojk.05/2016
+  Tentang Investasi Surat Berharga Negara Bagi Lembaga Jasa Keuangan Non-Bank
+judul_lengkap: Peraturan Otoritas Jasa Keuangan Nomor 56/POJK.05/2017 tentang Perubahan
+  Kedua Atas Peraturan Otoritas Jasa Keuangan Nomor 1/Pojk.05/2016 Tentang Investasi
+  Surat Berharga Negara Bagi Lembaga Jasa Keuangan Non-Bank
+tingkat: lembaga
+hierarki_level: null
+lembaga_penerbit:
+- Otoritas Jasa Keuangan
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/POJK_56_2017_Investasi_Surat_Berharga_Negara_bagi_Lembaga.md.

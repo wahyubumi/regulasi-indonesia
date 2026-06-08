@@ -1,0 +1,23 @@
+id: seojk-2021-003
+judul: Surat Edaran Otoritas Jasa Keuangan Nomor 3/SEOJK.03/2021 tentang Pelaporan
+  Dan Permintaan Informasi Debitur Melalui Sistem Layanan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

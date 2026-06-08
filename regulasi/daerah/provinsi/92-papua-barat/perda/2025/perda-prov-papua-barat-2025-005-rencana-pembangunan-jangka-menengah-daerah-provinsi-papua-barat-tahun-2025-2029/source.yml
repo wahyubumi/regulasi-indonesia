@@ -1,0 +1,23 @@
+id: perda-prov-92-2025-005
+judul: Peraturan Daerah Provinsi Nomor 5 Tahun 2025 tentang Rencana Pembangunan Jangka
+  Menengah Daerah Provinsi Papua Barat Tahun 2025-2029
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://1data.menpan.go.id/
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

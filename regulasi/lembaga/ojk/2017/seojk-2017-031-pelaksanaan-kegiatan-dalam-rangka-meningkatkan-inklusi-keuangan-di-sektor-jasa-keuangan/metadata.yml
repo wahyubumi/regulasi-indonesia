@@ -1,0 +1,64 @@
+id: seojk-2017-031
+jenis: seojk
+jenis_lengkap: Surat Edaran Otoritas Jasa Keuangan
+nomor: 31/SEOJK.07/2017
+nomor_lengkap: 31/SEOJK.07/2017
+tahun: 2017
+judul: Pelaksanaan Kegiatan Dalam Rangka Meningkatkan Inklusi Keuangan Di Sektor Jasa
+  Keuangan
+judul_lengkap: Surat Edaran Otoritas Jasa Keuangan Nomor 31/SEOJK.07/2017 tentang
+  Pelaksanaan Kegiatan Dalam Rangka Meningkatkan Inklusi Keuangan Di Sektor Jasa Keuangan
+tingkat: lembaga
+hierarki_level: null
+lembaga_penerbit:
+- Otoritas Jasa Keuangan
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/SEOJK_31_2017_Pelaksanaan_Kegiatan_dalam_Rangka_Meningkatkan_Inklusi.md.

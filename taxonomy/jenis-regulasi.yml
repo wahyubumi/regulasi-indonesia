@@ -1,0 +1,73 @@
+pusat:
+  uud:
+    nama: "Undang-Undang Dasar"
+    level: 1
+  tap_mpr:
+    nama: "Ketetapan MPR"
+    level: 2
+  uu:
+    nama: "Undang-Undang"
+    level: 3
+  perppu:
+    nama: "Peraturan Pemerintah Pengganti Undang-Undang"
+    level: 3
+  pp:
+    nama: "Peraturan Pemerintah"
+    level: 4
+  perpres:
+    nama: "Peraturan Presiden"
+    level: 5
+  kepres:
+    nama: "Keputusan Presiden"
+    level: 5
+  inpres:
+    nama: "Instruksi Presiden"
+    level: 5
+  permen:
+    nama: "Peraturan Menteri"
+    level: 6
+  permenpanrb:
+    nama: "Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"
+    level: 6
+  kepmenpanrb:
+    nama: "Keputusan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"
+    level: 6
+  semenpanrb:
+    nama: "Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"
+    level: 6
+  permenkominfo:
+    nama: "Peraturan Menteri Komunikasi dan Informatika"
+    level: 6
+  semenkominfo:
+    nama: "Surat Edaran Menteri Komunikasi dan Informatika"
+    level: 6
+
+lembaga:
+  pojk:
+    nama: "Peraturan Otoritas Jasa Keuangan"
+  seojk:
+    nama: "Surat Edaran Otoritas Jasa Keuangan"
+  kepojk:
+    nama: "Keputusan Anggota Dewan Komisioner Otoritas Jasa Keuangan"
+  pbi:
+    nama: "Peraturan Bank Indonesia"
+  perbssn:
+    nama: "Peraturan Badan Siber dan Sandi Negara"
+  perlkpp:
+    nama: "Peraturan LKPP"
+
+daerah:
+  perda_prov:
+    nama: "Peraturan Daerah Provinsi"
+  pergub:
+    nama: "Peraturan Gubernur"
+  perda_kab:
+    nama: "Peraturan Daerah Kabupaten"
+  perbup:
+    nama: "Peraturan Bupati"
+  perda_kota:
+    nama: "Peraturan Daerah Kota"
+  perwali:
+    nama: "Peraturan Wali Kota"
+  perlur:
+    nama: "Peraturan Lurah"

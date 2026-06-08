@@ -1,0 +1,68 @@
+id: pergub-92-2025-014
+jenis: pergub
+jenis_lengkap: Peraturan Gubernur
+nomor: '14'
+nomor_lengkap: '14'
+tahun: 2025
+judul: RKPD Provinsi Papua Barat Tahun 2026
+judul_lengkap: Peraturan Gubernur Nomor 14 Tahun 2025 tentang RKPD Provinsi Papua
+  Barat Tahun 2026
+tingkat: daerah
+hierarki_level: null
+lembaga_penerbit:
+- Pemerintah Provinsi Papua Barat
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: provinsi
+  kode: '92'
+  nama: Papua Barat
+sumber:
+  nama: staging/incoming
+  url: https://1data.menpan.go.id/
+  alternatif:
+  - https://dapo.kemdikbud.go.id/
+  - https://geoportal.esdm.go.id/
+  - https://papuabarat.bps.go.id/indicator/23/171/1/rasio-gini-menurut-kabupaten-kota.html
+  - https://saikplus.papuabaratprov.go.id/
+  - https://sipukat.kemendesa.go.id/
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pergub-papua-barat-nomor-14-tahun-2025-rkpd-2026.md.

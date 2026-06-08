@@ -1,0 +1,23 @@
+id: seojk-2024-013
+judul: Surat Edaran Otoritas Jasa Keuangan Nomor 13/SEOJK.08/2024 tentang Penyusunan
+  Dan Penyampaian Laporan Rencana Dan Laporan Realisasi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://jdih.ojk.go.id/
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,23 @@
+id: semenkominfo-2024-004
+judul: Surat Edaran Menteri Komunikasi dan Informatika Nomor 4 Tahun 2024 tentang
+  Pemanfaatan Sistem Penghubung Layanan Pemerintah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://komin.fo/docssplp
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

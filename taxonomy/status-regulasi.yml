@@ -1,0 +1,17 @@
+- id: berlaku
+  nama: "Berlaku"
+
+- id: tidak_berlaku
+  nama: "Tidak Berlaku"
+
+- id: dicabut
+  nama: "Dicabut"
+
+- id: diubah
+  nama: "Diubah"
+
+- id: mencabut
+  nama: "Mencabut"
+
+- id: perlu_verifikasi
+  nama: "Perlu Verifikasi"
