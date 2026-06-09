@@ -1,0 +1,24 @@
+id: uu-1952-021
+judul: Undang-Undang Nomor 21 Tahun 1952 tentang Menetapkan "Undang-Undang Darurat
+  Tentang Hak Pengangkatan Dan Pemberhentian Pegawai-Pegawai Republik Indonesia Serikat"
+  (Undang-Undang Darurat Nr 25 Dan 34 Tahun 1950) Sebagai Undang-Undang Republik Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

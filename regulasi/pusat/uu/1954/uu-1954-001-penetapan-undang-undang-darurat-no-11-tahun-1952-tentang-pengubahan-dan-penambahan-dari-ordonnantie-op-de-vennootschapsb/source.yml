@@ -1,0 +1,25 @@
+id: uu-1954-001
+judul: Undang-Undang Nomor 1 Tahun 1954 tentang Penetapan Undang-Undang Darurat No.
+  11 Tahun 1952, Tentang Pengubahan Dan Penambahan Dari "Ordonnantie Op De Vennootschapsbelasting
+  1925" Yang Memberikan Pula Aturan Kelengkapan Lebih Lanjut Mengenai Pajak Ini (Lembaran-Negara
+  No. 83 Tahun 1952) Sebagai Undang-Undang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

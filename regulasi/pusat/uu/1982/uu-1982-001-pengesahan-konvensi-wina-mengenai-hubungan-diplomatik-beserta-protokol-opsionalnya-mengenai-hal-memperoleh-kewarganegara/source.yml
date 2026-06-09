@@ -1,0 +1,29 @@
+id: uu-1982-001
+judul: Undang-Undang Nomor 1 Tahun 1982 tentang Pengesahan Konvensi Wina Mengenai
+  Hubungan Diplomatik Beserta Protokol Opsionalnya Mengenai Hal Memperoleh Kewarganegaraan
+  (Vienna Convention On Diplomatic Relations And Optional Protocol To The Vienna Convention
+  On Diplomatic Relations Concerning Acquisition Of Nationality, 1961) Dan Pengesahan
+  Konvensi Wina Mengenai Hubungan Konsuler Beserta Protokol Opsionalnya Mengenai Hal
+  Memperoleh Kewarganegaraan (Vienna Convention On Consular Relations And Optional
+  Protocol To The Vienna Convention On Consular Relations Concerning Acquisition Of
+  Nationality, 1963)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

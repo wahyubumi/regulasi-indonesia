@@ -1,0 +1,23 @@
+id: uu-1952-014
+judul: Undang-Undang Nomor 14 Tahun 1952 tentang Penunjukan Jawatan Regi Garam Sebgai
+  Perusahaan I.B.W. Dengan Nama Baru "Perusahaan Garam Dan Soda Negeri
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.bphn.go.id/
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

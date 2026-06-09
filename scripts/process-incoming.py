@@ -83,6 +83,7 @@ def nomor_key(value: str) -> str:
 
 def clean_title(value: str) -> str:
     value = re.sub(r"\s+", " ", value.replace("#", " ")).strip(" -:.;")
+    value = re.sub(r"\s+DENGAN\s+RAK?HMAT.*$", "", value, flags=re.I).strip()
     value = re.sub(r"\bPDP\b$", "", value, flags=re.I).strip()
     value = re.sub(r"\bITE\b$", "", value, flags=re.I).strip()
     value = re.sub(r"\bUU HPP\b$", "", value, flags=re.I).strip()
@@ -164,6 +165,14 @@ def title_after_tentang(text: str) -> str | None:
     if menimbang:
         head = head[: menimbang.start()]
     flat = flatten(head)
+    first_title = re.search(
+        r"\bTENTANG\b\s+(.+?)(?:\s+KAMI\s+PRESIDEN\b|\s+Presiden\s+Republik\s+Indonesia\b|\s+PRESIDEN\s+REPUBLIK\s+INDONESIA\b|\s+Menimbang\b|\s+Mengingat\b)",
+        flat,
+        flags=re.I,
+    )
+    if first_title:
+        return clean_title(first_title.group(1))
+
     official_matches = list(
         re.finditer(r"\bTENTANG\b\s+(.+?)\s+DENGAN RAHMAT", flat, flags=re.I)
     )
@@ -209,8 +218,23 @@ def title_from_filename(path: Path, jenis: str, nomor: str, tahun: int) -> str:
     stem = re.sub(re.escape(nomor), "", stem)
     stem = re.sub(r"POJK[_-]?\d*", "", stem, flags=re.I)
     stem = re.sub(r"SEOJK[_-]?\d*", "", stem, flags=re.I)
+    stem = re.sub(r"^\d{2}uu\d{3}$", "", stem, flags=re.I)
     stem = re.sub(r"[_-]+", " ", stem).strip()
     return clean_title(stem or jenis)
+
+
+def title_from_menetapkan(text: str) -> str | None:
+    head = strip_frontmatter(text)[:5000]
+    flat = flatten(head)
+    match = re.search(
+        r"\bMenetapkan\s*:?\s+(?:UNDANG-UNDANG\s+(?:TENTANG|UNTUK)\s+)?(.+?)(?:\s+Pasal\s+I\.?\b|\s+PASAL\s+I\.?\b|\s+Pasal\s+1\.?\b)",
+        flat,
+        flags=re.I,
+    )
+    if not match:
+        return None
+    title = re.sub(r"\s+", " ", match.group(1)).strip(" .:")
+    return clean_title(title)
 
 
 def official_title(jenis: str, nomor: str, tahun: int, judul: str) -> str:
@@ -244,6 +268,12 @@ def infer_info(path: Path, text: str) -> RegulationInfo | None:
     fm_nomor = fm.get("nomor")
     fm_tahun = fm.get("tahun")
     fm_tentang = fm.get("tentang") or fm.get("judul_pendek") or fm.get("judul")
+
+    has_regulation_text = bool(
+        re.search(r"\b(UNDANG-UNDANG|PERATURAN|KEPUTUSAN|SURAT\s+EDARAN|LEMBARAN\s+NEGARA)\b", text, flags=re.I)
+    )
+    if not fm and not has_regulation_text:
+        return None
 
     fm_kind_map = {
         "uu": "uu",
@@ -380,7 +410,7 @@ def infer_info(path: Path, text: str) -> RegulationInfo | None:
         (
             "uu",
             "pusat",
-            r"UNDANG-UNDANG\s+REPUBLIK\s+INDONESIA.*?\bNOMOR\s+(?P<nomor>\d+)\s+TAHUN\s+(?P<tahun>\d{4})",
+            r"UNDANG-UNDANG\s+REPUBLIK\s+INDONESIA.*?\bNOMOR\s+(?P<nomor>\d+)\s*TAHUN\s*(?P<tahun>\d{4})?",
         ),
         (
             "pp",
@@ -420,17 +450,27 @@ def infer_info(path: Path, text: str) -> RegulationInfo | None:
             selected = (jenis, tingkat, "")
 
     if selected is None:
-        return None
+        short_name = re.fullmatch(r"(?P<yy>\d{2})uu(?P<nomor>\d{3})", path.stem, flags=re.I)
+        if short_name:
+            selected = ("uu", "pusat", str(int(short_name.group("nomor"))))
+            tahun = 1900 + int(short_name.group("yy"))
+        else:
+            return None
 
     jenis, tingkat, nomor = selected
     if not nomor:
-        fallback = re.search(r"(?P<tahun>(?:19|20)\d{2}).*?(?P<nomor>\d+)", path.stem)
-        if not fallback:
-            fallback = re.search(r"(?P<nomor>\d+).*?(?P<tahun>(?:19|20)\d{2})", path.stem)
-        if not fallback:
-            return None
-        nomor = fallback.group("nomor")
-        tahun = int(fallback.group("tahun"))
+        short_name = re.fullmatch(r"(?P<yy>\d{2})uu(?P<nomor>\d{3})", path.stem, flags=re.I)
+        if short_name:
+            nomor = str(int(short_name.group("nomor")))
+            tahun = 1900 + int(short_name.group("yy"))
+        else:
+            fallback = re.search(r"(?P<tahun>(?:19|20)\d{2}).*?(?P<nomor>\d+)", path.stem)
+            if not fallback:
+                fallback = re.search(r"(?P<nomor>\d+).*?(?P<tahun>(?:19|20)\d{2})", path.stem)
+            if not fallback:
+                return None
+            nomor = fallback.group("nomor")
+            tahun = int(fallback.group("tahun"))
     else:
         year_in_nomor = re.search(r"(19|20)\d{2}", nomor)
         tahun_match = re.search(
@@ -438,7 +478,10 @@ def infer_info(path: Path, text: str) -> RegulationInfo | None:
             flat,
             flags=re.I,
         )
-        if year_in_nomor:
+        short_name = re.fullmatch(r"(?P<yy>\d{2})uu(?P<nomor>\d{3})", path.stem, flags=re.I)
+        if short_name:
+            tahun = 1900 + int(short_name.group("yy"))
+        elif year_in_nomor:
             tahun = int(year_in_nomor.group(0))
         elif tahun_match:
             tahun = int(tahun_match.group(1))
@@ -448,7 +491,11 @@ def infer_info(path: Path, text: str) -> RegulationInfo | None:
                 return None
             tahun = int(year_fallback.group(0))
 
-    title = title_after_tentang(text) or title_from_filename(path, jenis, nomor, tahun)
+    title = title_after_tentang(text) or title_from_menetapkan(text) or title_from_filename(path, jenis, nomor, tahun)
+    if re.search(r"[\\[\\]{}]|\\.\\.\\.|SK No|PAGE:", title, flags=re.I):
+        title = title_from_filename(path, jenis, nomor, tahun)
+    if title.lower() in {jenis.lower(), "uu", "undang-undang"} or re.fullmatch(r"\d{2}uu\d*", title, flags=re.I):
+        title = title_from_menetapkan(text) or title
     title = clean_title(title)
 
     lembaga: list[str]
@@ -504,7 +551,7 @@ def infer_info(path: Path, text: str) -> RegulationInfo | None:
 
 
 def final_folder(info: RegulationInfo) -> Path:
-    title_slug = slugify(info.judul)
+    title_slug = slugify(info.judul)[:120].rstrip("-")
     if info.tingkat == "lembaga":
         if info.jenis in {"pojk", "seojk", "kepojk"}:
             lembaga_dir = "ojk"
@@ -803,7 +850,8 @@ def existing_regulation_ids() -> dict[str, Path]:
 
 
 def main() -> int:
-    files = [path for path in sorted(INCOMING.glob("*.md")) if path.name != ".gitkeep"]
+    ignored_names = {".gitkeep", "README.md"}
+    files = [path for path in sorted(INCOMING.glob("*.md")) if path.name not in ignored_names]
     existing_ids = existing_regulation_ids()
     inferred: list[tuple[RegulationInfo, str]] = []
     rejected: list[tuple[Path, str]] = []

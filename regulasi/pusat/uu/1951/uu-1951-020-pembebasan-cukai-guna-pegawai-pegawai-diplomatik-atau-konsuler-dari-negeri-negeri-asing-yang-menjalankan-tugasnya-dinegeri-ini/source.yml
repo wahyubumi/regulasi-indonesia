@@ -1,0 +1,24 @@
+id: uu-1951-020
+judul: Undang-Undang Nomor 20 Tahun 1951 tentang Pembebasan Cukai Guna Pegawai-Pegawai
+  Diplomatik Atau Konsuler Dari Negeri-Negeri Asing Yang Menjalankan Tugasnya Dinegeri
+  Ini
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.bphn.go.id/
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

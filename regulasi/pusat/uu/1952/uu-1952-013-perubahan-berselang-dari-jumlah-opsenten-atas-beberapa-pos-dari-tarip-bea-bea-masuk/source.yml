@@ -1,0 +1,23 @@
+id: uu-1952-013
+judul: Undang-Undang Nomor 13 Tahun 1952 tentang Perubahan Berselang Dari Jumlah Opsenten
+  Atas Beberapa Pos Dari Tarip Bea-Bea Masuk
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.bphn.go.id/
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

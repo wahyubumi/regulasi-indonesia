@@ -1,0 +1,24 @@
+id: uu-1952-011
+judul: Undang-Undang Nomor 11 Tahun 1952 tentang Penetapan Undang-Undang Darurat Tentang
+  Tambahan Pokok Bea (Opsenten) Atas Bea-Bea Masuk Selama Tahun 1952 (Undang-Undang
+  Darurat Nr 4 Tahun 1952) Sebagai Undang-Undang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.bphn.go.id/
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,24 @@
+id: uu-2008-001
+judul: Undang-Undang Nomor 1 Tahun 2008 tentang Pengesahan Ilo Convention No. 185
+  Concerning Revising The Seafarers' Identity Documents Convention, 1958 (Konvensi
+  Ilo No. 185 Mengenai Konvensi Perubahan Dokumen Identitas Pelaut, 1958)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.djpp.depkumham.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

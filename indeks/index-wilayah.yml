@@ -55,20 +55,457 @@
     path: regulasi/daerah/provinsi/92-papua-barat/pergub/2025/pergub-papua-barat-2025-014-rkpd-provinsi-papua-barat-tahun-2026
 - kode: nasional
   nama: Nasional
-  jumlah: 122
+  jumlah: 216
   regulasi:
+  - id: uu-1945-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1945
+    judul: Peraturan Mengenai Kedudukan Komite Nasional Daerah,
+    path: regulasi/pusat/uu/1945/uu-1945-001-peraturan-mengenai-kedudukan-komite-nasional-daerah
   - id: uud-1945-000
     jenis: uud
     nomor: ''
     tahun: 1945
     judul: Undang-Undang Dasar Negara Republik Indonesia
     path: regulasi/pusat/uud/1945/uud-1945-undang-undang-dasar-negara-republik-indonesia
+  - id: uu-1946-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1946
+    judul: Peraturan Hukum Pidana
+    path: regulasi/pusat/uu/1946/uu-1946-001-peraturan-hukum-pidana
+  - id: uu-1947-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1947
+    judul: Dewan Pertahanan Negara, Peraturan. Memperpanjang Waktu Berlakunya Peraturan
+      Dewan Pertahanan Negara No.5, 7, 8, 9, 11 Dan 16
+    path: regulasi/pusat/uu/1947/uu-1947-001-dewan-pertahanan-negara-peraturan-memperpanjang-waktu-berlakunya-peraturan-dewan-pertahanan-negara-no-5-7-8-9-11-dan-16
+  - id: uu-1948-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1948
+    judul: mempersamakan "keadaan bahaya" dengan "tijd van oorlog" seperti yang dimaksud
+      dalam Kitab Undang-undang Hukum Pidana dan Kitab Undang-undang Hukum Pidana
+      Tentara
+    path: regulasi/pusat/uu/1948/uu-1948-001-mempersamakan-keadaan-bahaya-dengan-tijd-van-oorlog-seperti-yang-dimaksud-dalam-kitab-undang-undang-hukum-pidana-dan-kit
+  - id: uu-1949-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1949
+    judul: penggantian pajak bumi dengan pajak pendapatan
+    path: regulasi/pusat/uu/1949/uu-1949-001-penggantian-pajak-bumi-dengan-pajak-pendapatan
+  - id: uu-1950-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1950
+    judul: Susunan, Kekuasaan Dan Jalan-Pengadilan Mahkamah Agung Indonesia
+    path: regulasi/pusat/uu/1950/uu-1950-001-susunan-kekuasaan-dan-jalan-pengadilan-mahkamah-agung-indonesia
+  - id: uu-1950-014
+    jenis: uu
+    nomor: '14'
+    tahun: 1950
+    judul: Pemerintahan Daerah Kabupaten Dalam Lingkungan Propinsi Djawa Barat
+    path: regulasi/pusat/uu/1950/uu-1950-014-pemerintahan-daerah-kabupaten-dalam-lingkungan-propinsi-djawa-barat
+  - id: uu-1951-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1951
+    judul: Pernyataan Berlakunya Undang-Undang Kerja Tahun 1948 Nr. 12 Dari Republik
+      Indonesia Untuk Seluruh Indonesia
+    path: regulasi/pusat/uu/1951/uu-1951-001-pernyataan-berlakunya-undang-undang-kerja-tahun-1948-nr-12-dari-republik-indonesia-untuk-seluruh-indonesia
+  - id: uu-1951-012
+    jenis: uu
+    nomor: '12'
+    tahun: 1951
+    judul: Penghapusan Badan Hukum "Algemeene Volkscredietbank"
+    path: regulasi/pusat/uu/1951/uu-1951-012-penghapusan-badan-hukum-algemeene-volkscredietbank
+  - id: uu-1951-013
+    jenis: uu
+    nomor: '13'
+    tahun: 1951
+    judul: Menetapkan "Undang-Undang Darurat Tentang Menaikkan Jumlah Maksimum Porto
+      Dan Bea" Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1951/uu-1951-013-menetapkan-undang-undang-darurat-tentang-menaikkan-jumlah-maksimum-porto-dan-bea-sebagai-undang-undang
+  - id: uu-1951-014
+    jenis: uu
+    nomor: '14'
+    tahun: 1951
+    judul: Penggantian Pajak Bumi Dengan Pajak Peralihan 1944
+    path: regulasi/pusat/uu/1951/uu-1951-014-penggantian-pajak-bumi-dengan-pajak-peralihan-1944
+  - id: uu-1951-015
+    jenis: uu
+    nomor: '15'
+    tahun: 1951
+    judul: penetapan uu darurat perubahan ordonansi pajak peralihan upah kekayaan
+    path: regulasi/pusat/uu/1951/uu-1951-015-penetapan-uu-darurat-perubahan-ordonansi-pajak-peralihan-upah-kekayaan
+  - id: uu-1951-016
+    jenis: uu
+    nomor: '16'
+    tahun: 1951
+    judul: Penetapan Undang-Undang Darurat Nr 22 Tahun 1950 Tentang Penurunan Cukai
+      Tembakau Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1951/uu-1951-016-penetapan-undang-undang-darurat-nr-22-tahun-1950-tentang-penurunan-cukai-tembakau-sebagai-undang-undang
+  - id: uu-1951-017
+    jenis: uu
+    nomor: '17'
+    tahun: 1951
+    judul: Menetapkan "Undang-Undang Darurat Tentang Pengeluaran Uang Kertas Atas
+      Tanggungan Republik Indonesia Serikat" Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1951/uu-1951-017-menetapkan-undang-undang-darurat-tentang-pengeluaran-uang-kertas-atas-tanggungan-republik-indonesia-serikat-sebagai-undang-undang
+  - id: uu-1951-019
+    jenis: uu
+    nomor: '19'
+    tahun: 1951
+    judul: Penetapan "Undang-Undang Darurat Nr 32 Tahun 1950 Tentang Penggabungan
+      Pulau Weh Ke Dalam Daerah Pabean Indonesia" Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1951/uu-1951-019-penetapan-undang-undang-darurat-nr-32-tahun-1950-tentang-penggabungan-pulau-weh-ke-dalam-daerah-pabean-indonesia-sebagai-undang-undang
+  - id: uu-1951-020
+    jenis: uu
+    nomor: '20'
+    tahun: 1951
+    judul: Pembebasan Cukai Guna Pegawai-Pegawai Diplomatik Atau Konsuler Dari Negeri-Negeri
+      Asing Yang Menjalankan Tugasnya Dinegeri Ini
+    path: regulasi/pusat/uu/1951/uu-1951-020-pembebasan-cukai-guna-pegawai-pegawai-diplomatik-atau-konsuler-dari-negeri-negeri-asing-yang-menjalankan-tugasnya-dinegeri-ini
+  - id: uu-1951-021
+    jenis: uu
+    nomor: '21'
+    tahun: 1951
+    judul: Penghapusan "Centrale Verkooporganistie Van Ondernemingslandbouwproducten
+      (C.V.O.)"
+    path: regulasi/pusat/uu/1951/uu-1951-021-penghapusan-centrale-verkooporganistie-van-ondernemingslandbouwproducten-c-v-o
+  - id: uu-1951-022
+    jenis: uu
+    nomor: '22'
+    tahun: 1951
+    judul: Menetapkan "Undang-Undang Darurat Tentang Penetapan Kejahatan- Kejahatan
+      Dan Pelanggaran-Pelanggaran Yang Dilakukan Dalam Masa Pekerjaan Oleh Para Pejabat
+      Yang Menurut Pasal 148 Konstitusi Republik Indonesia Serikat Dalam Tingkat Pertama
+      Dan Tertinggi Diadili Oleh Mahkamah Agung Indonesia" Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1951/uu-1951-022-menetapkan-undang-undang-darurat-tentang-penetapan-kejahatan-kejahatan-dan-pelanggaran-pelanggaran-yang-dilakukan-dalam
+  - id: uu-1951-023
+    jenis: uu
+    nomor: '23'
+    tahun: 1951
+    judul: Penyerahan Urusan Penilikan Pilem Kepada Kementrian Pendidikan, Pengajaran
+      Dan Kebudayaan
+    path: regulasi/pusat/uu/1951/uu-1951-023-penyerahan-urusan-penilikan-pilem-kepada-kementrian-pendidikan-pengajaran-dan-kebudayaan
+  - id: uu-1951-024
+    jenis: uu
+    nomor: '24'
+    tahun: 1951
+    judul: Nasionalisasi De Javasche Bank N.V
+    path: regulasi/pusat/uu/1951/uu-1951-024-nasionalisasi-de-javasche-bank-n-v
+  - id: uu-1952-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1952
+    judul: Penetapan Undang-Undang Darurat Nr 2 Tahun 1951 Tentang Perubahan "Rechtnordonnantie"
+      (Staatblad 1882 No. 240 Jo Staatblad 1931 No. 471) Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1952/uu-1952-001-penetapan-undang-undang-darurat-nr-2-tahun-1951-tentang-perubahan-rechtnordonnantie-staatblad-1882-no-240-jo-staatblad-1
+  - id: uu-1952-011
+    jenis: uu
+    nomor: '11'
+    tahun: 1952
+    judul: Penetapan Undang-Undang Darurat Tentang Tambahan Pokok Bea (Opsenten) Atas
+      Bea-Bea Masuk Selama Tahun 1952 (Undang-Undang Darurat Nr 4 Tahun 1952) Sebagai
+      Undang-Undang
+    path: regulasi/pusat/uu/1952/uu-1952-011-penetapan-undang-undang-darurat-tentang-tambahan-pokok-bea-opsenten-atas-bea-bea-masuk-selama-tahun-1952-undang-undang-d
+  - id: uu-1952-012
+    jenis: uu
+    nomor: '12'
+    tahun: 1952
+    judul: Pembaharuan Bea-Bea Spesifik Dan Penggantiannya Dengan Bea-Bea Ad Valorem
+    path: regulasi/pusat/uu/1952/uu-1952-012-pembaharuan-bea-bea-spesifik-dan-penggantiannya-dengan-bea-bea-ad-valorem
+  - id: uu-1952-013
+    jenis: uu
+    nomor: '13'
+    tahun: 1952
+    judul: Perubahan Berselang Dari Jumlah Opsenten Atas Beberapa Pos Dari Tarip Bea-Bea
+      Masuk
+    path: regulasi/pusat/uu/1952/uu-1952-013-perubahan-berselang-dari-jumlah-opsenten-atas-beberapa-pos-dari-tarip-bea-bea-masuk
+  - id: uu-1952-014
+    jenis: uu
+    nomor: '14'
+    tahun: 1952
+    judul: Penunjukan Jawatan Regi Garam Sebgai Perusahaan I.B.W. Dengan Nama Baru
+      "Perusahaan Garam Dan Soda Negeri
+    path: regulasi/pusat/uu/1952/uu-1952-014-penunjukan-jawatan-regi-garam-sebgai-perusahaan-i-b-w-dengan-nama-baru-perusahaan-garam-dan-soda-negeri
+  - id: uu-1952-015
+    jenis: uu
+    nomor: '15'
+    tahun: 1952
+    judul: Penetapan Undang-Undang Darurat Tentang "Bursa" (Lembaran Negara Nr 79
+      Tahun 1951) Sebagai Undang Undang
+    path: regulasi/pusat/uu/1952/uu-1952-015-penetapan-undang-undang-darurat-tentang-bursa-lembaran-negara-nr-79-tahun-1951-sebagai-undang-undang
+  - id: uu-1952-016
+    jenis: uu
+    nomor: '16'
+    tahun: 1952
+    judul: Persetujuan Perjanjian Persahabatan Antara Negara Republik Indonesia Dan
+      Negera India
+    path: regulasi/pusat/uu/1952/uu-1952-016-persetujuan-perjanjian-persahabatan-antara-negara-republik-indonesia-dan-negera-india
+  - id: uu-1952-017
+    jenis: uu
+    nomor: '17'
+    tahun: 1952
+    judul: Persetujuan Perjanjian Persahabatan Antara Negara Republik Indonesia Dan
+      Negara Pakistan
+    path: regulasi/pusat/uu/1952/uu-1952-017-persetujuan-perjanjian-persahabatan-antara-negara-republik-indonesia-dan-negara-pakistan
+  - id: uu-1952-018
+    jenis: uu
+    nomor: '18'
+    tahun: 1952
+    judul: Persetujuan Perjanjian Persahabatan Antara Negara Republik Indonesia Dan
+      Negara Uni Birma
+    path: regulasi/pusat/uu/1952/uu-1952-018-persetujuan-perjanjian-persahabatan-antara-negara-republik-indonesia-dan-negara-uni-birma
+  - id: uu-1952-019
+    jenis: uu
+    nomor: '19'
+    tahun: 1952
+    judul: Persetujuan Perjanjian Persahabatan Antara Negara Republik Indonesia Dan
+      Negara Republik Philipina
+    path: regulasi/pusat/uu/1952/uu-1952-019-persetujuan-perjanjian-persahabatan-antara-negara-republik-indonesia-dan-negara-republik-philipina
+  - id: uu-1952-020
+    jenis: uu
+    nomor: '20'
+    tahun: 1952
+    judul: Pensiun Pegawai Negeri Sipil
+    path: regulasi/pusat/uu/1952/uu-1952-020-pensiun-pegawai-negeri-sipil
+  - id: uu-1952-021
+    jenis: uu
+    nomor: '21'
+    tahun: 1952
+    judul: Menetapkan "Undang-Undang Darurat Tentang Hak Pengangkatan Dan Pemberhentian
+      Pegawai-Pegawai Republik Indonesia Serikat" (Undang-Undang Darurat Nr 25 Dan
+      34 Tahun 1950) Sebagai Undang-Undang Republik Indonesia
+    path: regulasi/pusat/uu/1952/uu-1952-021-menetapkan-undang-undang-darurat-tentang-hak-pengangkatan-dan-pemberhentian-pegawai-pegawai-republik-indonesia-serikat-u
+  - id: uu-1952-023
+    jenis: uu
+    nomor: '23'
+    tahun: 1952
+    judul: Penetapan Undang-Undang Darurat Nr 3 Tahun 1950 (Lembaran-Negara Nr 4 Tahun
+      1950) Tentang Pungutan Tambahan Pokok Pajak Mengenai Pajak Kekayaan Dan Pajak
+      Perseroan Tahun 1950 Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1952/uu-1952-023-penetapan-undang-undang-darurat-nr-3-tahun-1950-lembaran-negara-nr-4-tahun-1950-tentang-pungutan-tambahan-pokok-pajak-me
+  - id: uu-1952-024
+    jenis: uu
+    nomor: '24'
+    tahun: 1952
+    judul: Penetapan Undang-Undang Darurat Tentang Pungutan Tambahan Pokok Pajak Mengenai
+      Pajak Kekayaan Dan Pajak Perseroan Tahun 1951 (Undang- Undang Darurat Nr 35
+      Tahun 1950, Lembaran Negara Nr 77 Tahun 1950) Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1952/uu-1952-024-penetapan-undang-undang-darurat-tentang-pungutan-tambahan-pokok-pajak-mengenai-pajak-kekayaan-dan-pajak-perseroan-tahun
+  - id: uu-1953-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1953
+    judul: Penetapan Undang-Undang Darurat Tentang Penimbunan Barang- Barang (Undang-Undang
+      Darurat Nomor 17 Tahun 1951) Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1953/uu-1953-001-penetapan-undang-undang-darurat-tentang-penimbunan-barang-barang-undang-undang-darurat-nomor-17-tahun-1951-sebagai-undan
+  - id: uu-1954-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1954
+    judul: Penetapan Undang-Undang Darurat No. 11 Tahun 1952, Tentang Pengubahan Dan
+      Penambahan Dari "Ordonnantie Op De Vennootschapsbelasting 1925" Yang Memberikan
+      Pula Aturan Kelengkapan Lebih Lanjut Mengenai Pajak Ini (Lembaran-Negara No.
+      83 Tahun 1952) Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1954/uu-1954-001-penetapan-undang-undang-darurat-no-11-tahun-1952-tentang-pengubahan-dan-penambahan-dari-ordonnantie-op-de-vennootschapsb
+  - id: uu-1955-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1955
+    judul: Penetapan "Undang-Undang Darurat No. 2 Tahun 1954 (Lembaran- Negara No.5
+      Tahun 1954) Tentang Mencabut Sifat Sebagai Alat Pembayar Yang Syah Dari Uang
+      Kertas Pemerintah Yang Dikeluarkan Sebelum Penyerahan Kedaulatan" Sebagai Undang-Undang
+      )
+    path: regulasi/pusat/uu/1955/uu-1955-001-penetapan-undang-undang-darurat-no-2-tahun-1954-lembaran-negara-no-5-tahun-1954-tentang-mencabut-sifat-sebagai-alat-pemb
+  - id: uu-1956-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1956
+    judul: Penetapan "Undang-Undang Darurat Republik Indonesia Serikat No.20 Tahun
+      1950 (Lembaran-Negara No.31 Tahun 1950) Tentang Pemerintahan Jakarta Raya" Sebagai
+      Undang-Undang *)
+    path: regulasi/pusat/uu/1956/uu-1956-001-penetapan-undang-undang-darurat-republik-indonesia-serikat-no-20-tahun-1950-lembaran-negara-no-31-tahun-1950-tentang-pem
+  - id: uu-1957-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1957
+    judul: Pokok-Pokok Pemerintahan Daerah
+    path: regulasi/pusat/uu/1957/uu-1957-001-pokok-pokok-pemerintahan-daerah
+  - id: uu-1958-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1958
+    judul: Penghapusan Tanah-Tanah Partikelir *)
+    path: regulasi/pusat/uu/1958/uu-1958-001-penghapusan-tanah-tanah-partikelir
+  - id: uu-1959-002
+    jenis: uu
+    nomor: '2'
+    tahun: 1959
+    judul: Penetapan Undang-Undang Darurat No. 19 Tahun 1950 Tentang Peraturan Pemberian
+      Pensiun Dan Onderstand Kepada Para Anggota Tentara Angkatan Darat (Lembaran-Negara
+      Tahun 1950 No. 28) Sebagaimana Kemudian Telah Diubah/Ditambah, Pun Undang-Undang
+      Darurat No.28 Tahun 1950 (Lembaran-Negara Tahun 1950 No. 50), Undang-Undang
+      Darurat No. 11 Tahun 1951 (Lembaran-Negara Tahun 1951 No. 76), Undang-Undang
+      Darurat No. 10 Tahun 1952 (Lembaran-Negara No. 75 Tahun 1952) Dan Undang-Undang
+      Darurat No. 6 Tahun 1954 (Lembaran-Negara Tahun 1954 No. 50), Sebagai Undang-Undang
+    path: regulasi/pusat/uu/1959/uu-1959-002-penetapan-undang-undang-darurat-no-19-tahun-1950-tentang-peraturan-pemberian-pensiun-dan-onderstand-kepada-para-anggota
+  - id: uu-1959-005
+    jenis: uu
+    nomor: '5'
+    tahun: 1959
+    judul: Pengubahan "Regeling Van Het Beroep In Belastingzaken
+    path: regulasi/pusat/uu/1959/uu-1959-005-pengubahan-regeling-van-het-beroep-in-belastingzaken
+  - id: uu-1961-010
+    jenis: uu
+    nomor: '10'
+    tahun: 1961
+    judul: Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1961
+      Tentang Barang Menjadi Undang-Undang
+    path: regulasi/pusat/uu/1961/uu-1961-010-penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-1-tahun-1961-tentang-barang-menjadi-undang-undang
+  - id: uu-1961-016
+    jenis: uu
+    nomor: '16'
+    tahun: 1961
+    judul: Pembentukan Kejaksaan Tinggi
+    path: regulasi/pusat/uu/1961/uu-1961-016-pembentukan-kejaksaan-tinggi
+  - id: uu-1961-017
+    jenis: uu
+    nomor: '17'
+    tahun: 1961
+    judul: Perubahan Undang-Undang Nomor 21 Tahun 1952 Tentang Hak Mengangkat Dan
+      Memberhentikan Pegawai Negeri Sipil
+    path: regulasi/pusat/uu/1961/uu-1961-017-perubahan-undang-undang-nomor-21-tahun-1952-tentang-hak-mengangkat-dan-memberhentikan-pegawai-negeri-sipil
+  - id: uu-1961-022
+    jenis: uu
+    nomor: '22'
+    tahun: 1961
+    judul: Perguruan Tinggi
+    path: regulasi/pusat/uu/1961/uu-1961-022-perguruan-tinggi
+  - id: uu-1961-007
+    jenis: uu
+    nomor: '7'
+    tahun: 1961
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun 1961
+    path: regulasi/pusat/uu/1961/uu-1961-007-anggaran-pendapatan-dan-belanja-negara-tahun-1961
+  - id: uu-1966-011
+    jenis: uu
+    nomor: '11'
+    tahun: 1966
+    judul: Ketentuan-Ketentuan Pokok Pers
+    path: regulasi/pusat/uu/1966/uu-1966-011-ketentuan-ketentuan-pokok-pers
+  - id: uu-1975-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1975
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1975/1976
+    path: regulasi/pusat/uu/1975/uu-1975-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1975-1976
+  - id: uu-1976-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1976
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1976/1977
+    path: regulasi/pusat/uu/1976/uu-1976-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1976-1977
+  - id: uu-1977-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1977
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1977/1978
+    path: regulasi/pusat/uu/1977/uu-1977-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1977-1978
+  - id: uu-1978-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1978
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1978/1979
+    path: regulasi/pusat/uu/1978/uu-1978-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1978-1979
+  - id: uu-1980-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1980
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1980/1981
+    path: regulasi/pusat/uu/1980/uu-1980-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1980-1981
+  - id: uu-1981-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1981
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1981/1982
+    path: regulasi/pusat/uu/1981/uu-1981-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1981-1982
+  - id: uu-1982-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1982
+    judul: Pengesahan Konvensi Wina Mengenai Hubungan Diplomatik Beserta Protokol
+      Opsionalnya Mengenai Hal Memperoleh Kewarganegaraan (Vienna Convention On Diplomatic
+      Relations And Optional Protocol To The Vienna Convention On Diplomatic Relations
+      Concerning Acquisition Of Nationality, 1961) Dan Pengesahan Konvensi Wina Mengenai
+      Hubungan Konsuler Beserta Protokol Opsionalnya Mengenai Hal Memperoleh Kewarganegaraan
+      (Vienna Convention On Consular Relations And Optional Protocol To The Vienna
+      Convention On Consular Relations Concerning Acquisition Of Nationality, 1963)
+    path: regulasi/pusat/uu/1982/uu-1982-001-pengesahan-konvensi-wina-mengenai-hubungan-diplomatik-beserta-protokol-opsionalnya-mengenai-hal-memperoleh-kewarganegara
+  - id: uu-1983-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1983
+    judul: Pengesahan Perjanjian Antara Republik Indonesia Dan Malaysia Tentang Rejim
+      Hukum Negara Nusantara Dan Hak-Hak Malaysia Di Laut Teritorial Dan Perairan
+      Nusantara Serta Ruang Udara Diatas Laut Teritorial, Perairan Nusantara Dan Wilayah
+      Republik Indonesia Yang Terletak Di Antara Malaysia Timur Dan Malaysia Barat
+    path: regulasi/pusat/uu/1983/uu-1983-001-pengesahan-perjanjian-antara-republik-indonesia-dan-malaysia-tentang-rejim-hukum-negara-nusantara-dan-hak-hak-malaysia-d
   - id: uu-1983-007
     jenis: uu
     nomor: '7'
     tahun: 1983
     judul: Pajak Penghasilan
     path: regulasi/pusat/uu/1983/uu-1983-007-pajak-penghasilan
+  - id: uu-1984-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1984
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1984/1985
+    path: regulasi/pusat/uu/1984/uu-1984-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1984-1985
+  - id: uu-1985-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1985
+    judul: Perubahan Atas Undang-Undang Nomor 15 Tahun 1969 Tentang Pemilihan Umum
+      Anggota-Anggota Badan Permusyawaaratan/Perwakilan Rakyat Sebagaimana Telah Diubah
+      Dengan Undang-Undang Nomor 4 Tahun 1975 Dan Undang-Undang Nomor 2 Tahun 1980
+    path: regulasi/pusat/uu/1985/uu-1985-001-perubahan-atas-undang-undang-nomor-15-tahun-1969-tentang-pemilihan-umum-anggota-anggota-badan-permusyawaaratan-perwakila
+  - id: uu-1986-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1986
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1986/1987
+    path: regulasi/pusat/uu/1986/uu-1986-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1986-1987
+  - id: uu-1987-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1987
+    judul: Kamar Dagang Dan Industri
+    path: regulasi/pusat/uu/1987/uu-1987-001-kamar-dagang-dan-industri
+  - id: uu-1988-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1988
+    judul: Perubahan Atas Undang-Undang Nomor 20 Tahun 1982 Tentang Ketentuan-Ketentuan
+      Pokok Pertahanan Keamanan Negara Republik Indonesia
+    path: regulasi/pusat/uu/1988/uu-1988-001-perubahan-atas-undang-undang-nomor-20-tahun-1982-tentang-ketentuan-ketentuan-pokok-pertahanan-keamanan-negara-republik-i
+  - id: uu-1989-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1989
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1989/1990
+    path: regulasi/pusat/uu/1989/uu-1989-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1989-1990
+  - id: uu-1990-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1990
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 1990/1991
+    path: regulasi/pusat/uu/1990/uu-1990-001-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-1990-1991
   - id: uu-1991-007
     jenis: uu
     nomor: '7'
@@ -82,18 +519,52 @@
     judul: Perubahan Atas Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan
       Sebagaimana Telah Diubah Dengan Undang-Undangnomor 7 Tahun 1991
     path: regulasi/pusat/uu/1994/uu-1994-010-perubahan-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan-sebagaimana-telah-diubah-dengan-undang-undangnomor-7-tahun-1991
+  - id: uu-1995-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1995
+    judul: Perseroan Terbatas
+    path: regulasi/pusat/uu/1995/uu-1995-001-perseroan-terbatas
+  - id: uu-1996-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1996
+    judul: Pembentukan Pengadilan Tinggi Dili
+    path: regulasi/pusat/uu/1996/uu-1996-001-pembentukan-pengadilan-tinggi-dili
+  - id: uu-1997-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1997
+    judul: Perhitungan Anggaran Negara Tahun Anggaran 1994/1995
+    path: regulasi/pusat/uu/1997/uu-1997-001-perhitungan-anggaran-negara-tahun-anggaran-1994-1995
   - id: uu-1997-008
     jenis: uu
     nomor: '8'
     tahun: 1997
     judul: Dokumen Perusahaan
     path: regulasi/pusat/uu/1997/uu-1997-008-dokumen-perusahaan
+  - id: uu-1998-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1998
+    judul: Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1997
+      Tentang Penangguhan Mulai Berlakunya Undang-Undang Nomor 21 Tahun 1997 Tentang
+      Bea Perolehan Hak Atas Tanah Dan Bangunan Menjadi Undang-Undang
+    path: regulasi/pusat/uu/1998/uu-1998-001-penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-1-tahun-1997-tentang-penangguhan-mulai-berlakunya-undang-un
   - id: pp-1999-087
     jenis: pp
     nomor: '87'
     tahun: 1999
     judul: Tata Cara Penyerahan Dan Pemusnahan Dokumen Perusahaan
     path: regulasi/pusat/pp/1999/pp-1999-087-tata-cara-penyerahan-dan-pemusnahan-dokumen-perusahaan
+  - id: uu-1999-001
+    jenis: uu
+    nomor: '1'
+    tahun: 1999
+    judul: Pengesahan Perjanjian Antara Republik Indonesia Dan Australia Mengenai
+      Bantuan Timbal Balik Dalam Masalah Pidana (Treaty Between The Republic Of Indonesia
+      And Australia On Mutual Assistance In Criminal Matters)
+    path: regulasi/pusat/uu/1999/uu-1999-001-pengesahan-perjanjian-antara-republik-indonesia-dan-australia-mengenai-bantuan-timbal-balik-dalam-masalah-pidana-treaty
   - id: uu-1999-045
     jenis: uu
     nomor: '45'
@@ -101,6 +572,15 @@
     judul: Pembentukan Propinsi Irian Jaya Tengah, Propinsi Irian Jaya Barat, Kabupaten
       Paniai, Kabupaten Mimika, Kabupaten Puncak Jaya, Dan Kota Sorong
     path: regulasi/pusat/uu/1999/uu-1999-045-pembentukan-propinsi-irian-jaya-tengah-propinsi-irian-jaya-barat-kabupaten-paniai-kabupaten-mimika-kabupaten-puncak-jaya-dan-kota-sorong
+  - id: uu-2000-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2000
+    judul: Pengesahan Ilo Convention Nomor 182 Concerning The Prohibition And Immediate
+      Action For Elimination Of The Worst Forms Of Child Labour (Konvensi Ilo Nomor
+      182 Mengenai Pelarangan Dan Tindakan Segera Penghapusan Bentuk-Bentuk Pekerjaan
+      Terburuk Untuk Anak)
+    path: regulasi/pusat/uu/2000/uu-2000-001-pengesahan-ilo-convention-nomor-182-concerning-the-prohibition-and-immediate-action-for-elimination-of-the-worst-forms-o
   - id: uu-2000-017
     jenis: uu
     nomor: '17'
@@ -113,24 +593,65 @@
     tahun: 2000
     judul: Perubahan Atas Undang-Undang Nomor 45 Tahun 1999
     path: regulasi/pusat/uu/2000/uu-2000-005-perubahan-atas-undang-undang-nomor-45-tahun-1999
+  - id: uu-2001-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2001
+    judul: Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah
+      Hongkong Untuk Penyerahan Pelanggar Hukum Yang Melarikan Diri (Agreement Between
+      The Government Of The Republic Of Indonesia And The Government Of Hongkong For
+      The Serrender Of Fugitive Offenders)
+    path: regulasi/pusat/uu/2001/uu-2001-001-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-hongkong-untuk-penyerahan-pelanggar-hukum-yan
   - id: uu-2001-021
     jenis: uu
     nomor: '21'
     tahun: 2001
     judul: Otonomi Khusus Bagi Provinsi Papua
     path: regulasi/pusat/uu/2001/uu-2001-021-otonomi-khusus-bagi-provinsi-papua
+  - id: uu-2002-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2002
+    judul: Perubahan Atas Undang-Undang Nomor 35 Tahun 2000 Tentang Anggaran Pendapatan
+      Dan Belanja Negara Tahun Anggaran 2001
+    path: regulasi/pusat/uu/2002/uu-2002-001-perubahan-atas-undang-undang-nomor-35-tahun-2000-tentang-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-2001
   - id: uu-2003-013
     jenis: uu
     nomor: '13'
     tahun: 2003
     judul: Ketenagakerjaan
     path: regulasi/pusat/uu/2003/uu-2003-013-ketenagakerjaan
+  - id: uu-2004-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2004
+    judul: Perbendaharaan Negara
+    path: regulasi/pusat/uu/2004/uu-2004-001-perbendaharaan-negara
+  - id: uu-2005-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2005
+    judul: Perubahan Atas Undang-Undang Nomor 36 Tahun 2004 Tentang Anggaran Pendapatan
+      Dan Belanja Negara Tahun Anggaran 2005
+    path: regulasi/pusat/uu/2005/uu-2005-001-perubahan-atas-undang-undang-nomor-36-tahun-2004-tentang-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-2005
+  - id: uu-2006-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2006
+    judul: Bantuan Timbal Balik Dalam Masalah Pidana
+    path: regulasi/pusat/uu/2006/uu-2006-001-bantuan-timbal-balik-dalam-masalah-pidana
   - id: pp-2007-024
     jenis: pp
     nomor: '24'
     tahun: 2007
     judul: Perubahan Nama Provinsi Irian Jaya Barat Menjadi Provinsi Papua Barat
     path: regulasi/pusat/pp/2007/pp-2007-024-perubahan-nama-provinsi-irian-jaya-barat-menjadi-provinsi-papua-barat
+  - id: uu-2007-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2007
+    judul: Pembentukan Kabupaten Empat Lawang Di Provinsi Sumatera Selatan
+    path: regulasi/pusat/uu/2007/uu-2007-001-pembentukan-kabupaten-empat-lawang-di-provinsi-sumatera-selatan
   - id: uu-2007-040
     jenis: uu
     nomor: '40'
@@ -143,6 +664,14 @@
     tahun: 2008
     judul: Lembaga Penjaminan
     path: regulasi/pusat/perpres/2008/perpres-2008-002-lembaga-penjaminan
+  - id: uu-2008-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2008
+    judul: Pengesahan Ilo Convention No. 185 Concerning Revising The Seafarers' Identity
+      Documents Convention, 1958 (Konvensi Ilo No. 185 Mengenai Konvensi Perubahan
+      Dokumen Identitas Pelaut, 1958)
+    path: regulasi/pusat/uu/2008/uu-2008-001-pengesahan-ilo-convention-no-185-concerning-revising-the-seafarers-identity-documents-convention-1958-konvensi-ilo-no-18
   - id: uu-2008-011
     jenis: uu
     nomor: '11'
@@ -161,6 +690,12 @@
     tahun: 2008
     judul: Perubahan Keempat Atas Undang-Undang Nomor 7 Tahun 1983 Tentang Pajak Penghasilan
     path: regulasi/pusat/uu/2008/uu-2008-036-perubahan-keempat-atas-undang-undang-nomor-7-tahun-1983-tentang-pajak-penghasilan
+  - id: uu-2009-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2009
+    judul: Penerbangan
+    path: regulasi/pusat/uu/2009/uu-2009-001-penerbangan
   - id: uu-2009-043
     jenis: uu
     nomor: '43'
@@ -329,6 +864,12 @@
     tahun: 2017
     judul: Laporan Penerapan Tata Kelola Perusahaan Yang Baik Bagi
     path: regulasi/lembaga/ojk/2017/seojk-2017-054-laporan-penerapan-tata-kelola-perusahaan-yang-baik-bagi
+  - id: uu-2017-002
+    jenis: uu
+    nomor: '2'
+    tahun: 2017
+    judul: Jasa Konstruksi
+    path: regulasi/pusat/uu/2017/uu-2017-002-jasa-konstruksi
   - id: permen-2018-118
     jenis: permen
     nomor: '118'
@@ -580,6 +1121,22 @@
     tahun: 2021
     judul: Pelaporan Dan Permintaan Informasi Debitur Melalui Sistem Layanan
     path: regulasi/lembaga/ojk/2021/seojk-2021-003-pelaporan-dan-permintaan-informasi-debitur-melalui-sistem-layanan
+  - id: uu-2021-001
+    jenis: uu
+    nomor: '1'
+    tahun: 2021
+    judul: Pengesahan Comprehensive Economic Partnership Agreement Between The Republic
+      Of Indonesia And The Efta States (Persetujuan Kemitraan Ekonomi Komprehensif
+      Antara Republik Indonesia Dan Negara-Negara Efta)
+    path: regulasi/pusat/uu/2021/uu-2021-001-pengesahan-comprehensive-economic-partnership-agreement-between-the-republic-of-indonesia-and-the-efta-states-persetujua
+  - id: uu-2021-010
+    jenis: uu
+    nomor: '10'
+    tahun: 2021
+    judul: Pembentukan Pengadilan Tinggi Tata Usaha Negara Palembang, Pengadilan Tinggi
+      Tata Usaha Negara Banjarmasin, Pengadilan Tinggi Tata Usaha Negara Mataram,
+      Dan Pengadilan Tinggi Tata Usaha Negara Manado
+    path: regulasi/pusat/uu/2021/uu-2021-010-pembentukan-pengadilan-tinggi-tata-usaha-negara-palembang-pengadilan-tinggi-tata-usaha-negara-banjarmasin-pengadilan-tin
   - id: uu-2021-002
     jenis: uu
     nomor: '2'
@@ -587,12 +1144,34 @@
     judul: Perubahan Kedua Atas Undang-Undang Nomor 21 Tahun 2001 Tentang Otonomi
       Khusus Bagi Provinsi Papua
     path: regulasi/pusat/uu/2021/uu-2021-002-perubahan-kedua-atas-undang-undang-nomor-21-tahun-2001-tentang-otonomi-khusus-bagi-provinsi-papua
+  - id: uu-2021-004
+    jenis: uu
+    nomor: '4'
+    tahun: 2021
+    judul: Pengesahan Asean Agreement On Electronic Commerce (Persetujuan Asean Tentang
+      Perdagangan Melalui Sistem Elektronik)
+    path: regulasi/pusat/uu/2021/uu-2021-004-pengesahan-asean-agreement-on-electronic-commerce-persetujuan-asean-tentang-perdagangan-melalui-sistem-elektronik
   - id: uu-2021-007
     jenis: uu
     nomor: '7'
     tahun: 2021
     judul: Harmonisasi Peraturan Perpajakan
     path: regulasi/pusat/uu/2021/uu-2021-007-harmonisasi-peraturan-perpajakan
+  - id: uu-2021-008
+    jenis: uu
+    nomor: '8'
+    tahun: 2021
+    judul: Pembentukan Pengadilan Tinggi Agama Bali, Pengadilan Tinggi Agama Papua
+      Barat, Pengadilan Tinggi Agama Kepulauan Riau, Pengadilan Tinggi Agama Sulawesi
+      Barat, Dan Pengadilan Tinggi Agama Kalimantan Utara
+    path: regulasi/pusat/uu/2021/uu-2021-008-pembentukan-pengadilan-tinggi-agama-bali-pengadilan-tinggi-agama-papua-barat-pengadilan-tinggi-agama-kepulauan-riau-peng
+  - id: uu-2021-009
+    jenis: uu
+    nomor: '9'
+    tahun: 2021
+    judul: Pembentukan Pengadilan Tinggi Papua Barat, Pengadilan Tinggi Kepulauan
+      Riau, Pengadilan Tinggi Sulawesi Barat, Dan Pengadilan Tinggi Kalimantan Utara
+    path: regulasi/pusat/uu/2021/uu-2021-009-pembentukan-pengadilan-tinggi-papua-barat-pengadilan-tinggi-kepulauan-riau-pengadilan-tinggi-sulawesi-barat-dan-pengadil
   - id: permenpanrb-2022-029
     jenis: permenpanrb
     nomor: '29'
@@ -643,12 +1222,43 @@
     tahun: 2022
     judul: Penilaian Kembali Bagi Pihak Utama Lembaga Jasa Keuangan
     path: regulasi/lembaga/ojk/2022/seojk-2022-032-penilaian-kembali-bagi-pihak-utama-lembaga-jasa-keuangan
+  - id: uu-2022-022
+    jenis: uu
+    nomor: '22'
+    tahun: 2022
+    judul: Pemasyarakatan
+    path: regulasi/pusat/uu/2022/uu-2022-022-pemasyarakatan
+  - id: uu-2022-024
+    jenis: uu
+    nomor: '24'
+    tahun: 2022
+    judul: Pengesahan Regional Comprehensive Economic Partnership Agreement (Persetujuan
+      Kemitraan Ekonomi Komprehensif Regional)
+    path: regulasi/pusat/uu/2022/uu-2022-024-pengesahan-regional-comprehensive-economic-partnership-agreement
+  - id: uu-2022-025
+    jenis: uu
+    nomor: '25'
+    tahun: 2022
+    judul: pengesahan perjanjian kemitraan ekonomi komprehensif indonesia korea
+    path: regulasi/pusat/uu/2022/uu-2022-025-pengesahan-perjanjian-kemitraan-ekonomi-komprehensif-indonesia-korea
+  - id: uu-2022-026
+    jenis: uu
+    nomor: '26'
+    tahun: 2022
+    judul: pertanggungjawaban pelaksanaan apbn 2021
+    path: regulasi/pusat/uu/2022/uu-2022-026-pertanggungjawaban-pelaksanaan-apbn-2021
   - id: uu-2022-027
     jenis: uu
     nomor: '27'
     tahun: 2022
     judul: Pelindungan Data Pribadi
     path: regulasi/pusat/uu/2022/uu-2022-027-pelindungan-data-pribadi
+  - id: uu-2022-028
+    jenis: uu
+    nomor: '28'
+    tahun: 2022
+    judul: Anggaran Pendapatan Dan Belanja Negara Tahun Anggaran 2023
+    path: regulasi/pusat/uu/2022/uu-2022-028-anggaran-pendapatan-dan-belanja-negara-tahun-anggaran-2023
   - id: uu-2022-029
     jenis: uu
     nomor: '29'
@@ -791,6 +1401,42 @@
     judul: Perubahan Kedua Atas Undang-Undang Nomor 11 Tahun 2Oo8 Tentang Informasi
       Dan Transaksi Elektronik
     path: regulasi/pusat/uu/2024/uu-2024-001-perubahan-kedua-atas-undang-undang-nomor-11-tahun-2oo8-tentang-informasi-dan-transaksi-elektronik
+  - id: uu-2024-103
+    jenis: uu
+    nomor: '103'
+    tahun: 2024
+    judul: Kabupaten Bandung Di Provinsi Jawa Barat
+    path: regulasi/pusat/uu/2024/uu-2024-103-kabupaten-bandung-di-provinsi-jawa-barat
+  - id: uu-2024-117
+    jenis: uu
+    nomor: '117'
+    tahun: 2024
+    judul: Kabupaten Serang Di Provinsi Banten
+    path: regulasi/pusat/uu/2024/uu-2024-117-kabupaten-serang-di-provinsi-banten
+  - id: uu-2024-118
+    jenis: uu
+    nomor: '118'
+    tahun: 2024
+    judul: Kabupaten Tangerang Di Provinsi Banten
+    path: regulasi/pusat/uu/2024/uu-2024-118-kabupaten-tangerang-di-provinsi-banten
+  - id: uu-2024-059
+    jenis: uu
+    nomor: '59'
+    tahun: 2024
+    judul: Rencana Pembangunan Jangka Panjang Nasional Tahun 2025-2045
+    path: regulasi/pusat/uu/2024/uu-2024-059-rencana-pembangunan-jangka-panjang-nasional-tahun-2025-2045
+  - id: uu-2024-065
+    jenis: uu
+    nomor: '65'
+    tahun: 2024
+    judul: Perubahan Ketiga Atas Undang-Undang Nomor 13 Tahun 2016 Tentang Paten
+    path: regulasi/pusat/uu/2024/uu-2024-065-perubahan-ketiga-atas-undang-undang-nomor-13-tahun-2016-tentang-paten
+  - id: uu-2024-087
+    jenis: uu
+    nomor: '87'
+    tahun: 2024
+    judul: Kabupaten Bengkulu Utara Di Provinsi Bengkulu
+    path: regulasi/pusat/uu/2024/uu-2024-087-kabupaten-bengkulu-utara-di-provinsi-bengkulu
   - id: permenpanrb-2025-005
     jenis: permenpanrb
     nomor: '5'

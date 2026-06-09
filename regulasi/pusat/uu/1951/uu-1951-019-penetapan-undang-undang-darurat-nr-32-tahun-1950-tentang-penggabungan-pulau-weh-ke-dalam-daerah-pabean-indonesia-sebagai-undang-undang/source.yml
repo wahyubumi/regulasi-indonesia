@@ -1,0 +1,24 @@
+id: uu-1951-019
+judul: Undang-Undang Nomor 19 Tahun 1951 tentang Penetapan "Undang-Undang Darurat
+  Nr 32 Tahun 1950 Tentang Penggabungan Pulau Weh Ke Dalam Daerah Pabean Indonesia"
+  Sebagai Undang-Undang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.
