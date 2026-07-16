@@ -22,6 +22,7 @@ tmp/
 pdf-local/
 staging/reviewed/
 staging/rejected/
+staging/pdf-converted/
 
 # Python/runtime noise.
 __pycache__/

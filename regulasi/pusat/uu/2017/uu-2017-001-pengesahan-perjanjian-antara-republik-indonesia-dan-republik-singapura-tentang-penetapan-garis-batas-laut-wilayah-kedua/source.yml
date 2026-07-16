@@ -1,0 +1,26 @@
+id: uu-2017-001
+judul: Undang-Undang Nomor 1 Tahun 2017 tentang Pengesahan Perjanjian Antara Republik
+  Indonesia Dan Republik Singapura Tentang Penetapan Garis Batas Laut Wilayah Kedua
+  Negara Di Bagian Timur Selat Singapura, 2014 (Treaty Between The Republic Of Indonesia
+  And The Republic Of Singapore Relating To The Delimitation Of The Territorial Seas
+  Of The Two Countries In The Eastern Part Of The Strait Of Singapore, 2014)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

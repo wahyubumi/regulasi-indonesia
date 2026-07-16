@@ -1,0 +1,494 @@
+---
+type: regulation
+ocr_pdf: "pdf-local/ocr-staging/uu-no-100-tahun-2024.ocr.pdf"
+ocr_sha256: "sha256:66a6206fee93bfb0b5dfa4107f35cbca17783706fd0f7493a91ab907216d1954"
+status: needs_review
+---
+
+<!-- OCR staging; verifikasi substansi sebelum promosi. -->
+
+<!-- PAGE: 1 -->
+
+                                       at       .
+
+
+                                      oe)                                    SALINAN
+
+                                    PRESIDEN
+                              REPUBLIK INDONESIA
+
+
+
+
+                   UNDANG-UNDANG              REPUBLIK INDONESIA
+                              NOMOR      100 TAHUN          2024
+                                        TENTANG
+                    KOTA BOGOR         DI PROVINSI JAWA            BARAT
+
+
+                   DENGAN     RAHMAT TUHAN YANG MAHA ESA
+
+
+                      PRESIDEN         REPUBLIK INDONESIA,
+
+
+     Menimbang       bahwa Kota Bogor di Provinsi Jawa Barat merupakan
+                     salah satu daerah di wilayah Negara Kesatuan Republik
+                     Indonesia     yang    dibentuk  untuk    meningkatkan
+                     penyelenggaraan pemerintahan dan pembangunan yang
+                     efektif sesuai amanat Undang-Undang      Dasar Negara
+                     Republik Indonesia Tahun 1945;
+                     bahwa pembangunan Kota Bogor diselenggarakan secara
+                     berkelanjutan dalam    satu kesatuan    wilayah    dengan
+                     memperhatikan   karakteristik daerah untuk mencapai
+                     kesejahteraan  masyarakat    Kota   Bogor    di _ Provinsi
+                     Jawa    Barat;
+
+                     bahwa Undang-Undang Nomor 16 Tahun 1950 tentang
+                     pembentukan      daerah-daerah    Kota    Besar   dalam
+                     lingkungan Propinsi jawa Timur, jawa Tengah, jawa Barat,
+                     dan dalam Daerah Istimewa Jogjakarta sebagaimana telah
+                     diubah     dengan        Undang-Undang          Nomor       13    Tahun      1954
+                     tentang Perubahan Undang-Undang Nr 16 dan Nr 17
+                     Tahun-1950 tentang Pembentukan Kota-Kota Besar dan
+                     Kota-Kota   Kecil di   Jawa,  yang    menjadi     dasar
+                     pembentukan Kota Bogor, sudah tidak sesuai lagi dengan
+                     perkembangan hukum sehingga perlu diganti;
+                     bahwa        berdasarkan               pertimbangan              sebagaimana
+                     dimaksud         dalam    huruf   a,    huruf    b,   dan    huruf    c,   perlu
+                     membentuk          Undang-Undang              tentang       Kota     Bogor      di
+                     Provinsi    Jawa Barat;
+
+
+
+
+                                                                                      Mengingat...
+
+
+
+
+SK   No 208513 A
+
+<!-- PAGE: 2 -->
+
+                                              al
+
+                                            PRESIDEN
+                                      REPUBLIK INDONESIA
+
+                                                    _9-
+
+      Mengingat       Pasal   18,   Pasal    18A,    Pasal           18B    ayat    (2), Pasal          20,     Pasal    21,
+                      dan Pasal 22D ayat (2) Undang-Undang                                             Dasar       Negara
+                      Republik Indonesia Tahun 1945;
+                                Dengan Persetujuan Bersama
+
+
+                   DEWAN   PERWAKILAN          RAKYAT               REPUBLIK        INDONESIA
+                                                    dan
+
+                              PRESIDEN       REPUBLIK                INDONESIA
+
+
+                                            MEMUTUSKAN:
+
+
+      Menetapkan      UNDANG-UNDANG                 TENTANG                 KOTA     BOGOR              DI     PROVINSI
+                      JAWA BARAT.
+
+
+                                                BAB        I
+                                      KETENTUAN                    UMUM
+
+
+                                                Pasal          1
+
+                      Dalam Undang-Undang ini yang dimaksud dengan:
+                      1.   Provinsi   Jawa     Barat               adalah    bagian       dari    wilayah          Negara
+                           Kesatuan         Republik                Indonesia        berdasarkan                 Undang-
+                           Undang    Nomor            10             Tahun         2023      tentang               Provinsi
+                           Jawa Barat.
+                           Kota Bogor adalah kota                           yang dibentuk berdasarkan
+                           Undang-Undang    Nomor                           16  Tahun    1950  tentang
+                           pembentukan              daerah-daerah                    Kota          Besar’           dalam
+                           lingkungan Propinsi jawa Timur, jawa Tengah, jawa Barat,
+                           dan dalam Daerah Istimewa Jogjakarta sebagaimana telah
+                           diubah     dengan        Undang-Undang                   Nomor         13     Tahun          1954
+                           tentang Perubahan Undang-Undang Nr 16 dan Nr 17
+                           Tahun-1950 tentang Pembentukan Kota-Kota Besar dan
+                           Kota-Kota Kecil di          Jawa.
+                           Kecamatan         adalah            kecamatan            yang         ada          di _ wilayah
+                           Kota Bogor.
+
+                                                                                                              Pasal2...
+
+
+
+
+SK   No 200079 A
+
+<!-- PAGE: 3 -->
+
+                                       al
+
+
+                                       PRESIDEN
+                                 REPUBLIK INDONESIA
+
+                                            _3-
+
+                                        Pasal 2
+
+                 Tanggal 15 Agustus 1950 merupakan tanggal               pembentukan
+                 Kota   Bogor   berdasarkan Undang-Undang                  Nomor   16
+                 Tahun 1950 tentang pembentukan daerah-daerah Kota Besar
+                 dalam lingkungan Propinsi jawa Timur, jawa Tengah, jawa
+                 Barat, dan dalam Daerah Istimewa Jogjakarta (Berita Negara
+                 Republik Indonesia Tahun 1950 Nomor 45) sebagaimana telah
+                 diubah dengan Undang-Undang      Nomor    13 Tahun    1954
+                 tentang       Perubahan      Undang-Undang   Nr    16    dan   Nr   17
+                 Tahun-1950 tentang Pembentukan Kota-Kota Besar dan Kota-
+                 Kota Kecil di Jawa.
+
+
+                                           BAB    II
+                      CAKUPAN WILAYAH, BATAS DAERAH,          DAN
+                           KARAKTERISTIK KOTA BOGOR
+
+
+                                           Pasal 3
+
+                 -Kota Bogor terdiri atas 6 (enam) Kecamatan, yaitu:
+                 a.     Kecamatan Bogor Selatan;
+                 b.     Kecamatan Bogor Timur;
+                 c.     Kecamatan Bogor Tengah;
+                 d.     Kecamatan Bogor Barat;
+                 e.     Kecamatan   Bogor Utara; dan
+                 f.     Kecamatan Tanah       Sareal.
+
+
+                                           Pasal 4
+                  (1) Kota Bogor mempunyai batas daerah:
+                        a.   sebelah utara berbatasan dengan Kabupaten Bogor;
+                        b.   sebelah timur berbatasan dengan Kabupaten Bogor;
+
+
+
+                                                                         c. sebelah...
+
+
+
+
+SK No 200080 A
+
+<!-- PAGE: 4 -->
+
+                                         all
+
+                                        PRESIDEN
+                                  REPUBLIK INDONESIA
+
+                                           ~_4-
+
+                        c.   sebelah   selatan berbatasan        dengan    Kabupaten   Bogor;
+                             dan
+                        d.   sebelah barat berbatasan dengan Kabupaten Bogor.
+                   (2) Penegasan    batas   daerah   Kota   Bogor  sebagaimana
+                       dimaksud    pada   ayat   (1) secara  pasti di lapangan
+                       ditetapkan dengan Peraturan Menteri Dalam Negeri.
+
+
+                                          Pasal 5
+                   Kota Bogor memiliki karakteristik, yaitu:
+                   a.   kewilayahan dengan ciri geografis utama kawasan dataran
+                        tinggi, kawasan taman nasional, kawasan lindung dan
+                        konservasi   yang   merupakan      bagian  dari  potensi
+                        kewilayahan Provinsi Jawa Barat.
+                   b.   potensi sumber daya alam             berupa pertanian, kehutanan,
+                        pariwisata,   perdagangan,           jasa,  ekonomi   kreatif, dan
+                        potensi lainnya; dan
+                   c.   suku bangsa dan kultural yang bersifat multietnis serta
+                        memiliki    karakter    religius dan    berbudaya_  sekaligus
+                        menjunjung       tinggi    adat  istiadat   dan _ kelestarian
+                        lingkungan, dengan semboyan Di Nu Kiwart Ngancik Nu
+                        Bihari Seja Ayeuna Sampeureun Jaga.
+
+
+                                          BAB     III
+                                 KETENTUAN        PENUTUP
+
+
+                                          Pasal 6
+
+                   Ketentuan mengenai          susunan       dan tata cara penyelenggaraan
+                   pemerintahan        daerah       diatur     sesuai     dengan    ketentuan
+                   peraturan perundang-undangan.
+
+
+
+
+                                                                                   Pasal   7...
+
+
+
+
+SK   No 200081 A
+
+<!-- PAGE: 5 -->
+
+                                           pt
+
+
+
+
+                                           PRESIDEN
+                                     REPUBLIK INDONESIA
+
+                                                  _5-
+
+                                             Pasal 7
+
+                   Pada       saat     Undang-Undang                ini      mulai      berlaku,       semua
+                   peraturan perundang-undangan yang merupakan peraturan
+                   pelaksanaan dari Undang-Undang Nomor 16 Tahun 1950
+                   tentang      pembentukan              daerah-daerah               Kota     Besar     dalam
+                   lingkungan         Propinsi jawa           Timur,       jawa    Tengah,      jawa    Barat,
+                   dan    Dalam        Daerah          Istimewa           Jogjakarta        (Berita    Negara
+                   Republik Indonesia Tahun 1950 Nomor 45) sebagaimana telah
+                   diubah dengan Undang-Undang        Nomor    13 Tahun    1954
+                   tentang Perubahan     Undang-Undang    Nr   16 Dan   Nr    17
+                   Tahun-1950    tentang Pembentukan     Kota-Kota Besar dan
+                   Kota-Kota Kecil di Jawa, dinyatakan masih tetap berlaku
+                   sepanjang   tidak bertentangan   dengan    ketentuan  dalam
+                   Undang-Undang ini.
+
+
+                                             Pasal 8
+
+                   Pada saat Undang-Undang                    ini mulai berlaku, ketentuan yang
+                   mengatur          mengenai          Kota     Bogor        dalam          Undang-Undang
+                   Nomor 16 Tahun 1950 tentang pembentukan daerah-daerah
+                   Kota Besar dalam lingkungan Propinsi jawa Timur, jawa
+                   Tengah,     jawa    Barat,      dan    Dalam        Daerah        Istimewa      Jogjakarta
+                   (Berita Negara Republik Indonesia Tahun 1950 Nomor 45)
+                   sebagaimana telah diubah dengan Undang-Undang Nomor 13
+                   Tahun 1954 tentang Perubahan Undang-Undang Nr 16 Dan
+                   Nr 17 Tahun-1950 tentang Pembentukan Kota-Kota Besar
+                   dan    Kota-Kota      Kecil     di Jawa,         dicabut       dan   dinyatakan       tidak
+                   berlaku.
+
+
+                                             Pasal 9
+
+                   Undang-Undang                 ini      mulai’_          berlaku'         pada       tanggal
+                   diundangkan.
+
+
+
+
+                                                                                                      Agar...
+
+
+
+
+SK   No 200082 A
+
+<!-- PAGE: 6 -->
+
+                                                   af
+                                            ns
+                                           sroyA
+                                              PRESIDEN
+                                        REPUBLIK INDONESIA
+
+                                                        -6-
+
+                           Agar   setiap       orang    mengetahuinya,      memerintahkan
+                           pengundangan             Undang-Undang         ini       dengan
+                           penempatannya         dalam    Lembaran     Negara     Republik
+                           Indonesia.
+
+
+
+
+                                                              Disahkan di Jakarta
+                                                              pada tanggal 28 Oktober 2024
+                                                              PRESIDEN REPUBLIK INDONESIA,
+
+                                                                            ttd.
+
+                                                                  PRABOWO      SUBIANTO
+
+
+
+      Diundangkan di Jakarta
+      pada tanggal 28 Oktober 2024
+      MENTERI SEKRETARIS NEGARA
+          REPUBLIK INDONESIA,
+
+                    ttd.
+
+             PRASETYO        HADI
+
+
+
+      LEMBARAN     NEGARA      REPUBLIK INDONESIA TAHUN 2024 NOMOR                    286
+
+
+          Salinan sesuai dengan aslinya
+      KEMENTERIAN     SEKRETARIAT         NEGARA
+              REPUBLIK INDONESIA
+
+
+
+
+SK   No 208514 A
+
+<!-- PAGE: 7 -->
+
+                                          e
+                                              ge
+
+                                           PRESIDEN
+                                      REPUBLIK INDONESIA
+
+
+
+
+                                           PENJELASAN
+                                                   ATAS
+                         UNDANG-UNDANG              REPUBLIK    INDONESIA
+                                      NOMOR     100 TAHUN      2024
+                                               TENTANG
+                             KOTA BOGOR       DI PROVINSI JAWA        BARAT
+
+
+      I.   UMUM
+                Penyelenggaraan    pemerintahan      dan     pembangunan     yang
+           dilaksanakan oleh Pemerintah Pusat dan Pemerintah Daerah sejatinya
+           adalah untuk mewujudkan tujuan negara. Salah satu tujuan negara
+           tertuang dalam Pembukaan Undang-Undang Dasar Negara Republik
+           Indonesia Tahun 1945, yaitu untuk melindungi segenap bangsa Indonesia
+           dan    seluruh   tumpah   darah   Indonesia   dan   untuk   memajukan
+           kesejahteraan umum.
+                Dalam rangka mencapai tujuan tersebut dan penyesuaian terhadap
+           dinamika perubahan peraturan perundang-undangan yang mengatur
+           mengenai pemerintahan daerah serta peraturan perundang-undangan
+           terkait lainnya, diperlukan upaya untuk menegaskan kembali kedudukan
+           Kota Bogor dalam kerangka Negara Kesatuan Republik Indonesia. Hal ini
+           ditegaskan dalam ketentuan Pasal 1 ayat (1) Undang-Undang Dasar
+           Negara Republik Indonesia Tahun        1945, yang menyatakan “Negara
+           Indonesia ialah Negara Kesatuan, yang berbentuk Republik.”
+                Kedudukan Kota Bogor sebagai sebuah daerah otonom selama ini
+           diatur berdasarkan pada Undang-Undang Nomor 16 Tahun 1950 tentang
+           pembentukan daerah-daerah Kota Besar dalam lingkungan Propinsi jawa
+           Timur, jawa Tengah, jawa Barat, dan dalam Daerah Istimewa Jogjakarta
+           sebagaimana     telah diubah   dengan   Undang-Undang    Nomor     13
+           Tahun 1954 tentang Perubahan Undang-Undang Nr 16 dan Nr 17 Tahun-
+           1950 tentang Pembentukan           Kota-Kota Besar dan Kota-Kota Kecil di Jawa.
+           Desain pengaturan Kota Bogor berdasarkan Undang-Undang tersebut
+           masih menggunakan Undang-Undang Dasar Negara Republik Indonesia
+           Tahun  1945 sebelum amendemen     dan Undang-Undang   Nomor   22
+           Tahun   1948   tentang Penetapan  Aturan-Aturan Pokok  Mengenai
+           Pemerintahan Sendiri di Daerah-Daerah Yang Berhak Mengatur dan
+           Mengurus Rumah Tangganya Sendiri sebagai acuan, yang pada dasarnya
+           tidak   relevan     lagi   dengan       dinamika    dan    perubahan     hukum    di
+           masyarakat.
+
+
+                                                                                  Berkaitan...
+
+
+
+SK   No 208515A
+
+<!-- PAGE: 8 -->
+
+                                                           af
+
+                                                      PRESIDEN
+                                                REPUBLIK INDONESIA
+
+                                                                _2-
+
+                    Berkaitan          dengan       itu,        Undang-Undang           ini   dibentuk         untuk
+            menggantikan ketentuan yang mengatur Kota Bogor dalam Undang-
+            Undang Nomor 16 Tahun 1950 tentang pembentukan daerah-daerah Kota
+            Besar dalam lingkungan Propinsi jawa Timur, jawa Tengah, jawa Barat,
+            dan dalam Daerah Istimewa Jogjakarta sebagaimana telah diubah dengan
+            Undang-Undang Nomor 13 Tahun 1954 tentang Perubahan Undang-
+            Undang Nr 16 dan Nr 17 Tahun-1950 tentang Pembentukan Kota-Kota
+            Besar        dan   Kota-Kota    Kecil di Jawa              yang   memuat    penyempurnaan          dasar
+            hukum, penyesuaian cakupan wilayah dan batas daerah, penegasan
+            karakteristik, serta sinkronisasi peraturan perundang-undangan.
+
+
+
+      II.   PASAL DEMI           PASAL
+
+            Pasal    1
+                     Cukup jelas.
+
+            Pasal 2
+                     Cukup jelas.
+
+            Pasal 3
+                     Cukup jelas.
+
+            Pasal 4
+                     Cukup jelas.
+
+            Pasal 5
+                     Huruf a
+                                Cukup jelas.
+                     Huruf b
+                                Cukup jelas.
+                     Huruf c
+                                Yang      dimaksud              dengan        “multietnis”    adalah      _terdapat
+                                beberapa        etnis      di   Kota     Bogor   yang   mayoritas      yaitu    etnis
+                                Sunda.
+
+
+
+
+                                                                                                         Yang...
+
+
+
+
+SK   No 200085 A
+
+<!-- PAGE: 9 -->
+
+                                         PRESIDEN
+                                   REPUBLIK INDONESIA
+
+                                            _3-
+
+                        Yang dimaksud dengan “Di Nu Kiwari Ngancik Nu Bihari Seja
+                        Ayeuna Sampeureun Jaga” adalah semboyan apa yang telah
+                        dinikmati oleh masa sekarang adalah hasil pekerjaan orang
+                        terdahulu, dan apa yang diperbuat oleh orang di masa
+                        sekarang adalah warisan untuk masa depan.
+
+          Pasal 6
+                  Cukup jelas.
+
+          Pasal 7
+                  Cukup jelas.
+
+          Pasal 8
+                  Cukup jelas.
+
+          Pasal 9
+                  Cukup jelas.
+
+
+
+
+     TAMBAHAN       LEMBARAN     NEGARA   REPUBLIK   INDONESIA   NOMOR   7037
+
+
+
+
+SK   No 208516A
