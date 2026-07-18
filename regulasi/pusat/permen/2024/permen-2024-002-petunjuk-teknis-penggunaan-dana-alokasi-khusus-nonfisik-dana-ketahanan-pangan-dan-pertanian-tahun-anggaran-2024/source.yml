@@ -1,0 +1,23 @@
+id: permen-2024-002
+judul: Peraturan Menteri Nomor 02 Tahun 2024 tentang Petunjuk Teknis Penggunaan Dana
+  Alokasi Khusus Nonfisik Dana Ketahanan Pangan Dan Pertanian Tahun Anggaran 2024
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://emonev.pertanian.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

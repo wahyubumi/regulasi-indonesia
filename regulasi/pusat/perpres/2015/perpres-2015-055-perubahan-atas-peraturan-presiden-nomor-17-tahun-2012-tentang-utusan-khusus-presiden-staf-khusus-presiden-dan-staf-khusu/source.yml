@@ -1,0 +1,24 @@
+id: perpres-2015-055
+judul: Peraturan Presiden Nomor 55 Tahun 2015 tentang Perubahan Atas Peraturan Presiden
+  Nomor 17 Tahun 2012 Tentang Utusan Khusus Presiden, Staf Khusus Presiden, Dan Staf
+  Khusus Wakil Presiden
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

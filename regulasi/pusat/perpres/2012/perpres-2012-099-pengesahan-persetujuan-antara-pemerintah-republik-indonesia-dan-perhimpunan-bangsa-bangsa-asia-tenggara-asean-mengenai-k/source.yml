@@ -1,0 +1,27 @@
+id: perpres-2012-099
+judul: Peraturan Presiden Nomor 99 Tahun 2012 tentang Pengesahan Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Perhimpunan Bangsa-Bangsa Asia Tenggara (Asean)
+  Mengenai Ketuanrumahan Dan Pemberian Keistimewaan Dan Kekebalan Kepada Sekretariat
+  Asean (Agreement Between The Government Of The Republic Of Indonesia And The Association
+  Of Southeast Asian Nations (Asean) On Hosting And Granting Privileges And Immunities
+  To The Asean Secretariat)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

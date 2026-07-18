@@ -1,0 +1,23 @@
+id: pp-2009-003
+judul: Peraturan Pemerintah Nomor 3 Tahun 2009 tentang Pengawasan Pengangkutan Barang
+  Tertentu Dalam Daerah Pabean
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.djpp.depkumham.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

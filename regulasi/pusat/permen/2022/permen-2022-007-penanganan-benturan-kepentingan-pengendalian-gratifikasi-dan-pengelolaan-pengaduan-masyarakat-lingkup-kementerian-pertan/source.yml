@@ -1,0 +1,24 @@
+id: permen-2022-007
+judul: Peraturan Menteri Nomor 07 Tahun 2022 tentang Penanganan Benturan Kepentingan,
+  Pengendalian Gratifikasi, Dan Pengelolaan Pengaduan Masyarakat Lingkup Kementerian
+  Pertanian
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://sigap-upg.pertanian.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

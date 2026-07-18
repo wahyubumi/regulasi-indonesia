@@ -1,0 +1,29 @@
+id: pp-1999-035
+judul: Peraturan Pemerintah Nomor 35 Tahun 1999 tentang Penyertaan Modal Negara Republik
+  Indonesia Ke Dalam Modal Pt Bank Pembangunan Daerah Daerah Istimewa Aceh, Bank Pembangunan
+  Daerah Sumatera Utara, Bank Pembangunan Daerah Bengkulu, Bank Pembangunan Daerah
+  Lampung, Bank Pembangunan Daerah Daerah Khusus Ibukota Jakarta, Bank Pembangunan
+  Daerah Jawa Tengah, Bank Pembangunan Daerah Jawa Timur, Bank Pembangunan Daerah
+  Kalimantan Barat, Bank Pembangunan Daerah Sulawesi Utara, Bank Pembangunan Daerah
+  Maluku, Bank Pembangunan Daerah Nusa Tenggara Timur Dalam Rangka Program Rekapitalisasi
+  Bank Umum
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

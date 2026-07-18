@@ -1,0 +1,506 @@
+---
+id: "uu-2022-017"
+jenis: "uu"
+nomor: "17"
+tahun: 2022
+judul: "Undang-Undang Nomor 17 Tahun 2022 tentang Provinsi Sumatera Barat"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Undang-Undang Nomor 17 Tahun 2022 tentang Provinsi Sumatera Barat
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: uu
+nomor: 17
+tahun: 2022
+tentang: Provinsi Sumatera Barat
+---
+
+<!-- PAGE: 1 -->
+
+                                          ix                                 SALINAN
+                                          PRESIDEN
+                                    REPUBLIK INDONESIA
+
+
+
+
+                      UNDANG-UNDANG             REPUBLIK INDONESIA
+                                  NOMOR        17 TAHUN     2022
+                                           TENTANG
+                                PROVINSI SUMATERA BARAT
+
+                      DENGAN     RAHMAT        TUHAN   YANG        MAHA    ESA
+
+                          PRESIDEN       REPUBLIK INDONESIA,
+     Menimbang    :    bahwa provinsi merupakan salah satu daerah di wilayah
+                       Negara Kesatuan Republik Indonesia yang dibentuk untuk
+                       meningkatkan     penyelenggaraan     pemerintahan  dan
+                       pembangunan yang efektif sesuai amanat Undang-Undang
+                       Dasar Negara Republik Indonesia Tahun 1945;
+                       bahwa      pembangunan      Provinsi   Sumatera     Barat
+                       diselenggarakan secara berkelanjutan dalam satu kesatuan
+                       wilayah untuk mencapai kesejahteraan masyarakat Provinsi
+                       Sumatera Barat;
+                       bahwa pemberian otonomi daerah harus memperhatikan
+                       potensi daerah dalam berbagai bidang, kekayaan budaya,
+                       kearifan lokal, kondisi geografis dan demografis, serta
+                       tantangan dan dinamika masyarakat yang dihadapi dalam
+                       tataran   lokal,   nasional,  dan     internasional   untuk
+                       mempercepat      tercapainya  kesejahteraan      masyarakat
+                       Provinsi Sumatera Barat dalam Negara Kesatuan Republik
+                       Indonesia;
+
+                       bahwa Undang-Undang Nomor 61 Tahun       1958 tentang
+                       Penetapan “Undang-Undang Darurat No. 19 Tahun 1957
+                       tentang Pembentukan Daerah-Daerah Swatantra Tingkat I
+                       Sumatera Barat, Jambi dan Riau” (Lembaran-Negara Tahun
+                       1957 No. 75), Sebagai Undang-Undang, sudah tidak sesuai
+                       lagi dengan perkembangan hukum sehingga perlu diganti;
+                       bahwa     berdasarkan      pertimbangan        sebagaimana        dimaksud
+                       dalam     huruf    a,   huruf   b,   huruf     c,   dan   huruf    d,   perlu
+                       membentuk         Undang-Undang         tentang       Provinsi    Sumatera
+                       Barat;
+
+
+                                                                                 Mengingat:...
+
+
+
+
+SK   No 142066A
+
+<!-- PAGE: 2 -->
+
+                                                       Rod
+
+
+
+                                                 PRESIDEN
+                                           REPUBLIK  INDONESIA
+
+                                                        -2-
+
+     Mengingat        Pasal    18, Pasal       18A, Pasal           18B ayat (2), Pasal 20, Pasal 21, dan
+                      Pasal    22D      ayat    (2)    Undang-Undang              Dasar      Negara     Republik
+                      Indonesia Tahun           1945;
+
+
+                                    Dengan Persetujuan Bersama
+                  DEWAN       PERWAKILAN              RAKYAT REPUBLIK INDONESIA
+                                                        dan
+                                PRESIDEN         REPUBLIK             INDONESIA
+
+                                               MEMUTUSKAN:
+     Menetapkan   :   UNDANG-UNDANG                   TENTANG          PROVINSI      SUMATERA         BARAT.
+
+                                                 BAB I
+                                           KETENTUAN UMUM
+                                                      Pasal     1
+                       Dalam Undang-Undang ini yang dimaksud dengan:
+                        1. Provinsi Sumatera Barat adalah bagian dari wilayah
+                           Negara   Kesatuan    Republik   Indonesia yang    dibentuk
+                           berdasarkan    Undang-Undang     Nomor   61 Tahun      1958
+                           tentang   Penetapan   “Undang-Undang     Darurat   No.    19
+                           Tahun    1957    tentang    Pembentukan     Daerah-Daerah
+                              Swatantra        Tingkat        I Sumatera        Barat,      Jambi     dan     Riau”
+                              (Lembaran-Negara Tahun                    1957   No.   75),    Sebagai Undang-
+                              Undang.
+                       2.     Kabupaten/Kota     adalah kabupaten/kota                          yang        ada   di
+                              wilayah Provinsi Sumatera Barat.
+
+                                                      Pasal 2
+                       Tanggal 31 Juli 1958 merupakan       tanggal pembentukan
+                       Provinsi Sumatera Barat berdasarkan Undang-Undang Nomor
+                       61     Tahun     1958     tentang       Penetapan        “Undang-Undang              Darurat
+                       No.     19    Tahun       1957        tentang      Pembentukan          Daerah-Daerah
+                       Swatantra         Tingkat         I    Sumatera         Barat,       Jambi     dan     Riau”
+                       (Lembaran-Negara Tahun 1957 No. 75), Sebagai Undang-
+                       Undang    (Lembaran Negara Tahun    1958  Nomor  112,
+                       Tambahan         Lembaran             Negara Nomor       1646).
+
+
+                                                                                                       BABII...
+
+
+
+
+SK   No 142067A
+
+<!-- PAGE: 3 -->
+
+                                                    PRESIDEN
+                                              REPUBLIK  INDONESIA
+
+                                                         -3-
+
+                                                       BAB     II
+                   CAKUPAN         WILAYAH, IBU KOTA, DAN KARAKTERISTIK
+                                     PROVINSI SUMATERA BARAT
+
+                                                       Pasal 3
+                      (1)      Provinsi Sumatera Barat terdiri atas                     12   (dua   _belas)
+                               kabupaten dan 7 (tujuh) kota, yaitu:
+                              a.         Kabupaten     Pesisir Selatan;
+                                         Kabupaten Solok;
+                            mono os
+
+
+
+
+                                         Kabupaten Sijunjung;
+                                         Kabupaten Tanah            Datar;
+                                         Kabupaten     Padang Pariaman;
+                                         Kabupaten Agam;
+                                         Kabupaten Lima Puluh Kota;
+                            sR
+
+
+
+
+                                         Kabupaten Pasaman;
+                                         Kabupaten Kepulauan Mentawai;
+                             me
+
+
+
+
+                                         Kabupaten Dharmasraya;
+                            mo
+
+
+
+
+                                         Kabupaten Solok Selatan;
+                                         Kabupaten     Pasaman         Barat;
+                             —
+
+
+
+
+                                    . Kota Padang;
+                               07 92BB
+
+
+
+
+                                         Kota Solok;
+                                         Kota Sawahlunto;
+                             7.0
+
+
+
+
+                                         Kota Padang Panjang;
+                                         Kota Bukittinggi;
+                                         Kota Payakumbuh;            dan
+                               s. Kota Pariaman.
+                      (2)      Daerah  Kabupaten/Kota      terdiri atas                 kecamatan   dan
+                               kecamatan terdiri atas desa, kelurahan,                  dan/atau nagari
+                               sesuai    dengan                ketentuan        peraturan     perundang-
+                               undangan.
+
+
+
+                                                                                              Pasal4...
+
+
+
+
+SK   No 142068 A
+
+<!-- PAGE: 4 -->
+
+                                             Rod
+
+
+
+                                          PRESIDEN
+                                    REPUBLIK INDONESIA
+                                               -4-
+
+                                             Pasal 4
+                   Ibu kota       Provinsi    Sumatera        Barat    berkedudukan         di   Kota
+                   Padang.
+
+                                             Pasal 5
+                   Provinsi Sumatera Barat memiliki karakteristik, yaitu:
+                   a.   kewilayahan dengan ciri geografis utama kawasan dataran
+                        rendah berupa pesisir dan pantai, kawasan perairan
+                        berupa   danau,             kawasan         dataran      tinggi      berupa
+                        pegunungan dan             perbukitan,      kawasan     taman      nasional,
+                        kawasan      lindung       dan     konservasi,      kawasan       kepulauan
+                        serta warisan alam geologi;
+                   b.   potensi     sumber         daya      alam      berupa     kelautan       dan
+                        perikanan,      pertanian,     perkebunan,     kehutanan,
+                        pertambangan, energi dan sumber daya mineral, serta
+                        potensi pariwisata, dan potensi perdagangan; dan
+                   c.   adat dan budaya Minangkabau berdasarkan pada nilai
+                        falsafah, adat basandi syara’, syara’ basandi kitabullah
+                        sesuai dengan aturan adat salingka nagari yang berlaku,
+                        serta   kekayaan      sejarah,              bahasa,     kesenian,        desa
+                        adat/nagari,  ritual, upacara                adat,  situs budaya,         dan
+                        kearifan lokal yang menunjukkan karakter religius                        dan
+                        ketinggian adat istiadat masyarakat Sumatera Barat.
+
+
+                                             BAB     III
+                                  KETENTUAN          PENUTUP
+
+                                             Pasal 6
+                   Ketentuan      mengenai     susunan       dan     tata cara penyelenggaraan
+                   pemerintahan   daerah   diatur                  sesuai    dengan       ketentuan
+                   peraturan perundang-undangan.
+
+
+
+
+                                                                                          Pasal7...
+
+
+
+
+SK   No 142069 A
+
+<!-- PAGE: 5 -->
+
+                                        Rd
+
+
+                                     PRESIDEN
+                               REPLBLIK INDONESIA
+                                         -5-
+
+                                        Pasal 7
+                  Pada   saat  Undang-Undang   ini mulai  berlaku, semua
+                  peraturan perundang-undangan yang merupakan peraturan
+                  pelaksanaan dari Undang-Undang Nomor 61 Tahun 1958
+                  tentang Penetapan “Undang-Undang Darurat No. 19 Tahun
+                  1957   tentang    Pembentukan          Daerah-Daerah            Swatantra
+                  Tingkat I Sumatera Barat, Jambi dan Riau” (Lembaran-Negara
+                  Tahun 1957 No. 75), Sebagai Undang-Undang (Lembaran
+                  Negara Tahun 1958 Nomor 112, Tambahan Lembaran Negara
+                  Nomor 1646), dinyatakan masih tetap berlaku sepanjang tidak
+                  bertentangan dengan ketentuan dalam Undang-Undang ini.
+
+
+                                        Pasal 8
+                  Pada saat Undang-Undang         ini mulai berlaku, ketentuan yang
+                  mengatur   mengenai    Provinsi   Sumatera    Barat     dalam    Undang-
+                  Undang Nomor 61 Tahun 1958 tentang Penetapan “Undang-
+                  Undang Darurat No. 19 Tahun 1957 tentang Pembentukan
+                  Daerah-Daerah Swatantra Tingkat I Sumatera Barat, Jambi
+                  dan Riau” (Lembaran-Negara Tahun 1957 No. 75), Sebagai
+                  Undang-Undang    (Lembaran        Negara   Tahun   1958    Nomor     112,
+                  Tambahan    Lembaran         Negara   Nomor    1646),     dicabut     dan
+                  dinyatakan tidak berlaku.
+
+
+                                        Pasal 9
+                  Undang-Undang ini mulai berlaku pada tanggal diundangkan.
+
+
+
+
+                                                                                   Agar...
+
+
+
+
+SK   No 142070A
+
+<!-- PAGE: 6 -->
+
+                                         ®  PRESIDEN
+                                      REPUBLIK INDONESIA
+
+                                            -6-
+
+                       Agar   setiap  orang     mengetahuinya,             memerintahkan
+                       pengundangan Undang-Undang ini dengan               penempatannya
+                       dalam Lembaran Negara Republik Indonesia.
+
+
+                                                  Disahkan di Jakarta
+                                                  pada tanggal 25 Juli 2022
+                                                  PRESIDEN    REPUBLIK      INDONESIA,
+
+                                                                    ttd.
+
+                                                             JOKO   WIDODO
+
+
+     Diundangkan    di Jakarta
+     pada tanggal 25 Juli 2022
+     MENTERI SEKRETARIS NEGARA
+         REPUBLIK INDONESIA,
+
+                    ttd.
+
+
+                PRATIKNO
+
+
+
+     LEMBARAN      NEGARA   REPUBLIK INDONESIA TAHUN         2022 NOMOR       160
+
+
+
+         Salinan sesuai dengan aslinya
+     KEMENTERIAN SEKRETARIAT NEGARA
+             REPUBLIK INDONESIA
+              Bidang Perundang-undangan
+                Administrasi Hukum,
+                                 =~
+
+
+
+
+SK   No 1421294
+
+<!-- PAGE: 7 -->
+
+                                              gf
+                                              ©
+                                            PRESIDEN
+                                      REPUBLIK INDONESIA
+
+
+
+
+                                           PENJELASAN
+                                                ATAS
+                          UNDANG-UNDANG          REPUBLIK INDONESIA
+                                   NOMOR       17 TAHUN      2022
+                                              TENTANG
+                                  PROVINSI SUMATERA BARAT
+
+     I.   UMUM
+                  Pembentukan     daerah      otonom     pada      dasarnya          merupakan     upaya
+          mempercepat     terwujudnya      tujuan      bernegara     dalam      melindungi       segenap
+          bangsa Indonesia dan seluruh tumpah darah Indonesia, memajukan
+          kesejahteraan    umum,   mencerdaskan      kehidupan    bangsa,   dan  ikut
+          melaksanakan ketertiban dunia. Melalui daerah otonom, pemerintah
+          pusat dapat menyerahkan sebagian urusan pemerintahannya untuk
+          dikelola   oleh   daerah  otonom     sehingga    membantu’     mempercepat
+          terdistribusinya hak-hak publik bagi masyarakat di daerah.
+                 Dalam rangka mencapai tujuan tersebut dan penyesuaian terhadap
+          dinamika perubahan peraturan perundang-undangan yang mengatur
+          tentang pemerintahan      daerah, serta peraturan perundang-undangan
+          terkait lainnya, diperlukan upaya untuk menegaskan kembali kedudukan
+          provinsi,   khususnya    Provinsi    Sumatera         Barat      dalam      kerangka     Negara
+          Kesatuan Republik Indonesia, sebagaimana dimaksud dalam ketentuan
+          Pasal 1 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun
+          1945,   yang   menyatakan   “Negara       Indonesia      ialah     Negara    Kesatuan,     yang
+          berbentuk Republik.”
+                  Kedudukan     Provinsi      Sumatera      Barat          sebagai     sebuah     daerah
+          otonom selama ini didasarkan pada Undang-Undang Nomor 61 Tahun
+          1958 tentang Penetapan “Undang-Undang Darurat No. 19 Tahun 1957
+          tentang Pembentukan Daerah-Daerah Swatantra Tingkat I Sumatera
+          Barat, Jambi dan Riau” (Lembaran-Negara Tahun 1957 No. 75), Sebagai
+          Undang-Undang.     Desain   pengaturan      Provinsi    Sumatera   Barat
+          berdasarkan    Undang-Undang       tersebut       masih     menggunakan
+          Undang-Undang Dasar Sementara Republik Indonesia (UUDS) 1950 dan
+          Undang-Undang Nomor 1 Tahun 1957 tentang Pokok-Pokok Pemerintahan
+          Daerah sebagai acuan, yang pada dasarnya tidak relevan lagi dengan
+          dinamika dan perubahan hukum di masyarakat.
+
+
+                                                                                         Berkaitan .        .
+
+
+
+
+SK   No 142072A
+
+<!-- PAGE: 8 -->
+
+                                                  PRESIDEN
+                                            REPUBLIK  INDONESIA
+
+                                                         -2-
+
+                   Berkaitan       dengan      itu,      Undang-Undang             ini     dibentuk     untuk
+           mengganti     Undang-Undang           Nomor          61   Tahun    1958       tentang    Penetapan
+           “Undang-Undang Darurat               No. 19 Tahun    1957 tentang Pembentukan
+           Daerah-Daerah Swatantra             Tingkat I Sumatera Barat, Jambi dan Riau”
+           (Lembaran-Negara Tahun              1957 No. 75), Sebagai Undang-Undang yang
+           memuat      penyempurnaan           dasar     hukum,       penyesuaian         cakupan     wilayah,
+           penegasan          karakteristik,     serta         sinkronisasi    peraturan           perundang-
+           undangan.
+
+     Il.   PASAL DEMI         PASAL
+
+           Pasal   1
+                   Cukup jelas.
+           Pasal 2
+                   Cukup jelas.
+           Pasal 3
+                   Ayat (1)
+                         Cukup jelas.
+                   Ayat (2)
+                         Yang     dimaksud      dengan         “nagari”   adalah     satuan   pemerintahan
+                         setingkat desa.
+           Pasal 4
+                   Cukup jelas.
+           Pasal 5
+                   Hurufa
+                        Yang termasuk taman nasional antara lain Taman Nasional
+                        Daerah Singgalang, sebagian Taman Nasional Kerinci Seblat,
+                        dan Taman Nasional Pulau Siberut.
+                   Huruf b
+                         Cukup jelas.
+                   Huruf c
+                          Pelaksanaan nilai falsafah adat basandi syara’, syara’ basandi
+                          kitabullah berlandaskan pada nilai-nilai Pancasila dan dalam
+                          kerangka Negara Kesatuan Republik Indonesia.
+
+
+
+                                                                                                      Yang...
+
+
+
+
+SK    No 142073 A
+
+<!-- PAGE: 9 -->
+
+                                                 ge
+
+
+
+                                               PRESIDEN
+                                         REPUBLIK INDONESIA
+                                                 -3-
+
+                      Yang     dimaksud     dengan     “adat   salingka    nagar?’   adalah    adat
+                      yang     berlaku   dalam   suatu   nagari   sesuai   dengan    prinsip   adat
+                      yang berlaku secara umum      dan diwarisi secara_ turun-
+                      temurun di Minangkabau, serta menjadi sarana mediasi bagi
+                      penyelesaian permasalahan warga adat di nagari tersebut.
+        Pasal 6
+              Cukup jelas.
+        Pasal 7
+                Cukup jelas.
+        Pasal 8
+                Cukup jelas.
+        Pasal 9
+              Cukup jelas.
+
+
+     TAMBAHAN     LEMBARAN       NEGARA     REPUBLIK      INDONESIA        NOMOR     6806
+
+
+
+
+SK   No 142074A

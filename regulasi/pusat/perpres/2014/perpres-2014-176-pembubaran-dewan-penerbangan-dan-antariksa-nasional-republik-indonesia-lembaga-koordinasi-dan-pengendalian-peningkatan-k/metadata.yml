@@ -1,0 +1,74 @@
+id: perpres-2014-176
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '176'
+nomor_lengkap: '176'
+tahun: 2014
+judul: Pembubaran Dewan Penerbangan Dan Antariksa Nasional Republik Indonesia, Lembaga
+  Koordinasi Dan Pengendalian Peningkatan Kesejahteraan Sosial Penyanj?Ang Cacat,
+  Dewan Buku Nasional, Komisi Hukum Nasional, Badan Kebijaksanaan Dan Pengendalian
+  Pembangunan Perumahan Dan Permukiman Nasional, Komite Antar Departemen Bidang Kehutanan,
+  Badan Pengembangan Kawasan Pengembangan Ekonomi Terpadu, Komite Aksi Nasional Penghapusan
+  Bentuk-Bentuk Pekerjaan Terburuk Untuk Anak, Dewan Pengembangan Kawasan Timur Indonesia,
+  Dan Dewan Gula Indonesia
+judul_lengkap: Peraturan Presiden Nomor 176 Tahun 2014 tentang Pembubaran Dewan Penerbangan
+  Dan Antariksa Nasional Republik Indonesia, Lembaga Koordinasi Dan Pengendalian Peningkatan
+  Kesejahteraan Sosial Penyanj?Ang Cacat, Dewan Buku Nasional, Komisi Hukum Nasional,
+  Badan Kebijaksanaan Dan Pengendalian Pembangunan Perumahan Dan Permukiman Nasional,
+  Komite Antar Departemen Bidang Kehutanan, Badan Pengembangan Kawasan Pengembangan
+  Ekonomi Terpadu, Komite Aksi Nasional Penghapusan Bentuk-Bentuk Pekerjaan Terburuk
+  Untuk Anak, Dewan Pengembangan Kawasan Timur Indonesia, Dan Dewan Gula Indonesia
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/Perpres+Nomor+176+Tahun+2014.md.

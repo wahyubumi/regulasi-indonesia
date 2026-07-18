@@ -1,0 +1,26 @@
+id: pp-1999-052
+judul: Peraturan Pemerintah Nomor 52 Tahun 1999 tentang PENAMBAHAN PENYERTAAN MODAL
+  NEGARA REPUBLIK INDONESIA KE DALAM MODAL PERUSAHAAN PERSEROAN (PERSERO) PT BANK
+  NEGARA INDONESIA Tbk., PERUSAHAAN PERSEROAN (PERSERO) PT BANK RAKYAT INDONESIA,
+  PERUSAHAAN PERSEROAN (PERSERO) PT BANK TABUNGAN NEGARA, DAN PERUSAHAAN PERSEROAN
+  (PERSERO) PT BANK MANDIRI DALAM RANGKA PROGRAM REKAPITALISASI BANK UMUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

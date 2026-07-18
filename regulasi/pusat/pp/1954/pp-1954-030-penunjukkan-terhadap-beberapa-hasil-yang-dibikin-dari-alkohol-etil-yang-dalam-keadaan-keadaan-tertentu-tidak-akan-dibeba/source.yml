@@ -1,0 +1,24 @@
+id: pp-1954-030
+judul: Peraturan Pemerintah Nomor 30 Tahun 1954 tentang Penunjukkan Terhadap Beberapa
+  Hasil Yang Dibikin Dari Alkohol-Etil, Yang Dalam Keadaan-Keadaan Tertentu Tidak
+  Akan Dibebani Sebagai Barang Alkohol Sulingan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

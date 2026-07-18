@@ -1,0 +1,27 @@
+id: pp-1981-053
+judul: Peraturan Pemerintah Nomor 53 Tahun 1981 tentang Pembentukan Kecamatan Muaragembong,
+  Kecamatan Tambelang Dan Kecamatan Bantargebang Di Kabupaten Daerah Tingkat Ii Bekasi,
+  Kecamatan Parakansalak, Kecamatan Gegerbitung, Kecamatan Cidolog, Kecamatan Tegalbuleud,
+  Kecamatan Kelibunder, Kecamatan Ciracap Di Kabupaten Daerah Tingkat Ii Sukabumi
+  Dan Kecamatan Selajambe Di Kabupaten Daerah Tingkat Ii Kuningan Dalam Wilayah Propinsi
+  Daerah Tingkat I Jawa Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

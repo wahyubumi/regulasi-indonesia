@@ -1,0 +1,26 @@
+id: perpres-2006-082
+judul: Peraturan Presiden Nomor 82 Tahun 2006 tentang Honorarium Anggota Dewan Pengarah
+  Dan Dewan Pengawas, Dan Remunerasi Kepala Badan Pelaksana, Wakil Kepala Badan Pelaksana,
+  Sekretaris Badan Pelaksana, Dan Deputi Badan Pelaksana Badan Rehabilitasi Dan Rekonstruksi
+  Wilayah Dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam Dan Kepulauan
+  Nias Provinsi Sumatera Utara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

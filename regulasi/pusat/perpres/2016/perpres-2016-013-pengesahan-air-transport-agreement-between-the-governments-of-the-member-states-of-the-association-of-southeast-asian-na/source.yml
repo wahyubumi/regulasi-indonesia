@@ -1,0 +1,29 @@
+id: perpres-2016-013
+judul: Peraturan Presiden Nomor 13 Tahun 2016 tentang Pengesahan Air Transport Agreement
+  Between The Governments Of The Member States Of The Association Of Southeast Asian
+  Nations And The Government Of The People'S Republic Of China (Persetujuan Angkutan
+  Udara Antara Pemerintah Negara-Negara Anggota Asosiasi Bangsa-Bangsa Asia Tenggara
+  Dengan Pemerintah Republik Rakyat Tiongkok) Beserta Protocol 1 On Unlimited Third
+  And Fourth Freedom Traffic Rights Between Any Points In Contracting Parties (Protokol
+  1 Mengenai Kebebasan Hak Angkut Ketiga Dan Keempat Yang Tidak Terbatas Antara Setiap
+  Titik Di Para Pihak)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

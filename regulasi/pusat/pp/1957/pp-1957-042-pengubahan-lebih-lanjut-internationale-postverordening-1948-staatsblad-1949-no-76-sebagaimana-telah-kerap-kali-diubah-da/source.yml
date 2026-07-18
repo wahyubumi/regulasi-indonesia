@@ -1,0 +1,25 @@
+id: pp-1957-042
+judul: Peraturan Pemerintah Nomor 42 Tahun 1957 tentang Pengubahan Lebih Lanjut "Internationale
+  Postverordening 1948" (Staatsblad 1949 No. 76), Sebagaimana Telah Kerap Kali Diubah
+  Dan Ditambah, Terakhir Dengan Peraturan Pemerintah No. 7 Tahun 1953 (Lembaran-Negara
+  Tahun 1953 No. 13)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

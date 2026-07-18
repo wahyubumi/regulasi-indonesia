@@ -1,0 +1,26 @@
+id: pp-1999-034
+judul: Peraturan Pemerintah Nomor 34 Tahun 1999 tentang PENYERTAAN MODAL NEGARA REPUBLIK
+  INDONESIA KE DALAM MODAL PT BANK LIPPO Tbk., PT.BANK INTERNASIONAL INDONESIA Tbk.,
+  PT BANK BALI Tbk., PT BANK UMUM KOPERASI INDONESIA, PT BANK UNIVERSAL Tbk., PT BANK
+  FRIMA EXPRESS, PT BANK ARTA MEDIA, DAN PT BANK PATRIOT DALAM RANGKA PROGRAM REKAPITALISASI
+  BANK UMUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

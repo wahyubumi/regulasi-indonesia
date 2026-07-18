@@ -1,0 +1,26 @@
+id: pp-1968-007
+judul: Peraturan Pemerintah Nomor 7 Tahun 1968 tentang PEROBAHAN DAN TAMBAHAN ATAS
+  PERATURAN PEMERINTAH TENTANG KEDUDUKAN KEUANGAN KETUA, WAKIL KETUA DAN ANGGOTA D.P.R.G.R.
+  SEBAGAIMANA DIATUR DENGAN PERATURAN PEMERINTAH NO.209 TAHUN 1961 DAN YANG TELAH
+  DIROBAH DAN DITAMBAH TERAKHIR DENGAN PERATURAN PEMERINTAH NO 15 TAHUN 1967 (LEMBARAN-NEGARA
+  TAHUN 1967 Nomor 27, TAMBAHAN LEMBARAN NEGARA Nomor 2835)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

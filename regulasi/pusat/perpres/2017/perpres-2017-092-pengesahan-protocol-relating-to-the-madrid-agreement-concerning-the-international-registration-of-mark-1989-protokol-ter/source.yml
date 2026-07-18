@@ -1,0 +1,25 @@
+id: perpres-2017-092
+judul: Peraturan Presiden Nomor 92 Tahun 2017 tentang Pengesahan Protocol Relating
+  To The Madrid Agreement Concerning The International Registration Of Mark, 1989
+  (Protokol Terkait Dengan Persetujuan Madrid Mengenai Pendaftaran Merek Secara Internasional,
+  1989)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

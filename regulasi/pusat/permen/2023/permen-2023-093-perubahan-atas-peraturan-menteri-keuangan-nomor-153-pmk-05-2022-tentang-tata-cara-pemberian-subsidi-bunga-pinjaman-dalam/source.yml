@@ -1,0 +1,24 @@
+id: permen-2023-093
+judul: Peraturan Menteri Nomor 93 Tahun 2023 tentang Perubahan Atas Peraturan Menteri
+  Keuangan Nomor 153/Pmk.05/2022 Tentang Tata Cara Pemberian Subsidi Bunga Pinjaman
+  Dalam Rangka Penyelenggaraan Cadangan Pangan Pemerintah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

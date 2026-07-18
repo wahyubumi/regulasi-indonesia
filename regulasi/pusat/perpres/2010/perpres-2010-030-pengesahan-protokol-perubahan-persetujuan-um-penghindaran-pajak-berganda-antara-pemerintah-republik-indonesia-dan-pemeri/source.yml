@@ -1,0 +1,28 @@
+id: perpres-2010-030
+judul: Peraturan Presiden Nomor 30 Tahun 2010 tentang PENGESAHAN PROTOKOL PERUBAHAN
+  PERSETUJUAN um PENGHINDARAN PAJAK BERGANDA ANTARA PEMERINTAH REPUBLIK INDONESIA
+  DAN PEMERINTAH MALAYSIA DAN PROTOKOLNYA YANG DITANDATANGANI DI KUALA LUMPUR pk TANGGAL
+  12 SEPTEMBER 1991 (PROTOCOL AMENDING THE AGREEMENT BETWEEN THE GOVERNMENT OF THE
+  REPUBLIC OF de INDONESIA AND THE GOVERNMENT OF MALAYSIA FOR THE AVOIDANCE OF DOUBLE
+  TAXATIONAND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME AND
+  ITS PROTOCOL SIGNED AT KUALA LUMPUR ON 12 SEPTEMBER 1991)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

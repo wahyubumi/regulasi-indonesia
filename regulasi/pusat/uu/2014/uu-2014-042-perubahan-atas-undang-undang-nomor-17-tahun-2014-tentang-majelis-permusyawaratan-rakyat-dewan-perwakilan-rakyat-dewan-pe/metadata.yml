@@ -1,0 +1,84 @@
+id: uu-2014-042
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '42'
+nomor_lengkap: '42'
+tahun: 2014
+judul: PERUBAHAN ATAS UNDANG-UNDANG NOMOR 17 TAHUN 2014 TENTANG MAJELIS PERMUSYAWARATAN
+  RAKYAT, DEWAN PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT
+  DAERAH I. UMUM Untuk mewujudkan kedaulatan rakyat berdasarkan kerakyatan yang dipimpin
+  oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan, diperlukan lembaga perwakilan
+  rakyat yang mampu menyerap dan memperjuangkan aspirasi rakyat guna mewujudkan tujuan
+  nasional demi kepentingan bangsa dan Negara Kesatuan Republik Indonesia secara optimal.
+  Hal ini sebagaimana diatur dalam ketentuan Pasal 4 ayat (1) Undang-Undang Dasar
+  Negara Republik Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun 1945) menyatakan
+  bahwa, “Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang
+  Dasar.” Selanjutnya ketentuan Pasal 17 ayat (1) UUD NRI Tahun 1945 menyatakan bahwa,
+  “Presiden dibantu oleh
+judul_lengkap: Undang-Undang Nomor 42 Tahun 2014 tentang PERUBAHAN ATAS UNDANG-UNDANG
+  NOMOR 17 TAHUN 2014 TENTANG MAJELIS PERMUSYAWARATAN RAKYAT, DEWAN PERWAKILAN RAKYAT,
+  DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH I. UMUM Untuk mewujudkan
+  kedaulatan rakyat berdasarkan kerakyatan yang dipimpin oleh hikmat kebijaksanaan
+  dalam permusyawaratan/perwakilan, diperlukan lembaga perwakilan rakyat yang mampu
+  menyerap dan memperjuangkan aspirasi rakyat guna mewujudkan tujuan nasional demi
+  kepentingan bangsa dan Negara Kesatuan Republik Indonesia secara optimal. Hal ini
+  sebagaimana diatur dalam ketentuan Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik
+  Indonesia Tahun 1945 (selanjutnya disebut UUD NRI Tahun 1945) menyatakan bahwa,
+  “Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang
+  Dasar.” Selanjutnya ketentuan Pasal 17 ayat (1) UUD NRI Tahun 1945 menyatakan bahwa,
+  “Presiden dibantu oleh
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/uu42-2014pjl.md.

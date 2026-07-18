@@ -1,0 +1,23 @@
+id: perpres-1963-002
+judul: Peraturan Presiden Nomor 2 Tahun 1963 tentang Anggaran Pendapatan Dan Belanja
+  Propinsi Irian Barat Untuk Masa 1 Mei - 31 Desember 1963 Kami,
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

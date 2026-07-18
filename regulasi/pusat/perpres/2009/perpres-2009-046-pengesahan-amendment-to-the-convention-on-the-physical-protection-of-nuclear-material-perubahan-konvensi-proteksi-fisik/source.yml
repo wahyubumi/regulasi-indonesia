@@ -1,0 +1,24 @@
+id: perpres-2009-046
+judul: Peraturan Presiden Nomor 46 Tahun 2009 tentang Pengesahan Amendment To The
+  Convention On The Physical Protection Of Nuclear Material (Perubahan Konvensi Proteksi
+  Fisik Bahan Nuklir)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,24 @@
+id: perpres-2026-008
+judul: Peraturan Presiden Nomor 8 Tahun 2026 tentang Rencana Aksi Nasional Pencegahan
+  Dan Penanggui,Angan Ekstremisme Berbasis Kekerasan Yang Mengarah Pada Terorisme
+  Tahun 2026-2029
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

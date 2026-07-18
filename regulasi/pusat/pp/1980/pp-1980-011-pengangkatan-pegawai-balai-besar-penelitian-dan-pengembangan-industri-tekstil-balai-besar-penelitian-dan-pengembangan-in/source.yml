@@ -1,0 +1,25 @@
+id: pp-1980-011
+judul: Peraturan Pemerintah Nomor 11 Tahun 1980 tentang Pengangkatan Pegawai Balai
+  Besar Penelitian Dan Pengembangan Industri Tekstil, Balai Besar Penelitian Dan Pengembangan
+  Industri Selulosa, Dan Balai Besar Pengembangan Logam Dan Mesin Menjadi Pegawai
+  Negeri Sipil
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

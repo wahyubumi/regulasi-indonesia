@@ -1,0 +1,24 @@
+id: pp-1976-010
+judul: Peraturan Pemerintah Nomor 10 Tahun 1976 tentang Perubahan Peraturan Pemerintah
+  Nomor 13 Tahun 1970 Tentang Pemberian Tunjangan Kepada Perintis Pergerakan Kebangsaan/Kemerdekaan
+  Sebagaimana Terakhir Diubah Dengan Peraturan Pemerintah Nomor 8 Tahun 1975
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

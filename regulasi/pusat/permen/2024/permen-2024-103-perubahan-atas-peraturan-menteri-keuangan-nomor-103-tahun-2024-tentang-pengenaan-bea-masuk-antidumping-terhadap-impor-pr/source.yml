@@ -1,0 +1,25 @@
+id: permen-2024-103
+judul: Peraturan Menteri Nomor 103 Tahun 2024 tentang Perubahan Atas Peraturan Menteri
+  Keuangan Nomor 103 Tahun 2024 Tentang Pengenaan Bea Masuk Antidumping Terhadap Impor
+  Produk Canai Lantaian Dari Besi Atau Baja Bukan Paduan Dari Republik Rakyat Tiongkok,
+  India, Rusia, Kazakhstan, Belarusia, Taiwan, Dan Thailand
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://satu.kemenkeu.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

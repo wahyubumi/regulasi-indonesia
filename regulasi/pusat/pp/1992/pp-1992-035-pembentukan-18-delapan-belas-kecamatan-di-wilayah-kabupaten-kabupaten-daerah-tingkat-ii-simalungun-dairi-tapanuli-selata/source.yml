@@ -1,0 +1,25 @@
+id: pp-1992-035
+judul: Peraturan Pemerintah Nomor 35 Tahun 1992 tentang Pembentukan 18 (Delapan Belas)
+  Kecamatan Di Wilayah Kabupaten-Kabupaten Daerah Tingkat Ii Simalungun, Dairi, Tapanuli
+  Selatan, Karo, Tapanuli Tengah, Nias, Langkat, Dan Di Wilayah Kotamadya Daerah Tingkat
+  Ii Medan Dalam Wilayah Propinsi Daerah Tingkat I Sumatera Utara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

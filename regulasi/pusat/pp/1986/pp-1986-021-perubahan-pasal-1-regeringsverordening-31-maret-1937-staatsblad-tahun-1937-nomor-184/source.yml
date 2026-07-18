@@ -1,0 +1,23 @@
+id: pp-1986-021
+judul: Peraturan Pemerintah Nomor 21 Tahun 1986 tentang Perubahan Pasal 1 Regeringsverordening
+  31 Maret 1937 (Staatsblad Tahun 1937 Nomor 184)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

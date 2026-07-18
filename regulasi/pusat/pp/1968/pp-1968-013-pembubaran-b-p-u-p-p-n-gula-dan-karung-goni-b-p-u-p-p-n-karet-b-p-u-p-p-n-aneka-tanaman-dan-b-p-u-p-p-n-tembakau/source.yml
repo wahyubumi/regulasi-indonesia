@@ -1,0 +1,24 @@
+id: pp-1968-013
+judul: Peraturan Pemerintah Nomor 13 Tahun 1968 tentang Pembubaran B.P.U. P.P.N. Gula
+  Dan Karung Goni, B.P.U. P.P.N. Karet, B.P.U. P.P.N. Aneka Tanaman Dan B.P.U. P.P.N.
+  Tembakau
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

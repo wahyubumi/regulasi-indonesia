@@ -1,0 +1,27 @@
+id: pp-1965-016
+judul: Peraturan Pemerintah Nomor 16 Tahun 1965 tentang Pembubaran Perusahaan-Perusahaan
+  Negara Farmasi Dan Alat Kesehatan "Kasa Husada", Industri Kulit, Industri Pemintalan,
+  Industri Pertenunan Dan Perajutan, Industri Makanan Danminuman Industri Keramik,
+  Industri Logam Dan Mesin, Industri Kimia, Industri Kayu Bahan Bangunan Dan Sabut,
+  Industtri Karet, Industri Nabati Dan Industri Es Dan Peleburannya Kedalam Beberapa
+  Perusahaan Daerah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

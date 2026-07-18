@@ -1,0 +1,75 @@
+id: perpres-2019-023
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '23'
+nomor_lengkap: '23'
+tahun: 2019
+judul: Pengesahan Protokol Perubahan Persetujuan Antara Pemerintah Republik Indonesia
+  Dan Pemerintah Meksiko Serikat Untuk Penghindaran Pajak Berganda Dan Pencegahan
+  Pengelakan Pajak Yang Berkenaan Dengan Pajak Atas Penghasilan Yang Ditandatangani
+  Di Kota Los Cabos Pada 6 September 2002 (Protocol Amending The Agreement Between
+  The Government Of The Republic Of Indonesia And The United Mexican States For The
+  Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion With Respect To
+  Taxes On Income Signed At The City Of Los Cabos On 6 September 2002)
+judul_lengkap: Peraturan Presiden Nomor 23 Tahun 2019 tentang Pengesahan Protokol
+  Perubahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Meksiko
+  Serikat Untuk Penghindaran Pajak Berganda Dan Pencegahan Pengelakan Pajak Yang Berkenaan
+  Dengan Pajak Atas Penghasilan Yang Ditandatangani Di Kota Los Cabos Pada 6 September
+  2002 (Protocol Amending The Agreement Between The Government Of The Republic Of
+  Indonesia And The United Mexican States For The Avoidance Of Double Taxation And
+  The Prevention Of Fiscal Evasion With Respect To Taxes On Income Signed At The City
+  Of Los Cabos On 6 September 2002)
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/ps23-2019.md.

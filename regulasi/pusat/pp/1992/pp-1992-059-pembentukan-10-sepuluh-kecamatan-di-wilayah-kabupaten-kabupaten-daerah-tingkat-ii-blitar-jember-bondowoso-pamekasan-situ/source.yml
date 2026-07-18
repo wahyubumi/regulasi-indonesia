@@ -1,0 +1,25 @@
+id: pp-1992-059
+judul: Peraturan Pemerintah Nomor 59 Tahun 1992 tentang Pembentukan 10 (Sepuluh) Kecamatan
+  Di Wilayah Kabupaten-Kabupaten Daerah Tingkat Ii Blitar, Jember, Bondowoso, Pamekasan,
+  Situbondo, Dan Di Wilayah Kotamadya Daerah Tingkat Ii Surabaya Dalam Wilayah Propinsi
+  Daerah Tingkat I Nusa Jawa Timur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

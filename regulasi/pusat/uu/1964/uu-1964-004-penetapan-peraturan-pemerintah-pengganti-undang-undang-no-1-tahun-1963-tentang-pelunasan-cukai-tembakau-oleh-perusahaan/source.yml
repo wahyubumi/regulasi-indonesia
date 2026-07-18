@@ -1,0 +1,25 @@
+id: uu-1964-004
+judul: Undang-Undang Nomor 4 Tahun 1964 tentang Penetapan Peraturan Pemerintah Pengganti
+  Undang-Undang No. 1 Tahun 1963 Tentang Pelunasan Cukai Tembakau Oleh Perusahaan
+  Hasil Tembakau Dan Pengeluaran Hasil-Hasil Tembakau Dari Perusahaan-Perusahaan Itu
+  Ke Dalam Peredaran Bebas (Lembaran Negara Tahun 1963 No. 11) Menjadi Undang-Undang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

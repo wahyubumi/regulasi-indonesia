@@ -1,0 +1,24 @@
+id: pp-1950-025
+judul: Peraturan Pemerintah Nomor 25 Tahun 1950 tentang Mengadakan Perubahan-Perubahan
+  Yang Dapat Menghilangkan Keganjilan-Keganjilan Yang Termaksud Dalam Peraturan Pemerintah
+  Republik Indonesia Serikat Nr 16, Tahun 1950
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

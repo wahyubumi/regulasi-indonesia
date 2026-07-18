@@ -1,0 +1,25 @@
+id: perpres-2012-009
+judul: Peraturan Presiden Nomor 9 Tahun 2012 tentang Penugasan Kepada Menteri Hukum
+  Dan Hak Asasi Manusia, Menteri Sekretaris Negara, Menteri Keuangan, Dan Jaksa Agung
+  Untuk Melakukan Penanganan Pengembalian Aset Hasil Tindak Pidana Terkait Kasus Pt
+  Bank Century, Tbk., Yang Berada Di Luar Negeri
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

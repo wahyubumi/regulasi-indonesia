@@ -1,0 +1,29 @@
+id: perpres-2017-024
+judul: Peraturan Presiden Nomor 24 Tahun 2017 tentang Pengesahan Protokol Perubahan
+  Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Kerajaan Belanda
+  Untuk Penghindaran Pajak Berganda Dan Pencegahan Pengelakan Pajak Yang Berkenaan
+  Dengan Pajak Atas Penghasilan Dan Protokolnya Yang Ditandatangani Di Jakarta Pada
+  Tanggal 29 Januari 2002 (Protocol Amending The Agreement Between The Government
+  Of The Republic Of Indonesia And The Government Of The Kingdom Of The Netherlands
+  For The Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion With Respect
+  To Taxes On Income, And Its Protocol, Signed At Jakarta On January 29, 2002)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

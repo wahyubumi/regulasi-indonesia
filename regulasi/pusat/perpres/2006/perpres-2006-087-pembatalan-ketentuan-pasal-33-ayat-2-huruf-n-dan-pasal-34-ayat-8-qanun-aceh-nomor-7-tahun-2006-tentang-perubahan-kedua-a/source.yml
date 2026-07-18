@@ -1,0 +1,26 @@
+id: perpres-2006-087
+judul: Peraturan Presiden Nomor 87 Tahun 2006 tentang Pembatalan Ketentuan Pasal 33
+  Ayat (2) Huruf N Dan Pasal 34 Ayat (8) Qanun Aceh Nomor 7 Tahun 2006 Tentang Perubahan
+  Kedua Atas Qanun Provinsi Nanggroe Aceh Darussalam Nomor 2 Tahun 2004 Tentang Pemilihan
+  Gubernur/Wakil Gubernur, Bupati/Wakil Bupati Dan Walikota/Wakil Walikota Di Provinsi
+  Nanggroe Aceh Darussalam
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: perpres-1963-001
+judul: Peraturan Presiden Nomor 1 Tahun 1963 tentang Perubahan Dan Tambahan Peraturan-Peraturan
+  Presiden Nomor 4 Dan Nomor 5 Tahun 1962 (Disempurnakan) Masing-Masing Tentang Pokok-Pokok
+  Organisasi Dan Pedoman Kerja Adminstratif (Peraturan Tata-Tertib) Aparatur Pemerintahan
+  Pada Tingkat Tertinggi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

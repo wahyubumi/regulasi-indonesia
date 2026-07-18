@@ -1,0 +1,24 @@
+id: permen-2026-043
+judul: Peraturan Menteri Nomor 43 Tahun 2026 tentang Pajak Pertambahan Nilai Atas
+  Penyerahan Jasa Angkutan Udara Niaga Berjadwal Dalam Negeri Kelas Ekonomi Pada Periode
+  Libur Sekolah Yang Ditanggung Pemerintah Tahun Anggaran 2026
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://satu.kemenkeu.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

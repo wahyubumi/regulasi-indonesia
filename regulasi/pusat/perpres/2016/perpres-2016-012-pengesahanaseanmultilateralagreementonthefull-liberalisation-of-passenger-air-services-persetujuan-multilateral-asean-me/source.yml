@@ -1,0 +1,28 @@
+id: perpres-2016-012
+judul: Peraturan Presiden Nomor 12 Tahun 2016 tentang Pengesahanaseanmultilateralagreementonthefull
+  Liberalisation Of Passenger Air Services (Persetujuan Multilateral Asean Mengenai
+  Liberalisasi Penuh Jasa Angkutan Udarapenumpang), Protocol 1 On Unlimited Third
+  And Fourth Freedom Traffic Rights Between Any Asean Cities (Protokol 1 Mengenaikebebasan
+  Hak Angkut Ketigadan Keempat Yang Tidak Terbatas Antara Kota-Kota Di Asean), Dan
+  Protocol 2 On Unlimited Fifthfreedom Traffic Rights Between Any Asean Cities (Protokol
+  2 Mengenai Kebebasan Hak Angkut Kelima Yang Tidak Terbatas Antara Kota-Kota Di Asean)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

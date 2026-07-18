@@ -1,0 +1,25 @@
+id: perpres-2022-107
+judul: Peraturan Presiden Nomor 107 Tahun 2022 tentang PENGESAHAN PROTOCOL TO AMEND
+  THE CHARTER OF THE ESTABLISHMBNT oF THD COUNCTL OF ZALM OIL PRODUCING COUNTRIBS
+  (PROTOKOL UNTUK MENGUBAH PIAGAM PEMBENTUKAN DEWAN NEGARA-NEGARA PRODUSEN MINYAK
+  SAWIT)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,29 @@
+id: perpres-2018-064
+judul: Peraturan Presiden Nomor 64 Tahun 2018 tentang Renovasi Dan Pengembangan Stadion
+  Manahan Solo Di Kota Surakarta Provinsi Jawa Tengah, Pembangunan Gedung Komite Olahraga
+  Nasional Indonesia Di Jakarta, Pembangunan Prasarana Olahraga Dan Kewirausahaan
+  Universitas Cendrawasih Di Kota Jayapura Provinsi Papua, Universitas Musamus Di
+  Kabupaten Merauke Provinsi Papua, Dan Universitas Papua Di Kabupaten Manokwari Provinsi
+  Papua Barat, Serta Rehabilitasi Bangunan Pasar Atas Bukittinggi Di Kota Bukittinggi
+  Provinsi Sumatera Barat, Pasar Aksara Di Kota Medan Provinsi Sumatera Utara, Dan
+  Pasar Prawirotaman Di Kota Yogyakarta Provinsi Daerah Istimewa Yogyakarta
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

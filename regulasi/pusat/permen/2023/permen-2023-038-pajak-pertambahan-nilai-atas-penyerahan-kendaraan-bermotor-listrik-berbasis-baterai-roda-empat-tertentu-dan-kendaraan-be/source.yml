@@ -1,0 +1,25 @@
+id: permen-2023-038
+judul: Peraturan Menteri Nomor 38 Tahun 2023 tentang Pajak Pertambahan Nilai Atas
+  Penyerahan Kendaraan Bermotor Listrik Berbasis Baterai Roda Empat Tertentu Dan Kendaraan
+  Bermotor Listrik Berbasis Baterai Bus Tertentu Yang Ditanggung Pemerintah Tahun
+  Anggaran 2023
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

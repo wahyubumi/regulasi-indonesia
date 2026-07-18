@@ -1,0 +1,25 @@
+id: perpres-1961-016
+judul: Peraturan Presiden Nomor 16 Tahun 1961 tentang Pengubahan Peraturan Presiden
+  Nomor 1 Tahun 1961 (Lembaran-Negara Tahun 1961 Nomor 5) Mengenai Pemberian Tambahan
+  Penghasilan Kepada Bekas Menteri Republik Indonesia Dahulu Dan Bekas Anggota Badan
+  Pekerja Komite Nasional Pusat Serta Janda-Janda Dan/Atau Anak Yatim Piatunya
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

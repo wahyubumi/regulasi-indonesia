@@ -1,0 +1,26 @@
+id: permen-2025-102
+judul: Peraturan Menteri Nomor 102 Tahun 2025 tentang Perubahan Atas Peraturan Menteri
+  Keuangan Nomor 102 Tahun 2025 Tentang Kebijakan Transfer Ke Daerah Dan Pinjaman
+  Pemulihan Ekonomi Nasional Daerah Tahun Anggaran 2025 Dan Tahun Anggaran 2026 Untuk
+  Percepatan Penanganan Darurat, Rehabilitasi, Dan Rekonstruksi Pascabencana Alam
+  Di Provinsi Aceh, Provinsi Sumatera Utara, Dan Provinsi Sumatera Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://satu.kemenkeu.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

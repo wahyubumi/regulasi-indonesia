@@ -1,0 +1,246 @@
+---
+id: "pp-1999-089"
+jenis: "pp"
+nomor: "89"
+tahun: 1999
+judul: "Peraturan Pemerintah Nomor 89 Tahun 1999 tentang Penggabungan Perusahaan Perseroan (Persero) Pt Perusahaan Hotel Dan Tourist Nasional (Natour Ltd) Ke Dalam Perusahaan Perseroan (Persero) Pt Hotel Indonesia Internasional"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Pemerintah Nomor 89 Tahun 1999 tentang Penggabungan Perusahaan Perseroan (Persero) Pt Perusahaan Hotel Dan Tourist Nasional (Natour Ltd) Ke Dalam Perusahaan Perseroan (Persero) Pt Hotel Indonesia Internasional
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: pp
+nomor: 89
+tahun: 1999
+tentang: Penggabungan Perusahaan Perseroan (Persero) Pt Perusahaan Hotel Dan Tourist Nasional (Natour Ltd) Ke Dalam Perusahaan Perseroan (Persero) Pt Hotel Indonesia Internasional
+---
+
+<!-- PAGE: 1 -->
+
+                                      PRESIDEN
+                                  REPUBLIK INDONESIA
+
+
+                 PERATURAN PEMERINTAH REPUBLIK INDONESIA
+                               NOMOR 89 TAHUN 1999
+                                      TENTANG
+            PENGGABUNGAN PERUSAHAAN PERSEROAN (PERSERO)
+     PT PERUSAHAAN HOTEL DAN TOURIST NASIONAL (NATOUR LTD)
+                 KE DALAM PERUSAHAAN PERSEROAN (PERSERO)
+                      PT HOTEL INDONESIA INTERNASIONAL
+
+
+                         PRESIDEN REPUBLIK INDONESIA,
+
+
+Menimbang :       a. bahwa dalam rangka lebih meningkatkan efisiensi dan efektivitas
+                     Badan Usaha Milik Negara di bidang industri sektor perhotelan,
+                     dipandang perlu melakukan penggabungan Perusahaan Perseroan
+                     (PERSERO) PT Perusahaan Hotel dan Tourist Nasional (Natour Ltd)
+                     yang didirikan berdasarkan Peraturan Pemerintah Nomor 4 Tahun
+                     1973 ke dalam Perusahaan Perseroan (PERSERO) PT Hotel
+                     Indonesia Internasional yang didirikan berdasarkan Peraturan
+                     Pemerintah Nomor 69 tahun 1971;
+
+                  b. bahwa penggabungan kedua Perusahaan Perseroan (PERSERO)
+                     tersebut perlu ditetapkan dengan Peraturan Pemerintah;
+
+
+
+Mengingat    :    1. Pasal 5 ayat (2) Undang-Undang Dadar 1945;
+
+                  2. Undang-undang Nomor 9 Tahun 1969 tentang Bentuk-bentuk Usaha
+                     Negara (Lembaran Negara Republik Indonesia Tahun 1969 Nomor
+                     16, Tambahan Lembaran Negara Nomor 2904);
+
+                  3. Undang-undang Nomor 1 tahun 1995 tentang Perseroan Terbatas
+                     (Lembaran Negara Republik Indonesia Tahun 1995 Nomor 13,
+                     Tambahan Lembaran Negara Nomor 3587);
+
+
+
+                                                                        4. Peraturan …
+
+<!-- PAGE: 2 -->
+
+                                  PRESIDEN
+                              REPUBLIK INDONESIA
+
+
+                                      -2-
+
+
+
+               4. Peraturan Pemerintah Nomor 69 Tahun 1971 tentang Pemerataan
+                  Modal Negara Republik Indonesia dalam modal PT Hotel Indonesia
+                  Internasional ("PT Hotel Indonesia Internasional Corporation
+                  Limited") (lembaran Negara Republik Indonesia Tahun 1971 Nomor
+                  89);
+
+               5. Peraturan Pemerintah Nomor 12 Tahun 1998 tentang Perusahaan
+                  Perseroan (PERSERO) (Lembaran Negara Republik Indonesia
+                  Tahun 1998 Nomor 15, Tambahan lembaran Negara Nomor 3587);
+
+               6. Peraturan Pemerintah Nomor 27 Tahun 1998 tentang Penggabungan,
+                  Peleburan dan Pengambilalihan (Lembaran Negara Republik
+                  Indonesia Tahun 1998 Nomor 40, Tambahan Lembaran Negara
+                  Nomor 3741);
+
+               7. Peraturan Pemerintah Nomor 50 Tahun 1998 tentang Pengalihan
+                  Kedudukan, Tugas dan Wewenang Menteri Keuangan Selaku
+                  Pemegang Saham atau Rapat Umum Pemegang Saham (RUPS) pada
+                  Perusahaan Perseroan kepada Menteri Negara Pendayagunaan Badan
+                  Usaha Milik Negara (Lembaran Negara Republik Indonesia Tahun
+                  1998 Nomor 82, Tambahan Lembaran Negara Nomor 3758);
+
+
+
+                                 MEMUTUSKAN:
+
+
+Menetapkan :   PERATURAN         PEMERINTAH     TENTANG      PENGGABUNGAN
+               PERUSAHAAN PERSEROAN (PERSERO) PT PERUSAHAAN
+               HOTEL DAN TOURIST NASIONAL (NATOUR LTD) KE DALAM
+               PERUSAHAAN         PERSEROAAN       (PERSERO)      PT     HOTEL
+               INDONESIA INTERNASIONAL.
+
+
+
+                                                                       BAB I …
+
+<!-- PAGE: 3 -->
+
+                   PRESIDEN
+               REPUBLIK INDONESIA
+
+
+                          -3-
+                         BAB I
+                PENGGABUNGAN
+
+
+                         Pasal 1
+Perusahaan Perseroan (PERSERO) PT Perusahaan Hotel dan Tourist
+Nasional (Natour Ltd) yang didirikan berdasarkan Peraturan Pemerintah
+Nomor 4 Tahun 1973 digabungkan ke dalam Perusahaan Perseroaan
+(PERSERO)     PT     Hotel   Indonesia     Internasional   yang    didirikan
+berdasarkan Peraturan Pemerintah Nomor 69 Tahun 1971.
+
+
+                         Pasal 2
+(1) Dengan penggabungan sebagaimana dimaksud dalam Pasal 1, maka
+   seluruh kekayaan, hak dan kewajiban serta karyawan Perusahaan
+   Perseroan (PERSERO) PT Perusahaan Hotel dan Tourist Nasional
+   (Natour Ltd) beralih karena hukum kepada Perusahaan Perseroan
+   (PERSERO) PT Hotel Indonesia Internasional.
+
+(2) Besarnya nilai kekayaan Negara yang dijadikan penambahan
+   penyertaan modal ke dalam modal saham Perusahaan Perseroan
+   (PERSERO)        PT   Hotel     Indoensia   Internasional   sebagaimana
+   dimaksud dalam ayat (1) ditetapkan oleh Menteri Keuangan.
+
+
+
+                         Pasal 3
+Perusahaan Perseroan (PERSERO) PT Hotel Indonesia Internasional
+hasil penggabungan sebagaimana dimaksud dalam Pasal 1 selanjutnya
+diubah namanya menjadi Perusahaan Perseroan (PERSERO) PT Hotel
+Indonesia Natour.
+
+
+
+
+                                                                  BAB II …
+
+
+                         BAB II
+
+<!-- PAGE: 4 -->
+
+                    PRESIDEN
+                REPUBLIK INDONESIA
+
+
+                            -4-
+       PELAKSANAAN PENGGABUNGAN
+
+
+                       Pasal 4
+Pelaksanaan penggabungan Perusahaan Perseroan (PERSERO) PT
+Perusahaan Hotel dan Tourist Nasional (Natour Ltd) ke dalam
+Perusahaan Perseroan (PERSERO) PT Hotel Indonesia Internasional
+sebagaimana dimaksud dalam BAB I, dilakukan menurut ketentuan
+Undang-undang Nomor 1 Tahun 1995 dan peraturan-peraturan
+pelaksanaannya dengan memperhatikan ketentuan Peraturan Pemerintah
+Nomor 12 Tahun 1998 dan Peraturan Pemerintah Nomor 50 Tahun 1998
+serta peraturan perundang-undangan lainnya yang berlaku.
+
+
+                       BAB III
+              KETENTUAN PENUTUP
+
+
+                       Pasal 5
+Terhitung sejak tanggal mulai berlakunya penggabungan sebagaimana
+dimaksud dalam Pasal 1, Peraturan Pemerintah Nomor 4 Tahun 1973
+tentang Penyertaan Modal Negara Republik Indonesia dalam Perusahaan
+Perseroan (PERSERO) PT Hotel dan Tourist Nasional (Natour Ltd),
+dinyatakan tidak berlaku.
+
+
+                       Pasal 6
+Ketentuan lebih lanjut yang diperlukan bagi pelaksanaan Peraturan
+Pemerintah ini diatur oleh Menteri Keuangan.
+
+
+                       Pasal 7
+Peraturan Pemerintah ini mulai berlaku pada tanggal ditetapkan.
+                                                              Agar …
+Agar setiap orang mengetahuinya, memerintahkan pengundangan
+Peraturan Pemerintah ini dengan penempatannya dalam Lembaran
+
+<!-- PAGE: 5 -->
+
+                                      PRESIDEN
+                                  REPUBLIK INDONESIA
+
+
+                                           -5-
+                   Negara Republik Indonesia.
+
+
+                                         Ditetapkan di Jakarta
+                                          pada tanggal 13 Oktober 1999
+
+
+                                         PRESIDEN REPUBLIK INDONESIA,
+
+
+                                                      ttd.
+
+
+                                         BACHARUDDIN JUSUF HABIBIE
+
+
+Diundangkan di Jakarta
+pada tanggal 13 Oktober 1999
+
+
+MENTERI NEGARA SEKRETARIS NEGARA
+      REPUBLIK INDONESIA,
+
+
+            ttd.
+
+
+        MULADI

@@ -1,0 +1,28 @@
+id: perpres-2012-023
+judul: Peraturan Presiden Nomor 23 Tahun 2012 tentang Pengesahan Agreement Between
+  The Government Of The Republic Of Indonesia And The Government Of The Republic Of
+  Zimbabwe For The Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion
+  With Respect To Taxes On Income And Capital Gains (Persetujuan Antara Pemerintah
+  Republik Indonesia Dan Pemerintah Republik Zimbabwe Untuk Penghindaran Pajak Berganda
+  Dan Pencegahan Pengelakan Pajak Yang Berhubungan Dengan Pajak Atas Penghasilan Dan
+  Atas Keuntungan Pemindahtanganan Harta)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,327 @@
+---
+id: "permen-2022-103"
+jenis: "permen"
+nomor: "103"
+tahun: 2022
+judul: "Peraturan Menteri Nomor 103 Tahun 2022 tentang Batas Daerah Kabupaten Situbondo Dengan Kabupaten Probolinggo Provinsi Jawa Timur"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 103 Tahun 2022 tentang Batas Daerah Kabupaten Situbondo Dengan Kabupaten Probolinggo Provinsi Jawa Timur
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 103
+tahun: 2022
+tentang: Batas Daerah Kabupaten Situbondo Dengan Kabupaten Probolinggo Provinsi Jawa Timur
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+No.1399, 2022              KEMENDAGRI. Kab. Situbondo. Kab. Probolinggo.
+                           Prov. Jawa Timur. Batas Daerah.
+
+
+      PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA
+                    NOMOR 103 TAHUN 2022
+                          TENTANG
+             BATAS DAERAH KABUPATEN SITUBONDO
+      DENGAN KABUPATEN PROBOLINGGO PROVINSI JAWA TIMUR
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+            MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+
+Menimbang   : bahwa untuk melaksanakan ketentuan Pasal 401 ayat (1)
+              Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan
+              Daerah, perlu menetapkan Peraturan Menteri Dalam Negeri
+              tentang Batas Daerah Kabupaten Situbondo dengan
+              Kabupaten Probolinggo Provinsi Jawa Timur;
+
+Mengingat   : 1.     Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
+                     Indonesia Tahun 1945;
+                2.   Undang-Undang Nomor 2 Tahun 1950 tentang
+                     Pembentukan Propinsi Djawa Timur sebagaimana telah
+                     diubah dengan Undang-Undang Nomor 18 Tahun 1950
+                     tentang Perubahan Undang-Undang Nomor 2 Tahun
+                     1950 tentang Pembentukan Propinsi Djawa Timur;
+                3.   Undang-Undang Nomor 12 Tahun 1950 tentang
+                     Pembentukan       Daerah-Daerah    Kabupaten   dalam
+                     Lingkungan Propinsi Djawa Timur sebagaimana telah
+                     diubah dengan Undang-Undang Nomor 2 Tahun 1965
+                     tentang Perubahan Batas Wilayah Kotapraja Surabaya
+                     dan Daerah Tingkat II Surabaya dengan mengubah
+                     Undang-Undang Nomor 12 Tahun 1950 tentang
+                     Pembentukan       Daerah-Daerah    Kabupaten   dalam
+                     Lingkungan Propinsi Djawa Timur dan Undang-Undang
+                     Nomor 16 Tahun 1950 tentang Pembentukan Daerah-
+                     Daerah Kota Besar dalam Lingkungan Propinsi Djawa
+                     Timur, Djawa Tengah, Djawa Barat, dan dalam Daerah
+                     Istimewa Jogjakarta      (Lembaran   Negara Republik
+                     Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran
+                     Negara Republik Indonesia Nomor 2730);
+                4.   Undang-Undang Nomor 39 Tahun 2008 tentang
+                     Kementerian Negara (Lembaran Negara Republik
+                     Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+                     Negara Republik Indonesia Nomor 4916);
+                5.   Undang-Undang Nomor 23 Tahun 2014 tentang
+                     Pemerintahan Daerah (Lembaran Negara Republik
+
+<!-- PAGE: 2 -->
+
+2022, No.1399                     -2-
+
+
+                     Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
+                     Negara Republik Indonesia Nomor 5587) sebagaimana
+                     telah diubah terakhir dengan Undang-Undang Nomor 11
+                     Tahun 2020 tentang Cipta Kerja (Lembaran Negara
+                     Republik Indonesia Tahun 2020 Nomor 245, Tambahan
+                     Lembaran Negara Republik Indonesia Nomor 6573);
+                6.   Peraturan Presiden Nomor 114 Tahun 2021 tentang
+                     Kementerian Dalam Negeri (Lembaran Negara Republik
+                     Indonesia Tahun 2021 Nomor 286);
+                7.   Peraturan Menteri Dalam Negeri Nomor 141 Tahun 2017
+                     tentang Penegasan Batas Daerah (Berita Negara Republik
+                     Indonesia Tahun 2018 Nomor 79);
+                8.   Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2021
+                     tentang Organisasi dan Tata Kerja Kementerian Dalam
+                     Negeri (Berita Negara Republik Indonesia Tahun 2021
+                     Nomor 398);
+
+                          MEMUTUSKAN:
+Menetapkan   : PERATURAN MENTERI DALAM NEGERI TENTANG BATAS
+               DAERAH KABUPATEN SITUBONDO DENGAN KABUPATEN
+               PROBOLINGGO PROVINSI JAWA TIMUR.
+
+                                          Pasal 1
+                Dalam Peraturan Menteri ini yang dimaksud dengan:
+                1. Provinsi Jawa Timur adalah daerah otonom sebagaimana
+                    dimaksud dalam Undang-Undang Nomor 2 Tahun 1950
+                    tentang    Pembentukan       Propinsi   Djawa  Timur
+                    sebagaimana telah diubah dengan Undang-Undang
+                    Nomor 18 Tahun 1950 tentang Perubahan Undang-
+                    Undang Nomor 2 Tahun 1950 tentang Pembentukan
+                    Propinsi Djawa Timur.
+                2. Kabupaten      Situbondo     adalah    daerah  otonom
+                    sebagaimana dimaksud dalam Undang-Undang Nomor 12
+                    Tahun 1950 tentang Pembentukan Daerah-Daerah
+                    Kabupaten Dalam Lingkungan Propinsi Djawa Timur
+                    sebagaimana telah diubah dengan Undang-Undang
+                    Nomor 2 Tahun 1965 tentang Perubahan Batas Wilayah
+                    Kotapraja Surabaya dan Daerah Tingkat II Surabaya
+                    dengan mengubah Undang-Undang Nomor 12 Tahun
+                    1950 tentang Pembentukan Daerah-Daerah Kabupaten
+                    Dalam Lingkungan Propinsi Djawa Timur dan Undang-
+                    Undang Nomor 16 Tahun 1950 tentang Pembentukan
+                    Daerah-Daerah Kota Besar Dalam Lingkungan Propinsi
+                    Djawa Timur, Djawa Tengah, Djawa Barat, dan Dalam
+                    Daerah Istimewa Jogjakarta.
+                3. Kabupaten      Probolinggo    adalah   daerah  otonom
+                    sebagaimana dimaksud dalam Undang-Undang Nomor 12
+                    Tahun 1950 tentang Pembentukan Daerah-Daerah
+                    Kabupaten Dalam Lingkungan Propinsi Djawa Timur
+                    sebagaimana telah diubah dengan Undang-Undang
+                    Nomor 2 Tahun 1965 tentang Perubahan Batas Wilayah
+                    Kotapraja Surabaya dan Daerah Tingkat II Surabaya
+                    dengan mengubah Undang-Undang Nomor 12 Tahun
+                    1950 tentang Pembentukan Daerah-Daerah Kabupaten
+                    Dalam Lingkungan Propinsi Djawa Timur dan Undang-
+
+<!-- PAGE: 3 -->
+
+                                              2022, No.1399
+                   -3-
+
+
+     Undang Nomor 16 Tahun 1950 tentang Pembentukan
+     Daerah-Daerah Kota Besar Dalam Lingkungan Propinsi
+     Djawa Timur, Djawa Tengah, Djawa Barat, dan Dalam
+     Daerah Istimewa Jogjakarta.
+4.   Pilar Batas Utama yang selanjutnya disingkat PBU
+     adalah pilar yang dipasang sebagai tanda batas
+     antardaerah provinsi/kabupaten/kota yang diletakkan
+     tepat pada batas antardaerah provinsi/kabupaten/kota.
+5.   Pilar Acuan Batas Utama yang selanjutnya disingkat
+     PABU adalah pilar yang dipasang sebagai tanda batas
+     antardaerah provinsi/kabupaten/kota yang diletakkan di
+     sisi batas alam atau buatan yang berfungsi sebagai titik
+     ikat garis batas antardaerah provinsi/kabupaten/kota.
+6.   Titik Kartometrik yang selanjutnya disingkat TK adalah
+     titik koordinat batas yang ditentukan berdasarkan
+     pengukuran atau penghitungan posisi titik dengan
+     menggunakan peta dasar dan peta lain sebagai
+     pelengkap.
+7.   Lintang Selatan yang selanjutnya disingkat LS adalah
+     garis khayal yang membagi bumi di bagian selatan.
+8.   Bujur Timur yang selanjutnya disingkat BT adalah garis
+     khayal menghubungkan titik kutub utara dan kutub
+     selatan bumi yang menyatakan besarnya sudut antara
+     posisi bujur dengan garis meridian yang berada di
+     sebelah timur.
+
+                           Pasal 2
+Batas daerah Kabupaten Situbondo dengan Kabupaten
+Probolinggo Provinsi Jawa Timur dimulai dari:
+a. TK.01 dengan koordinat 7° 42' 54.993" LS dan 113° 35'
+    52.305" BT;
+b. TK.01 selanjutnya ke arah barat daya sampai pada TK.02
+    dengan koordinat 7° 42' 59.772" LS dan 113° 35' 26.541"
+    BT;
+c.  TK.02 selanjutnya ke arah selatan menyusuri as atau
+    yang disebut Median Line Sungai sampai pada PABU 038
+    dengan koordinat 7° 43' 28.270" LS dan 113° 35' 25.660"
+    BT yang terletak di Desa Selobanteng Kecamatan
+    Banyuglugur Kabupaten Situbondo yang berbatasan
+    dengan Desa Bhinor Kecamatan Paiton Kabupaten
+    Probolinggo;
+d. PABU 038 selanjutnya ke arah barat daya sampai pada
+    TK.03 dengan koordinat 7° 43' 33.323" LS dan 113° 34'
+    45.507" BT;
+e.  TK.03 selanjutnya ke arah barat daya sampai pada PBU
+    039 dengan koordinat 7° 44'19.600" LS dan 113° 34'
+    23.800" BT yang terletak pada batas Desa Selobanteng
+    Kecamatan Banyuglugur Kabupaten Situbondo dengan
+    Desa Bhinor Kecamatan Paiton Kabupaten Probolinggo;
+f.  PBU 039 selanjutnya ke arah tenggara sampai pada
+    TK.04 dengan koordinat 7° 45' 22.304" LS dan 113° 34'
+    35.015" BT;
+g. TK.04 selanjutnya ke arah tenggara sampai pada PABU
+    040 dengan koordinat 7° 45' 32.100" LS dan 113° 35'
+    01.670" BT yang terletak di Desa Selobanteng Kecamatan
+
+<!-- PAGE: 4 -->
+
+2022, No.1399                      -4-
+
+
+                     Banyuglugur Kabupaten Situbondo yang berbatasan
+                     dengan    Desa    Curahtemu     Kecamatan     Kotaanyar
+                     Kabupaten Probolinggo;
+                h.   PABU 040 selanjutnya ke arah tenggara sampai pada
+                     PABU 041 dengan koordinat 7° 45' 52.490" LS dan 113°
+                     35' 27.980" BT yang terletak di Desa Curahtemu
+                     Kecamatan Kotaanyar Kabupaten Probolinggo yang
+                     berbatasan dengan Desa Selobanteng Kecamatan
+                     Banyuglugur Kabupaten Situbondo;
+                i.   PABU 041 selanjutnya ke arah tenggara menyusuri
+                     punggung atau yang disebut igir bukit sampai pada PABU
+                     042 dengan koordinat 7° 47' 53.600" LS dan 113° 36'
+                     14.600" BT yang terletak di Desa Blimbing Kecamatan
+                     Pakuniran Kabupaten Probolinggo yang berbatasan
+                     dengan    Desa   Curahsuri     Kecamatan    Jatibanteng
+                     Kabupaten Situbondo;
+                j.   PABU 042 selanjutnya ke arah barat daya menyusuri as
+                     atau yang disebut Median Line Kali Taman sampai pada
+                     TK.05 dengan koordinat 7° 48' 19.493" LS dan 113° 35'
+                     31.756" BT;
+                k.   TK.05 selanjutnya ke arah tenggara menyusuri as atau
+                     yang disebut Median Line Kali Taman sampai pada PABU
+                     043 dengan koordinat 7° 49' 12.367" LS dan 113° 36'
+                     22.067" BT yang terletak di Desa Curahsuri Kecamatan
+                     Jatibanteng Kabupaten Situbondo yang berbatasan
+                     dengan    Desa   Kalidandan     Kecamatan     Pakuniran
+                     Kabupaten Probolinggo;
+                l.   PABU 043 selanjutnya ke arah tenggara menyusuri as
+                     atau yang disebut Median Line Kali Taman sampai pada
+                     TK.06 dengan koordinat 7° 49' 26.517" LS dan 113° 36'
+                     42.121" BT;
+                m.   TK.06 selanjutnya ke arah barat daya menyusuri
+                     punggung atau yang disebut igir bukit sampai pada
+                     TK.07 dengan koordinat 7° 50' 35.060" LS dan 113° 36'
+                     10.528" BT;
+                n.   TK.07 selanjutnya ke arah tenggara sampai pada PBU
+                     044 dengan koordinat 7° 51' 34.900" LS dan 113° 36'
+                     31.200" BT yang terletak pada batas Desa Kembangsari
+                     Kecamatan Jatibanteng Kabupaten Situbondo dengan
+                     Desa Kedungsumur Kecamatan Pakuniran Kabupaten
+                     Probolinggo;
+                o.   PBU 044 selanjutnya ke arah tenggara sampai pada PBU
+                     045 dengan koordinat 7° 53' 29.182" LS dan 113° 37'
+                     14.367" BT yang terletak pada batas Desa Pategalan
+                     Kecamatan Jatibanteng Kabupaten Situbondo dengan
+                     Desa Batur Kecamatan Gading Kabupaten Probolinggo;
+                p.   PBU 045 selanjutnya ke arah tenggara menyusuri
+                     punggung atau yang disebut igir bukit sampai pada
+                     TK.08 dengan koordinat 7° 54' 59.234" LS dan 113° 37'
+                     34.586" BT;
+                q.   TK.08 selanjutnya ke arah barat daya sampai pada TK.09
+                     dengan koordinat 7° 57' 07.027" LS dan 113° 36' 45.450"
+                     BT;
+
+<!-- PAGE: 5 -->
+
+                                                                 2022, No.1399
+                                  -5-
+
+
+               r.   TK.09 selanjutnya ke arah timur sampai pada TK.10
+                    dengan koordinat 7° 57' 09.970" LS dan 113° 37' 21.183"
+                    BT;
+               s.   TK.10 selanjutnya ke arah barat daya sampai pada TK.11
+                    dengan koordinat 7° 57' 28.083" LS dan 113° 36' 55.969"
+                    BT; dan
+               t.   TK.11 selanjutnya ke arah tenggara sampai pada
+                    pertigaan batas antara Kabupaten Situbondo dengan
+                    Kabupaten Probolinggo dan Kabupaten Bondowoso yang
+                    ditandai oleh TK.12 dengan koordinat 7° 57' 41.243" LS
+                    dan 113° 37' 25.605" BT.
+
+                                          Pasal 3
+               Posisi PBU, PABU dan TK sebagaimana dimaksud dalam Pasal
+               2 bersifat tetap dan tidak berubah akibat perubahan nama
+               desa, nama kelurahan, dan/atau nama kecamatan.
+
+                                        Pasal 4
+               Ketentuan mengenai batas daerah dan koordinat batas
+               sebagaimana dimaksud dalam Pasal 2 tercantum pada Peta
+               Batas Daerah Kabupaten Situbondo dengan Kabupaten
+               Probolinggo Provinsi Jawa Timur dalam Lampiran yang
+               merupakan bagian tidak terpisahkan dari Peraturan Menteri
+               ini.
+
+                                            Pasal 5
+               Peraturan Menteri        ini mulai      berlaku   pada   tanggal
+               diundangkan.
+
+               Agar   setiap    orang   mengetahuinya,   memerintahkan
+               pengundangan Peraturan Menteri ini dengan penempatannya
+               dalam Berita Negara Republik Indonesia.
+
+
+                                   Ditetapkan di Jakarta
+                                   pada tanggal 26 Desember 2022
+
+                                   MENTERI DALAM NEGERI
+                                   REPUBLIK INDONESIA,
+
+                                                      ttd.
+
+                                   MUHAMMAD TITO KARNAVIAN
+
+
+Diundangkan di Jakarta
+pada tanggal 30 Desember 2022
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+        ttd.
+
+YASONNA H. LAOLY
+
+<!-- PAGE: 6 -->
+
+2022, No.1399   -6-

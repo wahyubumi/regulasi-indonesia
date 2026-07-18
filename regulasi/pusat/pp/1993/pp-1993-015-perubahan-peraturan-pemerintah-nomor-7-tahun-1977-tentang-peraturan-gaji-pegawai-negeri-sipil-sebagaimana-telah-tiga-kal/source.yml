@@ -1,0 +1,24 @@
+id: pp-1993-015
+judul: Peraturan Pemerintah Nomor 15 Tahun 1993 tentang Perubahan Peraturan Pemerintah
+  Nomor 7 Tahun 1977 Tentang Peraturan Gaji Pegawai Negeri Sipil Sebagaimana Telah
+  Tiga Kali Diubah, Terakhir Dengan Peraturan Pemerintah Nomor 51 Tahun 1992
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

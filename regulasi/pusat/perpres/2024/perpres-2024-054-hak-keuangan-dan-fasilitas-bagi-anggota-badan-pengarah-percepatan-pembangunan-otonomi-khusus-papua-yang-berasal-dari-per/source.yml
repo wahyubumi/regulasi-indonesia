@@ -1,0 +1,26 @@
+id: perpres-2024-054
+judul: Peraturan Presiden Nomor 54 Tahun 2024 tentang Hak Keuangan Dan Fasilitas Bagi
+  Anggota Badan Pengarah Percepatan Pembangunan Otonomi Khusus Papua Yang Berasal
+  Dari Perwakilan Dari Setiap Provinsi Di Provinsi Papua Serta Hak Keuangan Bagi Sekretaris
+  Eksekutif Dan Kepala Sekretariat Badan Pengarah Percepatan Pembangunan Otonomi Khusus
+  Papua
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

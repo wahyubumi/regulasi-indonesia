@@ -1,0 +1,24 @@
+id: perpres-1963-023
+judul: Peraturan Presiden Nomor 23 Tahun 1963 tentang Peraturan Penyesuaian Gaji Dan
+  Pangkat Pegawai Negeri Sipil Dan Anggota Kepolisian Negara Di Propinsi Irian Barat
+  Kedalam P.G.P.N.-1961/P.G.-Pol.-1961
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

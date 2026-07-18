@@ -1,0 +1,23 @@
+id: permen-2023-160
+judul: Peraturan Menteri Nomor 160 Tahun 2023 tentang Tarif Cukai Etil Alkohol, Minuman
+  Yang Mengandung Etil Alkohol, Dan Konsentrat Yang Mengandung Etil Alkohol
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

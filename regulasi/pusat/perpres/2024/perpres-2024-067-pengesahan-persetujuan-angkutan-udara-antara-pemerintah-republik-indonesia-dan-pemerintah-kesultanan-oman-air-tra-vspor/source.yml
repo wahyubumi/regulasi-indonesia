@@ -1,0 +1,25 @@
+id: perpres-2024-067
+judul: Peraturan Presiden Nomor 67 Tahun 2024 tentang PENGESAHAN PERSETUJUAN ANGKUTAN
+  UDARA ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH KESULTANAN OMAN (AIR TRA]VSPOR?AGREDMENT
+  BETWEEN THE GOWRNMENT OF THD REPUBLIC OF INDONESIA AND THE, GOI/ERNMENT OF THE SULTANATE
+  OF OIt[ANl
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

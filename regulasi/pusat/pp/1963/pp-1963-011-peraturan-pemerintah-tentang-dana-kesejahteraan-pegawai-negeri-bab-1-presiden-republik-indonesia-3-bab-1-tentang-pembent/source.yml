@@ -1,0 +1,24 @@
+id: pp-1963-011
+judul: Peraturan Pemerintah Nomor 11 Tahun 1963 tentang Peraturan Pemerintah tentang
+  Dana Kesejahteraan Pegawai Negeri. BAB 1. … PRESIDEN REPUBLIK INDONESIA -3- BAB
+  1. Tentang pembentukan dan kedudukan Dana Kesejahteraan Pegawai Negeri
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

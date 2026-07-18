@@ -1,0 +1,25 @@
+id: pp-1953-026
+judul: Peraturan Pemerintah Nomor 26 Tahun 1953 tentang Pengubahan Peraturan Pemerintah
+  Nomor 8 Tahun 1952 (Lembaran- Negara Nomor 13 Tahun 1952), Mengenai Pemberhentian
+  Dari Pekerjaan Untuk Sementara Waktu Dan Pemberhentian Dari Jabatan Negeri Sambil
+  Menunggu Keputusan Lebih Lanjut Bagi Pegawai Negeri Sipil
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

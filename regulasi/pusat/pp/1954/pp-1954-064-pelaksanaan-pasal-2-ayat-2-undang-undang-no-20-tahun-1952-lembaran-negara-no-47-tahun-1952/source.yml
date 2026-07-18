@@ -1,0 +1,23 @@
+id: pp-1954-064
+judul: Peraturan Pemerintah Nomor 64 Tahun 1954 tentang Pelaksanaan Pasal 2, Ayat
+  (2) Undang-Undang No. 20 Tahun 1952 (Lembaran-Negara No. 47 Tahun 1952)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

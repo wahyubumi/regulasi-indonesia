@@ -1,0 +1,25 @@
+id: pp-1957-009
+judul: Peraturan Pemerintah Nomor 9 Tahun 1957 tentang Mengubah/Menambah Peraturan
+  Pemerintah No. 5 Tahun 1950 (Lembaran-Negara Tahun 1950 No. 17) Tentang Peraturan
+  Pemberian Sokongan Kepada Janda Dan Anak Piatu Dari Anggota Tentara R.I.S./Bekas
+  Anggota T.N.I
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

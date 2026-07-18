@@ -1,0 +1,87 @@
+id: pp-2025-020
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '20'
+nomor_lengkap: '20'
+tahun: 2025
+judul: 'peraturan Pemcrintah tentang Pencabutan Ferahrran pemerintah Nomor 34 Tahun
+  2022 tcntang penambahan Penyertaan Modal Negara Republik Indonesia ke Dalam Modal
+  Saham Ferusatraan perscroan (persero) PTWaskita lGryaTbk; Mengingat I 1.""t 9 al,at
+  (2) Undang-Undang Dasar Negara Republik lndonesia Tahun l94S; 2. Undang-Undang.
+  . . SK No25474lA <!-- page: 2 --> PRESIDEN UBLIK INDONESIA -2- 2 Undang-Undang Nomor
+  19 Tahun 2OO3 tentang Badan Usaha Milik Negara (Lembaran Negara Republik Indonesia
+  Tahun 2003 Nomor 70, Tambahan kmbaran Negara Republik Indonesia Nomor 4297) sebagaimana
+  telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 1 Tahun 2O25 tentang
+  Perubahan Ketiga atas Undang-Undang Nomor 19 Tahun 2003 tentang Badan Usaha Milik
+  Negara (Irmbaran Negara Republik Indonesia Tahun 2025 Nomor 25, Tambahan lembaran
+  Negara Republik Indonesia Nomor 7097); MEMUTUSKAN: PERATURAN PEMERINTAH TENTANG
+  PENCABUTAN PERATURAN PEMERINTAH NOMOR 34 TAHUN 2022 TENTANG PENAMBAHAN PEI.IYERTAAN
+  MODAL NEGARA REPUBLIK INDONESIA KE DAI.AM MODAL SAHAM PERUSAHAAN PT WASKITA KARYATBK'
+judul_lengkap: 'Peraturan Pemerintah Nomor 20 Tahun 2025 tentang peraturan Pemcrintah
+  tentang Pencabutan Ferahrran pemerintah Nomor 34 Tahun 2022 tcntang penambahan Penyertaan
+  Modal Negara Republik Indonesia ke Dalam Modal Saham Ferusatraan perscroan (persero)
+  PTWaskita lGryaTbk; Mengingat I 1.""t 9 al,at (2) Undang-Undang Dasar Negara Republik
+  lndonesia Tahun l94S; 2. Undang-Undang. . . SK No25474lA <!-- page: 2 --> PRESIDEN
+  UBLIK INDONESIA -2- 2 Undang-Undang Nomor 19 Tahun 2OO3 tentang Badan Usaha Milik
+  Negara (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 70, Tambahan kmbaran
+  Negara Republik Indonesia Nomor 4297) sebagaimana telah beberapa kali diubah terakhir
+  dengan Undang-Undang Nomor 1 Tahun 2O25 tentang Perubahan Ketiga atas Undang-Undang
+  Nomor 19 Tahun 2003 tentang Badan Usaha Milik Negara (Irmbaran Negara Republik Indonesia
+  Tahun 2025 Nomor 25, Tambahan lembaran Negara Republik Indonesia Nomor 7097); MEMUTUSKAN:
+  PERATURAN PEMERINTAH TENTANG PENCABUTAN PERATURAN PEMERINTAH NOMOR 34 TAHUN 2022
+  TENTANG PENAMBAHAN PEI.IYERTAAN MODAL NEGARA REPUBLIK INDONESIA KE DAI.AM MODAL
+  SAHAM PERUSAHAAN PT WASKITA KARYATBK'
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp-no-20-tahun-2025.md.

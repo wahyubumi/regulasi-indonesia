@@ -1,0 +1,27 @@
+id: perpres-2011-024
+judul: Peraturan Presiden Nomor 24 Tahun 2011 tentang um PENGESAHAN PERSETUJUAN ANTARA
+  PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK SLOVAKIA MENGENAI KERJA SAMA
+  DI BIDANG ILMU PENGETAHUAN, PENDIDIKAN, KEBUDAYAAN, pk OLAHRAGA, DAN PEMUDA (AGREEMENT
+  BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE SLOVAK
+  REPUBLIC ON CO-OPERATION IN THE FIELDS de OF SCIENCE, EDUCATION, CULTURE, SPORTS
+  AND YOUTH)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,23 @@
+id: perpres-2007-001
+judul: Peraturan Presiden Nomor 1 Tahun 2007 tentang Pengesahan, Pengundangan, Dan
+  Penyebarluasan Peraturan Perundang-Undangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.djpp.depkumham.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

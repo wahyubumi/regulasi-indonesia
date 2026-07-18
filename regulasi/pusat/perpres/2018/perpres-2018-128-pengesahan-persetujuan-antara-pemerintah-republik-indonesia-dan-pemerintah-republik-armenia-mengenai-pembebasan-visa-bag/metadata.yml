@@ -1,0 +1,70 @@
+id: perpres-2018-128
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '128'
+nomor_lengkap: '128'
+tahun: 2018
+judul: Pengesahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah
+  Republik Armenia Mengenai Pembebasan Visa Bagi Pemegang Paspor Diplomatik Atau Paspor
+  Dinas (Agreement Between The Government Of The Republic Of Indonesia And The Government
+  Of The Republic Of Armenia On Visa Exemption For Holders Of Diplomatic Or Service
+  Passports)
+judul_lengkap: Peraturan Presiden Nomor 128 Tahun 2018 tentang Pengesahan Persetujuan
+  Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Armenia Mengenai Pembebasan
+  Visa Bagi Pemegang Paspor Diplomatik Atau Paspor Dinas (Agreement Between The Government
+  Of The Republic Of Indonesia And The Government Of The Republic Of Armenia On Visa
+  Exemption For Holders Of Diplomatic Or Service Passports)
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/ps128-2018.md.

@@ -1,0 +1,24 @@
+id: perpres-2016-025
+judul: Peraturan Presiden Nomor 25 Tahun 2016 tentang Pemberian Kompensasi Kepada
+  Warga Negara Indonesia Bekas Warga Provinsi Timor Timur Yang Berdomisili Di Luar
+  Provinsi Nusa Tenggara Timur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

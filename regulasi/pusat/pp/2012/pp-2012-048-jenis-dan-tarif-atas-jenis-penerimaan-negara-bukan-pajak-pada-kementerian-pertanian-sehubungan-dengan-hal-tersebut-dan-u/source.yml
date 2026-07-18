@@ -1,0 +1,27 @@
+id: pp-2012-048
+judul: Peraturan Pemerintah Nomor 48 Tahun 2012 tentang jenis dan tarif atas jenis
+  Penerimaan Negara Bukan Pajak pada Kementerian Pertanian. Sehubungan dengan hal
+  tersebut dan untuk melaksanakan ketentuan Undang-Undang Nomor 20 Tahun 1997 tentang
+  Penerimaan Negara Bukan Pajak, perlu ditetapkan jenis dan tarif atas jenis Penerimaan
+  Negara Bukan Pajak yang berlaku pada Kementerian Pertanian dengan Peraturan Pemerintah.
+  II. PASAL DEMI PASAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

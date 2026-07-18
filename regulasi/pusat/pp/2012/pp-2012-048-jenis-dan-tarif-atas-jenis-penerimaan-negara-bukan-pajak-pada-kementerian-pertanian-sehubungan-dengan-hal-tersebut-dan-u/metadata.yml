@@ -1,0 +1,71 @@
+id: pp-2012-048
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '48'
+nomor_lengkap: '48'
+tahun: 2012
+judul: jenis dan tarif atas jenis Penerimaan Negara Bukan Pajak pada Kementerian Pertanian.
+  Sehubungan dengan hal tersebut dan untuk melaksanakan ketentuan Undang-Undang Nomor
+  20 Tahun 1997 tentang Penerimaan Negara Bukan Pajak, perlu ditetapkan jenis dan
+  tarif atas jenis Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Pertanian
+  dengan Peraturan Pemerintah. II. PASAL DEMI PASAL
+judul_lengkap: Peraturan Pemerintah Nomor 48 Tahun 2012 tentang jenis dan tarif atas
+  jenis Penerimaan Negara Bukan Pajak pada Kementerian Pertanian. Sehubungan dengan
+  hal tersebut dan untuk melaksanakan ketentuan Undang-Undang Nomor 20 Tahun 1997
+  tentang Penerimaan Negara Bukan Pajak, perlu ditetapkan jenis dan tarif atas jenis
+  Penerimaan Negara Bukan Pajak yang berlaku pada Kementerian Pertanian dengan Peraturan
+  Pemerintah. II. PASAL DEMI PASAL
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp48-2012pjl.md.

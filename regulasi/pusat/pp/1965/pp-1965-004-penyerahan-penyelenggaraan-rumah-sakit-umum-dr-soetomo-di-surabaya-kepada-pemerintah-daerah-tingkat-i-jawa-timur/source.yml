@@ -1,0 +1,24 @@
+id: pp-1965-004
+judul: Peraturan Pemerintah Nomor 4 Tahun 1965 tentang Penyerahan/Penyelenggaraan
+  Rumah Sakit Umum "Dr. Soetomo" Di Surabaya Kepada Pemerintah Daerah Tingkat I Jawa
+  Timur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,31 @@
+id: perpres-2017-077
+judul: Peraturan Presiden Nomor 77 Tahun 2017 tentang Pengesahan Protokol Perubahan
+  Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Malaysia Untuk Penghindaran
+  Pajak Berganda Dan Pencegahan Pengelakan Pajak Yang Berkaitan Dengan Pajak Atas
+  Penghasilan Yang Ditandatangani Di Kuala Lumpur Pada Tanggal 12 September 1991,
+  Yang Telah Diubah Dengan Protokol Yang Ditandatangani Di Bukit Tinggi Pada Tanggal
+  12 Januari 2006 (Protocol Amending The Agreement Between The Government Of The Republic
+  Of Indonesia And The Government Of Malaysia For The Avoidance Of Double Taxation
+  And The Prevention Of Fiscal Evasion With Respect To Taxes On Income Signed At Kuala
+  Lumpur On 12 September 1991, As Amended By The Protocol Signed At Bukit Tinggi On
+  12 January 2006)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

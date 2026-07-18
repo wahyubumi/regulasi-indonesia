@@ -1,0 +1,26 @@
+id: perpres-2011-004
+judul: Peraturan Presiden Nomor 4 Tahun 2011 tentang PENGESAHAN PERSETUJUAN ANTARA
+  PEMERINTAH REPUBLIK INDONESIA um DAN PEMERINTAH AMERIKA SERIKAT TENTANG KERJA SAMA
+  ILMIAH DAN TEKNOLOGI (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA
+  AND THE pk GOVERNMENT OF THE UNITED STATES OF AMERICA ON SCIENTIFIC AND TECHNOLOGICAL
+  COOPERATION) de
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

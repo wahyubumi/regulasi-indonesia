@@ -1,0 +1,23 @@
+id: pp-1954-015
+judul: Peraturan Pemerintah Nomor 15 Tahun 1954 tentang Tunjangan Ikatan Dinas Bagi
+  Mahasiswa Calon Pegawai Negeri Sipil Yang Belajar Di Dalam Dan Di Luar Negeri
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

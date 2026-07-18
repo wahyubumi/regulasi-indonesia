@@ -1,0 +1,71 @@
+id: perpres-2011-025
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '25'
+nomor_lengkap: '25'
+tahun: 2011
+judul: um PENGESAHAN AGREEMENT ON TRADE IN GOODS OF THE FRAMEWORK AGREEMENT ON COMPREHENSIVE
+  ECONOMIC CO-OPERATION BETWEEN THE ASSOCIATION OF SOUTHEAST ASIAN NATIONS AND THE
+  PEOPLE’S pk REPUBLIC OF CHINA (PERSETUJUAN PERDAGANGAN BARANG DALAM PERSETUJUAN
+  KERANGKA KERJA MENGENAI KERJA SAMA EKONOMI de MENYELURUH ANTARA PERHIMPUNAN BANGSA-BANGSA
+  ASIA TENGGARA DAN REPUBLIK RAKYAT CHINA)
+judul_lengkap: Peraturan Presiden Nomor 25 Tahun 2011 tentang um PENGESAHAN AGREEMENT
+  ON TRADE IN GOODS OF THE FRAMEWORK AGREEMENT ON COMPREHENSIVE ECONOMIC CO-OPERATION
+  BETWEEN THE ASSOCIATION OF SOUTHEAST ASIAN NATIONS AND THE PEOPLE’S pk REPUBLIC
+  OF CHINA (PERSETUJUAN PERDAGANGAN BARANG DALAM PERSETUJUAN KERANGKA KERJA MENGENAI
+  KERJA SAMA EKONOMI de MENYELURUH ANTARA PERHIMPUNAN BANGSA-BANGSA ASIA TENGGARA
+  DAN REPUBLIK RAKYAT CHINA)
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/ps25-2011.md.

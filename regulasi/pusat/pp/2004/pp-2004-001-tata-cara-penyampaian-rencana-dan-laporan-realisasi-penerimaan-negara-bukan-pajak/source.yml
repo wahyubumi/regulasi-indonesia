@@ -1,0 +1,23 @@
+id: pp-2004-001
+judul: Peraturan Pemerintah Nomor 1 Tahun 2004 tentang Tata Cara Penyampaian Rencana
+  Dan Laporan Realisasi Penerimaan Negara Bukan Pajak
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.djpp.depkumham.go.id/inc/buka.php?czoyNToiZD0yMDAwKzQmZj1wcDEt
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

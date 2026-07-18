@@ -1,0 +1,24 @@
+id: pp-2011-027
+judul: Peraturan Pemerintah Nomor 27 Tahun 2011 tentang pk PEMINDAHAN IBU KOTA KABUPATEN
+  KERINCI DARI WILAYAH KOTA SUNGAIPENUH KE WILAYAH KECAMATAN SIULAK de KABUPATEN KERINCI
+  PROVINSI JAMBI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

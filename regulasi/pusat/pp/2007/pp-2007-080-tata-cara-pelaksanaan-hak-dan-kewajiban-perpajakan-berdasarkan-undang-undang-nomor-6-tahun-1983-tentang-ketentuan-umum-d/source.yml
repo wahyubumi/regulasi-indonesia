@@ -1,0 +1,25 @@
+id: pp-2007-080
+judul: Peraturan Pemerintah Nomor 80 Tahun 2007 tentang Tata Cara Pelaksanaan Hak
+  Dan Kewajiban Perpajakan Berdasarkan Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan
+  Umum Dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan
+  Undang-Undang Nomor 28 Tahun 2007
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

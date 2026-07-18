@@ -1,0 +1,26 @@
+id: perpres-2006-047
+judul: Peraturan Presiden Nomor 47 Tahun 2006 tentang Tunjangan Jabatan Fungsional
+  Dokter, Dokter Gigi, Apoteker, Asisten Apoteker, Pranata Laboratorium Kesehatan,
+  Epidemiolog Kesehatan, Entomolog Kesehatan, Sanitarian, Administrator Kesehatan,
+  Penyuluh Kesehatan Masyarakat, Perawat Gigi, Nutrisionis, Bidan, Perawat, Radiografer,
+  Perekam Medis, Dan Teknisi Elektromedis
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

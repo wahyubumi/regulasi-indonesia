@@ -1,0 +1,23 @@
+id: permen-2025-074
+judul: Peraturan Menteri Nomor 74 Tahun 2025 tentang Tarif Layanan Badan Layanan Umum
+  Rumah Sakit Umum Adhyaksa Pada Kejaksaan Agung Republik Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

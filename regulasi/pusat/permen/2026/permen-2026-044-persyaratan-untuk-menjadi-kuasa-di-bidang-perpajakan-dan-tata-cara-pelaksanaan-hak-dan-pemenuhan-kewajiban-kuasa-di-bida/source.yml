@@ -1,0 +1,24 @@
+id: permen-2026-044
+judul: Peraturan Menteri Nomor 44 Tahun 2026 tentang Persyaratan Untuk Menjadi Kuasa
+  Di Bidang Perpajakan Dan Tata Cara Pelaksanaan Hak Dan Pemenuhan Kewajiban Kuasa
+  Di Bidang Perpajakan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://satu.kemenkeu.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

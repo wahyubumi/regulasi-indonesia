@@ -1,0 +1,25 @@
+id: pp-1996-020
+judul: Peraturan Pemerintah Nomor 20 Tahun 1996 tentang Perubahan Atas Peraturan Pemerintah
+  Republik Indonesia Nomor 50 Tahun 1994 Tentang Pelaksanaan Undang-Undang Nomor 8
+  Tahun 1983 Tentang Pajak Pertambahan Nilai Barang Dan Jasa Dan Pajak Penjualan Atas
+  Barang Mewah Sebagaimana Telah Diubah Dengan Undang-Undang Nomor 11 Tahun 1994
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

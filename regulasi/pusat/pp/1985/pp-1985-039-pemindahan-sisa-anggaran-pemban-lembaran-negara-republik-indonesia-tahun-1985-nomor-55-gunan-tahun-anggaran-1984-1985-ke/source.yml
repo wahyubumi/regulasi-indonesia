@@ -1,0 +1,24 @@
+id: pp-1985-039
+judul: Peraturan Pemerintah Nomor 39 Tahun 1985 tentang Pemindahan Sisa Anggaran Pemban
+  Lembaran Negara Republik Indonesia Tahun 1985 Nomor 55 Gunan Tahun Anggaran 1984/1985
+  Kepada Tahun Anggaran 1985/1986
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

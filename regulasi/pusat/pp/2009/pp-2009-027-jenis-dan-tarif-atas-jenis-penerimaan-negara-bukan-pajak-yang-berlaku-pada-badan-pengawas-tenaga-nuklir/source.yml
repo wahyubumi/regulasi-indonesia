@@ -1,0 +1,23 @@
+id: pp-2009-027
+judul: Peraturan Pemerintah Nomor 27 Tahun 2009 tentang Jenis Dan Tarif Atas Jenis
+  Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Pengawas Tenaga Nuklir
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

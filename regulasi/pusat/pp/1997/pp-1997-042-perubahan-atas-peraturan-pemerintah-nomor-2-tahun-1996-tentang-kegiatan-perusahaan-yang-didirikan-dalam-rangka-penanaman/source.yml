@@ -1,0 +1,24 @@
+id: pp-1997-042
+judul: Peraturan Pemerintah Nomor 42 Tahun 1997 tentang Perubahan Atas Peraturan Pemerintah
+  Nomor 2 Tahun 1996 Tentang Kegiatan Perusahaan Yang Didirikan Dalam Rangka Penanaman
+  Modal Asing Di Bidang Ekspor Dan Impor
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

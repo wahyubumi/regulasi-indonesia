@@ -1,0 +1,25 @@
+id: pp-1960-028
+judul: Peraturan Pemerintah Nomor 28 Tahun 1960 tentang Pemeriksaan Pada Departemen-Departemen,
+  Jawatan-Jawatan Dan Perusahaan-Perusahaan Negara Dan Pada Instansi- Insatansi Serta
+  Badan-Badan Yang Menyelenggarakan Tata- Usaha Dan Pembukuan Seta Mengurus Uang,
+  Surat-Surat Beharga Dan Barang-Barang Milik Negara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

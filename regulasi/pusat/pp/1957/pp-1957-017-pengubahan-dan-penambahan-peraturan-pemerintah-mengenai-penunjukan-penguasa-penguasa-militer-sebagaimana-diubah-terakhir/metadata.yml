@@ -1,0 +1,67 @@
+id: pp-1957-017
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '17'
+nomor_lengkap: '17'
+tahun: 1957
+judul: Pengubahan Dan Penambahan Peraturan Pemerintah Mengenai Penunjukan Penguasa-Penguasa
+  Militer Sebagaimana Diubah Terakhir Dengan Peraturan Pemerintah No. 13 Tahun 1957
+  (Lembaran-Negara No. 22 Tahun 1957)
+judul_lengkap: Peraturan Pemerintah Nomor 17 Tahun 1957 tentang Pengubahan Dan Penambahan
+  Peraturan Pemerintah Mengenai Penunjukan Penguasa-Penguasa Militer Sebagaimana Diubah
+  Terakhir Dengan Peraturan Pemerintah No. 13 Tahun 1957 (Lembaran-Negara No. 22 Tahun
+  1957)
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp17-1957.md.

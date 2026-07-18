@@ -1,0 +1,25 @@
+id: permen-2024-064
+judul: Peraturan Menteri Nomor 64 Tahun 2024 tentang Perubahan Atas Peraturan Menteri
+  Perindustrian Nomor 64 Tahun 2024 Tentang Pemberlakuan Standar Nasional Indonesia
+  Untuk Baja Lembaran, Pelat, Dan Gulungan Canai Panas Dan Baja Lembaran Dan Gulungan
+  Canai Dingin Secara Wajib
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

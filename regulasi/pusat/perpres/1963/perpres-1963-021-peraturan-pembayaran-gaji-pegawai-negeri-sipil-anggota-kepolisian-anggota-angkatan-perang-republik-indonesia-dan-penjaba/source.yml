@@ -1,0 +1,25 @@
+id: perpres-1963-021
+judul: Peraturan Presiden Nomor 21 Tahun 1963 tentang Peraturan Pembayaran Gaji Pegawai
+  Negeri Sipil, Anggota Kepolisian, Anggota Angkatan Perang Republik Indonesia Dan
+  Penjabat-Penjabat Negeri Lainnya Di Daerah Kepulauan Riau Yang Meliputi Kewedanaan
+  Tanjung Pinang, Lingga Karimun Dan Pulau Tujuh
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

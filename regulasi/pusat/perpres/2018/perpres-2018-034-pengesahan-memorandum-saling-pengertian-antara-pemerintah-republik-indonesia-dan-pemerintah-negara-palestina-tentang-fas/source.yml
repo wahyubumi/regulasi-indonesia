@@ -1,0 +1,27 @@
+id: perpres-2018-034
+judul: Peraturan Presiden Nomor 34 Tahun 2018 tentang Pengesahan Memorandum Saling
+  Pengertian Antara Pemerintah Republik Indonesia Dan Pemerintah Negara Palestina
+  Tentang Fasilitasi Perdagangan Untuk Produk Tertentu Yang Berasal Dari Wilayah Palestina
+  (Memorandum Of Understanding Between The Government Of The Republic Of Indonesia
+  And The Government Of The State Of Palestine On Trade Facilitation For Certain Products
+  Originating From Palestinian Territories)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

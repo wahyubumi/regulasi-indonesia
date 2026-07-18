@@ -1,0 +1,24 @@
+id: perpres-2015-076
+judul: Peraturan Presiden Nomor 76 Tahun 2015 tentang Pemberian Dana Antisipasi Untuk
+  Melunasi Pembelian Tanah Dan Bangunan Milik Masyarakat Yang Terkena Luapan Lumpur
+  Sidoarjo Dalam Peta Area Terdampak 22 Maret 2007
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

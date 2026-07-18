@@ -1,0 +1,26 @@
+id: pp-2018-032
+judul: Peraturan Pemerintah Nomor 32 Tahun 2018 tentang Tata Cara Pengunduran Diri
+  Dalam Pencalonan Anggota Dewan Perwakilan Rakyat, Anggota Dewan Perwakilan Daerah,
+  Anggota Dewan Perwakilan Rakyat Daerah, Presiden, Dan Wakil Presiden, Permintaan
+  Izin Dalam Pencalonan Presiden Dan Wakil Presiden, Serta Cuti Dalam Pelaksanaan
+  Kampanye Pemilihan Umum
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: pp-1998-046
+judul: Peraturan Pemerintah Nomor 46 Tahun 1998 tentang Perubahan Atas Peraturaan
+  Pemerintah Nomor 2 Tahun 1996 Tentang Kegiatan Perusahaan Yang Didirikan Dalam Rangka
+  Penanaman Modal Asing Di Bidang Ekspor Dan Impor, Sebagaimana Telah Beberapa Kali
+  Diubah Terakhir Dengan Peraturan Pemerintah Nomor 16 Tahun 1998
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,27 @@
+id: perpres-2020-078
+judul: Peraturan Presiden Nomor 78 Tahun 2020 tentang Pengesahan Perjanjian Negara
+  Tuan Rumah Antara Pemerintah Republik Indonesia Dan Global Green Growth Institute
+  Tentang Kantor Global Green Growth Institute Di Republik Indonesia (Host Country
+  Agreement Between The Government Of The Republic Of Indonesia And The Global Green
+  Growth Institute Relating To The Office Of The Global Green Growth Institute In
+  The Republic Of Indonesia)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,71 @@
+id: perpres-2015-051
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '51'
+nomor_lengkap: '51'
+tahun: 2015
+judul: Pengesahan Agreement On Dispute Settlement Mechanism Under The Framework Agreement
+  On Comprehensive Economic Cooperation Between The Association Of Southeast Asian
+  Nations And The Republic Of India (Persetujuan Tentang Mekanisme Penyelesaian Sengketa
+  Berdasarkan Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara
+  Asosiasi Bangsa-Bangsa Asia Tenggara Dan Republik India)
+judul_lengkap: Peraturan Presiden Nomor 51 Tahun 2015 tentang Pengesahan Agreement
+  On Dispute Settlement Mechanism Under The Framework Agreement On Comprehensive Economic
+  Cooperation Between The Association Of Southeast Asian Nations And The Republic
+  Of India (Persetujuan Tentang Mekanisme Penyelesaian Sengketa Berdasarkan Persetujuan
+  Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Asosiasi Bangsa-Bangsa
+  Asia Tenggara Dan Republik India)
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/ps51-2015.md.

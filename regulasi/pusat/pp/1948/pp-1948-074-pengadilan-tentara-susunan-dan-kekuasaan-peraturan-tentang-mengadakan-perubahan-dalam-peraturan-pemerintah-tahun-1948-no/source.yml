@@ -1,0 +1,24 @@
+id: pp-1948-074
+judul: Peraturan Pemerintah Nomor 74 Tahun 1948 tentang Pengadilan Tentara. Susunan
+  Dan Kekuasaan. Peraturan Tentang Mengadakan Perubahan Dalam Peraturan Pemerintah
+  Tahun 1948 Nomor 37 Dari Hal Susunan Dan Kekuasaan Pengadilan/Kejaksaan Tentara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

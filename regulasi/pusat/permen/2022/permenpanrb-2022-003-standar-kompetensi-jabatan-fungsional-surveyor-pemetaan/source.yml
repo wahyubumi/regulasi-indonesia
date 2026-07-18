@@ -1,0 +1,23 @@
+id: permenpanrb-2022-003
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  3 Tahun 2022 tentang Standar Kompetensi Jabatan Fungsional Surveyor Pemetaan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,72 @@
+id: perpres-2025-063
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '63'
+nomor_lengkap: '63'
+tahun: 2025
+judul: PENGESAHAN PROTOKOL PERUBAHAN PERSEf,UJUAN KEMITRAAN EKONOMI KOMPREHENSTF AITTARA
+  PEMERIT{TAH REPUBLIK INDONESI.A DAN PEMERII{TAH REPUBLIK CHILE UNTUK PENGGABUNGAN
+  KETENTUAN-KETENTUAN PERDAGANGAN JASA (PROTOCI2L TO AMEND TTTE @MPRETIEN$I/E E@NOMIC
+  PAKINERSIilP AGREEMENT BE|WEEN ?'ITE @!/ERNMENTOFTHE RE.PITBLIC OF i,IDONESIA ATTD
+  TITE CAyERNMENT OF TAE NAPua|UC OF CHII.E FOR TITE N@RrcRA,.ION oF PROWsIOiyS ON
+  TRADE IN SERWCE"SI
+judul_lengkap: Peraturan Presiden Nomor 63 Tahun 2025 tentang PENGESAHAN PROTOKOL
+  PERUBAHAN PERSEf,UJUAN KEMITRAAN EKONOMI KOMPREHENSTF AITTARA PEMERIT{TAH REPUBLIK
+  INDONESI.A DAN PEMERII{TAH REPUBLIK CHILE UNTUK PENGGABUNGAN KETENTUAN-KETENTUAN
+  PERDAGANGAN JASA (PROTOCI2L TO AMEND TTTE @MPRETIEN$I/E E@NOMIC PAKINERSIilP AGREEMENT
+  BE|WEEN ?'ITE @!/ERNMENTOFTHE RE.PITBLIC OF i,IDONESIA ATTD TITE CAyERNMENT OF TAE
+  NAPua|UC OF CHII.E FOR TITE N@RrcRA,.ION oF PROWsIOiyS ON TRADE IN SERWCE"SI
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/perpres-no-63-tahun-2025.md.

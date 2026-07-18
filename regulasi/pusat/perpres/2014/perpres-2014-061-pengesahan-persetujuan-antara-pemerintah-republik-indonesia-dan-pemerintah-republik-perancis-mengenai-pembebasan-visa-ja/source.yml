@@ -1,0 +1,27 @@
+id: perpres-2014-061
+judul: Peraturan Presiden Nomor 61 Tahun 2014 tentang Pengesahan Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Pemerintah Republik Perancis Mengenai Pembebasan
+  Visa Jangka Pendek Bagi Pemegang Paspor Diplomatik Atau Paspor Dinas (Accord Entre
+  Le Gouvernement De La République D’Indonesié Et Le Gouvernement De La République
+  Française Sur L’Exemption De Visas De Court Sejour Pour Les Titulaires D’Un Passeport
+  Diplomatique Ou De Service)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

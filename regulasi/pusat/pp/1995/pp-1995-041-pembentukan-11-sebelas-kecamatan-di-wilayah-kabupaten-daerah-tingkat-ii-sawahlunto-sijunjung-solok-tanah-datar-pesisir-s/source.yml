@@ -1,0 +1,25 @@
+id: pp-1995-041
+judul: Peraturan Pemerintah Nomor 41 Tahun 1995 tentang Pembentukan 11 (Sebelas) Kecamatan
+  Di Wilayah Kabupaten Daerah Tingkat Ii Sawahlunto/Sijunjung, Solok, Tanah Datar,
+  Pesisir Selatan, Padang Pariaman, 50 Kota Dan Pasaman Dalam Wilayah Propinsi Daerah
+  Tingkat I Sumatera Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

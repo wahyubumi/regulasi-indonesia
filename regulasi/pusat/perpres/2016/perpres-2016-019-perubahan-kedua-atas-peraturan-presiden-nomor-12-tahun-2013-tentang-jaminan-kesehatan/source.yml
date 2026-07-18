@@ -1,0 +1,23 @@
+id: perpres-2016-019
+judul: Peraturan Presiden Nomor 19 Tahun 2016 tentang Perubahan Kedua Atas Peraturan
+  Presiden Nomor 12 Tahun 2013 Tentang Jaminan Kesehatan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

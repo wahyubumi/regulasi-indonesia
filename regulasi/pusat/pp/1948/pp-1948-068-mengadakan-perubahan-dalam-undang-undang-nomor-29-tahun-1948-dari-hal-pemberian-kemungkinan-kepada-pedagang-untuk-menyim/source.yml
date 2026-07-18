@@ -1,0 +1,24 @@
+id: pp-1948-068
+judul: Peraturan Pemerintah Nomor 68 Tahun 1948 tentang Mengadakan Perubahan Dalam
+  Undang-Undang Nomor 29 Tahun 1948 Dari Hal Pemberian Kemungkinan Kepada Pedagang
+  Untuk Menyimpan Jagung, Gaplek Dan Lain Sebagainya
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

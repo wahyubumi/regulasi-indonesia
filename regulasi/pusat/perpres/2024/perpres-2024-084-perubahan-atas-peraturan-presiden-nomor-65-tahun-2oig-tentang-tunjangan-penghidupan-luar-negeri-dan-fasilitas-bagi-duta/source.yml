@@ -1,0 +1,26 @@
+id: perpres-2024-084
+judul: Peraturan Presiden Nomor 84 Tahun 2024 tentang PERUBAHAN ATAS PERATURAN PRESIDEN
+  NOMOR 65 TAHUN 2OIg TENTANG TUNJANGAN PENGHIDUPAN LUAR NEGERI DAN FASILITAS BAGI
+  DUTA BESAR LUAR BIASA DAN BERKUASA PENUH, PEGAWAI NEGERI SIPIL, PRA"IURIT TENTARA
+  NASIONAL INDONESIA, DAN ANGGOTA KEPOLISIAN NEGARA REPUBLIK INDONESIA PADA PERWAKILAN
+  REPUBLIK INDONESIA DI LUAR NEGERI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

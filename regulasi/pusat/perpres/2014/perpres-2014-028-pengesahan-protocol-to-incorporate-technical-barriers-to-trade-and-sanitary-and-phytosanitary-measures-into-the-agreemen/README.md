@@ -1,0 +1,33 @@
+# Peraturan Presiden Nomor 28 Tahun 2014 tentang Pengesahan Protocol To Incorporate Technical Barriers To Trade And Sanitary And Phytosanitary Measures Into The Agreement On Trade In Goods Of The Framework Agreement On Comprehensive Economic Co-Operation Between The Association Of Southeast Asian Nations And The People’S Republic Of China (Protokol Untuk Menambahkan Aturan Hambatan Teknis Perdagangan Dan Kebijakan Sanitary Dan Phytosanitary Dalam Persetujuan Perdagangan Barang Dari Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Asosiasi Bangsa-Bangsa Asia Tenggara Dan Republik Rakyat China)
+
+## Ringkasan
+
+Ringkasan belum diisi. Ringkasan tidak boleh menggantikan teks resmi regulasi.
+
+## Informasi Utama
+
+| Elemen | Isi |
+|---|---|
+| Jenis | Peraturan Presiden |
+| Nomor | 28 |
+| Tahun | 2014 |
+| Judul | Pengesahan Protocol To Incorporate Technical Barriers To Trade And Sanitary And Phytosanitary Measures Into The Agreement On Trade In Goods Of The Framework Agreement On Comprehensive Economic Co-Operation Between The Association Of Southeast Asian Nations And The People’S Republic Of China (Protokol Untuk Menambahkan Aturan Hambatan Teknis Perdagangan Dan Kebijakan Sanitary Dan Phytosanitary Dalam Persetujuan Perdagangan Barang Dari Persetujuan Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Asosiasi Bangsa-Bangsa Asia Tenggara Dan Republik Rakyat China) |
+| Status | perlu_verifikasi |
+| Tingkat | pusat |
+| Sumber | belum_diisi |
+
+## File
+
+- [`dokumen.md`](dokumen.md)
+- [`metadata.yml`](metadata.yml)
+- [`source.yml`](source.yml)
+- [`relasi.yml`](relasi.yml)
+- [`quality-check.yml`](quality-check.yml)
+
+## Catatan Konversi
+
+Status konversi: needs_review.
+
+## Peringatan
+
+Dokumen Markdown ini adalah hasil konversi untuk kebutuhan pencarian, analisis, dan pemrosesan teks. Untuk rujukan hukum resmi, tetap gunakan sumber regulasi resmi.

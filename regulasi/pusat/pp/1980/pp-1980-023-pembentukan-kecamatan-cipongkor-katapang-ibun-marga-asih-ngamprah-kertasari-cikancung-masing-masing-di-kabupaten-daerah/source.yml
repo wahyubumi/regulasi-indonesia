@@ -1,0 +1,25 @@
+id: pp-1980-023
+judul: Peraturan Pemerintah Nomor 23 Tahun 1980 tentang Pembentukan Kecamatan Cipongkor,
+  Katapang, Ibun, Marga Asih, Ngamprah, Kertasari, Cikancung Masing-Masing Di Kabupaten
+  Daerah Tingkat Ii Bandung Dan Kecamatan Serang Di Kabupaten Daerah Tingkat Ii Bekasi
+  Dalam Wilayah Propinsi Daerah Tingkat I Jawa Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

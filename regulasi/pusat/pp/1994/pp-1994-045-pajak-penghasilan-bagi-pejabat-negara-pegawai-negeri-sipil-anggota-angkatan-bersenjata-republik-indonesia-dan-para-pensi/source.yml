@@ -1,0 +1,25 @@
+id: pp-1994-045
+judul: Peraturan Pemerintah Nomor 45 Tahun 1994 tentang Pajak Penghasilan Bagi Pejabat
+  Negara, Pegawai Negeri Sipil, Anggota Angkatan Bersenjata Republik Indonesia, Dan
+  Para Pensiunan Atas Penghasilan Yang Dibebankan Kepada Keuangan Negara Atau Keuangan
+  Daerah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

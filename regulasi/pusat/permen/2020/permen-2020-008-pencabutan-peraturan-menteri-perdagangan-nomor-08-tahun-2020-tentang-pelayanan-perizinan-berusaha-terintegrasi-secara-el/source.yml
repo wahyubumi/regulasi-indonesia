@@ -1,0 +1,29 @@
+id: permen-2020-008
+judul: Peraturan Menteri Nomor 08 Tahun 2020 tentang Pencabutan Peraturan Menteri
+  Perdagangan Nomor 08 Tahun 2020 Tentang Pelayanan Perizinan Berusaha Terintegrasi
+  Secara Elektronik Di Bidang Perdagangan Sebagaimana Telah Diubah Dengan Peraturan
+  Menteri Perdagangan Nomor 64 Tahun 2020 Tentang Perubahan Atas Peraturan Menteri
+  Perdagangan Nomor 08 Tahun 2020 Tentang Pelayanan Perizinan Berusaha Terintegrasi
+  Secara Elektronik Di Bidang Perdagangan Dan Peraturan Menteri Perdagangan Nomor
+  22 Tahun 2020 Tentang Integrasi Pelayanan Perizinan Berusaha Secara Elektronik Di
+  Bidang Perdagangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

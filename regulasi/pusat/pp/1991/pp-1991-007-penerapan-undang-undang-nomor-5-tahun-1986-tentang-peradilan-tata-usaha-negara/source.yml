@@ -1,0 +1,23 @@
+id: pp-1991-007
+judul: Peraturan Pemerintah Nomor 7 Tahun 1991 tentang Penerapan Undang-Undang Nomor
+  5 Tahun 1986 Tentang Peradilan Tata Usaha Negara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

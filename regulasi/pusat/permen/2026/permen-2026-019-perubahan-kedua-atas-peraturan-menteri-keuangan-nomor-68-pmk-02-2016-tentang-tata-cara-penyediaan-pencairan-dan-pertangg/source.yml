@@ -1,0 +1,24 @@
+id: permen-2026-019
+judul: Peraturan Menteri Nomor 19 Tahun 2026 tentang Perubahan Kedua Atas Peraturan
+  Menteri Keuangan Nomor 68/Pmk.02/2016 Tentang Tata Cara Penyediaan, Pencairan, Dan
+  Pertanggungjawaban Dana Subsidi Pupuk
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://satu.kemenkeu.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

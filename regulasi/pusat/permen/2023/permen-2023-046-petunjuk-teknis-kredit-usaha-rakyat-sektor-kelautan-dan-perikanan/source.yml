@@ -1,0 +1,23 @@
+id: permen-2023-046
+judul: Peraturan Menteri Nomor 46 Tahun 2023 tentang Petunjuk Teknis Kredit Usaha
+  Rakyat Sektor Kelautan Dan Perikanan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://satudata.kkp.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

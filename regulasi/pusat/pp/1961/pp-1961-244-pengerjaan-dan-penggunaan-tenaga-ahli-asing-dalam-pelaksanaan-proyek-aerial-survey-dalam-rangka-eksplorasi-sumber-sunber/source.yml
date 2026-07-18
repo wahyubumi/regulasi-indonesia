@@ -1,0 +1,24 @@
+id: pp-1961-244
+judul: Peraturan Pemerintah Nomor 244 Tahun 1961 tentang Pengerjaan Dan Penggunaan
+  Tenaga Ahli Asing Dalam Pelaksanaan Proyek Aerial Survey Dalam Rangka Eksplorasi
+  Sumber-Sunber Kekayaan Alam Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

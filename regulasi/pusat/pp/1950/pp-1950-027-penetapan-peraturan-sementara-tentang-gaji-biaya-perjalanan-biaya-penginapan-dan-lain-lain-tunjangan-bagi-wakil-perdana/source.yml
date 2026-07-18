@@ -1,0 +1,24 @@
+id: pp-1950-027
+judul: Peraturan Pemerintah Nomor 27 Tahun 1950 tentang Penetapan Peraturan Sementara
+  Tentang Gaji, Biaya Perjalanan, Biaya Penginapan Dan Lain-Lain Tunjangan Bagi Wakil
+  Perdana Menteri
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

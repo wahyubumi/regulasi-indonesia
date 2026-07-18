@@ -1,0 +1,25 @@
+id: perpres-2015-132
+judul: Peraturan Presiden Nomor 132 Tahun 2015 tentang Pengesahan The International
+  Convention For The Control And Management Of Ships’ Ballast Water And Sediments,
+  2004 (Konvensi Internasional Untuk Pengendalian Dan Manajemen Air Ballas Dan Sedimen
+  Dari Kapal, 2004)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

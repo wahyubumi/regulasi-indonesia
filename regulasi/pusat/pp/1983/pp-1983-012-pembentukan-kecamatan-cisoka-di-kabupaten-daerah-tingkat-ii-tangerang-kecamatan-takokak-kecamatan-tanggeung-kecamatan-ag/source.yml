@@ -1,0 +1,27 @@
+id: pp-1983-012
+judul: Peraturan Pemerintah Nomor 12 Tahun 1983 tentang Pembentukan Kecamatan Cisoka
+  Di Kabupaten Daerah Tingkat Ii Tangerang, Kecamatan Takokak, Kecamatan Tanggeung,
+  Kecamatan Agrabinta, Kecamatan Naringgul Di Kabupaten Daerah Tingkat Ii Cianjur,
+  Kecamatan Selaawi, Kecamatan Leuwigoong, Kecamatan Cibalong, Kecamatan Banjarwangi,
+  Dan Kecamatan Talegong Di Kabupaten Daerah Tingkat Ii Garut Dalam Wilayah Propinsi
+  Daerah Tingkat I Jawa Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

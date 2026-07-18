@@ -1,0 +1,27 @@
+id: perpres-2018-112
+judul: Peraturan Presiden Nomor 112 Tahun 2018 tentang Pengesahan Protocol To Amend
+  The Framework On Comprehensive Economic Co-Operation And Certain Agreements Thereunder
+  Between The Association Of Southeast Asian Nations (Asean) And The People’S Republic
+  Of China (Protokol Untuk Mengubah Persetujuan Kerangka Kerja Mengenai Kerja Sama
+  Ekonomi Dan Persetujuan Tertentu Antara Perhimpunan Bangsa-Bangsa Asia Tenggara
+  Dan Republik Rakyat Tiongkok)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

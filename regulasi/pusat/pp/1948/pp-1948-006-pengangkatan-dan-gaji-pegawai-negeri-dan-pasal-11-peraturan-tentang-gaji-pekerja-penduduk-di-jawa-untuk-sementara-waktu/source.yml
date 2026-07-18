@@ -1,0 +1,25 @@
+id: pp-1948-006
+judul: Peraturan Pemerintah Nomor 6 Tahun 1948 tentang Pengangkatan dan Gaji Pegawai
+  Negeri dan Pasal 11 Peraturan Tentang Gaji Pekerja Penduduk di Jawa. Untuk Sementara
+  Waktu Menjalankan Lagi "Reglement Omtrent Het Verlenen Van Binnenlandsche Verloven
+  Aan Burgerlijke Landsdienaren”
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

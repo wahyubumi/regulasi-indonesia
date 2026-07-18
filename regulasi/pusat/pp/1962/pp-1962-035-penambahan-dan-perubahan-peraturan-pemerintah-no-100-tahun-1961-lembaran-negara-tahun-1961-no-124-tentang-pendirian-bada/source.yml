@@ -1,0 +1,25 @@
+id: pp-1962-035
+judul: Peraturan Pemerintah Nomor 35 Tahun 1962 tentang Penambahan Dan Perubahan Peraturan
+  Pemerintah No. 100 Tahun 1961 (Lembaran-Negara Tahun 1961 No. 124) Tentang Pendirian
+  Badan Pimpinan Umum Industri Kimia (Penjelasan Dalam Tambahan Lembaran-Negara No.
+  2520)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

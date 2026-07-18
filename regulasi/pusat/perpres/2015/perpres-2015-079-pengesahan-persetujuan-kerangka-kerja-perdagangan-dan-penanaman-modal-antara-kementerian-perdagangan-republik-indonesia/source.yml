@@ -1,0 +1,27 @@
+id: perpres-2015-079
+judul: Peraturan Presiden Nomor 79 Tahun 2015 tentang Pengesahan Persetujuan Kerangka
+  Kerja Perdagangan Dan Penanaman Modal Antara Kementerian Perdagangan Republik Indonesia
+  Dan Kementerian Perencanaan Dan Pembangunan Ekonomi Nasional Republik Uni Myanmar
+  (Framework Agreement On Trade And Investment Between The Ministry Of Trade Of The
+  Republic Of Indonesia And The Ministry Of National Planning And Economic Development
+  Of The Republic Of The Union Of Myanmar)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

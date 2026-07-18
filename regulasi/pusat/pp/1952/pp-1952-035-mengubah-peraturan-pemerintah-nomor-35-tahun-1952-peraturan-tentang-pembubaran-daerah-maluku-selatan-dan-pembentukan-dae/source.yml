@@ -1,0 +1,25 @@
+id: pp-1952-035
+judul: Peraturan Pemerintah Nomor 35 Tahun 1952 tentang Mengubah Peraturan Pemerintah
+  Nomor 35 Tahun 1952 (Peraturan Tentang Pembubaran Daerah Maluku Selatan Dan Pembentukan
+  Daerah Maluku Tengah Dan Daerah Maluku Tenggara, Lembaran- Negara Tahun 1952 Nomor
+  49)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

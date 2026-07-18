@@ -1,0 +1,203 @@
+---
+id: "pp-1993-020"
+jenis: "pp"
+nomor: "20"
+tahun: 1993
+judul: "Peraturan Pemerintah Nomor 20 Tahun 1993 tentang Perubahan Peraturan Pemerintah Nomor 11 Tahun 1985 Tentang Hak Keuangan/Administratif Jaksa Agung, Panglima Angkatan Bersenjata, Dan Gubernur Bank Indonesia Sebagaimana Telah Diubah Dengan Peraturan Pemerintah Nomor 56 Tahun 1992"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Pemerintah Nomor 20 Tahun 1993 tentang Perubahan Peraturan Pemerintah Nomor 11 Tahun 1985 Tentang Hak Keuangan/Administratif Jaksa Agung, Panglima Angkatan Bersenjata, Dan Gubernur Bank Indonesia Sebagaimana Telah Diubah Dengan Peraturan Pemerintah Nomor 56 Tahun 1992
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: pp
+nomor: 20
+tahun: 1993
+tentang: Perubahan Peraturan Pemerintah Nomor 11 Tahun 1985 Tentang Hak Keuangan/Administratif Jaksa Agung, Panglima Angkatan Bersenjata, Dan Gubernur Bank Indonesia Sebagaimana Telah Diubah Dengan Peraturan Pemerintah Nomor 56 Tahun 1992
+---
+
+<!-- PAGE: 1 -->
+
+                                     PRESIDEN
+                                REPUBLIK INDONESIA
+
+
+            PERATURAN PEMERINTAH REPUBLIK INDONESIA
+                             NOMOR 20 TAHUN 1993
+                                   TENTANG
+    PERUBAHAN PERATURAN PEMERINTAH NOMOR 11 TAHUN 1985
+      TENTANG HAK KEUANGAN/ADMINISTRATIF JAKSA AGUNG,
+                PANGLIMA ANGKATAN BERSENJATA, DAN
+GUBERNUR BANK INDONESIA SEBAGAIMANA TELAH DIUBAH DENGAN
+            PERATURAN PEMERINTAH NOMOR 56 TAHUN 1992
+
+
+
+
+                     PRESIDEN REPUBLIK INDONESIA,
+
+
+
+
+Menimbang : bahwa gaji pokok Jaksa Agung, Panglima Angkatan Bersenjata, dan
+              Gubernur Bank Indonesia sebagaimana ditetapkan dalam Peraturan
+              Pemerintah Nomor 56 Tahun 1992, dipandang tidak sesuai lagi dengan
+              perkembangan keadaan, sehingga perlu diperbaiki;
+
+
+Mengingat   : 1. Pasal 5 ayat (2) Undang-Undang Dasar 1945;
+
+              2. Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok
+                 Kepegawaian (Lembaran Negara Tahun 1974 Nomor 55, Tambahan
+                 Lembaran Negara Nomor 3041);
+
+              3. Undang-undang Nomor 5 Tahun 1991 tentang Kejaksaan Republik
+                 Indonesia (Lembaran Negara Tahun 1991 Nomor 59, Tambahan
+                 Lembaran Negara Nomor 3459);
+
+              4. Peraturan   Pemerintah   Nomor      50   Tahun   1980   tentang   Hak
+                 Keuangan/Administratif Menteri Negara dan Bekas Menteri Negara
+                 Serta Janda/Dudanya (Lembaran Negara Tahun 1980 Nomor 78,
+                 Tambahan Lembaran Negara Nomor 3184) jo Peraturan Pemerintah
+                 Nomor 18 Tahun 1993 (Lembaran Negara Nomor 24);
+
+                                                                         5. Peraturan…
+
+<!-- PAGE: 2 -->
+
+                                    PRESIDEN
+                               REPUBLIK INDONESIA
+
+                                     -   2   -
+
+
+
+
+          5. Peraturan    Pemerintah      Nomor     11    Tahun   1985    tentang   Hak
+               Keuangan/Administratif Jaksa Agung, Panglima Angkatan Bersenjata,
+               Dan Gubernur Bank Indonesia (Lembaran Negara Tahun 1985 Nomor
+               17);
+
+
+
+                               MEMUTUSKAN :
+
+
+Menetapkan : PERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG
+          PERUBAHAN PERATURAN PEMERINTAH NOMOR 11 TAHUN
+          1985 TENTANG HAK KEUANGAN/ADMINISTRATIF JAKSA
+          AGUNG,         PANGLIMA            ANGKATAN         BERSENJATA,           DAN
+          GUBERNUR          BANK         INDONESIA        SEBAGAIMANA          TELAH
+          DIUBAH DENGAN PERATURAN PEMERINTAH NOMOR 56
+          TAHUN 1992.
+
+
+
+
+                                     Pasal I
+
+
+          1.     Mengubah ketentuan Pasal 1 dan Pasal 3 Peraturan Pemerintah
+                 Nomor 11 Tahun 1985 sebagaimana telah diubah dengan Peraturan
+                 Pemerintah Nomor 56 Tahun 1992, sehingga seluruhnya berbunyi
+                 sebagai berikut :
+
+
+                                     "Pasal 2
+
+
+                 Hak Keuangan/administratif Jaksa Agung, Panglima Angkatan
+                 Bersenjata, dan Gubernur Bank Indonesia adalah sama dengan hak
+                 keuangan/administratif      Menteri     Negara   serta   janda/dudanya
+                 sebagaimana ditetapkan dalam Peraturan Pemerintah Nomor 50
+                 Tahun 1980 jo Peraturan Pemerintah Nomor Tahun 1993.
+
+<!-- PAGE: 3 -->
+
+                        PRESIDEN
+                   REPUBLIK INDONESIA
+
+                        -   3   -
+
+
+
+
+                                                                    Pasal 3…
+
+
+                        Pasal 3
+
+
+     Besarnya gaji pokok Jaksa Agung, Panglima Angkatan Bersenjata,
+     dan Gubernur Bank Indonesia adalah Rp. 2.500.000,- (dua juta lima
+     ratus ribu rupiah) sebulan."
+
+
+2.   Dengan berlakunya Peraturan Pemerintah ini, maka Peraturan
+     Pemerintah Nomor 56 Tahun 1992 tentang Perubahan Peraturan
+     Pemerintah     Nomor       11          Tahun      1985   tentang     Hak
+     Keuangan/Administratif         Jaksa     Agung,     Panglima   Angkatan
+     Bersenjata, dan Gubernur Bank Indonesia, dinyatakan tidak berlaku.
+
+
+                         Pasal II
+
+
+Peraturan Pemerintah ini mulai berlaku pada tanggal diundangkan dan
+mempunyai daya laku surut sejak tanggal 1 Januari 1993.
+
+
+
+
+                                                                        Agar...
+
+<!-- PAGE: 4 -->
+
+                                     PRESIDEN
+                                REPUBLIK INDONESIA
+
+                                     -      4    -
+
+
+
+
+               Agar setiap orang mengetahuinya, memerintahkan pengundangan
+               Peraturan Pemerintah ini dengan penempatannya dalam Lembaran
+               Negara Republik Indonesia.
+
+
+                                                Ditetapkan di Jakarta
+                                                pada tanggal 8 Maret 1993
+                                                PRESIDEN REPUBLIK INDONESIA
+
+
+                                                                ttd.
+
+
+                                                           SOEHARTO
+
+
+Diundangkan di Jakarta
+pada tanggal 8 Maret 1993
+MENTERI/SEKRETARIS NEGARA
+    REPUBLIK INDONESIA
+
+
+              ttd.
+
+
+         MOERDIONO
+
+
+
+
+LEMBARANA NEGARA REPUBLIK INDONESIA TAHUN 1993 NOMOR 26

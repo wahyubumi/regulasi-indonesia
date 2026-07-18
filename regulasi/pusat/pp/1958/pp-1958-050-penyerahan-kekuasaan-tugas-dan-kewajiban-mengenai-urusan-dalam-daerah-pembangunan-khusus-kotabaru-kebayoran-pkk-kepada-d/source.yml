@@ -1,0 +1,24 @@
+id: pp-1958-050
+judul: Peraturan Pemerintah Nomor 50 Tahun 1958 tentang Penyerahan Kekuasaan, Tugas
+  Dan Kewajiban Mengenai Urusan Dalam Daerah Pembangunan Khusus Kotabaru Kebayoran
+  (Pkk) Kepada Daerah Swatantra Tingkat I Kotapabaru Kebayoran (P.K.K.)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

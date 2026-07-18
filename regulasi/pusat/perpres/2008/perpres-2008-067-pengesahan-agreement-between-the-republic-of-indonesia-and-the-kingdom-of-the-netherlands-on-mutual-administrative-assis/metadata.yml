@@ -1,0 +1,73 @@
+id: perpres-2008-067
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '67'
+nomor_lengkap: '67'
+tahun: 2008
+judul: Pengesahan Agreement Between The Republic Of Indonesia And The Kingdom Of The
+  Netherlands On Mutual Administrative Assistance For The Proper Application Of Customs
+  Law And For The Prevention, Investigation And Combating Of Customs Offences (Persetujuan
+  Antara Republik Indonesia Dan Kerajaan Belanda Tentang Bantuan Administratif Timbal
+  Balik Untuk Penerapan Undang-Undang Pabean Yang Tepat Dan Untuk Pencegahan, Penyidikan
+  Dan Pemberantasan Pelanggaran Kepabeanan)
+judul_lengkap: Peraturan Presiden Nomor 67 Tahun 2008 tentang Pengesahan Agreement
+  Between The Republic Of Indonesia And The Kingdom Of The Netherlands On Mutual Administrative
+  Assistance For The Proper Application Of Customs Law And For The Prevention, Investigation
+  And Combating Of Customs Offences (Persetujuan Antara Republik Indonesia Dan Kerajaan
+  Belanda Tentang Bantuan Administratif Timbal Balik Untuk Penerapan Undang-Undang
+  Pabean Yang Tepat Dan Untuk Pencegahan, Penyidikan Dan Pemberantasan Pelanggaran
+  Kepabeanan)
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/ps67-2008.md.

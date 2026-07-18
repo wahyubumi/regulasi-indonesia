@@ -1,0 +1,25 @@
+id: perpres-2007-092
+judul: Peraturan Presiden Nomor 92 Tahun 2007 tentang PENGESAHAN PERSETUJUAN ANTARA
+  PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK KOREA MENGENAl KERJA SAMA
+  DI BIDANG KEBUDAYAAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA
+  AND THE GOVERNMENT OF THE REPUBLIC OF KOREA ON CULTURAL COOPERATION)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

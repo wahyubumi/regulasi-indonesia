@@ -1,0 +1,26 @@
+id: perpres-2023-083
+judul: 'Peraturan Presiden Nomor 83 Tahun 2023 tentang Peraturan Presiden tentang
+  Penyelenggaraan Kebun Raya; Mengingat Pasal 4 ayat (1) Undang-Undang Dasar Negara
+  Republik Indonesia Tahun 1945; MEMUTUSI(AN: Menetapkan PERATURAN PRESIDEN TENTANG
+  PENYELENGGARAAN KEBUN RAYA. BABI... SK No 059905 A <!-- page: 2 --> PRESIDEN EUK
+  INDONES]A -2- BAB I KETENTUAN UMUM'
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

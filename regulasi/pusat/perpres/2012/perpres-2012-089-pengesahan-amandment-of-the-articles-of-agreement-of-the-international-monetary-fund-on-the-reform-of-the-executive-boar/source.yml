@@ -1,0 +1,25 @@
+id: perpres-2012-089
+judul: Peraturan Presiden Nomor 89 Tahun 2012 tentang Pengesahan Amandment Of The
+  Articles Of Agreement Of The International Monetary Fund On The Reform Of The Executive
+  Board (Perubahan Pasal-Pasal Persetujuan Dana Moneter Internasional Mengenai Pembaruan
+  Dewan Eksekutif)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

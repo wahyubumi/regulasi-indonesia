@@ -956,68 +956,53 @@ Fungsi:
 - Mengecek checksum PDF eksternal jika file tersedia lokal.
 - Memperbarui `sources/checksum-index.yml`.
 
-### 19.5 `scripts/check-links.py`
+### 19.6 `scripts/batch-convert-local.py`
 
 Fungsi:
 
-- Mengecek link internal Markdown.
-- Mengecek link sumber jika koneksi tersedia.
-- Melaporkan broken links.
+- Mengonversi semua file PDF di `pdf-local/downloads/` ke Markdown di `staging/incoming/`.
+- Memiliki fitur OCR otomatis via `ocrmypdf` untuk PDF hasil scan.
+- Memiliki fitur pencegahan duplikat berlapis (melewati konversi jika regulasi sudah ada di `regulasi/` atau staging).
+- Memindahkan PDF yang selesai diproses ke `pdf-local/processed/` sehingga folder `pdf-local/downloads/` tetap bersih.
 
 ---
 
-## 20. Workflow Menambah Regulasi Baru
+## 20. Workflow Standar Pemrosesan PDF Regulasi Baru (Default Workflow)
 
-Gunakan alur berikut:
+Gunakan alur terotomatisasi standar berikut untuk memproses file PDF baru:
 
-1. Buat folder regulasi:
+1. Tempatkan semua file PDF regulasi baru di `pdf-local/downloads/`.
+
+2. Jalankan konversi batch lokal dan deduplikasi:
    ```bash
-   python3 scripts/create-regulation-folder.py --tingkat pusat --jenis perpres --tahun 2019 --nomor 39 --judul "Satu Data Indonesia"
+   python3 scripts/batch-convert-local.py
    ```
 
-2. Isi `source.yml` dengan sumber resmi.
+3. Jalankan impor ke struktur folder `regulasi/`:
+   ```bash
+   python3 scripts/process-incoming.py
+   ```
 
-3. Konversi PDF/HTML ke Markdown.
-
-4. Tempel hasil konversi lengkap ke `dokumen.md`.
-
-5. Jika dokumen panjang, pisahkan:
-   - `batang-tubuh.md`
-   - `penjelasan.md`
-   - `lampiran/`
-
-6. Lengkapi `metadata.yml`.
-
-7. Lengkapi `relasi.yml` berdasarkan teks regulasi.
-
-8. Lengkapi `quality-check.yml`.
-
-9. Jalankan validasi:
+4. Jalankan validasi struktur dan metadata:
    ```bash
    python3 scripts/validate-metadata.py
    ```
 
-10. Generate indeks:
-    ```bash
-    python3 scripts/generate-index.py
-    ```
+5. Generate ulang indeks repositori global:
+   ```bash
+   python3 scripts/generate-index.py
+   ```
 
-11. Pastikan PDF tidak ikut masuk Git:
-    ```bash
-    git status
-    ```
-
-12. Commit hanya file teks:
-    ```bash
-    git add .
-    git commit -m "Add perpres 2019 039 satu data indonesia"
-    ```
+6. Pastikan file PDF tidak ikut masuk Git dan folder `pdf-local/downloads/` sudah bersih:
+   ```bash
+   git status
+   ```
 
 ---
 
-## 21. Workflow Konversi PDF ke Markdown
+## 21. Workflow Konversi Manual (Alternatif)
 
-Saat mengonversi regulasi:
+Jika regulasi ditambahkan secara manual tanpa batch script:
 
 1. Identifikasi sumber resmi PDF.
 2. Jangan simpan PDF di Git.

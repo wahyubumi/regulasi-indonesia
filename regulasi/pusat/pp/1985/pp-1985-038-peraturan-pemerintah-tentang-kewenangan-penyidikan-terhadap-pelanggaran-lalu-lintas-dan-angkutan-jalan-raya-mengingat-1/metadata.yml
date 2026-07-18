@@ -1,0 +1,93 @@
+id: pp-1985-038
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '38'
+nomor_lengkap: '38'
+tahun: 1985
+judul: 'Peraturan Pemerintah tentang Kewenangan Penyidikan Terhadap Pelanggaran Lalu
+  Lintas dan Angkutan Jalan Raya; Mengingat: 1. Pasal 5 ayat (2) Undang-Undang Dasar
+  1945 2. Undang-undang Nomor 13 Tahun 1961 tentang Ketentuan-ketentuan Pokok Kepolisian
+  Negara (Lembaran Negara Tahun 1961 Nomor 245, Tambahan Lembaran Negara Nomor 2289);
+  3. Undang-undang Nomor 3 Tahun 1965 tentang Lalu Lintas dan Angkutan Jalan Raya
+  (Lembaran Negara Tahun 1965 Nomor 25, Tambahan Lembaran Negara Nomor 2742); 4. Undang-undang
+  Nomor 5 Tahun 1974 tentang Pokok-pokok Pemerintahan di Daerah (Lembaran Negara Tahun
+  1974 Nomor 38, Tambahan Lembaran Negara Nomor 3037); 5. Undang-undang Nomor 8 Tahun
+  1981 tentang Hukum Acara Pidana (Lembaran Negara Tahun 1981 Nomor 76, Tambahan Lembaran
+  Negara Nomor 3209); www.djpp.depkumham.go.id <!-- page: 2 --> 6. Peraturan Pemerintah
+  Nomor 16 Tahun 1958 tentang Penyerahan Urusan Lalu Lintas Jalan Kepada Daerah Tingkat
+  I (Lembaran Negara Tahun 1958 Nomor 28, Tambahan Lembaran Negara Nomor 1557).; 7.
+  Peraturan Pemerintah Nomor 27 Tahun 1983 tentang Pelaksanaan Kitab Undang-undang
+  Hukum Acara Pidana (Lembaran Negara Tahun 1983 Nomor 36, Tambahan Lembaran Negara
+  Nomor 3258); MEMUTUSKAN: Menetapkan: PERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG
+  KEWENANGAN PENYIDIKAN TERHADAP PELANGGARAN LALU LINTAS DAN ANGKUTAN JALAN RAYA'
+judul_lengkap: 'Peraturan Pemerintah Nomor 38 Tahun 1985 tentang Peraturan Pemerintah
+  tentang Kewenangan Penyidikan Terhadap Pelanggaran Lalu Lintas dan Angkutan Jalan
+  Raya; Mengingat: 1. Pasal 5 ayat (2) Undang-Undang Dasar 1945 2. Undang-undang Nomor
+  13 Tahun 1961 tentang Ketentuan-ketentuan Pokok Kepolisian Negara (Lembaran Negara
+  Tahun 1961 Nomor 245, Tambahan Lembaran Negara Nomor 2289); 3. Undang-undang Nomor
+  3 Tahun 1965 tentang Lalu Lintas dan Angkutan Jalan Raya (Lembaran Negara Tahun
+  1965 Nomor 25, Tambahan Lembaran Negara Nomor 2742); 4. Undang-undang Nomor 5 Tahun
+  1974 tentang Pokok-pokok Pemerintahan di Daerah (Lembaran Negara Tahun 1974 Nomor
+  38, Tambahan Lembaran Negara Nomor 3037); 5. Undang-undang Nomor 8 Tahun 1981 tentang
+  Hukum Acara Pidana (Lembaran Negara Tahun 1981 Nomor 76, Tambahan Lembaran Negara
+  Nomor 3209); www.djpp.depkumham.go.id <!-- page: 2 --> 6. Peraturan Pemerintah Nomor
+  16 Tahun 1958 tentang Penyerahan Urusan Lalu Lintas Jalan Kepada Daerah Tingkat
+  I (Lembaran Negara Tahun 1958 Nomor 28, Tambahan Lembaran Negara Nomor 1557).; 7.
+  Peraturan Pemerintah Nomor 27 Tahun 1983 tentang Pelaksanaan Kitab Undang-undang
+  Hukum Acara Pidana (Lembaran Negara Tahun 1983 Nomor 36, Tambahan Lembaran Negara
+  Nomor 3258); MEMUTUSKAN: Menetapkan: PERATURAN PEMERINTAH REPUBLIK INDONESIA TENTANG
+  KEWENANGAN PENYIDIKAN TERHADAP PELANGGARAN LALU LINTAS DAN ANGKUTAN JALAN RAYA'
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp38-1985.md.

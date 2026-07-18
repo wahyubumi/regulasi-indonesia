@@ -1,0 +1,24 @@
+id: pp-2022-017
+judul: Peraturan Pemerintah Nomor 17 Tahun 2022 tentang Pendanaan Dan Pengelolaan
+  Anggaran Dalam Rangka Persiapan, Pembangunan, Dan Pemindahan Ibu Kota Negara Serta
+  Penyelenggaraan Pemerintahan Daerah Khusus Ibu Kota Nusantara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

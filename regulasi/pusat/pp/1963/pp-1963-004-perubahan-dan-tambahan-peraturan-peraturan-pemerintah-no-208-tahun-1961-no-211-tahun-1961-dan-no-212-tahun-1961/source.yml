@@ -1,0 +1,23 @@
+id: pp-1963-004
+judul: Peraturan Pemerintah Nomor 4 Tahun 1963 tentang Perubahan Dan Tambahan Peraturan-Peraturan
+  Pemerintah No. 208 Tahun 1961, No. 211 Tahun 1961 Dan No. 212 Tahun 1961
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

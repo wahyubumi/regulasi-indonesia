@@ -1,0 +1,28 @@
+id: pp-1960-053
+judul: Peraturan Pemerintah Nomor 53 Tahun 1960 tentang Penetapan Berlakunya Peraturan
+  Pemerintah No. 2 Tahun 1951 (Lembaran Negara Tahun 1951 No. 5) Tentang Pemberian
+  Pensiun Kepada Janda Dan Onderstan Kepada Anak-Anak Yatim/Piatu Dari Para Anggota
+  Angkatan Perang Republik Indonesia Yang Berulang Kali Telah Diubah Dan Ditambah,
+  Terakhir Dengan Peraturan Pemerintah No. 40 Tahun 1956 (Lembaran Negara Tahun 1956
+  No. 84) Bagi Para Janda Anggota Tentara Nasional Indonesia (Darat/Laut/Udara) Yang
+  Meninggal Dunia Sebelum Tahun 1950
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

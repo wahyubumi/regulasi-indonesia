@@ -1,0 +1,25 @@
+id: pp-1960-018
+judul: Peraturan Pemerintah Nomor 18 Tahun 1960 tentang Perubahan Peraturan Pemerintah
+  No. 41 Tahun 1952 (Lembaran Negara Tahun 1952 No. 63) Tentang Kedudukan Pegawai
+  Negeri Selama Menjalankan Sesuatu Kewajiban Negara Diluar Lingkungan Jabatan Yang
+  Dipangkunya
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

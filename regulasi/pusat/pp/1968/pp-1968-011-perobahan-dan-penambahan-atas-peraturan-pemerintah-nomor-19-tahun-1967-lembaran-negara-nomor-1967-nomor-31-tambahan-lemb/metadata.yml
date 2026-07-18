@@ -1,0 +1,68 @@
+id: pp-1968-011
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '11'
+nomor_lengkap: '11'
+tahun: 1968
+judul: PEROBAHAN DAN PENAMBAHAN ATAS PERATURAN PEMERINTAH Nomor 19 TAHUN 1967 (LEMBARAN
+  NEGARA NOMOR 1967 Nomor 31, TAMBAHAN LEMBARAN NEGARA NOMOR 2839 TENTANG PERBAIKAN
+  PENGHASILAN BEKAS MENTERI NEGARA REPUBLIK INDONESIA, KETUA/WAKIL KETUA SERTA ANGGOTA
+  D.P.R.G.R
+judul_lengkap: Peraturan Pemerintah Nomor 11 Tahun 1968 tentang PEROBAHAN DAN PENAMBAHAN
+  ATAS PERATURAN PEMERINTAH Nomor 19 TAHUN 1967 (LEMBARAN NEGARA NOMOR 1967 Nomor
+  31, TAMBAHAN LEMBARAN NEGARA NOMOR 2839 TENTANG PERBAIKAN PENGHASILAN BEKAS MENTERI
+  NEGARA REPUBLIK INDONESIA, KETUA/WAKIL KETUA SERTA ANGGOTA D.P.R.G.R
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp+no+011+tahun+1968.md.

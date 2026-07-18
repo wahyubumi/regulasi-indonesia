@@ -1,0 +1,26 @@
+id: perpres-2011-013
+judul: Peraturan Presiden Nomor 13 Tahun 2011 tentang PENGESAHAN PERSETUJUAN ANT ARA
+  PEMERINTAH REPUBLIK INDONESIA um DAN PEMERINTAH FEDERAL SWISS MENGENAI PEMBEBASAN
+  VISA BERSAMA BAGI PEMEGANG PASPOR DIPLOMATIK DAN DINAS (AGREEMENT BETWEEN THE GOVERNMENT
+  OF THE REPUBLIC pk OF INDONESIA AND THE SWISS FEDERAL COUNCIL ON MUTUAL VISA EXEMPTION
+  FOR HOLDERS OF de DIPLOMATIC OR SERVICE PASSPORTS)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

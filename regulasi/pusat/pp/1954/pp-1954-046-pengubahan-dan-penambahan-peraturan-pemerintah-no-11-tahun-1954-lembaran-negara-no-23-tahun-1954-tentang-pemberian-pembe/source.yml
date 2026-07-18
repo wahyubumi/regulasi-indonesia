@@ -1,0 +1,25 @@
+id: pp-1954-046
+judul: Peraturan Pemerintah Nomor 46 Tahun 1954 tentang Pengubahan Dan Penambahan
+  Peraturan Pemerintah No. 11 Tahun 1954 (Lembaran-Negara No. 23 Tahun 1954), Tentang
+  Pemberian Pembebasan-Pembebasan Dari Pemungutan Tambahan Pembayaran Atas Pengiriman
+  Uang Ke Luar Negeri
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

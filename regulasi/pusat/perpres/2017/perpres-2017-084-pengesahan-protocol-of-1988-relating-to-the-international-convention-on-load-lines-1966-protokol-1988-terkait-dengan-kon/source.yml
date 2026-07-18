@@ -1,0 +1,24 @@
+id: perpres-2017-084
+judul: Peraturan Presiden Nomor 84 Tahun 2017 tentang Pengesahan Protocol Of 1988
+  Relating To The International Convention On Load Lines,1966 (Protokol 1988 Terkait
+  Dengan Konvensi Internasional Tentang Garis Muat Kapal, 1966)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

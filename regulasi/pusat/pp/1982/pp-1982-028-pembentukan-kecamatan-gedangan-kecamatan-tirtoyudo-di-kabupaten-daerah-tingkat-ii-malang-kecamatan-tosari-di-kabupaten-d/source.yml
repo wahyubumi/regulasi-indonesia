@@ -1,0 +1,30 @@
+id: pp-1982-028
+judul: Peraturan Pemerintah Nomor 28 Tahun 1982 tentang Pembentukan Kecamatan Gedangan,
+  Kecamatan Tirtoyudo Di Kabupaten Daerah Tingkat Ii Malang Kecamatan Tosari Di Kabupaten
+  Daerah Tingkat Ii Pasuruan, Kecamatan Sawahan, Kecamatan Wonoasri, Di Kabupaten
+  Daerah Tingkat Ii Madiun, Kecamatan Tarokan, Kecamatan Kunjang Di Kabupaten Daerah
+  Tingkat Ii Kediri, Kecamatan Pitu, Kecamatan Bringin, Kecamatan Pangkur Di Kabupaten
+  Daerah Tingkat Ii Ngawi, Kecamatan Temayang Di Kabupaten Daerah Tingkat Ii Bojonegoro,
+  Kecamatan Sumbermalang Di Kabupaten Daerah Tingkat Ii Situbondo, Kecamatan Lakarsantri,
+  Kecamatan Kenjeran, Dan Kecamatan Benowo Di Kotamadya Daerah Tingkat Ii Surabaya
+  Dalam Wilayah Propinsi Daerah Tingkat I Jawa Timur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

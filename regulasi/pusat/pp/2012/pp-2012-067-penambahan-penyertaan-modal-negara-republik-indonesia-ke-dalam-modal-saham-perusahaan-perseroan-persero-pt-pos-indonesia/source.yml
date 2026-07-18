@@ -1,0 +1,24 @@
+id: pp-2012-067
+judul: Peraturan Pemerintah Nomor 67 Tahun 2012 tentang Penambahan Penyertaan Modal
+  Negara Republik Indonesia Ke Dalam Modal Saham Perusahaan Perseroan (Persero) Pt
+  Pos Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

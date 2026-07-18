@@ -1,0 +1,27 @@
+id: perpres-2012-021
+judul: Peraturan Presiden Nomor 21 Tahun 2012 tentang Pengesahan Persetujuan Kerangka
+  Kerja Mengenai Kemitraan Dan Kerja Sama Menyeluruh Antara Republik Indonesia, Di
+  Satu Pihak, Dan Komunitas Eropa Beserta Negara-Negara Anggotanya, Di Pihak Lainnya
+  (Framework Agreement On Comprehensive Partnership And Cooperation Between The Republic
+  Of Indonesia, Of The One Part, And The European Community And Its Member States,
+  Of The Other Part)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,65 @@
+id: pp-1989-013
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '13'
+nomor_lengkap: '13'
+tahun: 1989
+judul: Perubahan Besarnya Tarif Bea Meterai Dan Besarnya Batas Harga Nominal Yang
+  Dikenakan Bea Meterai Atas Cek Dan Bilyet Giro
+judul_lengkap: Peraturan Pemerintah Nomor 13 Tahun 1989 tentang Perubahan Besarnya
+  Tarif Bea Meterai Dan Besarnya Batas Harga Nominal Yang Dikenakan Bea Meterai Atas
+  Cek Dan Bilyet Giro
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp13-1989.md.

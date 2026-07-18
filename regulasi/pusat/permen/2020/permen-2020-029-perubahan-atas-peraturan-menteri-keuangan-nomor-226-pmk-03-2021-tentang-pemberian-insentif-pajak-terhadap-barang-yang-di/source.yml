@@ -1,0 +1,27 @@
+id: permen-2020-029
+judul: Peraturan Menteri Nomor 29 Tahun 2020 tentang Perubahan Atas Peraturan Menteri
+  Keuangan Nomor 226/Pmk.03/2021 Tentang Pemberian Insentif Pajak Terhadap Barang
+  Yang Diperlukan Dalam Rangka Penanganan Pandemi Corona Virus Disease 2019 Dan Perpanjangan
+  Pemberlakuan Fasilitas Pajak Penghasilan Bagi Sumber Daya Manusia Di Bidang Kesehatan
+  Berdasarkan Peraturan Pemerintah Nomor 29 Tahun 2020 Tentang Fasilitas Pajak Penghasilan
+  Dalam Rangka Penanganan Corona Virus Disease 2019 (Covid-19)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

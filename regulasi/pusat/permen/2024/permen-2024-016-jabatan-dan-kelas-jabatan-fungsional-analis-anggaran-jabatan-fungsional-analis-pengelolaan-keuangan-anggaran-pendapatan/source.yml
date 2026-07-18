@@ -1,0 +1,29 @@
+id: permen-2024-016
+judul: Peraturan Menteri Nomor 16 Tahun 2024 tentang Jabatan Dan Kelas Jabatan Fungsional
+  Analis Anggaran, Jabatan Fungsional Analis Pengelolaan Keuangan Anggaran Pendapatan
+  Belanja Negara, Jabatan Fungsional Analis Hukum, Jabatan Fungsional Analis Pengembangan
+  Kompetensi Aparatur Sipil Negara, Jabatan Fungsional Penerjemah, Jabatan Fungsional
+  Pengembang Teknologi Pembelajaran, Jabatan Fungsional Penggerak Swadaya Masyarakat,
+  Jabatan Fungsional Penata Laksana Barang, Dan Jabatan Fungsional Pranata Keuangan
+  Anggaran Pendapatan Belanja Negara Di Lingkungan Kementerian Agraria Dan Tata Ruang/
+  Badan Pertanahan Nasional
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,24 @@
+id: permen-2025-059
+judul: Peraturan Menteri Nomor 59 Tahun 2025 tentang Pembelian Kembali Dan Penjualan
+  Secara Langsung Surat Berharga Syariah Negara Serta Penerbitan Surat Berharga Syariah
+  Negara Sebagai Seri Penukar Dalam Rangka Pembelian Kembali Surat Utang Negara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

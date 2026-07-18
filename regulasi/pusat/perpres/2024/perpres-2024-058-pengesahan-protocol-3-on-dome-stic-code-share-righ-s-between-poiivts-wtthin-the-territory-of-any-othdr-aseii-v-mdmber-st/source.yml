@@ -1,0 +1,25 @@
+id: perpres-2024-058
+judul: Peraturan Presiden Nomor 58 Tahun 2024 tentang Pengesahan Protocol 3 On Dome,Stic
+  Code-Share Righ?S Between Poiivts Wtthin The Territory Of Any Othdr Aseii/V Mdmber
+  Sta?Es (Protokol 3 Mengenai Hak Code-Share Domestik Antara Titik-Titik Di Dalam
+  Wtlayah Negara Anggota Asean Lainnya)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

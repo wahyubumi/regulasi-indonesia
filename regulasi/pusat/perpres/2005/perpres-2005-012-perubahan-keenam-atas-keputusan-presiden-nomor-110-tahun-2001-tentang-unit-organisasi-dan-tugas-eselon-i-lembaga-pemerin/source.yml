@@ -1,0 +1,25 @@
+id: perpres-2005-012
+judul: Peraturan Presiden Nomor 12 Tahun 2005 tentang Perubahan Keenam Atas Keputusan
+  Presiden Nomor 110 Tahun 2001 Tentang Unit Organisasi Dan Tugas Eselon I Lembaga
+  Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Di Ubah Terakhir Dengan
+  Keputusan Presiden N0 11 Tahun 2004
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

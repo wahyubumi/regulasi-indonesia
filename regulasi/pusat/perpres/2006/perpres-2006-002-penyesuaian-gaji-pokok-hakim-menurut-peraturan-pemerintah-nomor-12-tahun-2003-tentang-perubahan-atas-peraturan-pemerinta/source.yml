@@ -1,0 +1,29 @@
+id: perpres-2006-002
+judul: Peraturan Presiden Nomor 2 Tahun 2006 tentang Penyesuaian Gaji Pokok Hakim
+  Menurut Peraturan Pemerintah Nomor 12 Tahun 2003 Tentang Perubahan Atas Peraturan
+  Pemerintah Nomor 8 Tahun 2000 Tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan
+  Tata Usaha Negara, Dan Peradilan Agama Sebagaimana Telah Diubah Dengan Peraturan
+  Pemerintah Nomor 27 Tahun 2001 Ke Dalam Gaji Pokok Hakim Menurut Peraturan Pemerintah
+  Nomor 70 Tahun 2005 Tentang Perubahan Ketiga Atas Peraturan Pemerintah Nomor 8 Tahun
+  2000 Tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, Dan
+  Peradilan Agama
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

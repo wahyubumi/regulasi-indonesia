@@ -1,0 +1,25 @@
+id: perpres-2005-047
+judul: Peraturan Presiden Nomor 47 Tahun 2005 tentang Pengesahan Amendment To The
+  Basel Convention On The Control Of Transboundary Movements Of Hazardous Wastes And
+  Their Disposal (Amendemen Atas Konvensi Basel Tentang Pengawasan Perpindahan Lintas
+  Batas Limbah Berbahaya Dan Pembuangannya)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

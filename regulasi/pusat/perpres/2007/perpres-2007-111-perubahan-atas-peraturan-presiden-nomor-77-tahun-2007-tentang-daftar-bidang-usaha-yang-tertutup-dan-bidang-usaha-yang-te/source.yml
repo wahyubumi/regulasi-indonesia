@@ -1,0 +1,24 @@
+id: perpres-2007-111
+judul: Peraturan Presiden Nomor 111 Tahun 2007 tentang Perubahan Atas Peraturan Presiden
+  Nomor 77 Tahun 2007 Tentang Daftar Bidang Usaha Yang Tertutup Dan Bidang Usaha Yang
+  Terbuka Dengan Persyaratan Di Bidang Penanaman Modal
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.djpp.depkumham.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

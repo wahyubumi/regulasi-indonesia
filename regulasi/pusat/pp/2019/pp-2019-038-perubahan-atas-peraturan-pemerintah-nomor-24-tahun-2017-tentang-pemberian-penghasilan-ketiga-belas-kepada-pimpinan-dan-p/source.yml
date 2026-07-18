@@ -1,0 +1,24 @@
+id: pp-2019-038
+judul: Peraturan Pemerintah Nomor 38 Tahun 2019 tentang Perubahan Atas Peraturan Pemerintah
+  Nomor 24 Tahun 2017 Tentang Pemberian Penghasilan Ketiga Belas Kepada Pimpinan Dan
+  Pegawai Nonpegawai Negeri Sipil Pada Lembaga Nonstruktural
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

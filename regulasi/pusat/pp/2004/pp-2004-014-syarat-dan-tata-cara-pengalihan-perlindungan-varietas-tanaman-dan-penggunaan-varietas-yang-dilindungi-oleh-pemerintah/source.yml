@@ -1,0 +1,23 @@
+id: pp-2004-014
+judul: Peraturan Pemerintah Nomor 14 Tahun 2004 tentang Syarat Dan Tata Cara Pengalihan
+  Perlindungan Varietas Tanaman Dan Penggunaan Varietas Yang Dilindungi Oleh Pemerintah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

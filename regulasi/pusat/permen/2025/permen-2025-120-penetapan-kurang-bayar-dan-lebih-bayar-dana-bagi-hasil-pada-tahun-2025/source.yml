@@ -1,0 +1,23 @@
+id: permen-2025-120
+judul: Peraturan Menteri Nomor 120 Tahun 2025 tentang Penetapan Kurang Bayar Dan Lebih
+  Bayar Dana Bagi Hasil Pada Tahun 2025
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://satu.kemenkeu.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

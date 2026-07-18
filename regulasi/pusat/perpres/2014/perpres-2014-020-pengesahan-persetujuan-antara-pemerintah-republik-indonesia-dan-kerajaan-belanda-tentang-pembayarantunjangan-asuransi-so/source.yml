@@ -1,0 +1,26 @@
+id: perpres-2014-020
+judul: Peraturan Presiden Nomor 20 Tahun 2014 tentang Pengesahan Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Kerajaan Belanda Tentang Pembayarantunjangan Asuransi
+  Sosial Belanda Di Indonesia (Agreement Between The Republic Of Indonesia And The
+  Kingdom Of The Netherlands On The Payment Of Dutch Social Insurance Benefits In
+  Indonesia)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

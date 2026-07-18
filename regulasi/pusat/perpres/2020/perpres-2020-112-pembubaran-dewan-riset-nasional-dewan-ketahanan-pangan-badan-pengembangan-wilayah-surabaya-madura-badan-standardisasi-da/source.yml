@@ -1,0 +1,26 @@
+id: perpres-2020-112
+judul: Peraturan Presiden Nomor 112 Tahun 2020 tentang Pembubaran Dewan Riset Nasional,
+  Dewan Ketahanan Pangan, Badan Pengembangan Wilayah Surabaya-Madura, Badan Standardisasi
+  Dan Akreditasi Nasional Keolahragaan, Komisi Pengawas Haji Indonesia, Komite Ekonomi
+  Dan Industri Nasional, Badan Pertimbangan Telekomunikasi, Komisi Nasional Lanjut
+  Usia, Badan Olahraga Profesional Indonesia, Dan Badan Regulasi Telekomunikasi Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

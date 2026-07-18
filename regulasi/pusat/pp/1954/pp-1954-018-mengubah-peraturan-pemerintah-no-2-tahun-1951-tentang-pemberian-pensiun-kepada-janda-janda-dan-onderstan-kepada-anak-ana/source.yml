@@ -1,0 +1,25 @@
+id: pp-1954-018
+judul: Peraturan Pemerintah Nomor 18 Tahun 1954 tentang Mengubah Peraturan Pemerintah
+  No. 2 Tahun 1951 Tentang Pemberian Pensiun Kepada Janda-Janda Dan Onderstan Kepada
+  Anak-Anak Yatim/Piatu Dari Para Anggota Tentara Angkatan Darat (Lembaran-Negara
+  Tahun 1951 No.5)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

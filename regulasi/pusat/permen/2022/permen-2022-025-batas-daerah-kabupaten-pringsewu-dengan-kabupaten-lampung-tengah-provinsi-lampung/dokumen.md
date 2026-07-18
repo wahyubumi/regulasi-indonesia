@@ -1,0 +1,460 @@
+---
+id: "permen-2022-025"
+jenis: "permen"
+nomor: "25"
+tahun: 2022
+judul: "Peraturan Menteri Nomor 25 Tahun 2022 tentang Batas Daerah Kabupaten Pringsewu Dengan Kabupaten Lampung Tengah Provinsi Lampung"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 25 Tahun 2022 tentang Batas Daerah Kabupaten Pringsewu Dengan Kabupaten Lampung Tengah Provinsi Lampung
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 25
+tahun: 2022
+tentang: Batas Daerah Kabupaten Pringsewu Dengan Kabupaten Lampung Tengah Provinsi Lampung
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+No. 65, 2022                 KEMENDAGRI. Kabupaten Pringsewu. Kabupaten
+                             Lampung Tengah. Provinsi Lampung. Batas
+                             Daerah.
+
+     PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA
+                            NOMOR 25 TAHUN 2022
+                                   TENTANG
+                  BATAS DAERAH KABUPATEN PRINGSEWU
+      DENGAN KABUPATEN LAMPUNG TENGAH PROVINSI LAMPUNG
+
+
+                 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+               MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+
+
+
+Menimbang      : bahwa untuk melaksanakan ketentuan Pasal 5 ayat (3)
+                 Undang-Undang Nomor 48 Tahun 2008 tentang Pembentukan
+                 Kabupaten Pringsewu di Provinsi Lampung dan Pasal 401 ayat
+                 (1)   Undang-Undang    Nomor    23   Tahun   2014   tentang
+                 Pemerintahan Daerah, perlu menetapkan Peraturan Menteri
+                 Dalam Negeri tentang Batas Daerah Kabupaten Pringsewu
+                 dengan Kabupaten Lampung Tengah Provinsi Lampung;
+
+
+Mengingat      : 1.    Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
+                       Indonesia Tahun 1945;
+                 2.    Undang-Undang    Nomor   14    Tahun   1964   tentang
+                       Penetapan Peraturan Pemerintah Pengganti Undang-
+                       Undang Nomor 3 Tahun 1964 tentang Pembentukan
+                       Daerah Tingkat I Lampung dengan Mengubah Undang-
+                       Undang Nomor 25 Tahun 1959 tentang Pembentukan
+                       Daerah Tingkat I Sumatera Selatan (Lembaran Negara
+                       Republik Indonesia Tahun 1964 Nomor 8) Menjadi
+                       Undang-Undang (Lembaran Negara Republik Indonesia
+
+<!-- PAGE: 2 -->
+
+2022, No. 65                       -2-
+
+
+                    Tahun 1964 Nomor 95, Tambahan Lembaran Negara
+                    Republik Indonesia Nomor 2688);
+               3.   Undang-Undang        Nomor    39   Tahun       2008    tentang
+                    Kementerian     Negara    (Lembaran       Negara      Republik
+                    Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+                    Negara Republik Indonesia Nomor 4916);
+               4.   Undang-Undang        Nomor    48   Tahun       2008    tentang
+                    Pembentukan Kabupaten Pringsewu di Provinsi Lampung
+                    (Lembaran     Negara   Republik    Indonesia    Tahun    2008
+                    Nomor   185,    Tambahan      Lembaran     Negara     Republik
+                    Indonesia Nomor 4932);
+               5.   Undang-Undang        Nomor    23   Tahun       2014    tentang
+                    Pemerintahan     Daerah      (Lembaran    Negara      Republik
+                    Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
+                    Negara Republik Indonesia Nomor 5587) sebagaimana
+                    telah beberapa kali diubah terakhir dengan Undang-
+                    Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua
+                    atas Undang-Undang Nomor 23 Tahun 2014 tentang
+                    Pemerintahan     Daerah      (Lembaran    Negara      Republik
+                    Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran
+                    Negara Republik Indonesia Nomor 5679);
+               6.   Peraturan Pemerintah Nomor 43 Tahun 2021 tentang
+                    Penyelesaian   Ketidaksesuaian     Tata   Ruang,      Kawasan
+                    Hutan, Izin, dan/atau Hak Atas Tanah (Lembaran Negara
+                    Republik Indonesia Tahun 2021 Nomor 53, Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 6655);
+               7.   Peraturan Presiden Nomor 114 Tahun 2021 tentang
+                    Kementerian Dalam Negeri (Lembaran Negara Republik
+                    Indonesia Tahun 2021 Nomor 286);
+               8.   Peraturan Menteri Dalam Negeri Nomor 141 Tahun 2017
+                    tentang Penegasan Batas Daerah (Berita Negara Republik
+                    Indonesia Tahun 2018 Nomor 79);
+               9.   Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2021
+                    tentang Organisasi dan Tata Kerja Kementerian Dalam
+                    Negeri (Berita Negara Republik Indonesia Tahun 2021
+                    Nomor 398);
+
+<!-- PAGE: 3 -->
+
+                                                                            2022, No. 65
+                                     -3-
+
+
+                              MEMUTUSKAN:
+Menetapkan   : PERATURAN MENTERI DALAM NEGERI TENTANG BATAS
+              DAERAH KABUPATEN PRINGSEWU DENGAN KABUPATEN
+              LAMPUNG TENGAH PROVINSI LAMPUNG.
+
+
+                                             Pasal 1
+              Dalam Peraturan Menteri ini yang dimaksud dengan:
+              1.   Provinsi Lampung adalah daerah otonom sebagaimana
+                   dimaksud dalam Undang-Undang Nomor 14 Tahun 1964
+                   tentang   Penetapan       Peraturan       Pemerintah          Pengganti
+                   Undang-Undang           Nomor     3    Tahun           1964     tentang
+                   Pembentukan        Daerah       Tingkat    I   Lampung          dengan
+                   mengubah     Undang-Undang            Nomor       25    Tahun     1959
+                   tentang Pembentukan Daerah Tingkat I Sumatera Selatan
+                   menjadi Undang-Undang.
+              2.   Kabupaten         Pringsewu       adalah          daerah        otonom
+                   sebagaimana dimaksud dalam Undang-Undang Nomor 48
+                   Tahun 2008 tentang Pembentukan Kabupaten Pringsewu
+                   di Provinsi Lampung.
+              3.   Kabupaten Lampung Tengah adalah daerah otonom
+                   sebagaimana dimaksud dalam Undang-Undang Nomor 14
+                   Tahun 1964 tentang Penetapan Peraturan Pemerintah
+                   Pengganti Undang-Undang Nomor 3 Tahun 1964 tentang
+                   Pembentukan        Daerah     Tingkat      I   Lampung          dengan
+                   mengubah     Undang-Undang            Nomor       25    Tahun     1959
+                   tentang Pembentukan Daerah Tingkat I Sumatera Selatan
+                   menjadi Undang-Undang.
+              4.   Way adalah sebutan sungai dalam bahasa daerah di
+                   Provinsi Lampung.
+              5.   Pilar Batas Utama yang selanjutnya disingkat PBU
+                   adalah    pilar    yang   dipasang        sebagai       tanda    batas
+                   antardaerah provinsi/kabupaten/kota yang diletakkan
+                   tepat       pada          garis           batas          antardaerah
+                   provinsi/kabupaten/kota.
+              6.   Pilar Acuan Batas Utama yang selanjutnya disingkat
+                   PABU adalah pilar yang dipasang sebagai tanda batas
+                   antardaerah provinsi/kabupaten/kota yang diletakkan di
+
+<!-- PAGE: 4 -->
+
+2022, No. 65                         -4-
+
+
+                    sisi batas alam atau buatan yang berfungsi sebagai titik
+                    ikat garis batas antardaerah provinsi/kabupaten/kota.
+               7.   Titik Kartometrik yang selanjutnya disingkat TK adalah
+                    titik   koordinat      batas    yang   ditentukan      berdasarkan
+                    pengukuran     atau      penghitungan        posisi   titik   dengan
+                    menggunakan         peta       dasar   dan   peta     lain    sebagai
+                    pelengkap.
+               8.   Lintang Selatan yang selanjutnya disingkat LS adalah
+                    garis khayal yang membagi bumi di bagian selatan.
+               9.   Bujur Timur yang selanjutnya disingkat BT adalah garis
+                    khayal yang menghubungkan titik kutub utara dan
+                    kutub selatan bumi dan menyatakan besarnya sudut
+                    antara posisi bujur dengan garis meridian yang berada di
+                    sebelah timur.
+
+
+                                               Pasal 2
+               Batas   daerah    Kabupaten          Pringsewu    dengan      Kabupaten
+               Lampung Tengah Provinsi Lampung dimulai dari:
+               a.   TK 1 dengan koordinat 5° 09' 24.942" LS dan 104° 47'
+                    33.745" BT yang terletak pada pertigaan batas Kabupaten
+                    Pringsewu dengan Kabupaten Lampung Tengah dan
+                    Kabupaten Tanggamus;
+               b.   TK 1 selanjutnya ke arah tenggara menyusuri punggung
+                    igir bukit sampai pada PBU P44 dengan koordinat 5° 10'
+                    45.100" LS dan 104° 48' 52.500" BT yang terletak pada
+                    batas Kabupaten Pringsewu dengan Kabupaten Lampung
+                    Tengah;
+               c.   PBU P44 selanjutnya ke arah tenggara menyusuri
+                    punggung igir bukit bukit sampai pada TK 2 dengan
+                    koordinat 5° 12' 10.070" LS dan 104° 49' 45.321" BT,
+                    selanjutnya ke arah tenggara menyusuri igir bukit
+                    sampai pada PBU P43 dengan koordinat 5° 12' 08.100"
+                    LS dan 104° 51' 26.200" BT yang terletak pada batas
+                    Desa aa Kecamatan bb Kabupaten Pringsewu dengan
+                    Kabupaten Lampung Tengah;
+               d.   PBU P43 selanjutnya ke arah barat sampai pada PBU P42
+                    dengan koordinat 5° 13' 27.500" LS dan 104° 52' 10.400"
+
+<!-- PAGE: 5 -->
+
+                                               2022, No. 65
+                   -5-
+
+
+     BT yang terletak pada batas Kabupaten Pringsewu
+     dengan Kabupaten Lampung Tengah;
+e.   PBU P42 selanjutnya ke arah barat daya sampai pada TK
+     3 dengan koordinat 5° 13' 57.875" LS dan 104° 52'
+     18.608" BT, selanjutnya ke arah tenggara sampai pada
+     PBU P41 dengan koordinat 5° 14' 43.000" LS dan 104°
+     53' 16.200" BT yang terletak pada batas Kabupaten
+     Pringsewu dengan Kabupaten Lampung Tengah;
+f.   PBU P41 selanjutnya ke arah timur laut sampai pada TK
+     4 dengan koordinat 5° 14' 34.153" LS dan 104° 53'
+     53.570" BT, selanjutnya ke arah tenggara sampai pada
+     PBU P40 dengan koordinat 5° 14' 49.300" LS dan 104°
+     54' 14.600" BT yang terletak pada batas Kabupaten
+     Pringsewu dengan Kabupaten Lampung Tengah;
+g.   PBU P40 selanjutnya ke arah timur sampai pada TK 5
+     dengan koordinat 5° 14' 49.779" LS dan 104° 54' 37.316"
+     BT, selanjutnya ke arah tenggara sampai pada TK 6
+     dengan koordinat 5° 15' 01.208" LS dan 104° 54' 43.640"
+     BT yang terletak pada batas Kabupaten Pringsewu
+     dengan Kabupaten Lampung Tengah;
+h.   TK 6 selanjutnya ke arah tenggara sampai pada TK 7
+     dengan koordinat 5° 15' 02.280" LS dan 104° 54' 47.400"
+     BT, selanjutnya ke arah tenggara sampai pada TK 8
+     dengan koordinat 5° 15' 08.016" LS dan 104° 54' 47.668"
+     BT yang terletak pada batas Kabupaten Pringsewu
+     dengan Kabupaten Lampung Tengah;
+i.   TK 8 selanjutnya ke arah tenggara sampai pada TK 9
+     dengan koordinat 5° 15' 10.281" LS dan 104° 54' 51.560"
+     BT, selanjutnya ke arah tenggara sampai pada TK 10
+     dengan koordinat 5° 15' 18.969" LS dan 104° 54' 54.188"
+     BT yang terletak pada batas Kabupaten Pringsewu
+     dengan Kabupaten Lampung Tengah;
+j.   TK 10 selanjutnya ke arah barat daya sampai pada TK 11
+     dengan koordinat 5° 15' 20.243" LS dan 104° 54' 50.191"
+     BT, selanjutnya ke arah tenggara sampai pada TK 12
+     dengan koordinat 5° 15' 24.289" LS dan 104° 54' 51.968"
+
+<!-- PAGE: 6 -->
+
+2022, No. 65                          -6-
+
+
+                    BT yang terletak pada batas Kabupaten Pringsewu
+                    dengan Kabupaten Lampung Tengah;
+               k.   TK 12 selanjutnya ke arah timur laut sampai pada TK 13
+                    dengan koordinat 5° 15' 24.136" LS dan 104° 54' 54.076"
+                    BT, selanjutnya ke arah tenggara sampai pada TK 14
+                    dengan koordinat 5° 15' 26.532" LS dan 104° 54' 55.415"
+                    BT yang terletak pada batas Kabupaten Pringsewu
+                    dengan Kabupaten Lampung Tengah;
+               l.   TK 14 selanjutnya ke arah timur laut sampai pada TK 15
+                    dengan koordinat 5° 15' 24.113" LS dan 104° 54' 56.494"
+                    BT, selanjutnya ke arah tenggara sampai pada TK 16
+                    dengan koordinat 5° 15' 24.120" LS dan 104° 55' 00.480"
+                    BT yang terletak pada batas Kabupaten Pringsewu
+                    dengan Kabupaten Lampung Tengah;
+               m. TK 16 selanjutnya ke arah tenggara sampai pada TK 17
+                    dengan koordinat 5° 15' 29.520" LS dan 104° 55' 06.960"
+                    BT, selanjutnya ke arah tenggara sampai pada TK 18
+                    dengan koordinat 5° 15' 30.860" LS dan 104° 55' 08.052"
+                    BT yang terletak pada batas Kabupaten Pringsewu
+                    dengan Kabupaten Lampung Tengah;
+               n.   TK 18 selanjutnya ke arah selatan sampai pada TK 19
+                    dengan koordinat 5° 15' 37.533" LS dan 104° 55' 08.031"
+                    BT, selanjutnya ke arah barat daya sampai pada TK 20
+                    dengan koordinat 5° 15' 38.777" LS dan 104° 54' 59.530"
+                    BT yang terletak pada batas Kabupaten Pringsewu
+                    dengan Kabupaten Lampung Tengah;
+               o.   TK 20 selanjutnya ke arah selatan sampai pada TK 21
+                    dengan koordinat 5° 15' 45.230" LS dan 104° 54' 59.272"
+                    BT, selanjutnya ke arah timur sampai pada TK 22 dengan
+                    koordinat 5° 15' 45.335" LS dan 104° 55' 04.696" BT yang
+                    terletak   pada     batas   Kabupaten   Pringsewu   dengan
+                    Kabupaten Lampung Tengah;
+               p.   TK 22 selanjutnya ke arah timur laut sampai pada TK 23
+                    dengan koordinat 5° 15' 43.123" LS dan 104° 55' 10.399"
+                    BT, selanjutnya ke arah tenggara sampai pada TK 24
+                    dengan koordinat 5° 15' 48.747" LS dan 104° 55' 09.395"
+
+<!-- PAGE: 7 -->
+
+                                                     2022, No. 65
+                    -7-
+
+
+     BT yang terletak pada batas Kabupaten Pringsewu
+     dengan Kabupaten Lampung Tengah;
+q.   TK 24 selanjutnya ke arah tenggara sampai pada TK 25
+     dengan koordinat 5° 15' 51.885" LS dan 104° 55' 17.548"
+     BT, selanjutnya ke arah selatan sampai pada TK 26
+     dengan koordinat 5° 15' 54.846" LS dan 104° 55' 17.652"
+     BT yang terletak pada batas Kabupaten Pringsewu
+     dengan Kabupaten Lampung Tengah;
+r.   TK 26 selanjutnya ke arah timur laut sampai pada TK 27
+     dengan koordinat 5° 15' 54.713" LS dan 104° 55' 18.983"
+     BT, selanjutnya ke arah selatan sampai pada TK 28
+     dengan koordinat 5° 15' 57.186" LS dan 104° 55' 19.248"
+     BT yang terletak pada batas Kabupaten Pringsewu
+     dengan Kabupaten Lampung Tengah;
+s.   TK 28 selanjutnya ke arah timur laut sampai pada TK 29
+     dengan koordinat 5° 15' 56.832" LS dan 104° 55' 22.717"
+     BT, selanjutnya ke arah timur laut sampai pada PABU
+     39B dengan koordinat 5° 15' 56.880" LS dan 104° 55'
+     27.300" BT yang terletak di Kabupaten Pringsewu yang
+     berbatasan dengan Kabupaten Lampung Tengah;
+t.   PABU 39B selanjutnya ke arah timur laut menyusuri as
+     atau yang disebut Median Line Way Au sampai pada
+     PABU 39A dengan koordinat 5° 15' 44.690" LS dan 104°
+     55' 51.000" BT yang terletak di Kabupaten Pringsewu
+     yang berbatasan dengan Kabupaten Lampung Tengah;
+u.   PABU 39A selanjutnya ke arah timur laut menyusuri as
+     atau yang disebut Median Line Way Au sampai pada PBU
+     39 dengan koordinat 5° 15' 41.611" LS dan 104° 56'
+     30.516"   BT   yang   terletak   pada   batas    Kabupaten
+     Pringsewu dengan Kabupaten Lampung Tengah;
+v.   PBU 39 selanjutnya ke arah timur laut sampai pada PBU
+     38B dengan koordinat 5° 14' 40.500" LS dan 104° 58'
+     04.900"   BT   yang   terletak   pada   batas    Kabupaten
+     Pringsewu dengan Kabupaten Lampung Tengah;
+w.   PBU 38B selanjutnya ke arah timur sampai pada PBU
+     38A dengan koordinat 5° 14' 41.700" LS dan 104° 58'
+
+<!-- PAGE: 8 -->
+
+2022, No. 65                        -8-
+
+
+                     14.800"   BT   yang   terletak   pada   batas   Kabupaten
+                     Pringsewu dengan Kabupaten Lampung Tengah;
+               x.    PBU 38A selanjutnya ke arah tenggara sampai pada PBU
+                     38 dengan koordinat 5° 14' 45.400" LS dan 104° 58'
+                     21.600"   BT   yang   terletak   pada   batas   Kabupaten
+                     Pringsewu dengan Kabupaten Lampung Tengah;
+               y.    PBU 38 selanjutnya ke arah timur laut sampai pada PBU
+                     37A dengan koordinat 5° 14' 25.300" LS dan 104° 58'
+                     58.500"   BT   yang   terletak   pada   batas   Kabupaten
+                     Pringsewu dengan Kabupaten Lampung Tengah;
+               z.    PBU 37A selanjutnya ke arah timur laut sampai pada
+                     PBU 37 dengan koordinat 5° 14' 11.200" LS dan 104° 59'
+                     23.100"   BT   yang   terletak   pada   batas   Kabupaten
+                     Pringsewu dengan Kabupaten Lampung Tengah;
+               aa. PBU 37 selanjutnya ke arah timur laut sampai pada PBU
+                     36B dengan koordinat 5° 13' 50.500" LS dan 105° 00'
+                     11.000"   BT   yang   terletak   pada   batas   Kabupaten
+                     Pringsewu dengan Kabupaten Lampung Tengah;
+               ab. PBU 36B selanjutnya ke arah timur laut sampai pada
+                     PBU 36A dengan koordinat 5° 13' 45.900" LS dan 105°
+                     00' 20.600" BT yang terletak pada batas Kabupaten
+                     Pringsewu dengan Kabupaten Lampung Tengah;
+               ac. PBU 36A selanjutnya ke arah timur laut sampai pada
+                     PBU 36 dengan koordinat 5° 13' 23.700" LS dan 105° 01'
+                     04.200"   BT   yang   terletak   pada   batas   Kabupaten
+                     Pringsewu dengan Kabupaten Lampung Tengah;
+               ad. PBU 36 selanjutnya ke arah timur laut sampai pada PBU
+                     P35 dengan koordinat 5° 12' 57.500" LS dan 105° 01'
+                     53.200"   BT   yang   terletak   pada   batas   Kabupaten
+                     Pringsewu dengan Kabupaten Lampung Tengah;
+               ae. PBU P35 selanjutnya ke arah timur sampai pada PBU 3
+                     dengan koordinat 5° 12' 56.900" LS dan 105° 01' 59.400"
+                     BT yang terletak pada batas Kabupaten Pringsewu
+                     dengan Kabupaten Lampung Tengah;
+               af.   PBU 3 selanjutnya ke arah timur laut sampai pada PBU 2
+                     dengan koordinat 5° 12' 56.000" LS dan 105° 02' 01.700"
+
+<!-- PAGE: 9 -->
+
+                                                        2022, No. 65
+                     -9-
+
+
+       BT yang terletak pada batas Kabupaten Pringsewu
+       dengan Kabupaten Lampung Tengah;
+ag. PBU 2 selanjutnya ke arah tenggara sampai pada TK 30
+       dengan koordinat 5° 12' 59.606" LS dan 105° 02' 21.358"
+       BT, selanjutnya ke arah timur laut sampai pada PABU 1
+       dengan koordinat 5° 12' 43.000" LS dan 105° 02' 26.300"
+       BT yang terletak di Kabupaten Lampung Tengah yang
+       berbatasan dengan Kabupaten Pringsewu;
+ah. PABU 1 selanjutnya ke arah timur laut sampai pada
+       PABU 0 dengan koordinat 5° 12' 25.000" LS dan 105° 02'
+       57.600" BT yang terletak di Kabupaten Pringsewu yang
+       berbatasan dengan Kabupaten Lampung Tengah; dan
+ai.    PABU 0 selanjutnya ke arah timur laut sampai pada yang
+       TK 00 dengan koordinat 5° 12' 23.415" LS dan 105° 02'
+       56.359" BT yang terletak pada pertigaan batas Kabupaten
+       Pringsewu dengan Kabupaten Lampung Tengah dan
+       Kabupaten Pesawaran Provinsi Lampung.
+
+
+                                 Pasal 3
+Posisi PBU/PABU dan TK sebagaimana dimaksud dalam Pasal
+2 bersifat tetap dan tidak berubah akibat perubahan nama
+desa, nama kelurahan dan/atau nama kecamatan.
+
+
+                                 Pasal 4
+Ketentuan mengenai batas daerah dan koordinat batas
+sebagaimana dimaksud dalam Pasal 2 tercantum pada Peta
+Batas    Daerah   Kabupaten        Pringsewu   dengan    Kabupaten
+Lampung Tengah Provinsi Lampung dalam Lampiran yang
+merupakan bagian tidak terpisahkan dari Peraturan Menteri
+ini.
+
+
+                                 Pasal 5
+Peraturan     Menteri      ini   mulai     berlaku   pada    tanggal
+diundangkan.
+
+<!-- PAGE: 10 -->
+
+2022, No. 65                       -10-
+
+
+               Agar      setiap   orang   mengetahuinya,    memerintahkan
+               pengundangan Peraturan Menteri ini dengan penempatannya
+               dalam Berita Negara Republik Indonesia.
+
+
+
+
+                                           Ditetapkan di Jakarta
+                                           pada tanggal 6 Januari 2022
+
+
+                                           MENTERI DALAM NEGERI
+                                           REPUBLIK INDONESIA,
+
+
+                                                      ttd
+
+
+                                            MUHAMMAD TITO KARNAVIAN
+
+
+Diundangkan di Jakarta
+pada tanggal 18 Januari 2022
+
+
+DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+    ttd
+
+
+BENNY RIYANTO
+
+<!-- PAGE: 11 -->
+
+       2022, No. 65
+-11-

@@ -1,0 +1,24 @@
+id: perpres-2021-050
+judul: Peraturan Presiden Nomor 50 Tahun 2021 tentang Perubahan Kedua Atas Peraturan
+  Presiden Nomor 99 Tahun 2020 Tentang Pengadaan Vaksin Dan Pelaksanaan Vaksinasi
+  Dalam Rangka Penanggulangan Pandemi Corona Virus Disease 2019 (Covid-19)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

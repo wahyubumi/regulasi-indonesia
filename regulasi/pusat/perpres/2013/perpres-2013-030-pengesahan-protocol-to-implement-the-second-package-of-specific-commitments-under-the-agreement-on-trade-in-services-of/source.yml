@@ -1,0 +1,28 @@
+id: perpres-2013-030
+judul: Peraturan Presiden Nomor 30 Tahun 2013 tentang Pengesahan Protocol To Implement
+  The Second Package Of Specific Commitments Under The Agreement On Trade In Services
+  Of The Framework Agreement On Comprehensive Economic Co-Operation Between The Association
+  Of Southeast Asian Nations And The People’S Republic Of China (Protokol Untuk Melaksanakan
+  Paket Kedua Komitmen Spesifik Di Bawah Persetujuan Perdagangan Jasa Dalam Persetujuan
+  Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Negara-Negara Anggota
+  Asosiasi Bangsa-Bangsa Asia Tenggara Dan Republik Rakyat China)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

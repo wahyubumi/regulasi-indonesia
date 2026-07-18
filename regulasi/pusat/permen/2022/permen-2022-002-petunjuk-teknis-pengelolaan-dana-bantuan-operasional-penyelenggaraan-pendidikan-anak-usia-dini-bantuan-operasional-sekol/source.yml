@@ -1,0 +1,24 @@
+id: permen-2022-002
+judul: Peraturan Menteri Nomor 2 Tahun 2022 tentang Petunjuk Teknis Pengelolaan Dana
+  Bantuan Operasional Penyelenggaraan Pendidikan Anak Usia Dini, Bantuan Operasional
+  Sekolah, Dan Bantuan Operasional Penyelenggaraan Pendidikan Kesetaraan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

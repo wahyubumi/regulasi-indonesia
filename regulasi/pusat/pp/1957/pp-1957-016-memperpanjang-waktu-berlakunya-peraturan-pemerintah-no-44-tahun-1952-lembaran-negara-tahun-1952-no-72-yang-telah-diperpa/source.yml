@@ -1,0 +1,25 @@
+id: pp-1957-016
+judul: Peraturan Pemerintah Nomor 16 Tahun 1957 tentang Memperpanjang Waktu Berlakunya
+  Peraturan Pemerintah No. 44 Tahun 1952 (Lembaran-Negara Tahun 1952 No. 72) Yang
+  Telah Diperpanjang Beberapa Kali Terakhir Dengan Peraturan Pemerintah N0.35 Tahun
+  1955 (Lembaran-Negara Tahun 1955 No. 80)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

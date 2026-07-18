@@ -1,0 +1,25 @@
+id: pp-2007-003
+judul: Peraturan Pemerintah Nomor 3 Tahun 2007 tentang Laporan Penyelenggaraan Pemerintahan
+  Daerah Kepada Pemerintah, Laporan Keterangan Pertanggungjawaban Kepala Daerah Kepada
+  Dewan Perwakilan Rakyat Daerah, Dan Informasi Laporan Penyelenggaraan Pemerintahan
+  Daerah Kepada Masyarakat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

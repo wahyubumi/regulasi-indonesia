@@ -1,0 +1,25 @@
+id: perpres-2022-044
+judul: Peraturan Presiden Nomor 44 Tahun 2022 tentang Pengesahan Budapest Treaty On
+  The International Recognition Of The Deposit Of Microorganisms For The Purposes
+  Of Patent Procedure (Traktat Budapest Mengenai Pengakuan Internasional Penyimpanan
+  Jasad Renik Untuk Kepentingan Prosedur Paten)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

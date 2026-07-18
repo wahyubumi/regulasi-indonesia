@@ -1,0 +1,25 @@
+id: pp-1963-023
+judul: Peraturan Pemerintah Nomor 23 Tahun 1963 tentang Perubahan Dan Tambahan Peraturan
+  Pemerintah No. 26 Tahun 1959 (Lembaran Negara Tahun 1959 No. 41) Tentang Pos Dalam
+  Negeri Yang Telah Diubah Dan Ditambah Dengan Peraturan Pemerintah No. 242 Tahun
+  1961 (Lembaran Negara Tahun 1961 No. 308)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

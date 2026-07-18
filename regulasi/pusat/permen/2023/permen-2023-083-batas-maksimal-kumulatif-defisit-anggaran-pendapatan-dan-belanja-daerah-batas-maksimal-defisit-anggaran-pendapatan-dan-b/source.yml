@@ -1,0 +1,25 @@
+id: permen-2023-083
+judul: Peraturan Menteri Nomor 83 Tahun 2023 tentang Batas Maksimal Kumulatif Defisit
+  Anggaran Pendapatan Dan Belanja Daerah, Batas Maksimal Defisit Anggaran Pendapatan
+  Dan Belanja Daerah, Dan Batas Maksimal Kumulatif Pembiayaan Utang Daerah Tahun Anggaran
+  2024
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

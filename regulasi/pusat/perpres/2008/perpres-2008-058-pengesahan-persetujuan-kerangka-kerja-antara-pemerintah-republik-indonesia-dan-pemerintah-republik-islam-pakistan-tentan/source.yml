@@ -1,0 +1,26 @@
+id: perpres-2008-058
+judul: Peraturan Presiden Nomor 58 Tahun 2008 tentang Pengesahan Persetujuan Kerangka
+  Kerja Antara Pemerintah Republik Indonesia Dan Pemerintah Republik Islam Pakistan
+  Tentang Kemitraan Ekonomi Komprehensif (Framework Agreement Between The Government
+  Of The Republic Of Indonesia And The Government Of The Islamic Republic Of Pakistan
+  On Comprehensive Economic Partnership)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

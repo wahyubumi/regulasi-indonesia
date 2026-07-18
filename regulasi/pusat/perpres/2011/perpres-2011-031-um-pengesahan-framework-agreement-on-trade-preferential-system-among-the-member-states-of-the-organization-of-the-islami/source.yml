@@ -1,0 +1,25 @@
+id: perpres-2011-031
+judul: Peraturan Presiden Nomor 31 Tahun 2011 tentang um PENGESAHAN FRAMEWORK AGREEMENT
+  ON TRADE PREFERENTIAL SYSTEM AMONG THE MEMBER STATES OF THE ORGANIZATION OF THE
+  ISLAMIC CONFERENCE (PERSETUJUAN KERANGKA KERJA MENGENAI pk SISTEM PREFERENSI PERDAGANGAN
+  ANTAR NEGARA-NEGARA ANGGOTA ORGANISASI KONFERENSI ISLAM) de
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

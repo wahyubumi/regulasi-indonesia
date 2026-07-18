@@ -1,0 +1,76 @@
+id: pp-1980-024
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '24'
+nomor_lengkap: '24'
+tahun: 1980
+judul: Pembentukan Kecamatan Bakarangan Dan Kecamatan Piani Di Kabupaten Daerah Tingkat
+  Ii Tapin, Kecamatan Loksado Dan Kecamatan Kalumpang Di Kabupaten Daerah Tingkat
+  Ii Hulu Sungai Selatan, Kecamatan Halong Di Kabupaten Daerah Ii Hulu Sungai Utara,
+  Kecamatan Murung Pudak Di Kabupaten Daerah Tingkat Ii Tabalong, Kecamatan Tabukan
+  Di Kabupaten Daerah Tingkat Ii Barito Kuala, Kecamatan Kintap Dan Kecamatan Panyipatan
+  Di Kabupaten Daerah Tingkat Ii Tanah Laut, Kecamatan Hampang Dan Kecamatan Sungai
+  Durian Di Kabupaten Daerah Tingkat Ii Kotabaru Dalam Wilayah Propinsi Daerah Tingkat
+  I Kalimantan Selatan
+judul_lengkap: Peraturan Pemerintah Nomor 24 Tahun 1980 tentang Pembentukan Kecamatan
+  Bakarangan Dan Kecamatan Piani Di Kabupaten Daerah Tingkat Ii Tapin, Kecamatan Loksado
+  Dan Kecamatan Kalumpang Di Kabupaten Daerah Tingkat Ii Hulu Sungai Selatan, Kecamatan
+  Halong Di Kabupaten Daerah Ii Hulu Sungai Utara, Kecamatan Murung Pudak Di Kabupaten
+  Daerah Tingkat Ii Tabalong, Kecamatan Tabukan Di Kabupaten Daerah Tingkat Ii Barito
+  Kuala, Kecamatan Kintap Dan Kecamatan Panyipatan Di Kabupaten Daerah Tingkat Ii
+  Tanah Laut, Kecamatan Hampang Dan Kecamatan Sungai Durian Di Kabupaten Daerah Tingkat
+  Ii Kotabaru Dalam Wilayah Propinsi Daerah Tingkat I Kalimantan Selatan
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp24-1980.md.

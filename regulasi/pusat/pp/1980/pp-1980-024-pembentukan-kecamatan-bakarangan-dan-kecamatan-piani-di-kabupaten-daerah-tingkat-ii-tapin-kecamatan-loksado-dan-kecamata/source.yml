@@ -1,0 +1,29 @@
+id: pp-1980-024
+judul: Peraturan Pemerintah Nomor 24 Tahun 1980 tentang Pembentukan Kecamatan Bakarangan
+  Dan Kecamatan Piani Di Kabupaten Daerah Tingkat Ii Tapin, Kecamatan Loksado Dan
+  Kecamatan Kalumpang Di Kabupaten Daerah Tingkat Ii Hulu Sungai Selatan, Kecamatan
+  Halong Di Kabupaten Daerah Ii Hulu Sungai Utara, Kecamatan Murung Pudak Di Kabupaten
+  Daerah Tingkat Ii Tabalong, Kecamatan Tabukan Di Kabupaten Daerah Tingkat Ii Barito
+  Kuala, Kecamatan Kintap Dan Kecamatan Panyipatan Di Kabupaten Daerah Tingkat Ii
+  Tanah Laut, Kecamatan Hampang Dan Kecamatan Sungai Durian Di Kabupaten Daerah Tingkat
+  Ii Kotabaru Dalam Wilayah Propinsi Daerah Tingkat I Kalimantan Selatan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

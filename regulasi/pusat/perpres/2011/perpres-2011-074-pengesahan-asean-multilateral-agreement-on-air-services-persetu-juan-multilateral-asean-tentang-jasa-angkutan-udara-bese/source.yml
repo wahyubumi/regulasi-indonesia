@@ -1,0 +1,28 @@
+id: perpres-2011-074
+judul: Peraturan Presiden Nomor 74 Tahun 2011 tentang Pengesahan Asean Multilateral
+  Agreement On Air Services (Persetu- Juan Multilateral Asean Tentang Jasa Angkutan
+  Udara) Beserta Protocol 1 On Unlimited Third And Fourth Freedom Traffic Rights Within
+  The Asean Sub-Region (Protokol 1 Tentang Kebebasan Hak Angkut Ketiga Dan Keempat
+  Yang Tidak Terbatas Dalam Subkawasan Asean) Dan Protocol 2 On Unlimited Fifth Freedom
+  Traffic Rights Within The Asean Sub-Region (Protokol 2 Tentang Kebebasan Hak Angkut
+  Kelima Yang Tidak Terbatas Dalam Subkawasan Asean)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

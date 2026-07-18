@@ -1,0 +1,26 @@
+id: perpres-2007-054
+judul: Peraturan Presiden Nomor 54 Tahun 2007 tentang TUNJANGAN JABATAN FUNGSIONAL
+  DOKTER, DOKTER GIGI, APOTEKER, ASISTEN APOTEKER, PRANATA LABORATORlUM KESEHATAN,
+  EPIDEMIOLOG KESEHATAN, ENTOMOLOG KESEHATAN, SANITARIAN, ADMINISTRATOR KESEHATAN,
+  PENYULUH KESEHATAN MASYARAKAT, PERAWAT GIGI, NUTRISIONIS, BIDAN, PERAWAT, RADIOGRAFER,
+  PEREKAM MEDIS, DAN TEKNISI ELEKTROMEDIS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

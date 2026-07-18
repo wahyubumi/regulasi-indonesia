@@ -1,0 +1,24 @@
+id: perpres-2020-059
+judul: Peraturan Presiden Nomor 59 Tahun 2020 tentang Perubahan Atas Peraturan Presiden
+  Nomor 71 Tahun 2015 Tentang Penetapan Dan Penyimpanan Barang Kebutuhan Pokok Dan
+  Barang Penting
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

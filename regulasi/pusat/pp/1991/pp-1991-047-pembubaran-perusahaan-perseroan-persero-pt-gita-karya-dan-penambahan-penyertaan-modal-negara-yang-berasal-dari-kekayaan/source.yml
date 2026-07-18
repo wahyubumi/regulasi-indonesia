@@ -1,0 +1,26 @@
+id: pp-1991-047
+judul: Peraturan Pemerintah Nomor 47 Tahun 1991 tentang Pembubaran Perusahaan Perseroan
+  (Persero) Pt. Gita Karya Dan Penambahan Penyertaan Modal Negara Yang Berasal Dari
+  Kekayaan Negara Hasil Likuidasi Perusahaan Perseroan (Persero) Pt. Gita Karya Ke
+  Dalam Modal Perusahaan Umum (Perum) Percetakan Negara Republik Indonesia Dan Ke
+  Dalam Modal Saham Perusahaan Perseroan (Persero) Pt. Pradnya Paramita
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

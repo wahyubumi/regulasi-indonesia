@@ -1,0 +1,25 @@
+id: perpres-2019-004
+judul: Peraturan Presiden Nomor 4 Tahun 2019 tentang Kedudukan Keuangan Ketua Dan
+  Anggota Badan Pengawas Pemilihan Umum, Badan Pengawas Pemilihan Umum Provinsi, Badan
+  Pengawas Pemilihan Umum Kabupaten/Kota, Dan Dewan Kehormatan Penyelenggara Pemilihan
+  Umum
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

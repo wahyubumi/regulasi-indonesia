@@ -1,0 +1,33 @@
+# Peraturan Presiden Nomor 116 Tahun 2016 tentang Pembubaran Badan Benih Nasional, Badan Pengendalian Bimbingan Massal, Dewan Pemantapan Ketahanan Ekonomi Dan Keuangan, Komite Pengarah Pengembangan Kawasan Ekonomi Khusus Di Pulau Batam, Pulau Bintan, Dan Pulau Karimun, Tim Nasional Pembakuan Nama Rupabumi, Dewan Kelautan Indonesia, Dewan Nasional Kawasan Perdagangan Bebas Dan Pelabuhan Bebas, Badan Koordinasi Penataan Ruang Nasional, Dan Komisi Nasional Pengendalian Zoonosis
+
+## Ringkasan
+
+Ringkasan belum diisi. Ringkasan tidak boleh menggantikan teks resmi regulasi.
+
+## Informasi Utama
+
+| Elemen | Isi |
+|---|---|
+| Jenis | Peraturan Presiden |
+| Nomor | 116 |
+| Tahun | 2016 |
+| Judul | Pembubaran Badan Benih Nasional, Badan Pengendalian Bimbingan Massal, Dewan Pemantapan Ketahanan Ekonomi Dan Keuangan, Komite Pengarah Pengembangan Kawasan Ekonomi Khusus Di Pulau Batam, Pulau Bintan, Dan Pulau Karimun, Tim Nasional Pembakuan Nama Rupabumi, Dewan Kelautan Indonesia, Dewan Nasional Kawasan Perdagangan Bebas Dan Pelabuhan Bebas, Badan Koordinasi Penataan Ruang Nasional, Dan Komisi Nasional Pengendalian Zoonosis |
+| Status | perlu_verifikasi |
+| Tingkat | pusat |
+| Sumber | belum_diisi |
+
+## File
+
+- [`dokumen.md`](dokumen.md)
+- [`metadata.yml`](metadata.yml)
+- [`source.yml`](source.yml)
+- [`relasi.yml`](relasi.yml)
+- [`quality-check.yml`](quality-check.yml)
+
+## Catatan Konversi
+
+Status konversi: needs_review.
+
+## Peringatan
+
+Dokumen Markdown ini adalah hasil konversi untuk kebutuhan pencarian, analisis, dan pemrosesan teks. Untuk rujukan hukum resmi, tetap gunakan sumber regulasi resmi.

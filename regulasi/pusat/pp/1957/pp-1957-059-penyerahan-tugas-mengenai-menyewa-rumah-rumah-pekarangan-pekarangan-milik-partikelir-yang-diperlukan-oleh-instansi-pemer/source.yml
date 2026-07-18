@@ -1,0 +1,24 @@
+id: pp-1957-059
+judul: Peraturan Pemerintah Nomor 59 Tahun 1957 tentang Penyerahan Tugas Mengenai
+  Menyewa Rumah-Rumah/Pekarangan - Pekarangan Milik Partikelir Yang Diperlukan Oleh
+  Instansi Pemerintah Sipil Kepada Masing-Masing Kementerian Yang Bersangkutan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

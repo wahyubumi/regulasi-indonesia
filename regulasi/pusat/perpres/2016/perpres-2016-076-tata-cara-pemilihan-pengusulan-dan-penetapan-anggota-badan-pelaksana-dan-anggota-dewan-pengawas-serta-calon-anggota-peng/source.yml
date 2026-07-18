@@ -1,0 +1,25 @@
+id: perpres-2016-076
+judul: Peraturan Presiden Nomor 76 Tahun 2016 tentang Tata Cara Pemilihan, Pengusulan,
+  Dan Penetapan Anggota Badan Pelaksana Dan Anggota Dewan Pengawas Serta Calon Anggota
+  Pengganti Antarwaktu Anggota Badan Pelaksana Dan Anggota Dewan Pengawas Badan Pengelola
+  Keuangan Haji
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

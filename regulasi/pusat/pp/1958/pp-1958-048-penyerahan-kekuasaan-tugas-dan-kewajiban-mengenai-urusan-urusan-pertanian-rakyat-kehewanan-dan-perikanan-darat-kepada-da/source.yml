@@ -1,0 +1,24 @@
+id: pp-1958-048
+judul: Peraturan Pemerintah Nomor 48 Tahun 1958 tentang Penyerahan Kekuasaan, Tugas
+  Dan Kewajiban Mengenai Urusan-Urusan Pertanian Rakyat, Kehewanan Dan Perikanan Darat
+  Kepada Daerah Swatantra Tingkat I Kotapraja Jakarta Raya
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

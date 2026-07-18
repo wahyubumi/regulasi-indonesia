@@ -1,0 +1,24 @@
+id: perpres-2018-047
+judul: Peraturan Presiden Nomor 47 Tahun 2018 tentang Pengesahan Protocol Relating
+  To An Amendment To The Convention On International Civil Aviation [Article 56] (Protokol
+  Terkait Amendemen Konvensi Penerbangan Sipil Internasional [Pasal 56])
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: pp-1991-028
+judul: Peraturan Pemerintah Nomor 28 Tahun 1991 tentang Pembubaran Perusahaan Perseroan
+  (Persero) Pt. Kertas Kraf Cilacap Dan Penambahan Penyertaan Modal Negara Yang Berasal
+  Dari Sebagian Kekayaan Negara Hasil Likuidasi Perusahaan Perseroan (Persero) Pt.
+  Kertas Kraf Cilacap Ke Dalam Saham Perusahaan Perseroan (Persero) Pt. Blabak
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

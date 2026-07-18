@@ -1,0 +1,33 @@
+# Peraturan Presiden Nomor 23 Tahun 1963 tentang Peraturan Penyesuaian Gaji Dan Pangkat Pegawai Negeri Sipil Dan Anggota Kepolisian Negara Di Propinsi Irian Barat Kedalam P.G.P.N.-1961/P.G.-Pol.-1961
+
+## Ringkasan
+
+Ringkasan belum diisi. Ringkasan tidak boleh menggantikan teks resmi regulasi.
+
+## Informasi Utama
+
+| Elemen | Isi |
+|---|---|
+| Jenis | Peraturan Presiden |
+| Nomor | 23 |
+| Tahun | 1963 |
+| Judul | Peraturan Penyesuaian Gaji Dan Pangkat Pegawai Negeri Sipil Dan Anggota Kepolisian Negara Di Propinsi Irian Barat Kedalam P.G.P.N.-1961/P.G.-Pol.-1961 |
+| Status | perlu_verifikasi |
+| Tingkat | pusat |
+| Sumber | belum_diisi |
+
+## File
+
+- [`dokumen.md`](dokumen.md)
+- [`metadata.yml`](metadata.yml)
+- [`source.yml`](source.yml)
+- [`relasi.yml`](relasi.yml)
+- [`quality-check.yml`](quality-check.yml)
+
+## Catatan Konversi
+
+Status konversi: needs_review.
+
+## Peringatan
+
+Dokumen Markdown ini adalah hasil konversi untuk kebutuhan pencarian, analisis, dan pemrosesan teks. Untuk rujukan hukum resmi, tetap gunakan sumber regulasi resmi.

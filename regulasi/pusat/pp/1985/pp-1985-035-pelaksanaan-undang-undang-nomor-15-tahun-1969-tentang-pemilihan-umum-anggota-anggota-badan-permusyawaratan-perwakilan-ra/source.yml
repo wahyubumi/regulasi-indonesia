@@ -1,0 +1,25 @@
+id: pp-1985-035
+judul: Peraturan Pemerintah Nomor 35 Tahun 1985 tentang Pelaksanaan Undang-Undang
+  Nomor 15 Tahun 1969 Tentang Pemilihan Umum Anggota-Anggota Badan Permusyawaratan/
+  Perwakilan Rakyat Sebagaimana Telah Tiga Kali Diubah Terakhir Dengan Undang-Undang
+  Nomor 1 Tahun 1985
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

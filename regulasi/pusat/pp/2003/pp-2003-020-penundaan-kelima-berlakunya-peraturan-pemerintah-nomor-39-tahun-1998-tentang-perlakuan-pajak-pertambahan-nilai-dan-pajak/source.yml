@@ -1,0 +1,25 @@
+id: pp-2003-020
+judul: Peraturan Pemerintah Nomor 20 Tahun 2003 tentang Penundaan Kelima Berlakunya
+  Peraturan Pemerintah Nomor 39 Tahun 1998 Tentang Perlakuan Pajak Pertambahan Nilai
+  Dan Pajak Penjualan Atas Barang Mewah Di Kawasan Berikat (Bonded Zone) Daerah Industri
+  Pulau Batam
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: pp-2025-037
+judul: Peraturan Pemerintah Nomor 37 Tahun 2025 tentang Perubahan Atas Peraturan Pemerintah
+  Nomor 19 Tahun 2024 Tentang Peraturan Pei.A,Ksanaan Undang-Undang Nomor 15 Tahun
+  1997 Tentang Ketransmigrasian Sebagaimana Tei,Ah Diubah Dengan Undang-Undang Nomor
+  29 Tahun 2Oo9 Tentang Perubahan Atas Undang-Undang Nomor 15 Tahun 1997 Tentang Ketransmigrasi,An
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: perpres-2008-037
+judul: Peraturan Presiden Nomor 37 Tahun 2008 tentang Pengesahan Agreement To Establish
+  And Implement The Asean Single Window (Persetujuan Untuk Membangun Dan Pelaksanaan
+  Asean Single Window) Beserta Protocol To Establish And Implement The Asean Single
+  Window (Protokol Untuk Membangun Dan Melaksanakan Asean Single Window)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

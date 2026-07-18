@@ -1,0 +1,167 @@
+---
+id: "uu-2009-015"
+jenis: "uu"
+nomor: "15"
+tahun: 2009
+judul: "Undang-Undang Nomor 15 Tahun 2009 tentang uu pjl"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Undang-Undang Nomor 15 Tahun 2009 tentang uu pjl
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: uu
+nomor: 15
+tahun: 2009
+tentang: uu pjl
+---
+
+<!-- PAGE: 1 -->
+
+           TAMBAHAN
+       LEMBARAN NEGARA RI
+No. 4991                 Pengesahan. Protokol. Penyelundupan. Imigran.
+                         (Penjelasan Atas Lembaran Negara Republik
+                         Indonesia Tahun 2009 Nomor 54)
+
+
+                         PENJELASAN
+                            ATAS
+           UNDANG-UNDANG REPUBLIK INDONESIA
+                    NOMOR 15 TAHUN 2009
+                          TENTANG
+PENGESAHAN PROTOCOL AGAINST THE SMUGGLING OF MIGRANTS
+  BY LAND, SEA AND AIR, SUPPLEMENTING THE UNITED NATIONS
+    CONVENTION AGAINST TRANSNATIONAL ORGANIZED CRIME
+ (PROTOKOL MENENTANG PENYELUNDUPAN MIGRAN MELALUI
+      DARAT, LAUT, DAN UDARA, MELENGKAPI KONVENSI
+                        PERSERIKATAN
+        BANGSA-BANGSA MENENTANG TINDAK PIDANA
+           TRANSNASIONAL YANG TERORGANISASI)
+
+I. UMUM
+  Indonesia, sebagai negara kepulauan terbesar di dunia, rentan terhadap
+  berbagai bentuk penyelundupan, termasuk penyelundupan migran.
+  Penyelundupan migran merupakan salah satu bentuk tindak pidana
+  transnasional yang kerap kali dilakukan secara terorganisasi. Dengan
+  demikian, tindakan efektif untuk mencegah dan memerangi penyelundupan
+  migran melalui darat, laut, dan udara membutuhkan suatu pendekatan yang
+  menyeluruh, termasuk dengan melakukan kerja sama, pertukaran informasi
+  dan upaya-upaya lain yang diperlukan, baik di tingkat nasional, regional
+  maupun internasional.
+
+<!-- PAGE: 2 -->
+
+No. 4991                             2
+
+
+  Indonesia, sebagai negara anggota Perserikatan Bangsa-Bangsa, turut
+  menandatangani instrumen hukum internasional yang secara khusus
+  mengatur upaya pencegahan dan pemberantasan tindak pidana transnasional
+  yang terorganisasi, yakni United Nations Convention Against Transnational
+  Organized Crime (Konvensi Perserikatan Bangsa-Bangsa Menentang Tindak
+  Pidana Transnasional yang Terorganisasi) pada tanggal 15 Desember 2000
+  di Palermo, Italia beserta dua protokolnya yaitu Protocol to Prevent,
+  Suppress and Punish Trafficking in Persons, Especially Women and
+  Children, Supplementing the United Nations Convention against
+  Transnational Organized Crime (Protokol untuk Mencegah, Menindak, dan
+  Menghukum Perdagangan Orang, Terutama Perempuan dan Anak-Anak,
+  Melengkapi Konvensi Perserikatan Bangsa-Bangsa Menentang Tindak
+  Pidana Transnasional yang Terorganisasi) dan Protocol against the
+  Smuggling of Migrants by Land, Sea and Air, Supplementing the United
+  Nations Convention against Transnational Organized Crime (Protokol
+  Menentang Penyelundupan Migran melalui Darat, Laut, dan Udara,
+  Melengkapi Konvensi Perserikatan Bangsa-Bangsa Menentang Tindak
+  Pidana Transnasional yang Terorganisasi) sebagai perwujudan komitmen
+  Indonesia dalam mencegah dan memberantas tindak pidana transnasional
+  yang terorganisasi, termasuk tindak pidana penyelundupan migran.
+  Sesuai dengan ketentuan Protokol, Indonesia menyatakan Pensyaratan
+  (Reservation) terhadap ketentuan Pasal 20 ayat (2) yang mengatur mengenai
+  pilihan penyelesaian sengketa apabila terjadi perbedaan penafsiran dan
+  penerapan isi Protokol. Pensyaratan ini diambil dengan pendirian bahwa
+  apabila terjadi perselisihan akibat perbedaan penafsiran dan penerapan isi
+  Protokol yang tidak terselesaikan melalui mekanisme sebagaimana dimaksud
+  pada ayat (1) Pasal tersebut, dapat menunjuk Mahkamah Internasional
+  sebagai lembaga penyelesaian sengketa berdasarkan kesepakatan Para Pihak
+  yang bersengketa.
+  Indonesia juga membuat Pernyataan (Declaration) terhadap ketentuan Pasal
+  6 ayat (2) huruf c, Pasal 9 ayat (1) huruf a, dan Pasal 9 ayat (2) Protokol
+  dengan pendirian bahwa ketentuan pasal-pasal tersebut akan dilaksanakan
+  dengan tunduk terhadap prinsip-prinsip kedaulatan dan keutuhan wilayah
+  negara.
+  POKOK-POKOK ISI KONVENSI
+  1. Hubungan antara Protokol dan Konvensi Perserikatan Bangsa-Bangsa
+       Menentang Tindak Pidana Transnasional yang Terorganisasi
+       Pasal 1 Protokol menyatakan bahwa Protokol ini melengkapi Konvensi
+       Perserikatan Bangsa-Bangsa Menentang Tindak Pidana Transnasional
+
+<!-- PAGE: 3 -->
+
+                                    3                              No. 4991
+
+
+     yang Terorganisasi dan wajib ditafsirkan sejalan dengan Konvensi.
+     Dengan demikian, ketentuan-ketentuan yang tertuang dalam Konvensi
+     berlaku sama terhadap Protokol ini, kecuali dinyatakan lain. Selain itu,
+     tindak pidana yang ditetapkan dalam Protokol ini juga dianggap sebagai
+     tindak pidana yang ditetapkan dalam Konvensi.
+2.   Tujuan Protokol
+     Pasal 2 Protokol menyatakan bahwa tujuan Protokol ini adalah untuk
+     mencegah dan memberantas penyelundupan migran serta memajukan
+     kerja sama di antara Negara-Negara Pihak untuk mencapai tujuan
+     tersebut, dengan melindungi hak-hak migran yang diselundupkan.
+3.   Ruang Lingkup Protokol
+     Pasal 4 Protokol menyatakan bahwa ruang lingkup keberlakuan
+     Protokol ini adalah upaya pencegahan, penyelidikan, dan penuntutan
+     tindak pidana sebagaimana ditetapkan dalam Protokol ini, yang bersifat
+     transnasional dan melibatkan suatu kelompok pelaku tindak pidana
+     terorganisasi, dan juga untuk perlindungan hak-hak orang yang menjadi
+     obyek tindak pidana tersebut.
+4.   Tanggung Jawab Pidana Migran
+     Pasal 5 Protokol menyatakan bahwa migran tidak dapat dikenai
+     tanggung jawab pidana karena mereka adalah obyek dari tindak pidana
+     yang telah ditetapkan dalam Protokol ini.
+5.   Kewajiban Negara Pihak
+     Sesuai dengan ketentuan Protokol, setiap Negara Pihak pada Protokol
+     memiliki kewajiban sebagai berikut:
+     a.   menjadikan tindak pidana yang telah ditetapkan dalam Protokol
+          sebagai tindak pidana dalam peraturan perundang-undangan
+          nasional (kewajiban kriminalisasi) [Pasal 6];
+     b.   dalam hal penyelundupan migran melalui laut, setiap Negara Pihak
+          wajib mempererat kerja sama untuk mencegah dan menekan
+          penyelundupan migran melalui laut, sesuai dengan hukum laut
+          internasional dan berupaya mengambil seluruh tindakan
+          sebagaimana diatur dalam Protokol terhadap kasus penyelundupan
+          migran di laut dengan memperhatikan rambu-rambu yang telah
+          disediakan oleh Protokol [Pasal 7 sampai dengan Pasal 9]; dan
+     c.   dalam upaya pencegahan, kerja sama, dan upaya lain yang
+          diperlukan dalam memberantas penyelundupan migran, setiap
+          Negara Pihak pada Protokol juga berkewajiban untuk saling berbagi
+
+<!-- PAGE: 4 -->
+
+No. 4991                            4
+
+
+            informasi, bekerja sama dalam memperkuat pengawasan di
+            kawasan perbatasan, menjaga keamanan dan pengawasan dokumen,
+            mengadakan pelatihan dan kerja sama teknis, perlindungan dan
+            langkah perbantuan serta tindakan pemulangan migran yang
+            diselundupkan [Pasal 10 sampai dengan Pasal 18].
+
+II. PASAL DEMI PASAL
+  Pasal 1
+       Apabila terjadi perbedaan tafsiran terhadap terjemahannya dalam
+       bahasa Indonesia, yang berlaku adalah naskah asli Protokol dalam
+       bahasa Inggris.
+  Pasal 2
+       Cukup jelas.

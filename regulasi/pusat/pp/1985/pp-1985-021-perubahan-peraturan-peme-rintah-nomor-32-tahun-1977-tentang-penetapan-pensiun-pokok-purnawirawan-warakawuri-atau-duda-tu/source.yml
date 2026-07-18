@@ -1,0 +1,25 @@
+id: pp-1985-021
+judul: Peraturan Pemerintah Nomor 21 Tahun 1985 tentang Perubahan Peraturan Peme Rintah
+  Nomor 32 Tahun 1977 Tentang Penetapan Pensiun Pokok Purnawirawan/Warakawuri Atau
+  Duda, Tunjangan Anak Yatim/Piatu Dan Anak Yatim-Piatu Anggota Angkatan Bersenjata
+  Republik Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

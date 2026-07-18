@@ -1,0 +1,25 @@
+id: pp-1961-210
+judul: Peraturan Pemerintah Nomor 210 Tahun 1961 tentang Kenaikan Gaji Pokok Menurut
+  P.G.M. 1956 Yang Telah Diubah Dengan Peraturan Presiden No. 9 Tahun 1959 (Lembaran-Negara
+  Tahun 1959 No. 127) Serta Perubahan Beberapa Jenis Tunjangan Bagi Anggota Angkatan
+  Perang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: perpres-2022-061
+judul: Peraturan Presiden Nomor 61 Tahun 2022 tentang Pengesahan Asean Framework Agreement
+  On The Facilitation Of Cross Border Transport Of Passengers By Road Vehicles (Persetujuan
+  Kerangka Kerja Asean Mengenai Pemberian Kemudahan Terhadap Angkutan Penumpang Lintas
+  Batas Dengan Menggunakan Kendaraan Bermotor Di Jalan)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

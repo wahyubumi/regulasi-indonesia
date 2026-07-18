@@ -1,0 +1,27 @@
+id: perpres-2011-075
+judul: Peraturan Presiden Nomor 75 Tahun 2011 tentang Pengesahan Memorandum Of Understanding
+  On Establishing The Asean-China Centre Between The Governments Of The Member States
+  Of The Association Of Southeast Asian Nations And The Government Of The Peoples’S
+  Republic Of China (Memorandum Saling Pengertian Mengenai Pendirian Asean-China Centre
+  Antara Pemerintah Negara-Negara Anggota Perhimpunan Bangsa-Bangsa Asia Tenggara
+  Dan Republik Rakyat China)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

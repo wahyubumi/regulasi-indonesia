@@ -1,0 +1,26 @@
+id: pp-1996-065
+judul: Peraturan Pemerintah Nomor 65 Tahun 1996 tentang Pembentukan Limapuluh Tiga
+  Kecamatan Di Wilayah Kabupaten Daerah Tingkat Ii Jayawijaya, Sorong, Manokwari,Nabire,
+  Merauke, Jayapura, Yapen Waropen, Fak-Fak, Biak Numfor, Kotamadya Daerah Tingkat
+  Ii Jayapura, Kabupaten Puncak Jaya, Dan Kabupaten Paniai Dalam Wilayah Propinsi
+  Daerah Tingkat I Irian Jaya
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

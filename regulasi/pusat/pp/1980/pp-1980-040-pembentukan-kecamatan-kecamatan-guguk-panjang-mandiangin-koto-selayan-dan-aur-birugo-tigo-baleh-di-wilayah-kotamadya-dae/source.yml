@@ -1,0 +1,24 @@
+id: pp-1980-040
+judul: Peraturan Pemerintah Nomor 40 Tahun 1980 tentang Pembentukan Kecamatan-Kecamatan
+  Guguk Panjang, Mandiangin Koto Selayan Dan Aur Birugo Tigo Baleh Di Wilayah Kotamadya
+  Daerah Tingkat Ii Bukittinggi Propinsi Daerah Tingkat I Sumatera Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

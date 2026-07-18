@@ -1,0 +1,27 @@
+id: perpres-2021-035
+judul: Peraturan Presiden Nomor 35 Tahun 2021 tentang Pengesahan Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Pemerintah Republik Singapura Untuk Eliminasi
+  Pajak Berganda Sehubungan Dengan Pajak-Pajak Atas Penghasilan Dan Pencegahan Pengelakan
+  Dan Penghindaran Pajak (Agreement Between The Government Of The Republic Of Indonesia
+  And The Government Of The Republic Of Singapore For The Elimination Of Double Taxation
+  With Respect To Taxes On Income And The Prevention Of Tax Evasion And Avoidance)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

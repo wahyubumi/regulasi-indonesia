@@ -1,0 +1,24 @@
+id: perpres-2012-045
+judul: Peraturan Presiden Nomor 45 Tahun 2012 tentang Perubahan Atas Keputusan Presiden
+  Nomor 86 Tahun 2002 Tentang Pembentukan Badan Pengatur Penyediaan Dan Pendistribusian
+  Bahan Bakar Minyak Dan Kegiatan Usaha Pengangkutan Gas Bumi Melalui Pipa
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

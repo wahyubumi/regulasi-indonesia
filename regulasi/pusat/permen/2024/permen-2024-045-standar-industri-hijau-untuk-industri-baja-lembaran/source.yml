@@ -1,0 +1,23 @@
+id: permen-2024-045
+judul: Peraturan Menteri Nomor 45 Tahun 2024 tentang Standar Industri Hijau Untuk
+  Industri Baja Lembaran
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://gatrik.esdm.go.id/frontend/download_index/?kode_c
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

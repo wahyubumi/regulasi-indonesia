@@ -1,0 +1,27 @@
+id: perpres-2016-022
+judul: Peraturan Presiden Nomor 22 Tahun 2016 tentang Pengesahan Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Pemerintah Republik Armenia Tentang Penghindaran
+  Pajak Berganda Dan Pencegahan Pengelakan Pajak Atas Penghasilan Dan Atas Modal (Agreement
+  Between The Government Of The Republic Of Indonesia And The Government Of The Republic
+  Of Armenia For The Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion
+  With Respect To Taxes On Income And On Capital)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: pp-1957-060
+judul: Peraturan Pemerintah Nomor 60 Tahun 1957 tentang Pencabutan Peraturan Pemerintah
+  No. 55 Tahun 1954 (Lembaran-Negara Tahun 1954 Nomor 96), Keputusan-Keputusan Presiden
+  Dan Keputusan-Keputusan Menteri Pertahanan Tentang Penunjukan/Pengangkatan Penguasa-Penguasa
+  Militer
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

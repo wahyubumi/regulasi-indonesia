@@ -1,0 +1,24 @@
+id: pp-2025-018
+judul: Peraturan Pemerintah Nomor 18 Tahun 2025 tentang Peruba}Ian Atas Peratt'Ran
+  Pemerimah Nomor 15 Tahun 2022 Tentang Periakuan Perpa.'Akan Dan/Atau Penerimaan
+  Negara Bukan Pnak Di Bidang Usaha Pertambat{Gan Baii,Ibara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

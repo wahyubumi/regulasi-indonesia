@@ -1,0 +1,25 @@
+id: pp-1968-011
+judul: Peraturan Pemerintah Nomor 11 Tahun 1968 tentang PEROBAHAN DAN PENAMBAHAN ATAS
+  PERATURAN PEMERINTAH Nomor 19 TAHUN 1967 (LEMBARAN NEGARA NOMOR 1967 Nomor 31, TAMBAHAN
+  LEMBARAN NEGARA NOMOR 2839 TENTANG PERBAIKAN PENGHASILAN BEKAS MENTERI NEGARA REPUBLIK
+  INDONESIA, KETUA/WAKIL KETUA SERTA ANGGOTA D.P.R.G.R
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

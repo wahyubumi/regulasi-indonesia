@@ -1,0 +1,26 @@
+id: perpres-2024-002
+judul: Peraturan Presiden Nomor 2 Tahun 2024 tentang PENGESAHAN PERSETUJUAN ANTARA
+  PEMERINTAH REPUBLIK INDONESIA DAN DEWAN FEDERAL SWISS MENGENAI PENINGKATAN DAN PERLINDUNGAN
+  TIMBAL BALIK ATAS PENANAMAN MODAL IAGREEMENT BETWEEN THE SWISS FEDERAL COT]NCIL
+  AND THE GOWRNMENT OF THE REPUBUC OF INDONESIA ON THE PROMOTION AND RECIPROCAL PROTECTTON
+  OF TNIr'ESTMENT1
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

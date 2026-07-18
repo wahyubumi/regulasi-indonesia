@@ -1,0 +1,65 @@
+id: pp-2016-004
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '4'
+nomor_lengkap: '4'
+tahun: 2016
+judul: Pemasukan Ternak Dan/Atau Produk Hewan Dalam Hal Tertentu Yang Berasal Dari
+  Negara Atau Zona Dalam Suatu Negara Asal Pemasukan
+judul_lengkap: Peraturan Pemerintah Nomor 4 Tahun 2016 tentang Pemasukan Ternak Dan/Atau
+  Produk Hewan Dalam Hal Tertentu Yang Berasal Dari Negara Atau Zona Dalam Suatu Negara
+  Asal Pemasukan
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp4-2016bt.md.

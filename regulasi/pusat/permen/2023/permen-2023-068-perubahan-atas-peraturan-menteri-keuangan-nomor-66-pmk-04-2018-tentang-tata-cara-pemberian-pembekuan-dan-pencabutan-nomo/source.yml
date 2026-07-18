@@ -1,0 +1,24 @@
+id: permen-2023-068
+judul: Peraturan Menteri Nomor 68 Tahun 2023 tentang Perubahan Atas Peraturan Menteri
+  Keuangan Nomor 66/Pmk.04/2018 Tentang Tata Cara Pemberian, Pembekuan, Dan Pencabutan
+  Nomor Pokok Pengusaha Barang Kena Cukai
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

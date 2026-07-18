@@ -1,0 +1,27 @@
+id: perpres-2007-008
+judul: Peraturan Presiden Nomor 8 Tahun 2007 tentang Pengesahan Convention On International
+  Interests In Mobile Equipment (Konvensi Tentang Kepentingan Internasional Dalam
+  Peralatan Bergerak) Beserta Protocol To The Convention On International Interests
+  In Mobile Equipment On Matters Specific To Aircraft Equipment (Protokol Pada Konvensi
+  Tentang Kepentingan Internasional Dalam Peralatan Bergerak Mengenai Masalah-Masalah
+  Khusus Pada Peralatan Pesawat Udara)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

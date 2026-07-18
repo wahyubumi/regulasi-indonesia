@@ -1,0 +1,26 @@
+id: perpres-2013-023
+judul: Peraturan Presiden Nomor 23 Tahun 2013 tentang Pengesahan Agreement Between
+  The Governments Of The Member States Of The Association Of Southeast Asian Nations
+  And The Republic Of Korea On Forest Cooperation (Persetujuan Antara Pemerintah Negara-Negara
+  Anggota Asosiasi Bangsa-Bangsa Asia Tenggara Dan Republik Korea Mengenai Kerjasama
+  Di Bidang Kehutanan)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

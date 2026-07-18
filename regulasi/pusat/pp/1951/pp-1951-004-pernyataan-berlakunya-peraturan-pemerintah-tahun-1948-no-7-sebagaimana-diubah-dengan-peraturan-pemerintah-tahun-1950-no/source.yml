@@ -1,0 +1,25 @@
+id: pp-1951-004
+judul: Peraturan Pemerintah Nomor 4 Tahun 1951 tentang Pernyataan Berlakunya Peraturan
+  Pemerintah Tahun 1948 No. 7 Sebagaimana Diubah Dengan Peraturan Pemerintah Tahun
+  1950 No. 12 Dan Peraturan Pemerintah Tahun 1950 No.13 Dari Republik Indonesia Untuk
+  Seluruh Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

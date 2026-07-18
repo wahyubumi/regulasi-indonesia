@@ -1,0 +1,35 @@
+id: permen-2024-100
+status_konversi: needs_review
+pemeriksaan:
+  metadata:
+    lengkap: false
+    catatan: Metadata dasar diisi dari teks staging; perlu verifikasi manual.
+  struktur_markdown:
+    heading_konsisten: false
+    pasal_terdeteksi: true
+    ayat_terdeteksi: true
+    lampiran_terpisah: false
+    catatan: Struktur Markdown dipertahankan dari file staging.
+  tabel:
+    ada_tabel: false
+    tabel_berhasil_dikonversi: null
+    catatan: null
+  gambar_bagan:
+    ada_gambar: false
+    ada_bagan: null
+    sudah_dibuat_mermaid: null
+    catatan: null
+  halaman:
+    page_marker: true
+    jumlah_halaman_pdf: null
+    jumlah_page_marker: 4
+    catatan: null
+  validasi_manual:
+    sudah_diperiksa: false
+    pemeriksa: null
+    tanggal: null
+    catatan: null
+risiko:
+- Sumber berasal dari staging/incoming dan perlu verifikasi manual terhadap dokumen
+  resmi.
+- Relasi regulasi belum diekstrak penuh dan perlu verifikasi manual.

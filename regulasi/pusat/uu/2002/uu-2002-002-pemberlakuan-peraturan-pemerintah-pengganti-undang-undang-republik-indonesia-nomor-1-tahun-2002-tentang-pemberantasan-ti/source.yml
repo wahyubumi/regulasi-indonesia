@@ -1,0 +1,25 @@
+id: uu-2002-002
+judul: Undang-Undang Nomor 2 Tahun 2002 tentang Pemberlakuan Peraturan Pemerintah
+  Pengganti Undang-Undang Republik Indonesia Nomor 1 Tahun 2002 Tentang Pemberantasan
+  Tindak Pidana Terorisme, Pada Peristiwa Peledakan Bom Di Bali Tanggal 12 Oktober
+  2002
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

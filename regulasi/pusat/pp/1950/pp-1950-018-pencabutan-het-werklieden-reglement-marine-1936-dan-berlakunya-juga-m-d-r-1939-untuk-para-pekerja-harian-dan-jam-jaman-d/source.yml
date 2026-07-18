@@ -1,0 +1,24 @@
+id: pp-1950-018
+judul: Peraturan Pemerintah Nomor 18 Tahun 1950 tentang Pencabutan "Het Werklieden
+  Reglement Marine 1936" Dan Berlakunya Juga M.D.R. 1939 Untuk Para Pekerja Harian
+  Dan Jam-Jaman Dari Penataran Angkatan Laut Dan Jawatan-Jawatan Angkatan Laut Lainnya
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

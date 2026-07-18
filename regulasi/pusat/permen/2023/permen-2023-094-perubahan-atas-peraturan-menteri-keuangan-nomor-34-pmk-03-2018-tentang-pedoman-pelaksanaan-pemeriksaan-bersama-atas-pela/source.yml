@@ -1,0 +1,25 @@
+id: permen-2023-094
+judul: Peraturan Menteri Nomor 94 Tahun 2023 tentang Perubahan Atas Peraturan Menteri
+  Keuangan Nomor 34/Pmk.03/2018 Tentang Pedoman Pelaksanaan Pemeriksaan Bersama Atas
+  Pelaksanaan Kontrak Kerja Sama Berbentuk Kontrak Bagi Hasil Dengan Pengembalian
+  Biaya Operasi Di Bidang Usaha Hulu Minyak Dan Gas Bumi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

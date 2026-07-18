@@ -1,0 +1,23 @@
+id: permen-2024-082
+judul: Peraturan Menteri Nomor 82 Tahun 2024 tentang Perubahan Atas Peraturan Menteri
+  Keuangan Nomor 82 Tahun 2024 Tentang Tata Cara Pembebasan Cukai
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://satu.kemenkeu.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

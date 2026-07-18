@@ -1,0 +1,23 @@
+id: perpres-2010-068
+judul: Peraturan Presiden Nomor 68 Tahun 2010 tentang Pemberian Fasilitas Uang Muka
+  Bagi Pejabat Negara Pada Lembaga Negara Untuk Pembelian Kendaraan Perorangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

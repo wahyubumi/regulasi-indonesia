@@ -1,0 +1,27 @@
+id: perpres-2025-067
+judul: Peraturan Presiden Nomor 67 Tahun 2025 tentang PENGESAHAN AGREEMENT UNDER THE
+  UNITED IVEflOJVS CONIyE,NTION ON THE I.AW OF THE SEII Oil THE CONSERUATION AND STTSTAINABLE
+  USE OF N,TARNE BIOINGICAL DIIE,RSffY OF AREAS BEYOND NATIONAL JTTRISDICTION (PERSETUJUAN
+  DI BAWAH KOM/ENSr PERSERIKATAN BANGSA-BANGSA TENTANG HUKUM LAUT TENTANG KONSERVASI
+  DAN PEMANFAATAN KEANEKARAGAMAN HAYATI LAUT SECARA BERKEI,,ANJUTAN DI WII.,AYAH DI
+  LUAR YURISDIKSI NASIONAL)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

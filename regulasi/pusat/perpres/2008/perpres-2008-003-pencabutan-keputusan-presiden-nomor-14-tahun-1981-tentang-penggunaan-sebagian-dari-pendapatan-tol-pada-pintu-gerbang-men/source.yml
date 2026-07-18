@@ -1,0 +1,24 @@
+id: perpres-2008-003
+judul: Peraturan Presiden Nomor 3 Tahun 2008 tentang Pencabutan Keputusan Presiden
+  Nomor 14 Tahun 1981 Tentang Penggunaan Sebagian Dari Pendapatan Tol Pada Pintu Gerbang
+  Menuju/Dari Taman Miniatur Indonesia Indah Dan Arena Pramuka Cibubur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

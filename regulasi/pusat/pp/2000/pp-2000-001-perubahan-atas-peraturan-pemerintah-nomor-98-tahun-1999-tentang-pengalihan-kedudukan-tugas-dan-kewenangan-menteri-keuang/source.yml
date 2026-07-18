@@ -1,0 +1,27 @@
+id: pp-2000-001
+judul: Peraturan Pemerintah Nomor 1 Tahun 2000 tentang Perubahan Atas Peraturan Pemerintah
+  Nomor 98 Tahun 1999 Tentang Pengalihan Kedudukan, Tugas Dan Kewenangan Menteri Keuangan
+  Selaku Rapat Umum Pemegang Saham (Rups) Atau Pemegang Saham Pada Perusahaan Perseroan
+  (Persero) Dan Perseroan Terbatas Yang Sebagian Sahamnya Dimiliki Oleh Negara Republik
+  Indonesia Kepada Menteri Negara Penanaman Modal Dan Pembinaan Badan Usaha Milik
+  Negara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,33 @@
+# Peraturan Pemerintah Nomor 35 Tahun 1986 tentang PEMBENTUKAN KECAMATAN KRAMATMULYA DAN DARMA ku DI KABUPATEN DAERAH TINGKAT II KUNINGAN, KECAMATAN CIMANGGUNG DAN UJUNG JAYA DI KABUPATEN DAERAH TINGKAT II SUMEDANG, KECAMATAN BOJONG DAN TEGALWARU DI KABUPATEN DAERAH TINGKAT II PURWAKARTA, KECAMATAN BLANAKAN, TANJUNGSIANG, COMPRENG ep PATOKBEUSI, CIBOGO DAN CIPUNEGARA DI KABUPATEN DAERAH TINGKAT II SUBANG, KECAMATAN PEKALIPAN DAN PENATAAN SERTA PERUBAHAN NAMA KECAMATAN DI KOTAMADYA DAERAH TINGKAT II CIREBON DALAM WILAYAH PROPINSI DAERAH TINGKAT I JAWA BARAT
+
+## Ringkasan
+
+Ringkasan belum diisi. Ringkasan tidak boleh menggantikan teks resmi regulasi.
+
+## Informasi Utama
+
+| Elemen | Isi |
+|---|---|
+| Jenis | Peraturan Pemerintah |
+| Nomor | 35 |
+| Tahun | 1986 |
+| Judul | PEMBENTUKAN KECAMATAN KRAMATMULYA DAN DARMA ku DI KABUPATEN DAERAH TINGKAT II KUNINGAN, KECAMATAN CIMANGGUNG DAN UJUNG JAYA DI KABUPATEN DAERAH TINGKAT II SUMEDANG, KECAMATAN BOJONG DAN TEGALWARU DI KABUPATEN DAERAH TINGKAT II PURWAKARTA, KECAMATAN BLANAKAN, TANJUNGSIANG, COMPRENG ep PATOKBEUSI, CIBOGO DAN CIPUNEGARA DI KABUPATEN DAERAH TINGKAT II SUBANG, KECAMATAN PEKALIPAN DAN PENATAAN SERTA PERUBAHAN NAMA KECAMATAN DI KOTAMADYA DAERAH TINGKAT II CIREBON DALAM WILAYAH PROPINSI DAERAH TINGKAT I JAWA BARAT |
+| Status | perlu_verifikasi |
+| Tingkat | pusat |
+| Sumber | belum_diisi |
+
+## File
+
+- [`dokumen.md`](dokumen.md)
+- [`metadata.yml`](metadata.yml)
+- [`source.yml`](source.yml)
+- [`relasi.yml`](relasi.yml)
+- [`quality-check.yml`](quality-check.yml)
+
+## Catatan Konversi
+
+Status konversi: needs_review.
+
+## Peringatan
+
+Dokumen Markdown ini adalah hasil konversi untuk kebutuhan pencarian, analisis, dan pemrosesan teks. Untuk rujukan hukum resmi, tetap gunakan sumber regulasi resmi.

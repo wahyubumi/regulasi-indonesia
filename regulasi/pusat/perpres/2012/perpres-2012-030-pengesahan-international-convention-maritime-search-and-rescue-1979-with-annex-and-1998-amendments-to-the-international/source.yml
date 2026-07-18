@@ -1,0 +1,28 @@
+id: perpres-2012-030
+judul: Peraturan Presiden Nomor 30 Tahun 2012 tentang Pengesahan International Convention
+  Maritime Search And Rescue, 1979 With Annex And 1998 Amendments To The International
+  Convention On Maritime Search And Rescue, 1979 (Resolution Maritime Safety Committee
+  70 (69)) (Konvensi International Tentang Pencarian Dan Pertolongan Maritim, 1979
+  Beserta Lampiran Dan Perubahan Tahun 1998 Terhadap Konvensi Internasional Tentang
+  Pencarian Dan Pertolongan Maritim, 1979) (Resolusi Komite Keselamatan Maritim 70
+  (69))
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

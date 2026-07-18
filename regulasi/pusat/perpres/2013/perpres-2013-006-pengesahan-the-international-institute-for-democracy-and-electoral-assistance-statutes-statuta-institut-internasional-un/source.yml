@@ -1,0 +1,24 @@
+id: perpres-2013-006
+judul: Peraturan Presiden Nomor 6 Tahun 2013 tentang Pengesahan The International
+  Institute For Democracy And Electoral Assistance Statutes (Statuta Institut Internasional
+  Untuk Demokrasi Dan Perbantuan Pemilihan Umum)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: pp-1954-047
+judul: Peraturan Pemerintah Nomor 47 Tahun 1954 tentang Cara Pencalonan Buat Keanggotaan
+  Dewan Perwakilan Rakyat/Konstituante Oleh Anggota Angkatan Perang Dan Pernyataan
+  Non Aktip/Pemberhentian Berdasarkan Penerimaan Keanggotaan/Pencalonan Keanggotaan
+  Tersebut, Pun Larangan Mengadakan Kampanye Pemilihan Terhadap Anggota Angkatan Perang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

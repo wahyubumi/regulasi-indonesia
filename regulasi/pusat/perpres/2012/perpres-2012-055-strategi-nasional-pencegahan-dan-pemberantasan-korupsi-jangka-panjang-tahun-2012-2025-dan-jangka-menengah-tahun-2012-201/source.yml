@@ -1,0 +1,24 @@
+id: perpres-2012-055
+judul: Peraturan Presiden Nomor 55 Tahun 2012 tentang Strategi Nasional Pencegahan
+  Dan Pemberantasan Korupsi Jangka Panjang Tahun 2012-2025 Dan Jangka Menengah Tahun
+  2012-2014
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

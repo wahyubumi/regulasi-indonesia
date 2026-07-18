@@ -1,0 +1,166 @@
+---
+id: "perpres-2011-047"
+jenis: "perpres"
+nomor: "47"
+tahun: 2011
+judul: "Peraturan Presiden Nomor 47 Tahun 2011 tentang Perubahan Kedua Atas Peraturan Presiden Nomor 71 Tahun 2006 Tentang Penugasan Kepada Pt Perusahaan Listrik Negara (Persero) Untuk Melakukan Percepatan Pembangunan Pembangkit Tenaga Listrik Yang Menggunakan Batubara"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Presiden Nomor 47 Tahun 2011 tentang Perubahan Kedua Atas Peraturan Presiden Nomor 71 Tahun 2006 Tentang Penugasan Kepada Pt Perusahaan Listrik Negara (Persero) Untuk Melakukan Percepatan Pembangunan Pembangkit Tenaga Listrik Yang Menggunakan Batubara
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: perpres
+nomor: 47
+tahun: 2011
+tentang: Perubahan Kedua Atas Peraturan Presiden Nomor 71 Tahun 2006 Tentang Penugasan Kepada Pt Perusahaan Listrik Negara (Persero) Untuk Melakukan Percepatan Pembangunan Pembangkit Tenaga Listrik Yang Menggunakan Batubara
+---
+
+<!-- PAGE: 1 -->
+
+               PERATURAN PRESIDEN REPUBLIK INDONESIA
+                         NOMOR 47 TAHUN 2011
+                             TENTANG
+   PERUBAHAN KEDUA ATAS PERATURAN PRESIDEN NOMOR 71 TAHUN 2006
+  TENTANG PENUGASAN KEPADA PT PERUSAHAAN LISTRIK NEGARA (PERSERO)
+   UNTUK MELAKUKAN PERCEPATAN PEMBANGUNAN PEMBANGKIT TENAGA
+               LISTRIK YANG MENGGUNAKAN BATUBARA
+
+
+               DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+                     PRESIDEN REPUBLIK INDONESIA,
+
+
+Menimbang :   a. bahwa   penanganan      pembangunan      tenaga       listrik   dapat
+                dilakukan secara fungsional oleh kementerian sesuai dengan
+                tugas dan fungsinya, dan untuk itu Tim Koordinasi Percepatan
+                Pembangunan Pembangkit Tenaga Listrik yang dibentuk dengan
+                Peraturan Presiden Nomor 72 Tahun 2006 sebagaimana telah
+                diubah dengan Peraturan Presiden Nomor 6 Tahun 2010 telah
+                dibubarkan;
+              b. bahwa dengan      pembubaran     Tim Koordinasi          Percepatan
+                Pembangunan      Pembangkit      Tenaga      Listrik    sebagaimana
+                dimaksud dalam huruf a, dipandang perlu mengatur kembali
+                penetapan penyesuaian jadwal operasi proyek pengadaan
+                pembangunan pembangkit tenaga listrik yang menggunakan
+                batubara;
+              c. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+                dalam huruf a dan huruf b, dipandang perlu menetapkan
+                Peraturan Presiden tentang Perubahan Kedua Atas Peraturan
+                Presiden Nomor 71 Tahun 2006 tentang Penugasan kepada PT
+                Perusahaan    Listrik   Negara   (Persero)     untuk      Melakukan
+
+
+
+
+                                                             www.djpp.kemenkumham.go.id
+
+<!-- PAGE: 2 -->
+
+                  Percepatan Pembangunan Pembangkit Tenaga Listrik yang
+                  Menggunakan Batubara;
+
+
+Mengingat   :   1. Pasal 4 ayat (1) Undang-Undang Dasar Negara Republik
+                  Indonesia Tahun 1945;
+                2. Undang-Undang Nomor 30 Tahun 2009 tentang Ketenaga-
+                  listrikan (Lembaran Negara Republik Indonesia Tahun 2009
+                  Nomor 133, Tambahan Lembaran Negara Republik Indonesia
+                  Nomor 5052);
+                3. Peraturan Pemerintah Nomor 10 Tahun 1989 tentang
+                  Penyediaan dan Pemanfaatan Tenaga Listrik (Lembaran Negara
+                  Republik Indonesia Tahun 1989 Nomor 24, Tambahan
+                  Lembaran      Negara   Republik       Indonesia    Nomor      3394)
+                  sebagaimana telah diubah beberapa kali, terakhir dengan
+                  Peraturan Pemerintah Nomor 26 Tahun 2006 (Lembaran
+                  Negara Republik Indonesia Tahun 2006 Nomor 56, Tambahan
+                  Lembaran Negara Republik Indonesia Nomor 4469);
+                4. Peraturan Pemerintah Nomor 23 Tahun 1994 tentang
+                  Pengalihan Bentuk Perusahaan Umum (PERUM) Listrik Negara
+                  menjadi Perusahaan Perseroan (Persero) (Lembaran Negara
+                  Republik Indonesia Tahun 1994 Nomor 34);
+                5. Peraturan Presiden Nomor 36 Tahun 2005 tentang Pengadaan
+                  Tanah bagi Pelaksanaan Pembangunan untuk Kepentingan
+                  Umum sebagaimana telah diubah dengan Peraturan Presiden
+                  Nomor 65 Tahun 2006;
+                6. Peraturan Presiden Nomor 71 Tahun 2006 tentang Penugasan
+                  kepada   PT    Perusahaan   Listrik    Negara     (Persero)   untuk
+                  Melakukan Percepatan Pembangunan Pembangkit Tenaga
+                  Listrik yang Menggunakan Batubara sebagaimana telah diubah
+                  dengan Peraturan Presiden Nomor 59 Tahun 2009;
+                7. Peraturan Presiden Nomor 54 Tahun 2010 tentang Pengadaan
+                  Barang/Jasa Pemerintah;
+
+
+
+
+                                                               www.djpp.kemenkumham.go.id
+
+<!-- PAGE: 3 -->
+
+                             MEMUTUSKAN:
+Menetapkan : PERATURAN PRESIDEN TENTANG PERUBAHAN KEDUA ATAS
+           PERATURAN PRESIDEN NOMOR 71 TAHUN 2006 TENTANG
+           PENUGASAN       KEPADA       PT     PERUSAHAAN       LISTRIK     NEGARA
+           (PERSERO) UNTUK MELAKUKAN PERCEPATAN PEMBANGUNAN
+           PEMBANGKIT        TENAGA          LISTRIK    YANG      MENGGUNAKAN
+           BATUBARA.
+
+
+                                   Pasal I
+           Ketentuan Pasal 1 ayat (3) Peraturan Presiden Nomor 71 Tahun
+           2006 tentang Penugasan kepada PT Perusahaan Listrik Negara
+           (Persero) untuk Melakukan Percepatan Pembangunan Pembangkit
+           Tenaga Listrik yang Menggunakan Batubara sebagaimana telah
+           diubah dengan Peraturan Presiden Nomor 59 Tahun 2009 diubah,
+           sehingga keseluruhan Pasal 1 berbunyi sebagai berikut:
+
+                                   ”Pasal 1
+           (1) Pemerintah menugaskan kepada PT Perusahaan Listrik Negara
+              (Persero), yang selanjutnya disebut PT PLN (Persero), untuk
+              menyelenggarakan         pengadaan       pembangunan    pembangkit
+              tenaga listrik yang menggunakan batubara di lokasi dan dengan
+              jadwal operasi proyek           sebagaimana tercantum          dalam
+              Lampiran Peraturan Presiden ini.
+           (2) Pengadaan     pembangunan           pembangkit     tenaga      listrik
+              sebagaimana dimaksud pada ayat (1) termasuk pembangunan
+              transmisi terkait.
+           (3) Dalam   hal   terjadi    penyesuaian      jadwal   operasi    proyek
+              sebagaimana dimaksud pada ayat (1), ditetapkan oleh Menteri
+              Energi dan Sumber Daya Mineral.”
+
+
+
+
+                                                            www.djpp.kemenkumham.go.id
+
+<!-- PAGE: 4 -->
+
+                          Pasal II
+    Peraturan Presiden ini mulai berlaku pada tanggal ditetapkan.
+
+
+
+                          Ditetapkan di Jakarta
+                          pada tanggal 27 Juli 2011
+
+
+                          PRESIDEN REPUBLIK INDONESIA,
+                                         ttd.
+`                         DR. H. SUSILO BAMBANG YUDHOYONO
+
+
+
+
+                                                  www.djpp.kemenkumham.go.id

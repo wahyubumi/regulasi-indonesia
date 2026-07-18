@@ -1,0 +1,25 @@
+id: permen-2023-112
+judul: Peraturan Menteri Nomor 112 Tahun 2023 tentang Perubahan Kedua Atas Peraturan
+  Menteri Keuangan Nomor 84/Pmk.08/2020 Tentang Tata Cara Pelaksanaan, Penatausahaan,
+  Pemantauan, Evaluasi, Dan Pelaporan Pemberian Hibah Kepada Pemerintah Asing/Lembaga
+  Asing
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

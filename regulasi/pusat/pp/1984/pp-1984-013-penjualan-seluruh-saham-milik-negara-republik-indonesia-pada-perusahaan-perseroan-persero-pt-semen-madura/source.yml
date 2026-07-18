@@ -1,0 +1,23 @@
+id: pp-1984-013
+judul: Peraturan Pemerintah Nomor 13 Tahun 1984 tentang Penjualan Seluruh Saham Milik
+  Negara Republik Indonesia Pada Perusahaan Perseroan (Persero) Pt. Semen Madura
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

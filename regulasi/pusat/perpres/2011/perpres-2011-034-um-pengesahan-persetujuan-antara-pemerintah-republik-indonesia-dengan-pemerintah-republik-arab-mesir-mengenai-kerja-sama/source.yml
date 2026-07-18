@@ -1,0 +1,26 @@
+id: perpres-2011-034
+judul: Peraturan Presiden Nomor 34 Tahun 2011 tentang um PENGESAHAN PERSETUJUAN ANTARA
+  PEMERINTAH REPUBLIK INDONESIA DENGAN PEMERINTAH REPUBLIK ARAB MESIR MENGENAI KERJA
+  SAMA EKONOMI DAN TEKNIK (AGREEMENT BETWEEN THE GOVERNMENT pk OF THE REPUBLIC OF
+  INDONESIA AND THE GOVERNMENT OF THE ARAB REPUBLIC OF EGYPT ON ECONOMIC AND TECHNICAL
+  COOPERATION) de
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

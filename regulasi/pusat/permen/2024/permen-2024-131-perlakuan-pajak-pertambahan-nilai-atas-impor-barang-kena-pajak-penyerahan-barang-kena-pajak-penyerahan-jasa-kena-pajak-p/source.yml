@@ -1,0 +1,26 @@
+id: permen-2024-131
+judul: Peraturan Menteri Nomor 131 Tahun 2024 tentang Perlakuan Pajak Pertambahan
+  Nilai Atas Impor Barang Kena Pajak, Penyerahan Barang Kena Pajak, Penyerahan Jasa
+  Kena Pajak, Pemanfaatan Barang Kena Pajak Tidak Berwujud Dari Luar Daerah Pabean
+  Di Dalam Daerah Pabean, Dan Pemanfaatan Jasa Kena Pajak Dari Luar Daerah Pabean
+  Di Dalam Daerah Pabean
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

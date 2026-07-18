@@ -1,0 +1,27 @@
+id: perpres-2011-025
+judul: Peraturan Presiden Nomor 25 Tahun 2011 tentang um PENGESAHAN AGREEMENT ON TRADE
+  IN GOODS OF THE FRAMEWORK AGREEMENT ON COMPREHENSIVE ECONOMIC CO-OPERATION BETWEEN
+  THE ASSOCIATION OF SOUTHEAST ASIAN NATIONS AND THE PEOPLE’S pk REPUBLIC OF CHINA
+  (PERSETUJUAN PERDAGANGAN BARANG DALAM PERSETUJUAN KERANGKA KERJA MENGENAI KERJA
+  SAMA EKONOMI de MENYELURUH ANTARA PERHIMPUNAN BANGSA-BANGSA ASIA TENGGARA DAN REPUBLIK
+  RAKYAT CHINA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

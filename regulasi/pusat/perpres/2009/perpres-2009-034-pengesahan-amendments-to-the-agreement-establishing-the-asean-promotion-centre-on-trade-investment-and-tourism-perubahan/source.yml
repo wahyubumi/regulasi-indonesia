@@ -1,0 +1,25 @@
+id: perpres-2009-034
+judul: Peraturan Presiden Nomor 34 Tahun 2009 tentang Pengesahan Amendments To The
+  Agreement Establishing The Asean Promotion Centre On Trade, Investment And Tourism
+  (Perubahan Terhadap Persetujuan Mengenai Pendirian Pusat Promosi Asean Dibidang
+  Perdagangan, Penanaman Modal Dan Pariwisata)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

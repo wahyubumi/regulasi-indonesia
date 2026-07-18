@@ -1,0 +1,24 @@
+id: pp-1980-026
+judul: Peraturan Pemerintah Nomor 26 Tahun 1980 tentang Pemisahan Dan Pengalihan Kekayaan
+  Negara Pada Pelabuhan Udara Ngurah Rai, Denpasar Untuk Dijadikan Tambahan Penyertaan
+  Modal Negara Dalam Perusahaan Umum Angkasa Pura
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

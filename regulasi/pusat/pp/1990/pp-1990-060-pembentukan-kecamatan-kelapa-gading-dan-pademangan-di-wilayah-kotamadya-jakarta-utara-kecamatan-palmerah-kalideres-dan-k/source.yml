@@ -1,0 +1,27 @@
+id: pp-1990-060
+judul: Peraturan Pemerintah Nomor 60 Tahun 1990 tentang Pembentukan Kecamatan Kelapa
+  Gading Dan Pademangan Di Wilayah Kotamadya Jakarta Utara, Kecamatan Palmerah, Kalideres
+  Dan Kembangan Di Wilayah Kotamadya Jakarta Barat, Kecamatan Duren Sawit, Makasar,
+  Cipayung Dan Ciracas Di Wilayah Kotamadya Jakarta Timur, Kecamatan Johar Baru Di
+  Wilayah Kotamadya Jakarta Pusat, Kecamatan Pancoran, Jagakarsa Dan Pesanggrahan
+  Di Wilayah Kotamadya Jakarta Selatan Dalam Wilayah Daerah Khusus Ibukota Jakarta
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

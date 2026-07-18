@@ -1,0 +1,24 @@
+id: uu-1954-070
+judul: Undang-Undang Nomor 70 Tahun 1954 tentang Penetapan Bagian I.B.W. Xiv (Perusahaan
+  Batu Bara Umbilin) Dari Anggaran Republik Indonesia Untuktahun-Tahun Dinas 1952
+  Dan 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

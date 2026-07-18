@@ -1,0 +1,23 @@
+id: perpres-2021-087
+judul: Peraturan Presiden Nomor 87 Tahun 2021 tentang Percepatan Pembangunan Kawasan
+  Rebana Dan Kawasan Jawa Barat Bagian Selatan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

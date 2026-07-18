@@ -1,0 +1,23 @@
+id: permenpanrb-2022-034
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  34 Tahun 2022 tentang Jabatan Fungsional Inspektur Sarana Perkeretaapian
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

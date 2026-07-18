@@ -1,0 +1,69 @@
+id: pp-2025-037
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '37'
+nomor_lengkap: '37'
+tahun: 2025
+judul: Perubahan Atas Peraturan Pemerintah Nomor 19 Tahun 2024 Tentang Peraturan Pei.A,Ksanaan
+  Undang-Undang Nomor 15 Tahun 1997 Tentang Ketransmigrasian Sebagaimana Tei,Ah Diubah
+  Dengan Undang-Undang Nomor 29 Tahun 2Oo9 Tentang Perubahan Atas Undang-Undang Nomor
+  15 Tahun 1997 Tentang Ketransmigrasi,An
+judul_lengkap: Peraturan Pemerintah Nomor 37 Tahun 2025 tentang Perubahan Atas Peraturan
+  Pemerintah Nomor 19 Tahun 2024 Tentang Peraturan Pei.A,Ksanaan Undang-Undang Nomor
+  15 Tahun 1997 Tentang Ketransmigrasian Sebagaimana Tei,Ah Diubah Dengan Undang-Undang
+  Nomor 29 Tahun 2Oo9 Tentang Perubahan Atas Undang-Undang Nomor 15 Tahun 1997 Tentang
+  Ketransmigrasi,An
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp-no-37-tahun-2025.md.

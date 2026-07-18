@@ -1,0 +1,26 @@
+id: perpres-2011-016
+judul: Peraturan Presiden Nomor 16 Tahun 2011 tentang um PENGESAHAN PERSETUJUAN ANTARA
+  PEMERINTAH REPUBLIK INDONESIA DAN KABINET MENTERI UKRAINA MENGENAI KERJA SAMA EKSPLORASI
+  DAN PEMANFAATAN ANTARIKSA UNTUK MAKSUD DAMAI (AGREEMENT pk BETWEEN THE GOVERNMENT
+  OF THE REPUBLIC OF INDONESIA AND THE CABINET OF MINISTERS OF UKRAINE ON COOPERATION
+  IN THE EXPLORATION AND PEACEFUL USES OF OUTER SPACE) de
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

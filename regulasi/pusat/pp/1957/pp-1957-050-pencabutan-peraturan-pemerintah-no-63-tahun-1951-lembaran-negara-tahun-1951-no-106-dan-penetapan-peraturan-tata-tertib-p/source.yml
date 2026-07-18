@@ -1,0 +1,24 @@
+id: pp-1957-050
+judul: Peraturan Pemerintah Nomor 50 Tahun 1957 tentang Pencabutan Peraturan Pemerintah
+  No. 63 Tahun 1951 (Lembaran-Negara Tahun 1951 No. 106) Dan Penetapan Peraturan Tata
+  Tertib Panitia Penyelesaian Perselisihan Perburuhan Pusat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: pp-1992-034
+judul: Peraturan Pemerintah Nomor 34 Tahun 1992 tentang Penundaan Berlakunya Ketentuan
+  Pasal 5 Ayat (1) Peraturan Pemerintah Nomor 18 Tahun 1991 Tentang Ketentuan Konversi
+  Hak Atas Tanah Di Propinsi Daerah Tingkat I Timor Timur Menurut Undang-Undang Pokok
+  Agraria
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

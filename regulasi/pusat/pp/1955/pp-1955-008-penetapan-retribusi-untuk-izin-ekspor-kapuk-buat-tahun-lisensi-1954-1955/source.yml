@@ -1,0 +1,23 @@
+id: pp-1955-008
+judul: Peraturan Pemerintah Nomor 8 Tahun 1955 tentang Penetapan Retribusi Untuk Izin
+  Ekspor Kapuk Buat Tahun Lisensi 1954/1955
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

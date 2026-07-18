@@ -1,0 +1,30 @@
+id: perpres-2014-078
+judul: Peraturan Presiden Nomor 78 Tahun 2014 tentang Penugasan Menteri Koordinator
+  Bidang Perekonomian, Menteri Hukum Dan Hak Asasi Manusia, Menteri Keuangan, Menteri
+  Energi Dan Sumber Daya Mineral, Jaksa Agung, Dan Kepala Badan Koordinasi Penanaman
+  Modal Sebagai Kuasa Hukum Pemerintah Republik Indonesia Dalam Penanganan Gugatan
+  Arbitrase Di International Centre For Settlement Of Invesment Disputes Terkait Gugatan
+  Nusa Tenggara Partnership B.V. Dan Pt Newmont Nusa Tenggara Kepada Pemerintah Republik
+  Indonesia Dan Pengajuan Gugatan Arbitrase Pemerintah Republik Indonesia Kepada Pt
+  Newmont Nusa Tenggara Berdasarkan Arbitration Rules Of The United Nations Commission
+  On International Trade Law
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,24 @@
+id: perpres-2017-085
+judul: Peraturan Presiden Nomor 85 Tahun 2017 tentang Pengesahan Articles Of Agreement
+  Of The Islamic Corporation For The Insurance Of Investment And Export Credit (Pasal
+  Persetujuan Korporasi Islam Untuk Asuransi Investasi Dan Kredit Ekspor)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

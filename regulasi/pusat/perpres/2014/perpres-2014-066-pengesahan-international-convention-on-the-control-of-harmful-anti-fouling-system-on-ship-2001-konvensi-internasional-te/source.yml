@@ -1,0 +1,24 @@
+id: perpres-2014-066
+judul: Peraturan Presiden Nomor 66 Tahun 2014 tentang Pengesahan International Convention
+  On The Control Of Harmful Anti-Fouling System On Ship, 2001 (Konvensi Internasional
+  Tentang Pengendalian Sistem-Sistem Anti Teritip Berbahaya Pada Kapal-Kapal, 2001)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

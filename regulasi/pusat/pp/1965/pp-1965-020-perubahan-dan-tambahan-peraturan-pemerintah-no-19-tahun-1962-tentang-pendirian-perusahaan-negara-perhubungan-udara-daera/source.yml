@@ -1,0 +1,25 @@
+id: pp-1965-020
+judul: Peraturan Pemerintah Nomor 20 Tahun 1965 tentang Perubahan Dan Tambahan Peraturan
+  Pemerintah No 19 Tahun 1962, Tentang Pendirian Perusahaan Negara Perhubungan Udara
+  Daerah Dan Penerbangan Serba Guna "Merpati Nusantara" (Lembaran-Negara Tahun 1962
+  No. 66)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

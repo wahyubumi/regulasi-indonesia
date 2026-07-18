@@ -1,0 +1,28 @@
+id: perpres-2024-040
+judul: Peraturan Presiden Nomor 40 Tahun 2024 tentang Pengesahan Persetujuan Kemitraan
+  Sukarela Antara Republik Indonesia Dan Kerajaan Inggris Raya Tentang Penegakan Hukum
+  Kehutanan, Penatakelolaan, Dan Perdagangan Produk Kayu Ke Kerajaan Inggris Raya
+  (Voluntary Part/Vership Agrdement Between The Republic Of Indonesia And The United
+  Kingdom Of Gre,At Britain And /Vortfieriv Ireland On Forest I-A^W E,Nforcement,
+  Governance, And Trade In Timber Products Into The Unite,D Kingdom Of Great Britain
+  Aivd Northern Irelandi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

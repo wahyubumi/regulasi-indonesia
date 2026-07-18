@@ -1,0 +1,26 @@
+id: perpres-2020-001
+judul: Peraturan Presiden Nomor 1 Tahun 2020 tentang Pengesahan Marrakesh Treaty To
+  Facilitate Access To Published Works For Persons Who Are Blind, Visually Impaired,
+  Or Otherwise Print Disabled (Traktat Marrakesh Untuk Fasilitasi Akses Atas Ciptaan
+  Yang Dipublikasi Bagi Penyandang Disabilitas Netra, Gangguan Penglihatan, Atau Disabilitas
+  Dalam Membaca Karya Cetak)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

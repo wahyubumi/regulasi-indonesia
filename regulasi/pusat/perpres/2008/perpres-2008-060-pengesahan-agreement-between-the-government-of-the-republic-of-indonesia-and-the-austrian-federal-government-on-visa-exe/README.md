@@ -1,0 +1,33 @@
+# Peraturan Presiden Nomor 60 Tahun 2008 tentang Pengesahan Agreement Between The Government Of The Republic Of Indonesia And The Austrian Federal Government On Visa Exemption For Holders Of Diplomatic And Service Passports (Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Federal Austria Mengenai Pembebasan Visa Bagi Pemegang Paspor Diplomatik Dan Dinas)
+
+## Ringkasan
+
+Ringkasan belum diisi. Ringkasan tidak boleh menggantikan teks resmi regulasi.
+
+## Informasi Utama
+
+| Elemen | Isi |
+|---|---|
+| Jenis | Peraturan Presiden |
+| Nomor | 60 |
+| Tahun | 2008 |
+| Judul | Pengesahan Agreement Between The Government Of The Republic Of Indonesia And The Austrian Federal Government On Visa Exemption For Holders Of Diplomatic And Service Passports (Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Federal Austria Mengenai Pembebasan Visa Bagi Pemegang Paspor Diplomatik Dan Dinas) |
+| Status | perlu_verifikasi |
+| Tingkat | pusat |
+| Sumber | belum_diisi |
+
+## File
+
+- [`dokumen.md`](dokumen.md)
+- [`metadata.yml`](metadata.yml)
+- [`source.yml`](source.yml)
+- [`relasi.yml`](relasi.yml)
+- [`quality-check.yml`](quality-check.yml)
+
+## Catatan Konversi
+
+Status konversi: needs_review.
+
+## Peringatan
+
+Dokumen Markdown ini adalah hasil konversi untuk kebutuhan pencarian, analisis, dan pemrosesan teks. Untuk rujukan hukum resmi, tetap gunakan sumber regulasi resmi.

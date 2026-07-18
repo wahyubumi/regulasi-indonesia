@@ -1,0 +1,24 @@
+id: pp-1993-022
+judul: Peraturan Pemerintah Nomor 22 Tahun 1993 tentang Perubahan Peraturan Pemerintah
+  Nomor 17 Tahun 1985 Tentang Penetapan Pensiun Pokok Bekas Pejabat Negara Dan Janda/Dudanya
+  Sebagaimana Telah Diubah Dengan Peraturan Pemerintah Nomor 58 Tahun 1992
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

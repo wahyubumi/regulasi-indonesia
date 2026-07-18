@@ -1,0 +1,24 @@
+id: permen-2024-005
+judul: Peraturan Menteri Nomor 5 Tahun 2024 tentang Petunjuk Teknis Pelaksanaan Kegiatan
+  Dekonsentrasi Kepada Gubernur Sebagai Wakil Pemerintah Pusat Dan Tugas Pembantuan
+  Kepada Daerah Provinsi Di Bidang Perdagangan Tahun Anggaran 2024
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://emon.kemendag.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

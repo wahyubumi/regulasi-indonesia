@@ -1,0 +1,69 @@
+id: pp-1985-040
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '40'
+nomor_lengkap: '40'
+tahun: 1985
+judul: Tunjangan Pajak Penghasilan Bagi Pejabat Negara, Pegawai Negeri Sipil, Anggota
+  Angkatan Lembaran Negara Republik Indonesia Tahun 1985 Nomor 56 Bersenjata Republik
+  Indonesia, Dan Para Pensiunan Atas Penghasilan Berupa Gaji, Honorarium, Uang Pensiun,
+  Dan Tunjangan-Tunjangan Lainnya Yang Dibebankan Kepada Keuangan Negara
+judul_lengkap: Peraturan Pemerintah Nomor 40 Tahun 1985 tentang Tunjangan Pajak Penghasilan
+  Bagi Pejabat Negara, Pegawai Negeri Sipil, Anggota Angkatan Lembaran Negara Republik
+  Indonesia Tahun 1985 Nomor 56 Bersenjata Republik Indonesia, Dan Para Pensiunan
+  Atas Penghasilan Berupa Gaji, Honorarium, Uang Pensiun, Dan Tunjangan-Tunjangan
+  Lainnya Yang Dibebankan Kepada Keuangan Negara
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp40-1985.md.

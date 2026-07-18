@@ -1,0 +1,25 @@
+id: permen-2023-127
+judul: Peraturan Menteri Nomor 127 Tahun 2023 tentang Pencabutan Peraturan Menteri
+  Keuangan Nomor 188/Pmk.04/2020 Tentang Pemberian Fasilitas Kepabeanan Dan/Atau Cukai
+  Serta Perpajakan Atas Impor Pengadaan Vaksin Dalam Rangka Penanganan Pandemi Corona
+  Virus Disease 2019 (Covid-19)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

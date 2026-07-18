@@ -1,0 +1,25 @@
+id: perpres-2006-026
+judul: Peraturan Presiden Nomor 26 Tahun 2006 tentang Tunjangan Jabatan Fungsional
+  Penyuluh Pertanian, Pengendali Organisme Pengganggu Tumbuhan, Pengawas Benih Tanaman,
+  Pengawas Bibit Ternak, Medik Veteriner, Paramedik Veteriner, Pengawas Perikanan,
+  Pengendali Hama Dan Penyakit Ikan, Dan Pengawas Benih Ikan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

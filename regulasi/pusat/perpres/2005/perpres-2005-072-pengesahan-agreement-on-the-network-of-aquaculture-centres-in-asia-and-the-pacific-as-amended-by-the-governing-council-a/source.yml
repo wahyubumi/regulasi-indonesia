@@ -1,0 +1,27 @@
+id: perpres-2005-072
+judul: Peraturan Presiden Nomor 72 Tahun 2005 tentang PENGESAHAN AGREEMENT ON THE
+  NETWORK OF AQUACULTURE CENTRES IN ASIA AND THE PACIFIC AS AMENDED BY THE GOVERNING
+  COUNCIL AT ITS 14th MEETING, 28 MARCH - 01 APRIL 2003, YANGON, MYANMAR (PERSETUJUAN
+  MENGENAI JARINGAN PUSAT-PUSAT AKUAKULTUR DI ASIA DAN PASIFIK SEBAGAIMANA DIAMENDEMEN
+  OLEH DEWAN PENGATUR PADA PERTEMUAN KE-14, PADA TANGGAL 28 MARET - 1 APRIL 2003,
+  DI YANGON, MYANMAR)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

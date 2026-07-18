@@ -1,0 +1,73 @@
+id: pp-2000-089
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '89'
+nomor_lengkap: '89'
+tahun: 2000
+judul: Pencabutan Peraturan Pemerintah Nomor 98 Tahun 1999 Tentang Pengalihan Kedudukan,
+  Tugas Dan Kewenangan Menteri Keuangan Selaku Rapat Umum Pemegang Saham (Rups) Atau
+  Pemegang Saham Pada Perusahaan Perseroan (Persero) Dan Perseroan Terbatas Yang Sebagian
+  Sahamnya Dimiliki Oleh Negara Republik Indonesia Kepada Menteri Negara Penanaman
+  Modal Dan Pembinaan Badan Usaha Milik Negara Sebagaimana Telah Beberapa Kali Diubah
+  Terakhir Dengan Peraturan Pemerintah Nomor 48 Tahun 2000
+judul_lengkap: Peraturan Pemerintah Nomor 89 Tahun 2000 tentang Pencabutan Peraturan
+  Pemerintah Nomor 98 Tahun 1999 Tentang Pengalihan Kedudukan, Tugas Dan Kewenangan
+  Menteri Keuangan Selaku Rapat Umum Pemegang Saham (Rups) Atau Pemegang Saham Pada
+  Perusahaan Perseroan (Persero) Dan Perseroan Terbatas Yang Sebagian Sahamnya Dimiliki
+  Oleh Negara Republik Indonesia Kepada Menteri Negara Penanaman Modal Dan Pembinaan
+  Badan Usaha Milik Negara Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan
+  Peraturan Pemerintah Nomor 48 Tahun 2000
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/PP+NO+89+TH+2000.md.

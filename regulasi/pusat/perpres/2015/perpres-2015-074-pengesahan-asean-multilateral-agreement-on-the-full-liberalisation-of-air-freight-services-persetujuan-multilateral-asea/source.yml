@@ -1,0 +1,31 @@
+id: perpres-2015-074
+judul: Peraturan Presiden Nomor 74 Tahun 2015 tentang Pengesahan Asean Multilateral
+  Agreement On The Full Liberalisation Of Air Freight Services (Persetujuan Multilateral
+  Asean Mengenai Liberalisasi Penuh Jasa Angkutan Udara Kargo), Protocol 1 On Unlimited
+  Third, Fourth, And Fifth Freedom Traffic Rights Among Designated Points In Asean
+  (Protokol 1 Tentang Kebebasan Hak Angkut Ketiga, Keempat, Dan Kelima Yang Tidak
+  Terbatas Di Antara Titik-Titik Yang Telah Ditunjuk Di Asean), Dan Protocol 2 On
+  Unlimited Third, Fourth, And Fifth Freedom Traffic Rights Among All Points With
+  International Airports In Asean (Protokol 2 Tentang Kebebasan Hak Angkut Ketiga,
+  Keempat, Dan Kelima Yang Tidak Terbatas Di Antara Semua Titik Dengan Bandar Udara
+  Internasional Di Asean)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

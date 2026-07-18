@@ -1,0 +1,23 @@
+id: perpres-2021-083
+judul: Peraturan Presiden Nomor 83 Tahun 2021 tentang Pencantuman Dan Pemanfaatan
+  Nomor Induk Kependudukan Dan/Atau Nomor Pokok Wajib Pajak Dalam Pelayanan Publik
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

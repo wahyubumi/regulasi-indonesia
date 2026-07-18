@@ -1,0 +1,23 @@
+id: pp-1958-047
+judul: Peraturan Pemerintah Nomor 47 Tahun 1958 tentang Pengubahan Peraturan Pemerintah
+  No. 7 Tahun 1958 (Lembaran Negara Tahun 1958 No. 11) Tentang Dewan Bahan Makanan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

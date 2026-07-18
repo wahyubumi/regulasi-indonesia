@@ -1,0 +1,26 @@
+id: perpres-2010-057
+judul: Peraturan Presiden Nomor 57 Tahun 2010 tentang um PENGESAHAN AGREEMENT ON INVESTMENT
+  OF THE FRAMEWORK AGREEMENT ON COMPREHENSIVE ECONOMIC CO-OPERATION BETWEEN THE ASSOCIATION
+  OF SOUTHEAST ASIAN NATIONS AND pk THE PEOPLE’S REPUBLIC OF CHINA (PERSETUJUAN MENGENAI
+  PENANAMAN MODAL BERDASARKAN PERSETUJUAN KERANGKA de KERJA MENGENAI KERJA SAMA EKONOMI
+  MENYELURUH ANTARA PERHIMPUNAN BANGSA-BANGSA ASIA TENGGARA DAN REPUBLIK RAKYAT CHINA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

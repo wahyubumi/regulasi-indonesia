@@ -1,0 +1,23 @@
+id: pp-2014-009
+judul: Peraturan Pemerintah Nomor 9 Tahun 2014 tentang Pelaksanaan Undang-Undang Nomor
+  4 Tahun 2011 Tentang Informasi Geospasial
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

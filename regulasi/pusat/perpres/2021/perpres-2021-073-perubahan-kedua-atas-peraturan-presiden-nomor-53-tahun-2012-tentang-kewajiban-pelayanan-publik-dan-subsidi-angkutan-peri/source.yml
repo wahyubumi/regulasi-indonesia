@@ -1,0 +1,25 @@
+id: perpres-2021-073
+judul: Peraturan Presiden Nomor 73 Tahun 2021 tentang Perubahan Kedua Atas Peraturan
+  Presiden Nomor 53 Tahun 2012 Tentang Kewajiban Pelayanan Publik Dan Subsidi Angkutan
+  Perintis Bidang Perkeretaapian, Biaya Penggunaan Prasarana Perkeretaapian Milik
+  Negara, Serta Perawatan Dan Pengoperasian Prasarana Perkeretaapian Milik Negara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

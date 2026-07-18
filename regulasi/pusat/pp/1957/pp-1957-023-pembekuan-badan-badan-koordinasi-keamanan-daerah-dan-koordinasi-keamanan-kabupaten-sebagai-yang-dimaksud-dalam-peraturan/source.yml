@@ -1,0 +1,24 @@
+id: pp-1957-023
+judul: Peraturan Pemerintah Nomor 23 Tahun 1957 tentang Pembekuan Badan-Badan Koordinasi
+  Keamanan Daerah Dan Koordinasi Keamanan Kabupaten Sebagai Yang Dimaksud Dalam Peraturan
+  Pemerintah No. 14 Tahun 1955 (Lembaran-Negara Tahun 1955 No. 23) Tentang Dewan Keamanan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

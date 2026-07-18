@@ -1,0 +1,23 @@
+id: permen-2025-096
+judul: Peraturan Menteri Nomor 96 Tahun 2025 tentang Perubahan Atas Peraturan Menteri
+  Keuangan Nomor 237/Pmk.04/2022 Tentang Penelitian Dugaan Pelanggaran Di Bidang Cukai
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

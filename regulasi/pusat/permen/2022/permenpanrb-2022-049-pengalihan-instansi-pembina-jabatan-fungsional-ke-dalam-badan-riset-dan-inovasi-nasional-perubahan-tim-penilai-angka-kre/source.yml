@@ -1,0 +1,26 @@
+id: permenpanrb-2022-049
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  49 Tahun 2022 tentang Pengalihan Instansi Pembina Jabatan Fungsional Ke Dalam Badan
+  Riset Dan Inovasi Nasional, Perubahan Tim Penilai Angka Kredit, Pejabat Pengusul
+  Angka Kredit, Pejabat Penetap Angka Kredit, Penilaian Karya Tulis Ilmiah, Dan Organisasi
+  Profesi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

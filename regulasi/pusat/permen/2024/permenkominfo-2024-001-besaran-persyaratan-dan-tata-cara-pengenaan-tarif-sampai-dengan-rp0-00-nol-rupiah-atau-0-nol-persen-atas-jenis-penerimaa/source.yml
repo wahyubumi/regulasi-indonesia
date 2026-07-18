@@ -1,0 +1,25 @@
+id: permenkominfo-2024-001
+judul: Peraturan Menteri Komunikasi dan Informatika Nomor 1 Tahun 2024 tentang BESARAN,
+  PERSYARATAN, DAN TATA CARA PENGENAAN TARIF SAMPAI DENGAN Rp0,00 (NOL RUPIAH) ATAU
+  0% (NOL PERSEN) ATAS JENIS PENERIMAAN NEGARA BUKAN PAJAK YANG BERLAKU PADA KEMENTERIAN
+  KOMUNIKASI DAN INFORMATIKA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

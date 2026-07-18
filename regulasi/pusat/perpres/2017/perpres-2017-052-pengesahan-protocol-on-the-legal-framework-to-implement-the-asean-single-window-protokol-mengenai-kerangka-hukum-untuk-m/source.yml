@@ -1,0 +1,24 @@
+id: perpres-2017-052
+judul: Peraturan Presiden Nomor 52 Tahun 2017 tentang Pengesahan Protocol On The Legal
+  Framework To Implement The Asean Single Window (Protokol Mengenai Kerangka Hukum
+  Untuk Melaksanakan Asean Single Window)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

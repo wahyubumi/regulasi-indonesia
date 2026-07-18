@@ -1,0 +1,24 @@
+id: perpres-2019-084
+judul: Peraturan Presiden Nomor 84 Tahun 2019 tentang Perubahan Atas Peraturan Presiden
+  Nomor 101 Tahun 2015 Tentang Tunjangan Khusus Bagi Pegawai Di Lingkungan Pusat Pelaporan
+  Dan Analisis Transaksi Keuangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

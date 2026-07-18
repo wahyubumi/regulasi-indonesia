@@ -1,0 +1,25 @@
+id: pp-2017-023
+judul: Peraturan Pemerintah Nomor 23 Tahun 2017 tentang Perubahan Atas Peraturan Pemerintah
+  Nomor 19 Tahun 2016 Tentang Pemberian Gaji, Pensiun, Atau Tunjangan Ketiga Belas
+  Kepada Pegawai Negeri Sipil, Prajurit Tentara Nasional Indonesia, Anggota Kepolisian
+  Negara Republik Indonesia, Pejabat Negara, Dan Penerima Pensiun Atau Tunjangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

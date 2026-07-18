@@ -1,0 +1,25 @@
+id: perpres-2020-088
+judul: Peraturan Presiden Nomor 88 Tahun 2020 tentang Pengesahan Persetujuan Hubungan
+  Udara Antara Pemerintah Republik Indonesia Dan Pemerintah Kanada (Air Transport
+  Agreement Between The Government Of The Republic Of Indonesia And The Government
+  Of Canada)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,24 @@
+id: perpres-2026-029
+judul: Peraturan Presiden Nomor 29 Tahun 2026 tentang Perubahan Kedua Atas Peraturan
+  Presiden Nomor Io7 Tahun 2015 Tentang Percepatan Pei{Yelenggaraan Prasarana Dan
+  Sarana Kereta Cepat Antara Jakarta Dan Bandung
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

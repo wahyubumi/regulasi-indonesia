@@ -1,0 +1,25 @@
+id: pp-1990-031
+judul: Peraturan Pemerintah Nomor 31 Tahun 1990 tentang Pembubaran Perusahaan Perseroan
+  (Persero) Pt. Pusat Perkayuan Marunda Dan Penambahan Penyertaan Modal Negara Yang
+  Berasal Dari Kekayaan Negara Hasil Likuidasi Perusahaan Perseroan (Persero) Tersebut
+  Ke Dalam Modal Saham Perusahaan Perseroan (Persero) Pt. Kawasan Berikat Nusantara
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

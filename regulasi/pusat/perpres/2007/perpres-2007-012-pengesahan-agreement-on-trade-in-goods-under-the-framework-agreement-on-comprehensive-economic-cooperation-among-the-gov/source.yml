@@ -1,0 +1,27 @@
+id: perpres-2007-012
+judul: Peraturan Presiden Nomor 12 Tahun 2007 tentang Pengesahan Agreement On Trade
+  In Goods Under The Framework Agreement On Comprehensive Economic Cooperation Among
+  The Governments Of The Member Countries Of The Association Of Southeast Asian Nations
+  And The Republic Of Korea (Persetujuan Perdagangan Barang Dalam Persetujuan Kerangka
+  Kerja Mengenai Kerjasama Ekonomi Menyeluruh Antar Pemerintah Negara-Negara Anggota
+  Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Republik Korea)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

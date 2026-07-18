@@ -1,0 +1,66 @@
+id: perpres-2015-076
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '76'
+nomor_lengkap: '76'
+tahun: 2015
+judul: Pemberian Dana Antisipasi Untuk Melunasi Pembelian Tanah Dan Bangunan Milik
+  Masyarakat Yang Terkena Luapan Lumpur Sidoarjo Dalam Peta Area Terdampak 22 Maret
+  2007
+judul_lengkap: Peraturan Presiden Nomor 76 Tahun 2015 tentang Pemberian Dana Antisipasi
+  Untuk Melunasi Pembelian Tanah Dan Bangunan Milik Masyarakat Yang Terkena Luapan
+  Lumpur Sidoarjo Dalam Peta Area Terdampak 22 Maret 2007
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/ps76-2015.md.

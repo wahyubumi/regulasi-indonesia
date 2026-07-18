@@ -1,0 +1,24 @@
+id: pp-2008-020
+judul: Peraturan Pemerintah Nomor 20 Tahun 2008 tentang Tata Cara Pemberhentian Dengan
+  Hormat, Pemberhentian Tidak Dengan Hormat, Dan Pemberhentian Sementara, Serta Hak
+  Jabatan Fungsional Jaksa Yang Terkena Pemberhentian
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

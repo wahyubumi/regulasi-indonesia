@@ -1,0 +1,23 @@
+id: perpres-2022-119
+judul: Peraturan Presiden Nomor 119 Tahun 2022 tentang Rencana Detail Tata Ruang Kawasan
+  Perbatasan Negara Pada Pusat Pelayanan Pintu Gerbang Skouw Di Provinsi Papua
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

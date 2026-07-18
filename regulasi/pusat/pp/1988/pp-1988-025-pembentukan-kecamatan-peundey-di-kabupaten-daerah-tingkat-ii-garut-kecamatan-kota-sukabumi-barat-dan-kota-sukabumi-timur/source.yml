@@ -1,0 +1,25 @@
+id: pp-1988-025
+judul: Peraturan Pemerintah Nomor 25 Tahun 1988 tentang Pembentukan Kecamatan Peundey
+  Di Kabupaten Daerah Tingkat Ii Garut, Kecamatan Kota Sukabumi Barat Dan Kota Sukabumi
+  Timur Di Kotamadya Tingkat Ii Sukabumi Dan Kecamatan Manis Di Kabupaten Daerah Tingkat
+  Ii Purwakarta Dalam Wilayah Propinsi Daerah Tingkat I Jawa Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

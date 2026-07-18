@@ -1,0 +1,24 @@
+id: pp-1958-054
+judul: Peraturan Pemerintah Nomor 54 Tahun 1958 tentang Pengubahan Canon Dan Cijns
+  Menurut Penetapan Undang- Undang No.75 Tahun 1957 (Lembaran-Negara Tahun 1957 No.
+  1681) Untuk Daerah Kepulauan Riau
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

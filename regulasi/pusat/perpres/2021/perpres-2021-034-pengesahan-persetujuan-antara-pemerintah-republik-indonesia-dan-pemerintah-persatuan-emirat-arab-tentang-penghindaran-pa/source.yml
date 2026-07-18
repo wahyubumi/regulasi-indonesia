@@ -1,0 +1,27 @@
+id: perpres-2021-034
+judul: Peraturan Presiden Nomor 34 Tahun 2021 tentang Pengesahan Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Pemerintah Persatuan Emirat Arab Tentang Penghindaran
+  Pajak Berganda Dan Pencegahan Pengelakan Pajak Atas Penghasilan (Agreement Between
+  The Government Of The Republic Of Indonesia And The Government Of The United Arab
+  Emirates For The Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion
+  With Respect To Taxes On Income)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,23 @@
+id: perpres-2006-040
+judul: Peraturan Presiden Nomor 40 Tahun 2006 tentang Tunjangan Jabatan Fungsional
+  Arsiparis Dan Pustakawan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

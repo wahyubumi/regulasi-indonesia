@@ -1,0 +1,288 @@
+---
+id: "permen-2022-126"
+jenis: "permen"
+nomor: "126"
+tahun: 2022
+judul: "Peraturan Menteri Nomor 126 Tahun 2022 tentang Batas Daerah Kabupaten Bener Meriah Dengan Kabupaten Aceh Utara Di Aceh"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 126 Tahun 2022 tentang Batas Daerah Kabupaten Bener Meriah Dengan Kabupaten Aceh Utara Di Aceh
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 126
+tahun: 2022
+tentang: Batas Daerah Kabupaten Bener Meriah Dengan Kabupaten Aceh Utara Di Aceh
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+No.1422, 2022              KEMENDAGRI.     Kabupaten      Bener    Meriah.
+                           Kabupaten Aceh Utara di Aceh. Batas Daerah.
+
+     PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA
+                    NOMOR 126 TAHUN 2022
+                           TENTANG
+            BATAS DAERAH KABUPATEN BENER MERIAH
+            DENGAN KABUPATEN ACEH UTARA DI ACEH
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+            MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+
+Menimbang   : bahwa untuk melaksanakan ketentuan Pasal 5 ayat (3)
+              Undang-Undang Nomor 41 Tahun 2003 tentang Pembentukan
+              Kabupaten Bener Meriah di Provinsi Nanggroe Aceh
+              Darussalam dan Pasal 401 ayat (1) Undang-Undang Nomor 23
+              Tahun 2014 tentang Pemerintahan Daerah, perlu menetapkan
+              Peraturan Menteri Dalam Negeri tentang Batas Daerah
+              Kabupaten Bener Meriah dengan Kabupaten Aceh Utara di
+              Aceh;
+
+Mengingat   : 1.     Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
+                     Indonesia Tahun 1945;
+                2.   Undang-Undang Nomor 24 Tahun 1956 tentang
+                     Pembentukan Daerah Otonom Propinsi Aceh dan
+                     Perubahan Peraturan Pembentukan Propinsi Sumatera
+                     Utara (Lembaran Negara Republik Indonesia Tahun 1956
+                     Nomor 64, Tambahan Lembaran Negara Republik
+                     Indonesia Nomor 1103);
+                3.   Undang-Undang Nomor 41 Tahun 2003 tentang
+                     Pembentukan Kabupaten Bener Meriah di Provinsi
+                     Nanggroe Aceh Darussalam (Lembaran Negara Republik
+                     Indonesia Tahun 2003 Nomor 156, Tambahan Lembaran
+                     Negara Republik Indonesia Nomor 4351);
+                4.   Undang-Undang Nomor 11 Tahun 2006 tentang
+                     Pemerintahan     Aceh   (Lembaran   Negara   Republik
+                     Indonesia Tahun 2006 Nomor 62, Tambahan Lembaran
+                     Negara Republik Indonesia Nomor 4633);
+                5.   Undang-Undang Nomor 39 Tahun 2008 tentang
+                     Kementerian Negara (Lembaran Negara Republik
+                     Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+                     Negara Republik Indonesia Nomor 4916);
+                6.   Undang-Undang Nomor 23 Tahun 2014 tentang
+                     Pemerintahan Daerah (Lembaran Negara Republik
+                     Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
+                     Negara Republik Indonesia Nomor 5587) sebagaimana
+
+
+                                                   www.peraturan.go.id
+
+<!-- PAGE: 2 -->
+
+2022, No.1422                     -2-
+
+
+                     telah diubah terakhir dengan Undang-Undang Nomor 11
+                     Tahun 2020 tentang Cipta Kerja (Lembaran Negara
+                     Republik Indonesia Tahun 2020 Nomor 245, Tambahan
+                     Lembaran Negara Republik Indonesia Nomor 6573);
+                7.   Peraturan Presiden Nomor 114 Tahun 2021 tentang
+                     Kementerian Dalam Negeri (Lembaran Negara Republik
+                     Indonesia Tahun 2021 Nomor 286);
+                8.   Peraturan Menteri Dalam Negeri Nomor 141 Tahun 2017
+                     tentang Penegasan Batas Daerah (Berita Negara Republik
+                     Indonesia Tahun 2018 Nomor 79);
+                9.   Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2021
+                     tentang Organisasi dan Tata Kerja Kementerian Dalam
+                     Negeri (Berita Negara Republik Indonesia Tahun 2021
+                     Nomor 398);
+
+                          MEMUTUSKAN:
+Menetapkan   : PERATURAN MENTERI DALAM NEGERI TENTANG BATAS
+               DAERAH KABUPATEN BENER MERIAH DENGAN KABUPATEN
+               ACEH UTARA DI ACEH.
+
+                                           Pasal 1
+                Dalam Peraturan Menteri ini yang dimaksud dengan:
+                1. Aceh adalah daerah provinsi yang merupakan kesatuan
+                    masyarakat hukum yang bersifat istimewa dan diberi
+                    kewenangan khusus untuk mengatur dan mengurus
+                    sendiri   urusan     pemerintahan     dan    kepentingan
+                    masyarakat     setempat     sesuai   dengan    peraturan
+                    perundang-undangan dalam sistem dan prinsip Negara
+                    Kesatuan Republik Indonesia berdasarkan Undang-
+                    Undang Dasar Negara Republik Indonesia Tahun 1945,
+                    yang dipimpin oleh seorang Gubernur sebagaimana
+                    dimaksud dalam Undang-Undang Nomor 11 Tahun 2006
+                    tentang Pemerintahan Aceh.
+                2. Kabupaten      Aceh    Utara    adalah   daerah   otonom
+                    sebagaimana dimaksud dalam Undang-Undang Nomor 24
+                    Tahun 1956 tentang Pembentukan Daerah Otonom
+                    Propinsi Aceh dan Perubahan Peraturan Pembentukan
+                    Propinsi Sumatera Utara.
+                3. Kabupaten Bener Meriah adalah daerah otonom
+                    sebagaimana dimaksud dalam Undang-Undang Nomor 41
+                    Tahun 2003 tentang Pembentukan Kabupaten Bener
+                    Meriah di Provinsi Nanggroe Aceh Darussalam.
+                4. Pilar Batas Utama yang selanjutnya disingkat PBU
+                    adalah pilar yang dipasang sebagai tanda batas
+                    antardaerah provinsi/kabupaten/kota yang diletakkan
+                    tepat      pada       garis       batas      antardaerah
+                    provinsi/kabupaten/kota.
+                5. Titik Kartometrik yang selanjutnya disingkat TK adalah
+                    titik koordinat batas yang ditentukan berdasarkan
+                    pengukuran atau penghitungan posisi titik dengan
+                    menggunakan peta dasar dan peta lain sebagai
+                    pelengkap.
+                6. Lintang Utara yang selanjutnya disingkat LU adalah garis
+                    khayal yang membagi bumi di bagian utara.
+
+
+
+                                                    www.peraturan.go.id
+
+<!-- PAGE: 3 -->
+
+                                             2022, No.1422
+                  -3-
+
+
+7.   Bujur Timur yang selanjutnya disingkat BT adalah garis
+     khayal menghubungkan titik kutub utara dan kutub
+     selatan bumi dan menyatakan besarnya sudut antara
+     posisi bujur dengan garis meridian yang berada di
+     sebelah timur.
+
+                           Pasal 2
+Batas daerah Kabupaten Bener Meriah dengan Kabupaten
+Aceh Utara di Aceh dimulai dari:
+a. PBU 26 dengan koordinat 4° 56' 24.039" LU dan 96° 47'
+    11.451" BT yang terletak pada pertigaan batas Kabupaten
+    Bener Meriah dengan Kabupaten Aceh Utara dan
+    Kabupaten Bireuen;
+b. PBU 26 selanjutnya ke arah barat daya sampai pada TK
+    RPBU 1 dengan koordinat 4° 54' 38.310" LU dan 96° 49'
+    38.186" BT, selanjutnya ke arah barat daya sampai pada
+    TK 1A dengan koordinat 4° 53' 57.724" LU dan 96° 50'
+    06.110" BT, selanjutnya ke arah barat daya sampai pada
+    PBU 3 dengan koordinat 4° 53' 53.261" LU dan 96° 50'
+    39.785" BT yang terletak pada batas Kabupaten Bener
+    Meriah dengan Kabupaten Aceh Utara;
+c.  PBU 3 selanjutnya ke arah barat daya sampai pada PBU
+    4 dengan koordinat 4° 52' 28.011" LU dan 96° 52' 24.075"
+    BT yang terletak pada batas Kabupaten Bener Meriah
+    dengan Kabupaten Aceh Utara;
+d. PBU 4 selanjutnya ke arah barat daya sampai pada PBU
+    5 dengan koordinat 4° 52' 24.643" LU dan 96° 52' 49.785"
+    BT yang terletak pada batas Kabupaten Bener Meriah
+    dengan Kabupaten Aceh Utara;
+e.  PBU 5 selanjutnya ke arah timur laut sampai pada PBU 6
+    dengan koordinat 4° 52' 33.650" LU dan 96° 53' 53.992"
+    BT yang terletak pada batas Kabupaten Bener Meriah
+    dengan Kabupaten Aceh Utara;
+f.    PBU 6 selanjutnya ke arah barat daya sampai pada
+    PBU 7 dengan koordinat 4° 52' 29.389" LU dan 96° 54'
+    05.338" BT yang terletak pada batas Kabupaten Bener
+    Meriah dengan Kabupaten Aceh Utara;
+g.  PBU 7 selanjutnya ke arah barat daya sampai pada PBU
+    8 dengan koordinat 4° 51' 31.785" LU dan 96° 57' 19.212"
+    BT yang terletak pada batas Kabupaten Bener Meriah
+    dengan Kabupaten Aceh Utara;
+h. PBU 8 selanjutnya ke arah timur laut sampai pada TK 2
+    dengan koordinat 4° 51' 53.888" LU dan 97° 00' 05.048"
+    BT, selanjutnya ke arah timur laut sampai pada TK 3
+    dengan koordinat 4° 52' 49.005" LU dan 97° 00' 09.436"
+    BT, selanjutnya ke arah timur laut sampai pada TK 4
+    dengan koordinat 4° 54' 27.681" LU dan 97° 04' 54.527"
+    BT yang terletak pada batas Kabupaten Bener Meriah
+    dengan Kabupaten Aceh Utara;
+i.  TK 4 selanjutnya ke arah timur laut sampai pada TK 5
+    dengan koordinat 4° 54' 37.027" LU dan 97° 08' 44.131"
+    BT, selanjutnya ke arah barat daya sampai pada TK 7
+    dengan koordinat 4° 48' 42.971" LU dan 97° 16' 51.719"
+    BT yang terletak pada batas Kabupaten Bener Meriah
+    dengan Kabupaten Aceh Utara; dan
+
+
+                                    www.peraturan.go.id
+
+<!-- PAGE: 4 -->
+
+2022, No.1422                     -4-
+
+
+                j.   TK 7 selanjutnya ke arah barat daya sampai pada TK 1
+                     dengan koordinat 4° 44' 13.740" LU dan 97° 19' 07.009"
+                     BT yang terletak pada pertigaan batas Kabupaten Bener
+                     Meriah dengan Kabupaten Aceh Utara dan Kabupaten
+                     Aceh Timur.
+
+                                         Pasal 3
+                Posisi PBU dan TK sebagaimana dimaksud dalam Pasal 2
+                bersifat tetap dan tidak berubah akibat perubahan nama
+                desa, nama kelurahan, dan/atau nama kecamatan.
+
+                                            Pasal 4
+                Ketentuan mengenai batas daerah dan koordinat batas
+                sebagaimana dimaksud dalam Pasal 2 tercantum pada Peta
+                Batas Daerah Kabupaten Bener Meriah dengan Kabupaten
+                Aceh Utara di Aceh dalam Lampiran yang merupakan bagian
+                tidak terpisahkan dari Peraturan Menteri ini.
+
+                                              Pasal 5
+                Peraturan Menteri       ini    mulai    berlaku   pada   tanggal
+                diundangkan.
+
+
+
+
+                                                        www.peraturan.go.id
+
+<!-- PAGE: 5 -->
+
+                                                          2022, No.1422
+                                -5-
+
+
+               Agar   setiap    orang   mengetahuinya,   memerintahkan
+               pengundangan Peraturan Menteri ini dengan penempatannya
+               dalam Berita Negara Republik Indonesia.
+
+
+                                      Ditetapkan di Jakarta
+                                      pada tanggal 26 Desember 2022…
+
+                                      MENTERI DALAM NEGERI
+                                      REPUBLIK INDONESIA,
+
+                                                  ttd
+
+                                      MUHAMMAD TITO KARNAVIAN
+
+Diundangkan di Jakarta
+pada tanggal 30 Desember 2022
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+        ttd
+
+YASONNA H. LAOLY
+
+
+
+
+                                                 www.peraturan.go.id
+
+<!-- PAGE: 6 -->
+
+2022, No.1422   -6-
+
+
+
+
+                      www.peraturan.go.id

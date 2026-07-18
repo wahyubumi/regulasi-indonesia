@@ -1,0 +1,327 @@
+---
+id: "permen-2022-026"
+jenis: "permen"
+nomor: "26"
+tahun: 2022
+judul: "Peraturan Menteri Nomor 26 Tahun 2022 tentang Batas Daerah Kabupaten Pesawaran Dengan Kabupaten Lampung Tengah Provinsi Lampung"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 26 Tahun 2022 tentang Batas Daerah Kabupaten Pesawaran Dengan Kabupaten Lampung Tengah Provinsi Lampung
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 26
+tahun: 2022
+tentang: Batas Daerah Kabupaten Pesawaran Dengan Kabupaten Lampung Tengah Provinsi Lampung
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+No. 66, 2022                KEMENDAGRI. Kabupaten Pesawaran. Kabupaten
+                            Lampung Tengah. Provinsi Lampung. Batas
+                            Daerah.
+
+     PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA
+                           NOMOR 26 TAHUN 2022
+                                  TENTANG
+                  BATAS DAERAH KABUPATEN PESAWARAN
+      DENGAN KABUPATEN LAMPUNG TENGAH PROVINSI LAMPUNG
+
+
+                 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+               MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+
+
+
+Menimbang      : bahwa untuk melaksanakan ketentuan Pasal 5 ayat (3)
+                 Undang-Undang Nomor 33 Tahun 2007 tentang Pembentukan
+                 Kabupaten Pesawaran di Provinsi Lampung dan Pasal 401
+                 ayat (1) Undang-Undang Nomor 23 Tahun 2014 tentang
+                 Pemerintahan Daerah, perlu menetapkan Peraturan Menteri
+                 Dalam Negeri tentang Batas Daerah Kabupaten Pesawaran
+                 dengan Kabupaten Lampung Tengah Provinsi Lampung;
+
+
+Mengingat      : 1.   Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
+                      Indonesia Tahun 1945;
+                 2.   Undang-Undang    Nomor   14   Tahun    1964   tentang
+                      Penetapan Peraturan Pemerintah Pengganti Undang-
+                      Undang Nomor 3 Tahun 1964 tentang Pembentukan
+                      Daerah Tingkat I Lampung dengan Mengubah Undang-
+                      Undang Nomor 25 Tahun 1959 tentang Pembentukan
+                      Daerah Tingkat I Sumatera Selatan (Lembaran Negara
+                      Republik Indonesia Tahun 1964 Nomor 8) Menjadi
+                      Undang-Undang (Lembaran Negara Republik Indonesia
+
+<!-- PAGE: 2 -->
+
+2022, No. 66                       -2-
+
+
+                    Tahun 1964 Nomor 95, Tambahan Lembaran Negara
+                    Republik Indonesia Nomor 2688);
+               3.   Undang-Undang        Nomor    33   Tahun       2007    tentang
+                    Pembentukan Kabupaten Pesawaran di Provinsi Lampung
+                    (Lembaran     Negara   Republik    Indonesia    Tahun    2007
+                    Nomor   99,    Tambahan      Lembaran     Negara      Republik
+                    Indonesia Nomor 4749);
+               4.   Undang-Undang        Nomor    39   Tahun       2008    tentang
+                    Kementerian     Negara    (Lembaran       Negara      Republik
+                    Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+                    Negara Republik Indonesia Nomor 4916);
+               5.   Undang-Undang        Nomor    23   Tahun       2014    tentang
+                    Pemerintahan     Daerah      (Lembaran    Negara      Republik
+                    Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran
+                    Negara Republik Indonesia Nomor 5587) sebagaimana
+                    telah beberapa kali diubah terakhir dengan Undang-
+                    Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua
+                    atas Undang-Undang Nomor 23 Tahun 2014 tentang
+                    Pemerintahan     Daerah      (Lembaran    Negara      Republik
+                    Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran
+                    Negara Republik Indonesia Nomor 5679);
+               6.   Peraturan Pemerintah Nomor 43 Tahun 2021 tentang
+                    Penyelesaian   Ketidaksesuaian     Tata   Ruang,      Kawasan
+                    Hutan, Izin, dan/atau Hak Atas Tanah (Lembaran Negara
+                    Republik Indonesia Tahun 2021 Nomor 53, Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 6655);
+               7.   Peraturan Presiden Nomor 114 Tahun 2021 tentang
+                    Kementerian Dalam Negeri (Lembaran Negara Republik
+                    Indonesia Tahun 2021 Nomor 286);
+               8.   Peraturan Menteri Dalam Negeri Nomor 141 Tahun 2017
+                    tentang Penegasan Batas Daerah (Berita Negara Republik
+                    Indonesia Tahun 2018 Nomor 79);
+               9.   Peraturan Menteri Dalam Negeri Nomor 13 Tahun 2021
+                    tentang Organisasi dan Tata Kerja Kementerian Dalam
+                    Negeri (Berita Negara Republik Indonesia Tahun 2021
+                    Nomor 398);
+
+<!-- PAGE: 3 -->
+
+                                                                             2022, No. 66
+                                   -3-
+
+
+                              MEMUTUSKAN:
+Menetapkan   : PERATURAN MENTERI DALAM NEGERI TENTANG BATAS
+              DAERAH KABUPATEN PESAWARAN DENGAN KABUPATEN
+              LAMPUNG TENGAH PROVINSI LAMPUNG.
+
+
+                                              Pasal 1
+              Dalam Peraturan Menteri ini yang dimaksud dengan:
+              1.   Provinsi Lampung adalah daerah otonom sebagaimana
+                   dimaksud dalam Undang-Undang Nomor 14 Tahun 1964
+                   tentang    Penetapan       Peraturan     Pemerintah             Pengganti
+                   Undang-Undang         Nomor      3      Tahun           1964     tentang
+                   Pembentukan         Daerah     Tingkat      I     Lampung         dengan
+                   mengubah      Undang-Undang           Nomor        25    Tahun      1959
+                   tentang Pembentukan Daerah Tingkat I Sumatera Selatan
+                   menjadi Undang-Undang.
+              2.   Kabupaten       Pesawaran            adalah        daerah         otonom
+                   sebagaimana dimaksud dalam Undang-Undang Nomor 33
+                   Tahun 2007 tentang Pembentukan Kabupaten Pesawaran
+                   di Provinsi Lampung.
+              3.   Kabupaten Lampung Tengah adalah daerah otonom
+                   sebagaimana dimaksud dalam Undang-Undang Nomor 14
+                   Tahun 1964 tentang Penetapan Peraturan Pemerintah
+                   Pengganti Undang-Undang Nomor 3 Tahun 1964 tentang
+                   Pembentukan         Daerah     Tingkat      I     Lampung         dengan
+                   mengubah      Undang-Undang           Nomor        25    Tahun      1959
+                   tentang Pembentukan Daerah Tingkat I Sumatera Selatan
+                   menjadi Undang-Undang.
+              4.   Way adalah sebutan sungai dalam bahasa daerah di
+                   Provinsi Lampung.
+              5.   Titik Kartometrik yang selanjutnya disingkat TK adalah
+                   titik   koordinat    batas    yang     ditentukan         berdasarkan
+                   pengukuran     atau    penghitungan             posisi   titik    dengan
+                   menggunakan         peta     dasar    dan       peta     lain     sebagai
+                   pelengkap.
+              6.   Lintang Selatan yang selanjutnya disingkat LS adalah
+                   garis khayal yang membagi bumi di bagian selatan.
+
+<!-- PAGE: 4 -->
+
+2022, No. 66                          -4-
+
+
+               7.   Bujur Timur yang selanjutnya disingkat BT adalah garis
+                    khayal yang menghubungkan titik kutub utara dan
+                    kutub selatan bumi dan menyatakan besarnya sudut
+                    antara posisi bujur dengan garis meridian yang berada di
+                    sebelah timur.
+
+
+                                                Pasal 2
+               Batas   daerah   Kabupaten        Pesawaran   dengan   Kabupaten
+               Lampung Tengah Provinsi Lampung dimulai dari:
+               a.   TK 1 dengan koordinat 5° 10' 44.311" LS dan 105° 15'
+                    29.645" BT yang terletak pada pertigaan batas Kabupaten
+                    Pesawaran dengan Kabupaten Lampung Tengah dan
+                    Kabupaten Lampung Selatan;
+               b.   TK 1 selanjutnya ke arah barat laut sampai pada TK 2
+                    dengan koordinat 5° 10' 04.294" LS dan 105° 14' 29.608"
+                    BT, selanjutnya ke arah barat sampai pada TK 3 dengan
+                    koordinat 5° 10' 07.514" LS dan 105° 13' 25.500" BT yang
+                    terletak   pada     batas    Kabupaten   Pesawaran   dengan
+                    Kabupaten Lampung Tengah;
+               c.   TK 3 selanjutnya ke arah timur laut sampai pada TK 4
+                    dengan koordinat 5° 08' 19.102" LS dan 105° 12' 39.213"
+                    BT, selanjutnya ke arah barat laut sampai pada TK 5
+                    dengan koordinat 5° 07' 18.499" LS dan 105° 11' 25.979"
+                    BT yang terletak pada batas Kabupaten Pesawaran
+                    dengan Kabupaten Lampung Tengah;
+               d.   TK 5 selanjutnya ke arah barat menyusuri as atau yang
+                    disebut Median Line jalan sampai pada TK 6 dengan
+                    koordinat 5° 08' 11.295" LS dan 105° 09' 08.189" BT,
+                    selanjutnya ke arah timur laut sampai pada TK 7 dengan
+                    koordinat 5° 08' 11.721" LS dan 105° 08' 32.643" BT yang
+                    terletak   pada     batas    Kabupaten   Pesawaran   dengan
+                    Kabupaten Lampung Tengah;
+               e.   TK 7 selanjutnya ke arah tenggara menyusuri as atau
+                    yang disebut Median Line Way Tatai sampai pada TK 8
+                    dengan koordinat 5° 09' 50.906" LS dan 105° 08' 14.721"
+                    BT, selanjutnya ke arah barat sampai pada TK 9 dengan
+                    koordinat 5° 09' 25.993" LS dan 105° 06' 55.617" BT yang
+
+<!-- PAGE: 5 -->
+
+                                                         2022, No. 66
+                       -5-
+
+
+     terletak   pada    batas   Kabupaten       Pesawaran     dengan
+     Kabupaten Lampung Tengah;
+f.   TK 9 selanjutnya ke arah timur laut menyusuri as atau
+     yang disebut Median Line Way Sabuk sampai pada TK 10
+     dengan koordinat 5° 08' 54.261" LS dan 105° 06' 55.946"
+     BT, selanjutnya ke arah barat daya menyusuri as atau
+     yang disebut Median Line Way Kalimangan sampai pada
+     TK 11 dengan koordinat 5° 09' 38.068" LS dan 105° 06'
+     00.258"    BT     yang   terletak   pada    batas    Kabupaten
+     Pesawaran dengan Kabupaten Lampung Tengah;
+g.   TK 11 selanjutnya ke arah barat laut sampai pada TK 12
+     dengan koordinat 5° 09' 01.725" LS dan 105° 05' 34.476"
+     BT, selanjutnya ke arah timur laut menyusuri as atau
+     yang disebut Median Line sungai sampai pada TK 13
+     dengan koordinat 5° 08' 25.496" LS dan 105° 06' 12.665"
+     BT yang terletak pada batas Kabupaten Pesawaran
+     dengan Kabupaten Lampung Tengah;
+h.   TK 13 selanjutnya ke arah barat laut sampai pada TK 14
+     dengan koordinat 5° 08' 4.635" LS dan 105° 05' 41.206"
+     BT, selanjutnya ke arah barat daya menyusuri as atau
+     yang disebut Median Line Way Serai sampai pada TK 15
+     dengan koordinat 5° 08' 32.515" LS dan 105° 04' 58.908"
+     BT yang terletak pada batas Kabupaten Pesawaran
+     dengan Kabupaten Lampung Tengah;
+i.   TK 15 selanjutnya ke arah utara menyusuri as atau yang
+     disebut Median Line jalan sampai pada TK 16 dengan
+     koordinat 5° 07' 00.373" LS dan 105° 05' 00.311" BT,
+     selanjutnya ke arah barat daya menyusuri as atau yang
+     disebut Median Line Marias sampai pada TK 17 dengan
+     koordinat 5° 08' 03.587" LS dan 105° 04' 18.224" BT yang
+     terletak   pada    batas   Kabupaten       Pesawaran     dengan
+     Kabupaten Lampung Tengah;
+j.   TK 17 selanjutnya ke arah barat daya menyusuri as atau
+     yang disebut Median Line Way Serai sampai pada TK 18
+     dengan koordinat 5° 08' 47.678" LS dan 105° 04' 48.054"
+     BT, selanjutnya ke arah barat daya menyusuri as atau
+     yang disebut Median Line Way Serai sampai pada TK 19
+
+<!-- PAGE: 6 -->
+
+2022, No. 66                        -6-
+
+
+                      dengan koordinat 5° 09' 52.118" LS dan 105° 03' 23.978"
+                      BT yang terletak pada batas Kabupaten Pesawaran
+                      dengan Kabupaten Lampung Tengah;
+               k.     TK 19 selanjutnya ke arah barat daya menyusuri as atau
+                      yang disebut Median Line Way Serai sampai pada TK 20
+                      dengan koordinat 5° 11' 05.444" LS dan 105° 02' 27.553"
+                      BT, selanjutnya ke arah tenggara sampai pada TK 21
+                      dengan koordinat 5° 11' 39.100" LS dan 105° 03' 30.868"
+                      BT yang terletak pada batas Kabupaten Pesawaran
+                      dengan Kabupaten Lampung Tengah; dan
+               l. TK 21 selanjutnya ke arah barat daya menyusuri as atau
+                      yang disebut Median Line Way Kalimangan sampai pada
+                      TK 00 dengan koordinat 5° 12' 23.415" LS dan 105° 02'
+                      56.359" BT yang terletak pada pertigaan batas Kabupaten
+                      Pesawaran dengan Kabupaten Lampung Tengah dan
+                      Kabupaten Pringsewu.
+
+
+                                                Pasal 3
+               Posisi TK sebagaimana dimaksud dalam Pasal 2 bersifat tetap
+               dan tidak berubah akibat perubahan nama desa/kelurahan
+               dan/atau nama kecamatan.
+
+
+                                                Pasal 4
+               Ketentuan mengenai batas daerah dan koordinat batas
+               sebagaimana dimaksud dalam Pasal 2 tercantum pada Peta
+               Batas Daerah Kabupaten Pesawaran dengan Kabupaten
+               Lampung Tengah Provinsi Lampung dalam Lampiran yang
+               merupakan bagian tidak terpisahkan dari Peraturan Menteri
+               ini.
+
+
+                                                Pasal 5
+               Peraturan     Menteri      ini   mulai     berlaku   pada   tanggal
+               diundangkan.
+
+<!-- PAGE: 7 -->
+
+                                                               2022, No. 66
+                                   -7-
+
+
+               Agar      setiap   orang   mengetahuinya,    memerintahkan
+               pengundangan Peraturan Menteri ini dengan penempatannya
+               dalam Berita Negara Republik Indonesia.
+
+
+
+
+                                           Ditetapkan di Jakarta
+                                           pada tanggal 6 Januari 2022
+
+
+                                           MENTERI DALAM NEGERI
+                                           REPUBLIK INDONESIA,
+
+
+                                                      ttd
+
+
+                                            MUHAMMAD TITO KARNAVIAN
+
+
+Diundangkan di Jakarta
+pada tanggal 18 Januari 2022
+
+
+DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+      ttd
+
+
+BENNY RIYANTO

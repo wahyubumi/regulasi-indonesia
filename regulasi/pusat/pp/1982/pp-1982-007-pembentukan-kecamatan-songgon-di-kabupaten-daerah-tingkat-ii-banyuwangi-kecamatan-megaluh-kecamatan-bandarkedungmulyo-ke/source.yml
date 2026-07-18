@@ -1,0 +1,27 @@
+id: pp-1982-007
+judul: Peraturan Pemerintah Nomor 7 Tahun 1982 tentang Pembentukan Kecamatan Songgon
+  Di Kabupaten Daerah Tingkat Ii Banyuwangi, Kecamatan Megaluh, Kecamatan Bandarkedungmulyo,
+  Kecamatan Jogoroto Di Kabupaten Daerah Tingkat Ii Jombang, Kecamatan Tempursari
+  Di Kabupaten Daerah Tingkat Ii Lumajang, Kecamatanan Nonggunong, Kecamatan Talango,
+  Dan Kecamatan Giligenting Di Kabupaten Daerah Tingkat Ii Sumenep Dalam Wilayah Propinsi
+  Daerah Tingkat I Jawa Timur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,26 @@
+id: permen-2018-059
+judul: Peraturan Menteri Nomor 59 Tahun 2018 tentang Pencabutan Peraturan Menteri
+  Perdagangan Nomor 59 Tahun 2018 Tentang Kewajiban Pencantuman Label Kemasan Beras
+  Dan Peraturan Menteri Perdagangan Nomor 08 Tahun 2019 Tentang Perubahan Atas Peraturan
+  Menteri Perdagangan Nomor 59 Tahun 2018 Tentang Kewajiban Pencantuman Label Kemasan
+  Beras
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

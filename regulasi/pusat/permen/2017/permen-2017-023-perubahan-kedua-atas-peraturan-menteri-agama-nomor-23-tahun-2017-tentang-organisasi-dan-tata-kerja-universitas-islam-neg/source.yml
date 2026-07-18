@@ -1,0 +1,24 @@
+id: permen-2017-023
+judul: Peraturan Menteri Nomor 23 Tahun 2017 tentang Perubahan Kedua Atas Peraturan
+  Menteri Agama Nomor 23 Tahun 2017 Tentang Organisasi Dan Tata Kerja Universitas
+  Islam Negeri Sultan Maulana Hasanuddin Banten
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

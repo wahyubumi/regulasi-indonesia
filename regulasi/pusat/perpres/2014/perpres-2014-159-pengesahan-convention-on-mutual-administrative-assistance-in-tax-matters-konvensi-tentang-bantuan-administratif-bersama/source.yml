@@ -1,0 +1,24 @@
+id: perpres-2014-159
+judul: Peraturan Presiden Nomor 159 Tahun 2014 tentang Pengesahan Convention On Mutual
+  Administrative Assistance In Tax Matters (Konvensi Tentang Bantuan Administratif
+  Bersama Di Bidang Perpajakan)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

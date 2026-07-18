@@ -1,0 +1,909 @@
+---
+id: "permen-2024-053"
+jenis: "permen"
+nomor: "53"
+tahun: 2024
+judul: "Peraturan Menteri Nomor 53 Tahun 2024 tentang Organisasi Dan Tata Kerja Politeknik Negeri Nunukan"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 53 Tahun 2024 tentang Organisasi Dan Tata Kerja Politeknik Negeri Nunukan
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 53
+tahun: 2024
+tentang: Organisasi Dan Tata Kerja Politeknik Negeri Nunukan
+---
+
+<!-- PAGE: 1 -->
+
+                   MENTERI PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+                                    REPUBLIK INDONESIA
+
+
+
+
+PERATURAN MENTERI PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+                      REPUBLIK INDONESIA
+                     NOMOR 53 TAHUN 2024
+                           TENTANG
+     ORGANISASI DAN TATA KERJA POLITEKNIK NEGERI NUNUKAN
+
+             DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+     MENTERI PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+                     REPUBLIK INDONESIA,
+
+
+Menimbang   : a.   bahwa untuk meningkatkan kinerja Politeknik Negeri
+                   Nunukan        dalam      melaksanakan       pelayanan
+                   penyelenggaraan      pendidikan,    penelitian,    dan
+                   pengabdian kepada masyarakat dan menindaklanjuti
+                   kebijakan penyederhanaan birokrasi, perlu melakukan
+                   penataan organisasi dan tata kerja Politeknik Negeri
+                   Nunukan;
+              b.   bahwa ketentuan mengenai organisasi dan tata kerja
+                   Politeknik Negeri Nunukan sebagaimana diatur dalam
+                   Peraturan Menteri Pendidikan dan Kebudayaan Nomor
+                   42 Tahun 2020 tentang Pendirian, Organisasi, dan Tata
+                   Kerja Politeknik Negeri Nunukan sudah tidak sesuai
+                   dengan perkembangan hukum dan kebutuhan
+                   organisasi, sehingga perlu diganti;
+              c.   bahwa     berdasarkan    pertimbangan    sebagaimana
+                   dimaksud dalam huruf a dan huruf b, perlu
+                   menetapkan       Peraturan     Menteri     Pendidikan,
+                   Kebudayaan, Riset, dan Teknologi tentang Organisasi
+                   dan Tata Kerja Politeknik Negeri Nunukan;
+
+Mengingat   : 1.   Pasal 17 ayat (3) Undang-Undang Dasar Negara
+                   Republik Indonesia Tahun 1945;
+              2.   Undang-Undang Nomor 39 Tahun 2008 tentang
+                   Kementerian Negara (Lembaran Negara Republik
+                   Indonesia Tahun 2008 Nomor 166, Tambahan
+                   Lembaran Negara Republik Indonesia Nomor 4916);
+              3.   Undang-Undang Nomor 12 Tahun 2012 tentang
+                   Pendidikan Tinggi (Lembaran Negara Republik
+                   Indonesia Tahun 2012 Nomor 158, Tambahan
+                   Lembaran Negara Republik Indonesia Nomor 5336);
+              4.   Peraturan Pemerintah Nomor 4 Tahun 2014 tentang
+                   Penyelenggaraan Pendidikan Tinggi dan Pengelolaan
+                   Perguruan Tinggi (Lembaran Negara Republik Indonesia
+
+<!-- PAGE: 2 -->
+
+                                  -2-
+
+
+                    Tahun 2014 Nomor 16, Tambahan Lembaran Negara
+                    Republik Indonesia Nomor 5500);
+               5.   Peraturan Presiden Nomor 62 Tahun 2021 tentang
+                    Kementerian Pendidikan, Kebudayaan, Riset, dan
+                    Teknologi (Lembaran Negara Republik Indonesia Tahun
+                    2021 Nomor 156);
+               6.   Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan
+                    Teknologi Nomor 28 Tahun 2021 tentang Organisasi
+                    dan Tata Kerja Kementerian Pendidikan, Kebudayaan,
+                    Riset, dan Teknologi (Berita Negara Republik Indonesia
+                    Tahun 2021 Nomor 963) sebagaimana telah diubah
+                    dengan Peraturan Menteri Pendidikan, Kebudayaan,
+                    Riset, dan Teknologi Nomor 16 Tahun 2024 tentang
+                    Perubahan atas Peraturan Menteri Pendidikan,
+                    Kebudayaan, Riset, dan Teknologi Nomor 28 Tahun
+                    2021 tentang Organisasi dan Tata Kerja Kementerian
+                    Pendidikan, Kebudayaan, Riset, dan Teknologi (Berita
+                    Negara Republik Indonesia Tahun 2024 Nomor 198);
+
+                            MEMUTUSKAN:
+
+Menetapkan :   PERATURAN MENTERI PENDIDIKAN, KEBUDAYAAN,
+               RISET, DAN TEKNOLOGI TENTANG ORGANISASI DAN TATA
+               KERJA POLITEKNIK NEGERI NUNUKAN.
+
+                                       BAB I
+                                  KETENTUAN UMUM
+
+                                         Pasal 1
+               Dalam Peraturan Menteri ini yang dimaksud dengan:
+               1. Menteri adalah menteri yang menyelenggarakan urusan
+                   pemerintahan di bidang pendidikan.
+               2. Politeknik Negeri Nunukan yang selanjutnya disingkat
+                   PNN      adalah    perguruan    tinggi   negeri  yang
+                   diselenggarakan        oleh      kementerian     yang
+                   menyelenggarakan urusan pemerintahan di bidang
+                   pendidikan.
+               3. Sivitas Akademika adalah masyarakat akademik yang
+                   terdiri atas dosen dan mahasiswa.
+               4. Dosen adalah pendidik profesional dan ilmuwan dengan
+                   tugas utama mentransformasikan, mengembangkan,
+                   dan menyebarluaskan ilmu pengetahuan dan teknologi
+                   melalui pendidikan, penelitian, dan pengabdian kepada
+                   masyarakat.
+               5. Tenaga Kependidikan adalah anggota masyarakat yang
+                   mengabdikan diri dan diangkat untuk menunjang
+                   penyelenggaraan pendidikan.
+               6. Mahasiswa adalah peserta didik pada jenjang
+                   pendidikan tinggi yang terdaftar dan belajar.
+               7. Program Studi adalah kesatuan kegiatan pendidikan
+                   dan pembelajaran yang memiliki kurikulum dan metode
+                   pembelajaran tertentu dalam satu jenis pendidikan
+                   akademik, pendidikan profesi, dan/atau pendidikan
+                   vokasi.
+
+<!-- PAGE: 3 -->
+
+                    -3-
+
+
+
+                       BAB II
+            KEDUDUKAN, TUGAS, DAN FUNGSI
+
+                    Pasal 2
+PNN berada di bawah dan bertanggung jawab kepada
+Menteri.
+
+                         Pasal 3
+PNN mempunyai tugas menyelenggarakan pendidikan
+vokasi dan pendidikan profesi dalam berbagai rumpun ilmu
+pengetahuan dan/atau teknologi sesuai dengan ketentuan
+peraturan perundang-undangan.
+
+                        Pasal 4
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+Pasal 3, PNN menyelenggarakan fungsi:
+a. pelaksanaan dan pengembangan pendidikan vokasi dan
+   profesi;
+b. pelaksanaan penelitian dalam rangka pengembangan
+   ilmu pengetahuan dan/atau teknologi;
+c. pelaksanaan pengabdian kepada masyarakat;
+d. pembinaan Sivitas Akademika dan hubungannya dengan
+   lingkungan; dan
+e. pelaksanaan kegiatan administrasi.
+
+                        BAB III
+                  SUSUNAN ORGANISASI
+
+                      Bagian Kesatu
+                         Umum
+
+                            Pasal 5
+(1)   Organisasi PNN terdiri atas:
+      a. senat;
+      b. pemimpin;
+      c. satuan pengawas internal; dan
+      d. dewan penyantun.
+(2)   Struktur organisasi PNN sebagaimana dimaksud pada
+      ayat (1) tercantum dalam Lampiran yang merupakan
+      bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+                       Bagian Kedua
+                           Senat
+
+                          Pasal 6
+(1)   Senat merupakan unsur penyusun kebijakan yang
+      menjalankan fungsi penetapan dan pertimbangan
+      pelaksanaan kebijakan akademik.
+(2)   Senat sebagaimana dimaksud pada ayat (1) dipimpin
+      oleh ketua senat.
+(3)   Senat sebagaimana dimaksud pada ayat (1)
+      dilaksanakan sesuai dengan ketentuan peraturan
+      perundang-undangan     yang   mengatur  mengenai
+      statuta.
+
+<!-- PAGE: 4 -->
+
+                     -4-
+
+
+                      Bagian Ketiga
+      Pemimpin dan Unsur Organisasi di bawah Pemimpin
+
+                           Paragraf 1
+                            Direktur
+
+                             Pasal 7
+(1)    Direktur merupakan pemimpin PNN.
+(2)    Direktur sebagaimana dimaksud pada ayat (1) dibantu
+       oleh:
+       a. wakil direktur; dan
+       b. unsur organisasi di bawah pemimpin.
+
+                              Pasal 8
+(1)    Direktur mempunyai tugas memimpin penyelenggaraan
+       pendidikan, penelitian, dan pengabdian kepada
+       masyarakat,      serta    membina     Dosen,     Tenaga
+       Kependidikan, Mahasiswa, dan hubungan Sivitas
+       Akademika dengan lingkungan.
+(2)    Dalam melaksanakan tugas sebagaimana dimaksud
+       pada ayat (1), direktur menyelenggarakan fungsi:
+       a. pelaksanaan dan pengembangan pendidikan vokasi
+           dan profesi;
+       b. pelaksanaan penelitian dalam rangka pengembangan
+           ilmu pengetahuan dan/atau teknologi;
+       c. pelaksanaan pengabdian kepada masyarakat;
+       d. pembinaan        Dosen,     Tenaga    Kependidikan,
+           Mahasiswa, dan hubungan Sivitas Akademika
+           dengan lingkungan; dan
+       e. pelaksanaan layanan administrasi.
+
+                         Paragraf 2
+                        Wakil Direktur
+
+                              Pasal 9
+(1)    Wakil direktur terdiri atas:
+       a. Wakil     Direktur        Bidang Akademik     dan
+          Kemahasiswaan; dan
+       b. Wakil Direktur Bidang Perencanaan, Keuangan, dan
+          Umum.
+(2)    Wakil direktur berada di bawah dan bertanggung jawab
+       kepada direktur.
+
+                           Pasal 10
+(1)    Wakil Direktur Bidang Akademik dan Kemahasiswaan
+       mempunyai     tugas     membantu   direktur   dalam
+       memimpin penyelenggaraan kegiatan di bidang
+       pendidikan,     penelitian,   pengabdian     kepada
+       masyarakat, kemahasiswaan, dan alumni.
+(2)    Wakil Direktur Bidang Perencanaan, Keuangan, dan
+       Umum mempunyai tugas membantu direktur dalam
+       memimpin penyelenggaraan kegiatan di bidang
+       perencanaan, keuangan, kerja sama, sistem informasi,
+       dan umum.
+
+<!-- PAGE: 5 -->
+
+                    -5-
+
+
+                        Paragraf 3
+            Unsur Organisasi di bawah Pemimpin
+
+                            Pasal 11
+(1)   Unsur organisasi di bawah pemimpin PNN terdiri atas
+      unsur:
+      a. pelaksana akademik;
+      b. pelaksana administrasi;
+      c. penjaminan mutu; dan
+      d. penunjang akademik.
+(2)   Unsur pelaksana akademik sebagaimana dimaksud pada
+      ayat (1) huruf a dilaksanakan oleh:
+      a. jurusan; dan
+      b. pusat yang melaksanakan fungsi penelitian dan
+         pengabdian kepada masyarakat.
+(3)   Unsur pelaksana administrasi sebagaimana dimaksud
+      pada ayat (1) huruf b dilaksanakan oleh bagian.
+(4)   Unsur penjaminan mutu sebagaimana dimaksud pada
+      ayat (1) huruf c dilaksanakan oleh pusat yang
+      melaksanakan fungsi penjaminan mutu.
+(5)   Unsur penunjang akademik sebagaimana dimaksud
+      pada ayat (1) huruf d dilaksanakan oleh unit penunjang
+      akademik.
+
+                           Pasal 12
+(1)   Jurusan mempunyai tugas menyelenggarakan dan
+      mengelola pendidikan vokasi dan/atau profesi dalam 1
+      (satu) atau beberapa cabang ilmu pengetahuan
+      dan/atau teknologi serta pengelolaan sumber daya
+      pendukung Program Studi.
+(2)   Pembentukan, perubahan, dan penutupan jurusan
+      ditetapkan oleh direktur setelah mendapat persetujuan
+      dari direktur jenderal yang menyelenggarakan tugas di
+      bidang pendidikan tinggi vokasi.
+
+                          Pasal 13
+(1)   Jurusan terdiri atas:
+      a. Jurusan Teknik; dan
+      b. Jurusan Bisnis dan Perikanan.
+(2)   Susunan organisasi jurusan sebagaimana dimaksud
+      pada ayat (1) terdiri atas:
+      a. ketua jurusan;
+      b. sekretaris jurusan;
+      c. Program Studi;
+      d. laboratorium/bengkel/studio; dan
+      e. kelompok jabatan fungsional.
+
+                          Pasal 14
+(1)   Ketua jurusan bertanggung jawab kepada direktur.
+(2)   Ketua jurusan sebagaimana dimaksud pada ayat (1)
+      mempunyai tugas memimpin dan melaksanakan tugas
+      penyelenggaraan jurusan berdasarkan kebijakan
+      direktur.
+
+<!-- PAGE: 6 -->
+
+                    -6-
+
+
+                        Pasal 15
+Sekretaris jurusan mempunyai tugas membantu ketua
+jurusan dalam bidang administrasi umum, keuangan,
+kepegawaian, dan pelaporan di lingkungan jurusan.
+
+                           Pasal 16
+(1)   Dalam penyelenggaraan Program Studi pada jurusan
+      sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf
+      c, direktur dapat menunjuk seorang Dosen sebagai
+      koordinator Program Studi.
+(2)   Koordinator Program Studi sebagaimana dimaksud
+      pada ayat (1) bertanggung jawab kepada ketua jurusan.
+
+                           Pasal 17
+(1)   Laboratorium/bengkel/studio merupakan perangkat
+      penunjang pelaksanaan pendidikan, penelitian, dan
+      pengabdian kepada masyarakat di lingkungan jurusan.
+(2)   Laboratorium/bengkel/studio dipimpin oleh pejabat
+      fungsional    yang    keahliannya  telah  memenuhi
+      persyaratan sesuai dengan cabang ilmu pengetahuan
+      dan/atau teknologi.
+(3)   Pejabat fungsional sebagaimana dimaksud pada ayat (2)
+      bertanggung jawab kepada ketua jurusan.
+
+                           Pasal 18
+(1)   Laboratorium/bengkel/studio      mempunyai      tugas
+      melakukan kegiatan dalam cabang ilmu pengetahuan
+      dan/atau teknologi sebagai penunjang pelaksanaan
+      tugas pendidikan, penelitian, dan pengabdian kepada
+      masyarakat pada jurusan.
+(2)   Pelaksanaan tugas sebagaimana dimaksud pada ayat
+      (1) dilakukan oleh kelompok jabatan fungsional.
+
+                           Pasal 19
+(1)   Bagian merupakan unsur pelaksana administrasi yang
+      menyelenggarakan pelayanan teknis dan administrasi
+      kepada seluruh unsur di lingkungan PNN.
+(2)   Bagian sebagaimana dimaksud pada ayat (1) yaitu
+      Bagian Akademik, Kemahasiswaan, dan Umum.
+(3)   Bagian dipimpin oleh kepala bagian yang berada di
+      bawah dan bertanggung jawab kepada direktur.
+(4)   Bagian dalam pelaksanaan tugas dikoordinasikan oleh
+      wakil direktur sesuai dengan bidang tugas.
+
+                      Pasal 20
+Bagian Akademik, Kemahasiswaan, dan Umum mempunyai
+tugas melaksanakan pelayanan di bidang akademik,
+kemahasiswaan, dan umum.
+
+                         Pasal 21
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+Pasal 20, Bagian Akademik, Kemahasiswaan, dan Umum
+menyelenggarakan fungsi:
+a. pelaksanaan      layanan    administrasi   pendidikan,
+   penelitian, dan pengabdian kepada masyarakat;
+b. evaluasi pendidikan, penelitian, dan pengabdian kepada
+
+<!-- PAGE: 7 -->
+
+                   -7-
+
+
+   masyarakat;
+c. pelaksanaan registrasi Mahasiswa dan statistik
+   akademik;
+d. pengelolaan data dan sarana akademik;
+e. pelaksanaan layanan pembinaan minat, bakat, dan
+   kesejahteraan Mahasiswa;
+f. pengelolaan data kemahasiswaan dan alumni;
+g. fasilitasi kegiatan kemahasiswaan dan alumni;
+h. penyusunan rencana, program, dan anggaran;
+i. pemantauan dan evaluasi pelaksanaan program dan
+   anggaran;
+j. pelaksanaan urusan keuangan;
+k. pelaksanaan urusan hukum;
+l. pelaksanaan urusan organisasi dan ketatalaksanaan;
+m. pelaksanaan urusan kepegawaian;
+n. pelaksanaan koordinasi dan administrasi kerja sama;
+o. pelaksanaan urusan hubungan masyarakat;
+p. pemberian layanan informasi;
+q. pelaksanaan urusan ketatausahaan;
+r. pelaksanaan urusan kearsipan;
+s. pelaksanaan urusan keprotokolan;
+t. pelaksanaan urusan kerumahtanggaan; dan
+u. pengelolaan barang milik negara.
+
+                       Pasal 22
+Bagian Akademik, Kemahasiswaan, dan Umum terdiri atas:
+a. Subbagian Akademik dan Umum; dan
+b. kelompok jabatan fungsional.
+
+                         Pasal 23
+Subbagian Akademik dan Umum mempunyai tugas
+melakukan layanan administrasi dan evaluasi pendidikan,
+penelitian, dan pengabdian kepada masyarakat serta urusan
+ketatausahaan,     dokumentasi, keprotokolan,     layanan
+pimpinan, kerumahtanggaan, dan pengelolaan prasarana
+dan sarana PNN.
+
+                       Pasal 24
+Pusat merupakan unsur pelaksana akademik dan unsur
+penjaminan mutu yang berada di bawah dan bertanggung
+jawab kepada direktur.
+
+                             Pasal 25
+(1)   Pusat terdiri atas:
+      a. Pusat      Penelitian   dan   Pengabdian kepada
+         Masyarakat; dan
+      b. Pusat Penjaminan Mutu dan Pengembangan
+         Pembelajaran.
+(2)   Pusat dipimpin oleh kepala pusat.
+
+                      Pasal 26
+Pusat Penelitian dan Pengabdian kepada Masyarakat
+mempunyai tugas melaksanakan koordinasi, pelaksanaan,
+pemantauan, dan evaluasi kegiatan penelitian dan
+pengabdian kepada masyarakat.
+
+<!-- PAGE: 8 -->
+
+                  -8-
+
+
+                         Pasal 27
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+Pasal 26, Pusat Penelitian dan Pengabdian kepada
+Masyarakat menyelenggarakan fungsi:
+a. penyusunan rencana, program, dan anggaran;
+b. pelaksanaan penelitian ilmiah murni dan terapan;
+c. pelaksanaan pengabdian kepada masyarakat;
+d. koordinasi    pelaksanaan kegiatan penelitian    dan
+   pengabdian kepada masyarakat;
+e. pelaksanaan penyebarluasan dan publikasi hasil
+   penelitian dan pengabdian kepada masyarakat;
+f. pelaksanaan penyiapan bahan kerja sama dan
+   hubungan masyarakat di bidang penelitian dan
+   pengabdian kepada masyarakat;
+g. pemantauan dan evaluasi pelaksanaan kegiatan
+   penelitian dan pengabdian kepada masyarakat; dan
+h. pelaksanaan urusan administrasi.
+
+                         Pasal 28
+Pusat Penelitian dan Pengabdian kepada Masyarakat terdiri
+atas:
+a. kepala; dan
+b. kelompok jabatan fungsional.
+
+                       Pasal 29
+Pusat Penjaminan Mutu dan Pengembangan Pembelajaran
+mempunyai tugas melaksanakan koordinasi, pelaksanaan,
+pemantauan, dan evaluasi kegiatan penjaminan mutu dan
+pengembangan pembelajaran.
+
+                          Pasal 30
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+Pasal 29, Pusat Penjaminan Mutu dan Pengembangan
+Pembelajaran menyelenggarakan fungsi:
+a. penyusunan rencana, program, dan anggaran;
+b. pelaksanaan pengembangan sistem penjaminan mutu
+   pendidikan;
+c. pelaksanaan penjaminan mutu pendidikan;
+d. pelaksanaan fasilitasi peningkatan mutu pendidikan;
+e. pelaksanaan      peningkatan      dan    pengembangan
+   pembelajaran;
+f. koordinasi pelaksanaan kegiatan penjaminan mutu
+   pendidikan serta peningkatan dan pengembangan
+   pembelajaran;
+g. pelaksanaan penyiapan bahan kerja sama dan
+   hubungan masyarakat di bidang penjaminan mutu
+   pendidikan dan pengembangan pembelajaran;
+h. pemantauan dan evaluasi penjaminan mutu pendidikan
+   dan pengembangan pembelajaran; dan
+i. pelaksanaan urusan administrasi.
+
+                        Pasal 31
+Pusat Penjaminan Mutu dan Pengembangan Pembelajaran
+terdiri atas:
+a. kepala; dan
+b. kelompok jabatan fungsional.
+
+<!-- PAGE: 9 -->
+
+                    -9-
+
+
+                        Pasal 32
+Unit penunjang akademik merupakan unsur penunjang
+akademik di lingkungan PNN.
+
+                         Pasal 33
+Unit penunjang akademik terdiri atas:
+a. Perpustakaan;
+b. Teknologi Informasi dan Komunikasi;
+c. Perawatan dan Perbaikan; dan
+d. Laboratorium Terpadu.
+
+                          Pasal 34
+(1)   Unit Penunjang Akademik Perpustakaan merupakan
+      unit penunjang akademik di bidang perpustakaan.
+(2)   Unit Penunjang Akademik Perpustakaan terdiri atas:
+      a. kepala; dan
+      b. kelompok jabatan fungsional.
+(3)   Kepala sebagaimana dimaksud pada ayat (2) huruf a
+      berada di bawah dan bertanggung jawab kepada
+      direktur dan dalam pelaksanaan tugas dikoordinasikan
+      oleh   Wakil    Direktur   Bidang   Akademik     dan
+      Kemahasiswaan.
+
+                        Pasal 35
+Unit Penunjang Akademik Perpustakaan mempunyai tugas
+melaksanakan pengelolaan perpustakaan.
+
+                        Pasal 36
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+Pasal 35, Unit Penunjang Akademik Perpustakaan
+menyelenggarakan fungsi:
+a. penyusunan rencana, program, dan anggaran;
+b. penyusunan rencana kebutuhan dan penyediaan bahan
+   pustaka;
+c. pengolahan bahan pustaka;
+d. pemberian layanan dan pendayagunaan bahan pustaka;
+e. pemeliharaan dan perawatan bahan pustaka; dan
+f. pelaksanaan urusan tata usaha.
+
+                           Pasal 37
+(1)   Unit Penunjang Akademik Teknologi Informasi dan
+      Komunikasi merupakan unit penunjang akademik di
+      bidang teknologi informasi dan komunikasi.
+(2)   Unit Penunjang Akademik Teknologi Informasi dan
+      Komunikasi terdiri atas:
+      a. kepala; dan
+      b. kelompok jabatan fungsional.
+(3)   Kepala sebagaimana dimaksud pada ayat (2) huruf a
+      berada di bawah dan bertanggung jawab kepada
+      direktur dan dalam pelaksanaan tugas dikoordinasikan
+      oleh Wakil Direktur Bidang Perencanaan, Keuangan, dan
+      Umum.
+
+                    Pasal 38
+Unit Penunjang Akademik Teknologi          Informasi dan
+Komunikasi    mempunyai      tugas          melaksanakan
+
+<!-- PAGE: 10 -->
+
+                   - 10 -
+
+
+pengembangan, pengelolaan, dan pemberian layanan
+teknologi informasi dan komunikasi serta pengelolaan
+sistem informasi dan jaringan.
+
+                         Pasal 39
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+Pasal 38, Unit Penunjang Akademik Teknologi Informasi dan
+Komunikasi menyelenggarakan fungsi:
+a. penyusunan rencana, program, dan anggaran;
+b. pengembangan dan pengelolaan teknologi informasi dan
+   komunikasi;
+c. pemberian layanan di bidang teknologi informasi dan
+   komunikasi;
+d. pengembangan dan pengelolaan sistem informasi;
+e. pengembangan dan pengelolaan jaringan;
+f. pemeliharaan dan perbaikan jaringan; dan
+g. pelaksanaan urusan tata usaha.
+
+                           Pasal 40
+(1)   Unit Penunjang Akademik Perawatan dan Perbaikan
+      merupakan unit penunjang akademik di bidang
+      perawatan dan perbaikan sarana penunjang akademik.
+(2)   Unit Penunjang Akademik Perawatan dan Perbaikan
+      terdiri atas:
+      a. kepala; dan
+      b. kelompok jabatan fungsional.
+(3)   Kepala sebagaimana dimaksud pada ayat (2) huruf a
+      berada di bawah dan bertanggung jawab kepada
+      direktur dan dalam pelaksanaan tugas dikoordinasikan
+      oleh Wakil Direktur Bidang Perencanaan, Keuangan, dan
+      Umum.
+
+                        Pasal 41
+Unit Penunjang Akademik Perawatan dan Perbaikan
+mempunyai tugas melaksanakan pemeliharaan, perawatan,
+dan perbaikan sarana penunjang akademik.
+
+                        Pasal 42
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+Pasal 41, Unit Penunjang Akademik Perawatan dan
+Perbaikan menyelenggarakan fungsi:
+a. penyusunan rencana, program, dan anggaran;
+b. pemeliharaan sarana penunjang akademik;
+c. pemberian layanan perbaikan dan perawatan sarana
+   penunjang akademik;
+d. pendataan sarana penunjang akademik; dan
+e. pelaksanaan urusan tata usaha.
+
+                          Pasal 43
+(1)   Unit Penunjang Akademik Laboratorium Terpadu
+      merupakan unit penunjang akademik di bidang
+      pengelolaan dan layanan laboratorium terpadu.
+(2)   Unit Penunjang Akademik Laboratorium Terpadu
+      sebagaimana dimaksud pada ayat (1) terdiri atas:
+      a. kepala; dan
+      b. kelompok jabatan fungsional.
+
+<!-- PAGE: 11 -->
+
+                   - 11 -
+
+
+(3)   Kepala sebagaimana dimaksud pada ayat (2) huruf a
+      berada di bawah dan bertanggung jawab kepada
+      direktur dan dalam pelaksanaan tugas dikoordinasikan
+      oleh   Wakil    Direktur  Bidang    Akademik     dan
+      Kemahasiswaan.
+
+                       Pasal 44
+Unit    Penunjang   Akademik    Laboratorium Terpadu
+mempunyai tugas melaksanakan pengelolaan dan layanan
+laboratorium terpadu.
+
+                         Pasal 45
+Dalam melaksanakan tugas sebagaimana dimaksud dalam
+Pasal 44, Unit Penunjang Akademik Laboratorium Terpadu
+menyelenggarakan fungsi:
+a. penyusunan rencana, program, dan anggaran;
+b. pengelolaan laboratorium terpadu;
+c. pelaksanaan layanan laboratorium terpadu untuk
+   program pendidikan, penelitian, dan pengabdian kepada
+   masyarakat; dan
+d. pelaksanaan urusan tata usaha.
+
+                     Bagian Keempat
+                 Satuan Pengawas Internal
+
+                         Pasal 46
+(1)   Satuan pengawas internal merupakan unsur pengawas
+      yang menjalankan fungsi pengawasan nonakademik
+      untuk dan atas nama direktur.
+(2)   Satuan pengawas internal sebagaimana dimaksud pada
+      ayat (1) dilaksanakan sesuai dengan ketentuan
+      peraturan   perundang-undangan     mengenai   yang
+      mengatur statuta.
+
+                      Bagian Kelima
+                     Dewan Penyantun
+
+                            Pasal 47
+(1)   Dewan penyantun merupakan organ yang menjalankan
+      fungsi memberikan pertimbangan nonakademik dan
+      fungsi lain yang ditetapkan dalam statuta PNN.
+(2)   Dewan penyantun sebagaimana dimaksud pada ayat (1)
+      dilaksanakan sesuai dengan ketentuan peraturan
+      perundang-undangan       yang   mengatur    mengenai
+      statuta.
+
+                     Bagian Keenam
+               Kelompok Jabatan Fungsional
+
+                         Pasal 48
+(1)   Kelompok jabatan fungsional terdiri atas sejumlah
+      jabatan fungsional sesuai dengan bidang keahlian
+      dan/atau keterampilan.
+(2)   Jumlah jabatan fungsional ditentukan berdasarkan
+      kebutuhan dan beban kerja.
+
+<!-- PAGE: 12 -->
+
+                  - 12 -
+
+
+(3)   Tugas, jenis, dan jenjang jabatan fungsional
+      dilaksanakan sesuai dengan ketentuan peraturan
+      perundang-undangan.
+
+                         BAB IV
+                       TATA KERJA
+
+                         Pasal 49
+Direktur dan wakil direktur melakukan koordinasi dengan
+pimpinan unit organisasi di lingkungan PNN dan instansi
+lain sesuai dengan tugas dan fungsi masing-masing.
+
+                         Pasal 50
+Direktur, wakil direktur, ketua jurusan, kepala bagian,
+kepala subbagian, kepala pusat, dan kepala unit penunjang
+akademik di lingkungan PNN dalam melaksanakan tugas
+dan fungsi menerapkan prinsip koordinasi, integrasi, dan
+sinkronisasi.
+
+                             Pasal 51
+Direktur, wakil direktur, ketua jurusan, kepala bagian,
+kepala subbagian, kepala pusat, dan kepala unit penunjang
+akademik di lingkungan PNN bertanggung jawab:
+a. memimpin dan mengoordinasikan bawahan;
+b. memberikan bimbingan dan petunjuk pelaksanaan tugas
+   bawahan;
+c. menerapkan sistem pengendalian intern di lingkungan
+   masing-masing untuk mewujudkan terlaksananya
+   mekanisme akuntabilitas publik;
+d. menyusun peta proses bisnis yang menggambarkan tata
+   hubungan kerja yang efektif dan efisien antarunit
+   organisasi di lingkungan PNN;
+e. menyusun analisis jabatan, peta jabatan, uraian tugas,
+   dan analisis beban kerja terhadap seluruh jabatan di
+   lingkungan PNN;
+f. menyusun dan mengembangkan kebijakan, program, dan
+   kegiatan berdasarkan rencana strategis yang telah
+   ditetapkan dengan menerapkan asas pemerintahan yang
+   efektif, efisien, bersih, dan akuntabel;
+g. menyusun dan menyampaikan laporan pelaksanaan
+   kinerja secara akuntabel, terintegrasi, dan tepat waktu;
+   dan
+h. memberikan         layanan    penyelenggaraan  tridharma
+   perguruan tinggi dengan mengedepankan kemudahan,
+   kecepatan, dan keterjangkauan.
+
+                          Pasal 52
+(1)   Tugas dan fungsi unit kerja di lingkungan PNN
+      dijabarkan ke dalam rincian tugas unit kerja.
+(2)   Rincian tugas sebagaimana dimaksud pada ayat (1)
+      ditetapkan oleh Menteri.
+
+<!-- PAGE: 13 -->
+
+                   - 13 -
+
+
+                       BAB V
+      JABATAN, PENGANGKATAN, DAN PEMBERHENTIAN
+
+                       Bagian Kesatu
+                         Jabatan
+
+                           Pasal 53
+(1)   Direktur, wakil direktur, ketua jurusan, sekretaris
+      jurusan, koordinator Program Studi, dan kepala pusat
+      dijabat oleh Dosen yang mendapat tugas tambahan dan
+      bukan merupakan jabatan struktural.
+(2)   Kepala unit penunjang akademik dan kepala
+      laboratorium/bengkel/studio   dijabat   oleh  Dosen
+      dan/atau pejabat fungsional yang mendapat tugas
+      tambahan dan bukan merupakan jabatan struktural.
+
+                         Pasal 54
+(1)   Kepala bagian merupakan jabatan administrator.
+(2)   Kepala subbagian merupakan jabatan pengawas.
+
+                      Bagian Kedua
+              Pengangkatan dan Pemberhentian
+
+                           Pasal 55
+(1)   Direktur diangkat dan diberhentikan oleh Menteri.
+(2)   Wakil direktur, ketua jurusan, sekretaris jurusan,
+      koordinator        Program        Studi,        kepala
+      laboratorium/bengkel/studio, kepala pusat, dan kepala
+      unit penunjang akademik diangkat dan diberhentikan
+      oleh direktur.
+
+                       Pasal 56
+Pengangkatan dan pemberhentian jabatan administrator dan
+jabatan pengawas dilaksanakan sesuai dengan ketentuan
+peraturan perundang-undangan.
+
+                      BAB VI
+        PERUBAHAN ORGANISASI DAN TATA KERJA
+
+                        Pasal 57
+Perubahan organisasi dan tata kerja PNN ditetapkan oleh
+Menteri setelah mendapat persetujuan tertulis dari menteri
+yang menyelenggarakan urusan pemerintahan di bidang
+aparatur negara.
+
+                        BAB VII
+                  KETENTUAN PERALIHAN
+
+                          Pasal 58
+(1)   Pada saat Peraturan Menteri ini mulai berlaku, jabatan
+      dan pejabat yang memangku jabatan di lingkungan
+      PNN berdasarkan Peraturan Menteri Pendidikan dan
+      Kebudayaan Nomor 42 Tahun 2020 tentang Pendirian,
+      Organisasi, dan Tata Kerja Politeknik Negeri Nunukan,
+      tetap melaksanakan tugas dan fungsinya sampai
+      dibentuknya jabatan baru dan ditetapkannya pejabat
+
+<!-- PAGE: 14 -->
+
+                   - 14 -
+
+
+      baru berdasarkan ketentuan dalam Peraturan Menteri
+      ini.
+(2)   Pembentukan jabatan baru dan pengangkatan pejabat
+      baru sebagaimana dimaksud pada ayat (1) dilakukan
+      paling lama 3 (tiga) bulan terhitung sejak Peraturan
+      Menteri ini diundangkan.
+
+                       BAB VIII
+                  KETENTUAN PENUTUP
+
+                          Pasal 59
+Pada saat Peraturan Menteri ini mulai berlaku, semua
+ketentuan pelaksanaan dari Peraturan Menteri Pendidikan
+dan Kebudayaan Nomor 42 Tahun 2020 tentang Pendirian,
+Organisasi, dan Tata Kerja Politeknik Negeri Nunukan
+(Berita Negara Republik Indonesia Tahun 2020 Nomor 1100),
+dinyatakan masih tetap berlaku sepanjang tidak
+bertentangan dengan ketentuan dalam Peraturan Menteri
+ini.
+
+                         Pasal 60
+Pada saat Peraturan Menteri ini mulai berlaku, ketentuan
+mengenai organisasi dan tata kerja PNN sebagaimana diatur
+dalam Peraturan Menteri Pendidikan dan Kebudayaan
+Nomor 42 Tahun 2020 tentang Pendirian, Organisasi, dan
+Tata Kerja Politeknik Negeri Nunukan (Berita Negara
+Republik Indonesia Tahun 2020 Nomor 1100) kecuali
+ketentuan mengenai pendirian, dicabut dan dinyatakan
+tidak berlaku.
+
+                            Pasal 61
+Peraturan Menteri     ini    mulai berlaku   pada   tanggal
+diundangkan.
+
+<!-- PAGE: 15 -->
+
+                                - 15 -
+
+
+               Agar setiap orang mengetahuinya, memerintahkan
+               pengundangan    Peraturan     Menteri    ini    dengan
+               penempatannya dalam Berita Negara Republik Indonesia.
+
+
+                                Ditetapkan di Jakarta
+                                pada tanggal 3 Oktober 2024
+
+                                MENTERI PENDIDIKAN, KEBUDAYAAN,
+                                RISET, DAN TEKNOLOGI
+                                REPUBLIK INDONESIA,
+
+                                                  Œ
+
+                                         NADIEM ANWAR MAKARIM
+
+Diundangkan di Jakarta
+pada tanggal         Д
+
+PLT. DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+       Ѽ
+
+ASEP N. MULYANA
+
+
+BERITA NEGARA REPUBLIK INDONESIA TAHUN 2024 NOMOR             Ж
+
+<!-- PAGE: 16 -->
+
+                                LAMPIRAN
+                                PERATURAN MENTERI PENDIDIKAN, KEBUDAYAAN,
+                                RISET, DAN TEKNOLOGI
+                                REPUBLIK INDONESIA
+                                NOMOR 53 TAHUN 2024
+                                TENTANG
+                                ORGANISASI DAN TATA KERJA POLITEKNIK NEGERI
+                                NUNUKAN
+
+STRUKTUR ORGANISASI POLITEKNIK NEGERI NUNUKAN
+
+
+
+
+                                          MENTERI PENDIDIKAN, KEBUDAYAAN,
+                                          RISET, DAN TEKNOLOGI
+                                          REPUBLIK INDONESIA,
+
+                                                         ttd.
+
+
+                                                NADIEM ANWAR MAKARIM

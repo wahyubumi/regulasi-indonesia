@@ -1,0 +1,28 @@
+id: perpres-2014-095
+judul: Peraturan Presiden Nomor 95 Tahun 2014 tentang Pengesahan Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Pemerintah Bermuda (Sebagaimana Telah Diizinkan
+  Oleh Pemerintah Kerajaan Inggris Raya Dan Irlandia Utara) Untuk Pertukaran Informasi
+  Berkenaan Dengan Keperluan Perpajakan (Agreement Between The Government Of The Republic
+  Of Indonesia And The Government Of Bermuda (As Authorized By The Government Of The
+  United Kingdom Of Great Britain And Northern Ireland) For The Exchange Of Information
+  Relating To Tax Matters)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

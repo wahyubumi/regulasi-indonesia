@@ -1,0 +1,25 @@
+id: perpres-2013-104
+judul: Peraturan Presiden Nomor 104 Tahun 2013 tentang Pengesahan Agreement On The
+  Establishment Of The Centre For Indonesia-Malaysia-Thailand Growth Triangle Sub
+  Regional Cooperation (Persetujuan Pembentukan Pusat Kerja Sama Subregional Segitiga
+  Pertumbuhan Indonesia-Malaysia-Thailand)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

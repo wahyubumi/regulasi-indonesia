@@ -1,0 +1,23 @@
+id: pp-1954-041
+judul: Peraturan Pemerintah Nomor 41 Tahun 1954 tentang Kenaikan Pensiun Dan Onderstand
+  Yang Diberikan Kepada Para Bekas Anggota Tentara Angkatan Perang Dan Sebagainya
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

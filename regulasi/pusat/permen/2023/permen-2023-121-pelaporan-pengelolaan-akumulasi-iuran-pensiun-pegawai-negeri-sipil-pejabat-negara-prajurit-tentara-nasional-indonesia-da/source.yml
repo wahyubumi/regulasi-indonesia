@@ -1,0 +1,24 @@
+id: permen-2023-121
+judul: Peraturan Menteri Nomor 121 Tahun 2023 tentang Pelaporan Pengelolaan Akumulasi
+  Iuran Pensiun Pegawai Negeri Sipil, Pejabat Negara, Prajurit Tentara Nasional Indonesia,
+  Dan Anggota Kepolisian Negara Republik Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

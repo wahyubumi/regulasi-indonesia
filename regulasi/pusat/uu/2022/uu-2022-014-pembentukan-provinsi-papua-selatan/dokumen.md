@@ -1,0 +1,1348 @@
+---
+id: "uu-2022-014"
+jenis: "uu"
+nomor: "14"
+tahun: 2022
+judul: "Undang-Undang Nomor 14 Tahun 2022 tentang Pembentukan Provinsi Papua Selatan"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Undang-Undang Nomor 14 Tahun 2022 tentang Pembentukan Provinsi Papua Selatan
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: uu
+nomor: 14
+tahun: 2022
+tentang: Pembentukan Provinsi Papua Selatan
+---
+
+<!-- PAGE: 1 -->
+
+                                     Pad
+                                     ik}                                  SALINAN
+                                     PRESIDEN
+                               REPUBLIK INDONESIA
+
+
+
+
+                  UNDANG-UNDANG              REPUBLIK INDONESIA
+                             NOMOR     14 TAHUN 2022
+                                      TENTANG
+                  PEMBENTUKAN         PROVINSI PAPUA SELATAN
+
+                  DENGAN     RAHMAT TUHAN YANG MAHA ESA
+
+
+                     PRESIDEN        REPUBLIK INDONESIA,
+
+
+     Menimbang       bahwa untuk mencapai cita-cita dan tujuan Negara
+                     Kesatuan    Republik    Indonesia     yaitu)§    membangun
+                     masyarakat Indonesia yang adil, makmur, dan sejahtera
+                     berdasarkan Pancasila dan Undang-Undang Dasar Negara
+                     Republik   Indonesia  Tahun      1945      perlu   dilakukan
+                     pemekaran       di wilayah Provinsi Papua;
+                     bahwa pemekaran wilayah di Provinsi Papua perlu
+                     memperhatikan    aspirasi masyarakat   Papua  untuk
+                     mempercepat pemerataan pembangunan, peningkatan
+                     pelayanan publik, dan kesejahteraan masyarakat serta
+                     mengangkat harkat dan martabat Orang Asli Papua,
+                     khususnya        di     Kabupaten      Merauke,       Kabupaten           Boven
+                     Digoel, Kabupaten Mappi, dan Kabupaten Asmat;
+                     bahwa ketentuan peraturan perundang-undangan yang
+                     ada belum optimal dalam mewujudkan masyarakat adil,
+                     makmur,         dan      sejahtera,     khususnya          di     Kabupaten
+                     Merauke, Kabupaten Boven Digoel, Kabupaten Mappi, dan
+                     Kabupaten Asmat;
+                     bahwa           berdasarkan            opertimbangan            sebagaimana
+                     dimaksud        dalam     huruf   a,   huruf    b,   dan   huruf     c,   perlu
+                     membentuk     Undang-Undang                    tentang          Pembentukan
+                     Provinsi Papua Selatan;
+
+     Mengingat       Pasal    18A,   Pasal    18B,   Pasal 20, Pasal 21, dan Pasal 22D
+                     ayat (2) Undang-Undang Dasar Negara Republik Indonesia
+                     Tahun 1945;
+
+
+                                                                     2. Undang-Undang...
+
+
+
+
+SK   No 146928A
+
+<!-- PAGE: 2 -->
+
+                                            PRESIDEN
+                                      REPLIBLIK INDONESIA
+
+                                                -2-
+
+                       2.   Undang-Undang Nomor 21 Tahun 2001 tentang Otonomi
+                            Khusus bagi Provinsi Papua (Lkembaran Negara Republik
+                            Indonesia Tahun 2001 Nomor 135, Tambahan Lembaran
+                            Negara Republik Indonesia Nomor 4151) sebagaimana
+                            telah   beberapa     kali       diubah   terakhir   dengan      Undang-
+                            Undang Nomor 2 Tahun 2021                 tentang Perubahan Kedua
+                            atas Undang-Undang Nomor                  21 Tahun 2001 tentang
+                            Otonomi    Khusus     bagi Provinsi Papua           (Lembaran    Negara
+                            Republik Indonesia Tahun 2021 Nomor 155, Tambahan
+                            Lembaran Negara Republik Indonesia Nomor 6697);
+
+
+                               Dengan Persetujuan Bersama
+                   DEWAN    PERWAKILAN     RAKYAT           REPUBLIK    INDONESIA
+                                                dan
+                             PRESIDEN     REPUBLIK           INDONESIA
+
+
+                                        MEMUTUSKAN:
+
+
+     Menetapkan        UNDANG-UNDANG             TENTANG             PEMBENTUKAN          PROVINSI
+                       PAPUA SELATAN.
+
+
+                                               BAB I
+                                      KETENTUAN             UMUM
+
+
+                                           Pasal        1
+                       Dalam Undang-Undang              ini yang dimaksud       dengan:
+                       1.   Pemerintah Pusat adalah Presiden Republik Indonesia
+                            yang    memegang    kekuasaan    pemerintahan     negara
+                            Republik Indonesia yang dibantu oleh Wakil Presiden dan
+                            menteri sebagaimana dimaksud dalam Undang-Undang
+                            Dasar Negara Republik Indonesia Tahun 1945.
+
+
+
+
+                                                                                2. Pemerintah...
+
+
+
+
+SK   No 146929 A
+
+<!-- PAGE: 3 -->
+
+                                   PRESIDEN
+                             REPUBLIK  INDONESIA
+
+                                       -3-
+
+                  Pemerintah      Daerah         Provinsi         Papua     Selatan       adalah
+                  Gubernur      sebagai        unsur     penyelenggara         pemerintahan
+                  daerah yang memimpin      urusan   pemerintahan yang
+                  menjadi kewenangan daerah Provinsi Papua Selatan.
+                  Pemerintah Daerah Kabupaten/Kota adalah Bupati/Wali
+                  Kota sebagai unsur penyelenggara pemerintahan daerah
+                  yang      memimpin      urusan         pemerintahan          yang     menjadi
+                  kewenangan daerah kabupaten/kota.
+                  Otonomi     Khusus adalah kewenangan                 khusus yang diakui
+                  dan    diberikan      kepada         Provinsi     Papua      dan_provinsi-
+                  provinsi yang berada di wilayah                 Papua untuk          mengatur
+                  dan    mengurus’   kepentingan                  masyarakat            setempat
+                  menurut prakarsa sendiri berdasarkan aspirasi dan hak
+                  dasar masyarakat     Papua    sesuai   dengan   ketentuan
+                  peraturan perundang-undangan.
+                  Dewan     Perwakilan   Rakyat     Papua    Selatan   yang
+                  selanjutnya disebut DPR Papua Selatan adalah lembaga
+                  perwakilan daerah provinsi yang berkedudukan sebagai
+                  salah satu unsur penyelenggara                    pemerintahan         daerah
+                  Provinsi Papua Selatan.
+                  Majelis     Rakyat     Papua         Provinsi     Papua      Selatan      yang
+                  selanjutnya disingkat MRP Provinsi Papua Selatan adalah
+                  representasi kultural Orang Asli Papua, yang memiliki
+                  wewenang tertentu dalam rangka                    pelindungan hak-hak
+                  Orang   Asli  Papua    dengan                     berlandaskan   pada
+                  penghormatan terhadap adat dan budaya, pemberdayaan
+                  perempuan, dan pemantapan kerukunan hidup beragama
+                  sebagaimana          diatur      dalam           peraturan          perundang-
+                  undangan.
+                  Provinsi     Papua      adalah       daerah       otonom      sebagaimana
+                  dimaksud dalam Undang-Undang Nomor 12 Tahun 1969
+                  tentang Pembentukan Propinsi Otonom Irian Barat dan
+                  Kabupaten-Kabupaten Otonom di Propinsi Irian Barat.
+                  Orang Asli Papua yang selanjutnya disingkat OAP adalah
+                  orang yang berasal dari rampun ras Melanesia yang terdiri
+                  atas   suku-suku      asli    di Provinsi        Papua    dan/atau       orang
+                  yang   diterima dan        diakui     sebagai     OAP     oleh Masyarakat
+                  Adat Papua.
+                                                                                      BABH...
+
+
+
+
+SK   No 146930A
+
+<!-- PAGE: 4 -->
+
+                                            PRESIDEN
+                                      REPUBLIK   INDONESIA
+
+                                              -4-
+
+                                            BAB     II
+                         PEMBENTUKAN,         CAKUPAN       WILAYAH,
+                              BATAS    DAERAH,      DAN   IBU KOTA
+
+
+                                         Bagian Kesatu
+                                         Pembentukan
+
+
+                                            Pasal 2
+                   Dengan Undang-Undang ini dibentuk Provinsi Papua Selatan
+                   yang   diberi Otonomi   Khusus dalam    kerangka  Negara
+                   Kesatuan Republik Indonesia.
+
+                                         Bagian Kedua
+                                       Cakupan Wilayah
+
+                                            Pasal 3
+
+                   (1)   Provinsi Papua Selatan berasal              dari   sebagian    wilayah
+                         Provinsi Papua yang terdiri dari:
+                         a.    Kabupaten Merauke;
+                         b.    Kabupaten Boven Digoel;
+                         c.    Kabupaten     Mappi; dan
+                         d.    Kabupaten Asmat.
+                   (2)   Cakupan wilayah sebagaimana dimaksud pada ayat (1)
+                         digambarkan dalam peta wilayah sebagaimana tercantum
+                         dalam    Lampiran   [I yang merupakan                 bagian     tidak
+                         terpisahkan dari Undang-Undang ini.
+
+                   (3)   Cakupan pulau di Provinsi             Papua Selatan tercantum
+                         dalam  Lampiran II yang               merupakan   bagian tidak
+                         terpisahkan dari Undang-Undang ini.
+
+
+
+
+                                                                            Bagian Ketiga..       .
+
+
+
+
+SK   No 146931 A
+
+<!-- PAGE: 5 -->
+
+                                          Fa
+                                        PRESIDEN
+                                  REPUBLIK   INDONESIA
+
+                                             -5-
+
+                                         Bagian Ketiga
+                                         Batas Daerah
+
+                                            Pasal 4
+
+                   (1)   Provinsi Papua Selatan mempunyai batas daerah:
+                         a.   sebelah utara berbatasan dengan Kabupaten Nduga,
+                              Kabupaten Yahukimo, dan Kabupaten Pegunungan
+                              Bintang;
+                         b.   sebelah     timur      berbatasan       dengan     Negara     Papua
+                              Nugini;
+                         c.   sebelah selatan berbatasan dengan Laut Arafura; dan
+                              sebelah barat berbatasan            dengan    Kabupaten      Mimika
+                              dan Laut Aru.
+
+                   (2)   Provinsi Papua Selatan memiliki kewenangan pengelolaan
+                         sumber daya alam di laut provinsi, dengan tata cara
+                         penarikan garis batas kewenangan pengelolaan sumber
+                         daya alam di laut provinsi sesuai dengan ketentuan
+                         peraturan perundang-undangan.
+
+                   (3)   Batas daerah       sebagaimana         dimaksud    pada ayat (1) dan
+                         batas kewenangan           pengelolaan     sumber daya alam di laut
+                         provinsi  sebagaimana   dimaksud   pada   ayat   (2)
+                         digambarkan dalam peta wilayah yang berkoordinat
+                         sebagaimana   tercantum  dalam   Lampiran   I yang
+                         merupakan         bagian     tidak      terpisahkan     dari     Undang-
+                         Undang ini.
+                   (4)   Penegasan       batas    daerah   Provinsi     Papua    Selatan    secara
+                         pasti di lapangan sebagaimana dimaksud pada ayat (3)
+                         ditetapkan dengan Peraturan Menteri Dalam Negeri.
+
+
+                                            Pasal 5
+
+                   (1)   Dengan          terbentuknya         —_ Provinsi      Papua       Selatan
+                         sebagaimana    dimaksud   dalam   Pasal 2, Pemerintah
+                         Provinsi Papua Selatan menetapkan Rencana Tata Ruang
+                         Wilayah Provinsi Papua Selatan sesuai dengan ketentuan
+                         peraturan perundang-undangan.
+
+
+
+
+                                                                            (2) Pengaturan...
+
+
+
+SK   No 146932 A
+
+<!-- PAGE: 6 -->
+
+                                        Fs
+                                          PRESIDEN
+                                    REPUBLIK   INDONESIA
+
+                                           -6-
+
+                       (2) Pengaturan Rencana Tata Ruang Wilayah Provinsi Papua
+                           Selatan sebagaimana dimaksud pada ayat (1) dilakukan
+                           sesuai dengan Rencana Tata Ruang Wilayah Nasional
+                           serta dilakukan dengan memperhatikan Rencana Tata
+                           Ruang Wilayah Provinsi di sekitarnya.
+                       (3)   Pemerintah kabupaten dalam cakupan wilayah Provinsi
+                             Papua Selatan wajib menyesuaikan Rencana Tata Ruang
+                             Wilayah dengan mengacu          Rencana   Tata Ruang         Wilayah
+                             Provinsi Papua Selatan.
+
+                                      Bagian Keempat
+                                         Ibu Kota
+
+                                          Pasal 6
+                       Ibu Kota Provinsi Papua Selatan berkedudukan di Kabupaten
+                       Merauke.
+
+                                          BAB III
+                             URUSAN   PEMERINTAHAN           DAERAH
+
+
+                                          Pasal 7
+                       Urusan     pemerintahan      daerah     yang    menjadi     kewenangan
+                       Provinsi Papua Selatan mencakup urusan                    sesuai   dengan
+                       ketentuan peraturan perundang-undangan.
+
+
+
+                                          BAB IV
+                                  PEMERINTAHAN       DAERAH
+
+                                       Bagian Kesatu
+                   Peresmian Daerah dan Pelantikan Penjabat Gubernur
+
+                                          Pasal 8
+                       Peresmian Provinsi Papua Selatan dan pelantikan Penjabat
+                       Gubernur dilakukan oleh Menteri Dalam Negeri atas nama
+                       Presiden paling lama 6 (enam) bulan terhitung sejak Undang-
+                       Undang ini diundangkan.
+
+                                                                           Bagian Kedua...
+
+
+
+SK   No 146933 A
+
+<!-- PAGE: 7 -->
+
+                                         PRESIDEN
+                                   REPUBLIK  !NDONESIA
+
+                                          -7-
+
+                                     Bagian Kedua
+                                   Pemerintah Daerah
+
+                                        Pasal 9
+                  (1)   Gubernur dan Wakil Gubernur pertama kali dipilih dan
+                        disahkan   melalui tahapan pemilihan kepala daerah
+                        serentak sesuai dengan ketentuan peraturan perundang-
+                        undangan.
+                  (2)   Sebelum   Gubernur   dan   Wakil  Gubernur    definitif
+                        sebagaimana dimaksud pada ayat (1) dilantik, Presiden
+                        mengangkat Penjabat Gubernur dari pegawai negeri sipil
+                        yang   menduduki          jabatan     pimpinan          tinggi      madya
+                        berdasarkan usul Menteri Dalam                Negeri    dengan       masa
+                        jabatan paling lama 1 (satu) tahun.
+                        Jika Gubernur dan Wakil Gubernur definitif belum
+                        dilantik dalam jangka waktu sebagaimana dimaksud pada
+                        ayat (2), Presiden dapat mengangkat kembali Penjabat
+                        Gubernur untuk 1 (satu) kali masa jabatan berikutnya
+                        paling lama 1 (satu) tahun atau menggantinya dengan
+                        penjabat lainnya sesuai dengan ketentuan peraturan
+                        perundang-undangan.
+                  (4)   Apabila Gubernur dan Wakil Gubernur definitif belum
+                        dilantik dalam jangka waktu sebagaimana dimaksud pada
+                        ayat (3), Presiden dapat mengangkat kembali Penjabat
+                        Gubernur      sampai      dilantiknya        Gubernur       dan      Wakil
+                        Gubernur definitif.
+                  (5)   Penjabat Gubernur sebagaimana dimaksud pada ayat (2)
+                        memiliki kewajiban dalam penyelenggaraan pemerintahan
+                        daerah, pembentukan perangkat daerah dan pengisian
+                        perangkat   daerah,   memfasilitasi    pembentukan   MRP
+                        Provinsi Papua Selatan, fasilitasi pemilihan Gubernur dan
+                        Wakil Gubernur dan DPR Papua Selatan pertama kali
+                        serta tugas lainnya sesuai          dengan    ketentuan          peraturan
+                        perundang-undangan.
+
+                  (6)   Menteri    Dalam    Negeri             melakukan        pembinaan,
+                        pengawasan, evaluasi, dan             fasilitasi terhadap kinerja
+                        Penjabat     Gubernur      dalam      melaksanakan           kewajiban
+                        sebagaimana dimaksud pada ayat (5).
+
+
+                                                                                  Pasal     lO...
+
+
+
+
+SK   No 146934A
+
+<!-- PAGE: 8 -->
+
+                                              cal
+                                          ros@
+                                          EY §
+
+
+                                              %
+                                         PRESIDEN
+                                   REPUBLIK  INDONESIA
+
+                                                      -8-
+
+                                              Pasal         10
+                   Pendanaan pertama kali pelaksanaan fasilitasi pemilihan
+                   Gubernur dan Wakil Gubernur Papua Selatan sebagaimana
+                   dimaksud dalam Pasal 9 ayat (1) bersumber dari Anggaran
+                   Pendapatan           dan           Belanja       Negara       dan     dapat       didukung
+                   Anggaran Pendapatan dan Belanja Daerah Provinsi Papua
+                   sesuai dengan ketentuan peraturan perundang-undangan.
+
+                                              Pasal         11
+                   (1) Untuk menyelenggarakan pemerintahan di Provinsi Papua
+                       Selatan  dibentuk  perangkat  daerah   yang    meliputi
+                         sekretariat       daerah,               sekretariat      DPR      Papua      Selatan,
+                         sekretariat MRP Provinsi Papua Selatan, dinas daerah,
+                         badan daerah serta unsur perangkat daerah lainnya
+                         dengan mempertimbangkan kekhususan, kebutuhan, dan
+                         kemampuan keuangan daerah sesuai dengan ketentuan
+                         peraturan perundang-undangan.
+                   (2)   Perangkat daerah sebagaimana dimaksud pada                                   ayat (1)
+                         wajib dibentuk oleh Penjabat Gubernur Papua                                  Selatan
+                         paling lama              3    (tiga)      bulan       terhitung     sejak     tanggal
+                         pelantikan.
+
+                                        Bagian Ketiga
+                                    DPR Papua Selatan
+
+                                              Pasal         12
+                   (1)   DPR Papua Selatan terdiri atas anggota yang:
+                         a.   dipilih     dalam              pemilihan         umum        sesuai      dengan
+                              ketentuan peraturan perundang-undangan; dan
+                         b.   diangkat        dari      unsur        OAP   sesuai       dengan      ketentuan
+                              peraturan perundang-undangan.
+                   (2) Anggota DPR Papua Selatan sebagaimana dimaksud pada
+                       ayat   (1) huruf  a   untuk  pertama  kali ditetapkan
+                       berdasarkan hasil pemilihan umum tahun 2024.
+
+
+                                                                                         (3) Penetapan...
+
+
+
+
+SK   No 146935 A
+
+<!-- PAGE: 9 -->
+
+                                           PRESIDEN
+                                     REPUBLIK  INDONESIA
+
+                                                -9-
+
+                     (3)   Penetapan hasil seleksi anggota DPR Papua Selatan yang
+                           diangkat sebagaimana dimaksud pada ayat (1) huruf b
+                           paling lambat 3 (tiga) bulan sebelum Komisi Pemilihan
+                           Umum menetapkan anggota DPR Papua Selatan yang
+                           terpilih melalui pemilihan umum.
+
+
+                                               BAB V
+                            MRP      PROVINSI     PAPUA      SELATAN
+
+                                              Pasal   13
+                     Penjabat Gubernur Papua Selatan untuk pertama kalinya
+                     mempersiapkan    dan  bertanggung jawab  memfasilitasi
+                     pembentukan MRP Provinsi Papua Selatan sesuai dengan
+                     ketentuan peraturan perundang-undangan.
+
+
+
+
+                                              BAB VI
+                  APARATUR     SIPIL NEGARA,          ASET,      DAN    DOKUMEN
+
+
+                                              Pasal   14
+
+                     (1)   Gubernur      Papua        bersama       Penjabat      Gubernur    Papua
+                           Selatan      mengatur           dan      melaksanakan       manajemen
+                           aparatur sipil negara, penyerahan aset serta dokumen
+                           kepada Pemerintah Provinsi Papua Selatan sesuai dengan
+                           ketentuan peraturan perundang-undangan.
+
+                     (2)   Bupati Merauke, Bupati Boven Digoel, Bupati Mappi, dan
+                           Bupati Asmat bersama Penjabat Gubernur Papua Selatan
+                           mengatur     dan     melaksanakan           manajemen     aparatur   sipil
+                           negara,      penyerahan           aset      serta   dokumen       kepada
+                           Pemerintah         Provinsi      Papua       Selatan    sesuai    dengan
+                           ketentuan peraturan perundang-undangan.
+
+                     (3)   Manajemen aparatur sipil negara sebagaimana dimaksud
+                           pada ayat (1) dan ayat (2) dilakukan paling lama 6 (enam)
+                           bulan terhitung sejak pelantikan Penjabat Gubernur.
+
+
+
+                                                                                   (4) Aparatur...
+
+
+
+
+SK   No 146936A
+
+<!-- PAGE: 10 -->
+
+                                      %
+                                       PRESIDEN
+                                 REPUBLIK  INDONESIA
+
+                                            -10-
+
+                  (4)   Aparatur    sipil negara     sebagaimana    dimaksud     pada
+                        ayat (1) dan ayat (2) diprioritaskan pegawai negeri sipil dan
+                        pegawai pemerintah dengan perjanjian kerja OAP yang
+                        karena tugas dan kemampuannya diperlukan untuk
+                        mendukung        penyelenggaraan    pemerintahan     Provinsi
+                        Papua Selatan.
+                  (5)   Penyerahan aset dan dokumen sebagaimana dimaksud
+                        pada ayat (1) dan ayat (2) dilakukan paling lama 3 (tiga)
+                        tahun terhitung sejak pelantikan Penjabat Gubernur.
+                  (6)   Manajemen     aparatur sipil negara sebagaimana          dimaksud
+                        pada ayat     (3) serta penyerahan     aset dan           dokumen
+                        sebagaimana dimaksud pada ayat (5) kepada Pemerintah
+                        Provinsi Papua Selatan difasilitasi dan dikoordinasikan
+                        oleh Menteri Dalam Negeri.
+                        Gaji dan tunjangan pegawai negeri sipil dan pegawai
+                        pemerintah     dengan   perjanjian  kerja   sebagaimana
+                        dimaksud pada ayat (4) selama belum ditetapkannya
+                        Anggaran Pendapatan dan Belanja Daerah Provinsi Papua
+                        Selatan dibebankan pada anggaran pendapatan dan
+                        belanja dari asal satuan kerja yang bersangkutan sesuai
+                        dengan ketentuan peraturan perundang-undangan.
+                        Aset dan dokumen sebagaimana dimaksud pada ayat (1)
+                        dan ayat (2) meliputi:
+                        a.   barang milik daerah Provinsi Papua yang bergerak dan
+                             tidak  bergerak    dan/atau   yang   dikuasai   atau
+                             dimanfaatkan oleh Pemerintah Provinsi Papua Selatan
+                             yang berada dalam wilayah Provinsi Papua Selatan;
+                        b.   barang milik daerah Kabupaten Merauke, Kabupaten
+                             Boven Digoel, Kabupaten Mappi, dan Kabupaten
+                             Asmat   yang    bergerak   dan   tidak   bergerak   yang   telah
+                             diserahkan    dan   dimanfaatkan   oleh  Pemerintah
+                             Provinsi Papua Selatan;
+                        c.   badan usaha milik daerah Provinsi Papua yang
+                             kedudukan, kegiatan, dan lokasinya berada di Provinsi
+                             Papua Selatan;
+                        d.   utang piutang Provinsi Papua yang kegunaannya
+                             untuk Provinsi Papua Selatan; dan
+
+
+
+                                                                           e. dokumen...
+
+
+
+
+SK   No 146937A
+
+<!-- PAGE: 11 -->
+
+                                          PRESIDEN
+                                    REPUBLIK   INDONESIA
+
+                                              -ll-
+
+
+                         e.   dokumen       dan     arsip yang   karena     sifatnya   diperlukan
+                             oleh Provinsi Papua Selatan.
+                   (9)   Dalam hal penyerahan aset dan dokumen sebagaimana
+                         dimaksud pada ayat (8) tidak dilaksanakan atau belum
+                         selesai dilaksanakan    oleh Gubernur   Papua,  Bupati
+                         Merauke, Bupati Boven Digoel, Bupati Mappi, dan Bupati
+                         Asmat berdasarkan batas waktu sebagaimana dimaksud
+                         pada ayat (5), Menteri Dalam Negeri wajib menyelesaikan
+                         penyerahan aset dan dokumen.
+
+
+                                            BAB VII
+                  ALOKASI     TRANSFER        KE DAERAH          DAN   HIBAH
+
+                                            Pasal    15
+                   (1)   Provinsi    Papua        Selatan     berhak      mendapatkan        alokasi
+                         transfer ke daerah berdasarkan kemampuan                      keuangan
+                         negara   dan  dilaksanakan  sesuai dengan                     ketentuan
+                         peraturan perundang-undangan.
+                   (2)   Pembagian     penerimaan     khusus’      dalam _ rangka
+                         pelaksanaan Otonomi Khusus kepada Provinsi Papua
+                         Selatan   dan kabupaten    di Provinsi     Papua   Selatan
+                         dilakukan    sesuai   dengan       ketentuan     peraturan
+                         perundang-undangan.
+
+                                            Pasal    16
+                   (1)   Pemerintah     Kabupaten           Merauke,   Pemerintah      Kabupaten
+                         Boven      Digoel,       Pemerintah       Kabupaten        Mappi,      dan
+                         Pemerintah      Kabupaten Asmat sesuai dengan besaran
+                         kebutuhan       dan kesanggupannya   dapat memberikan
+                         hibah      untuk      menunjang         kegiatan      penyelenggaraan
+                         pemerintahan Provinsi Papua Selatan.
+                   (2)   Pemerintah Provinsi Papua dapat memberikan                           hibah
+                         untuk         menunjang               kegiatan        penyelenggaraan
+                         pemerintahan sesuai kebutuhan Provinsi Papua Selatan.
+                   (3)   Pemberian     hibah   oleh = pemerintah     kabupaten
+                         sebagaimana dimaksud pada ayat (1) dan hibah oleh
+                         Pemerintah Provinsi Papua sebagaimana dimaksud pada
+                         ayat (2) dilaksanakan terhitung sejak pelantikan Penjabat
+                         Gubernur Papua Selatan.
+
+
+                                                                                (4) Penjabat...
+
+
+
+SK   No 146938A
+
+<!-- PAGE: 12 -->
+
+                                             gf
+
+                                          PRESIDEN
+                                    REPUBLIK  !NDONESIA
+
+                                               -12-
+
+                   (4)   Penjabat Gubernur Papua Selatan menyampaikan laporan
+                         pertanggungjawaban realisasi penggunaan dana hibah
+                         sebagaimana dimaksud pada ayat (1) dan ayat (2) kepada
+                         pemberi hibah dengan tembusan Menteri Dalam Negeri
+                         dan        menteri           yang             menyelenggarakan             urusan
+                         pemerintahan di bidang keuangan negara.
+
+                                             Pasal       17
+                   Penjabat Gubernur            Papua           Selatan berkewajiban        melakukan
+                   pengelolaan        keuangan                daerah     sesuai   dengan       ketentuan
+                   peraturan perundang-undangan.
+
+
+                                             BAB VIII
+                  PEMBINAAN,         PENGAWASAN,                 DAN     EVALUASI
+
+                                             Pasal       18
+
+                   (1)   Untuk      mengefektifkan               penyelenggaraan         pemerintahan
+                         daerah, Pemerintah Pusat melakukan pembinaan dan
+                         fasilitasi terhadap Provinsi Papua Selatan dalam waktu
+                         3 (tiga) tahun sejak diresmikan.
+                         Menteri      Dalam          Negeri       melakukan          pengawasan        dan
+                         evaluasi     terhadap           pelaksanaan         kewajiban      Pemerintah
+                         Provinsi     Papua,         Pemerintah           Provinsi    Papua       Selatan,
+                         Pemerintah      Kabupaten              Merauke,     Pemerintah       Kabupaten
+                         Boven      Digoel,       Pemerintah              Kabupaten        Mappi,      dan
+                         Pemerintah Kabupaten Asmat sebagaimana diatur dalam
+                         Undang-Undang            ini.
+                   (3)   Menteri Dalam Negeri dalam melakukan                         pengawasan       dan
+                         evaluasi    sebagaimana   dimaksud    pada      ayat (2)
+                         berkoordinasi dengan kementerian teknis terkait.
+                   (4)   Menteri Dalam Negeri menyampaikan        perkembangan
+                         pembinaan       dan      fasilitasi       sebagaimana        dimaksud        pada
+                         ayat    (1) serta    perkembangan               pengawasan      dan      evaluasi
+                         sebagaimana dimaksud pada                         ayat (2) kepada          Dewan
+                         Perwakilan Rakyat  Republik                        Indonesia  dan          Dewan
+                         Perwakilan Daerah Republik Indonesia.
+
+
+                                                                                            BAB      IX...
+
+
+
+
+SK   No 146939A
+
+<!-- PAGE: 13 -->
+
+                                         PRESIDEN
+                                   REPUBLIK  INDONESIA
+
+                                            -13-
+
+                                            BAB   IX
+                                 KETENTUAN        PERALIHAN
+
+
+                                          Pasal    19
+                   (1)   Sebelum terbentuknya DPR Papua Selatan untuk pertama
+                         kali,   Penjabat     Gubernur          Papua         Selatan         menyusun
+                         Rancangan   Peraturan   Gubernur   tentang  Anggaran
+                         Pendapatan dan Belanja Daerah Provinsi Papua Selatan
+                         untuk tahun anggaran berikutnya.
+                   (2) Ketentuan mengenai tata cara pembentukan                           dan jumlah
+                         anggota    MRP      Provinsi      Papua      Selatan         untuk     pertama
+                         kalinya   diatur  dengan    Peraturan  Gubernur                              yang
+                         ditetapkan oleh Penjabat Gubernur Papua Selatan.
+                   (3)   Rancangan          Peraturan         Gubernur            Papua _       Selatan
+                         sebagaimana        dimaksud         pada      ayat     (1)    dan     ayat     (2)
+                         ditetapkan   setelah mendapat              persetujuan        Menteri Dalam
+                         Negeri.
+                   (4) Penetapan    Peraturan     Gubernur     Papua _ Selatan
+                       sebagaimana dimaksud     pada ayat (1) dan ayat (2)
+                       dilaksanakan   sesuai  dengan     ketentuan    peraturan
+                       perundang-undangan.
+
+
+                                          Pasal 20
+                   Ketentuan        mengenai            pengisian      jumlah          kursi     Dewan
+                   Perwakilan Rakyat          Republik Indonesia, Dewan Perwakilan
+                   Daerah    Republik         Indonesia,  DPR    Papua Selatan dan
+                   penetapan    daerah    pemilihan  pada   pemilihan umum
+                   tahun 2024 sebagai akibat dibentuknya Provinsi Papua
+                   Selatan diatur lebih lanjut dalam undang-undang mengenai
+                   pemilihan umum.
+
+
+
+
+                                                                                         Pasal         21...
+
+
+
+
+SK   No 146963 A
+
+<!-- PAGE: 14 -->
+
+                                         @
+                                    REPUBLIK
+                                             al
+                                          PRESIDEN
+                                               INDONESIA
+
+                                              -14-
+
+                                             Pasal 21
+
+                   (1)   Ketentuan mengenai penataan aparatur sipil negara di
+                         Provinsi Papua Selatan diatur dengan Peraturan Menteri
+                         yang menyelenggarakan urusan pemerintahan di bidang
+                         aparatur negara dengan       ketentuan    khusus  sebagai
+                         bentuk afirmasi.
+                   (2)   Pengisian aparatur sipil negara di Provinsi Papua Selatan
+                         untuk    pertama   kalinya    dapat    dilakukan  dengan
+                         penerimaan:
+                         a. calon pegawai negeri sipil OAP yang berusia paling
+                                tinggi 48 (empat puluh delapan) tahun;
+                         b.     pegawai honorer OAP yang terdaftar kategori II di
+                                Badan Kepegawaian Negara menjadi calon pegawai
+                                negeri sipil yang berusia paling tinggi 50 (lima puluh)
+                                tahun; dan
+                         Cc.    pegawai pemerintah dengan perjanjian kerja.
+
+
+                                              BAB X
+                                  KETENTUAN          PENUTUP
+
+                                             Pasal 22
+
+                   (1)   Peraturan       pelaksanaan               Undang-Undang              ini     harus
+                         ditetapkan      paling      lama      2    (dua)    tahun     terhitung       sejak
+                         Undang-Undang ini diundangkan.
+                   (2)   Peraturan pelaksanaan sebagaimana                           dimaksud          pada
+                         ayat     (1) juga    terdiri   dari       jenis    dan    hierarki    peraturan
+                         perundang-undangan             yang        berlaku       sebagaimana         dalam
+                         Otonomi Khusus.
+
+
+                                             Pasal 23
+                   Undang-Undang               ini      mulai_         berlaku         pada          tanggal
+                   diundangkan.
+
+
+
+                                                                                                    Agar...
+
+
+
+
+SK   No 146941 A
+
+<!-- PAGE: 15 -->
+
+                                         &®
+                                          PRESIDEN
+                                    REPUBLIK   INDONESIA
+
+                                            -15-
+
+                       Agar   setiap  orang   mengetahuinya,     memerintahkan
+                       pengundangan Undang-Undang ini dengan penempatannya
+                       dalam Lembaran Negara Republik Indonesia.
+
+
+
+
+                                                   Disahkan di Jakarta
+                                                   pada tanggal 25 Juli 2022
+                                                   PRESIDEN    REPUBLIK INDONESIA,
+
+                                                                     ttd.
+
+                                                              JOKO WIDODO
+
+
+     Diundangkan di Jakarta
+     pada tanggal 25 Juli 2022
+     MENTERI SEKRETARIS NEGARA
+         REPUBLIK INDONESIA,
+
+
+
+                  PRATIKNO
+
+
+     LEMBARAN      NEGARA    REPUBLIK    INDONESIA   TAHUN    2022   NOMOR     157
+
+
+
+
+          Salinan sesuai dengan aslinya
+      KEMENTERIAN SEKRETARIAT NEGARA
+              REPUBLIK       INDONESIA
+      Deputi Bidang Perundang-undangan dan
+
+
+
+
+SK   No 146824A
+
+<!-- PAGE: 16 -->
+
+                                             PRESIDEN
+                                       REPUBLIK   INDONESIA
+
+
+
+
+                                            PENJELASAN
+                                               ATAS
+                          UNDANG-UNDANG         REPUBLIK     INDONESIA
+                                    NOMOR     14 TAHUN    2022
+                                             TENTANG
+                         PEMBENTUKAN         PROVINSI    PAPUA SELATAN
+
+     I.   UMUM
+               Dalam rangka mewujudkan cita-cita dan tujuan Negara Kesatuan
+          Republik Indonesia antara lain yaitu melindungi segenap bangsa Indonesia
+          dan seluruh tumpah darah Indonesia dan untuk memajukan kesejahteraan
+          umum, mencerdaskan kehidupan bangsa serta membangun masyarakat
+          Indonesia yang adil, makmur, dan sejahtera berdasarkan Pancasila dan
+          Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 pertu
+          dilakukan pembentukan daerah baru.
+               Pembentukan    daerah   baru   di wilayah    Papua   tersebut   perlu
+          memperhatikan    aspirasi   masyarakat     Papua    untuk    mempercepat
+          pemerataan    pembangunan,      peningkatan    pelayanan     publik,   dan
+          kesejahteraan masyarakat serta mengangkat harkat dan martabat OAP,
+          khususnya di Kabupaten Merauke, Kabupaten Boven Digoel, Kabupaten
+          Mappi, dan Kabupaten Asmat.
+              Pengaturan mengenai Provinsi Papua Selatan perlu diatur dalam
+          undang-undang tersendiri untuk mendorong perkembangan dan kemajuan
+          di Provinsi   Papua   Selatan,   khususnya    di Kabupaten   Merauke,   Kabupaten
+          Boven Digoel, Kabupaten Mappi, dan Kabupaten Asmat. Selain itu adanya
+          aspirasi yang berkembang dalam masyarakat di wilayah pedalaman,
+          dipandang     perlu@  meningkatkan   penyelenggaraan    pemerintahan,
+          pembangunan dan pelayanan publik guna mempercepat terwujudnya
+          kesejahteraan masyarakat. Schubungan dengan adanya pemekaran provinsi
+          di Provinsi Papua Selatan serta memperhatikan kondisi wilayah yang secara
+          geografis berada di wilayah pedalaman dan terisolir, dengan kemampuan
+          ekonomi, potensi daerah, sosial budaya, politik, jumlah penduduk, luas
+          daerah, faktor pertahanan dan keamanan serta pertimbangan lainnya di
+          Kabupaten Merauke, Kabupaten Boven Digoel, Kabupaten Mappi, dan
+          Kabupaten Asmat serta meningkatnya beban tugas dan volume kerja di
+          bidang pemerintahan, pembangunan, dan kemasyarakatan di Provinsi
+          Papua Selatan, perlu ada penyesuaian wilayah yang masih termasuk dalam
+          Provinsi Papua. Oleh karena itu, perlu disusun pembentukan daerah baru
+          melalui Undang-Undang tentang Pembentukan Provinsi Papua Selatan.
+
+                                                                          Pembentukan...
+
+
+
+SK   No 146949A
+
+<!-- PAGE: 17 -->
+
+                                                     a
+
+
+                                                  PRESIDEN
+                                            REPUBLIK  INDONESIA
+
+                                                          -2-
+
+                   Pembentukan daerah baru merupakan salah satu materi penting dalam
+           Undang-Undang           Nomor     2 Tahun        2021       tentang    Perubahan    Kedua      atas
+           Undang-Undang           Nomor     21    Tahun        2001    tentang    Otonomi    Khusus      bagi
+           Provinsi Papua. Dalam Undang-Undang tersebut, pembentukan daerah baru
+           dapat dilakukan        oleh Pemerintah         atau Dewan        Perwakilan   Rakyat Republik
+           Indonesia tanpa melalui daerah persiapan                      sebagaimana     diatur umumnya
+           dalam peraturan perundang-undangan.
+                   Pembentukan         Provinsi Papua Selatan sebagai salah satu upaya dalam
+           menata daerah merupakan                solusi dalam rangka mengoptimalkan pelayanan
+           publik karena dapat memperpendek rentang kendali (span of control)
+           pemerintahan, sehingga lebih efisien dan efektif sejalan dengan prinsip tata
+           kelola       pemerintahan      yang     baik    (good       governance)   guna     mempercepat
+           terwujudnya kesejahteraan masyarakat, memperkuat daya                              saing daerah
+           dan memperkokoh keutuhan Negara Kesatuan Republik                                  Indonesia di
+           wilayah perbatasan dengan negara lain/negara tetangga.
+                Dalam melaksanakan otonomi daerah, Provinsi Papua Selatan perlu
+           melakukan berbagai upaya peningkatan kemampuan ekonomi, penyiapan
+           sarana dan prasarana pemerintahan, pemberdayaan, dan peningkatan
+           sumber daya manusia serta pengelolaan sumber daya alam sesuai dengan
+           ketentuan peraturan perundang-undangan.
+
+
+     I].   PASAL        DEMI   PASAL
+
+           Pasal    1
+                    Cukup jelas.
+
+           Pasal 2
+                    Cukup jelas.
+
+           Pasal 3
+                    Cukup jelas.
+
+           Pasal 4
+                    Ayat (1)
+                           Cukup jelas.
+                    Ayat (2)
+                           Cukup jelas.
+
+
+                                                                                               Ayat (3)    ...
+
+
+
+
+SK   No 146950A
+
+<!-- PAGE: 18 -->
+
+                                            @cal
+                                              PRESIDEN
+                                        REPUBLIK  INDONESIA
+
+                                                 -3-
+
+                Ayat (3)
+                      Yang dimaksud dengan “peta wilayah” adalah peta yang disusun
+                      dengan   kaidah    informasi     geospasial     yang     benar,    yang    memuat
+                      unsur informasi geospasial,        batas daerah,         dan unsur lain yang
+                      dibutuhkan     yang   dihasilkan       dari proses yang        akuntabel     secara
+                      spasial.
+                Ayat (4)
+                      Cukup jelas.
+
+         Pasal 5
+                Cukup jelas.
+
+         Pasal 6
+                Cukup jelas.
+
+         Pasal 7
+                Yang dimaksud dengan “cakupan urusan sesuai dengan ketentuan
+                peraturan perundang-undangan” adalah sebagaimana diatur di dalam
+                undang-undang mengenai           Otonomi        Khusus       Papua      dan     peraturan
+                pelaksanaannya.
+
+        Pasal 8
+                Cukup jelas.
+
+        Pasal 9
+                Cukup jelas.
+
+        Pasal   10
+                Cukup jelas.
+
+        Pasal   11
+                Ayat (1)
+                     Pembentukan perangkat daerah diprioritaskan pada urusan
+                     pemerintahan wajib yang berkaitan dengan pelayanan dasar dan
+                     urusan    pemerintahan          wajib     yang    tidak     berkaitan        dengan
+                     pelayanan dasar.
+
+
+                                                                                              Ayat (2)...
+
+
+SK   No 146965 A
+
+<!-- PAGE: 19 -->
+
+                                           ge
+
+                                           PRESIDEN
+                                     REPUBLIK  ![NDONESIA
+
+                                             -4-
+
+                 Ayat (2)
+                      Cukup jelas.
+
+         Pasal   12
+                 Cukup jelas.
+
+         Pasal   13
+                 Cukup jelas.
+
+         Pasal   14
+                 Ayat (1)
+                      Yang   dimaksud    dengan    “manajemen   aparatur   sipil    negara”
+                      antara lain penugasan, pengalihan, mutasi, dan/atau rekrutmen
+                      serta pengawasan   sistem merit.
+                 Ayat (2)
+                      Cukup jelas.
+                 Ayat (3)
+                      Cukup jelas.
+                 Ayat (4)
+                      Pegawai negeri sipil dan pegawai pemerintah dengan perjanjian
+                      kerja OAP paling banyak 80%     (delapan puluh persen).
+                 Ayat (5)
+                      Cukup jelas.
+                 Ayat (6}
+                      Cukup jelas.
+                 Ayat (7)
+                      Cukup jelas.
+                 Ayat (8)
+                      Cukup jelas.
+                 Ayat (9)
+                      Cukup jelas.
+
+
+
+                                                                            Pasal    15...
+
+
+
+
+SK   No 146952 A
+
+<!-- PAGE: 20 -->
+
+                                            PRESIDEN
+                                      REPUBLIK  t[NDONESIA
+
+                                              -5-
+
+         Pasal   15
+                 Cukup jelas.
+
+         Pasal 16
+                 Ayat (1)
+                       Kesanggupan   memberikan       hibah   dinyatakan   dengan   nota
+                       kesepakatan hibah.
+                 Ayat (2)
+                       Cukup jelas.
+                 Ayat (3)
+                       Cukup jelas.
+                 Ayat (4)
+                       Cukup jelas.
+
+         Pasal 17
+                 Cukup jelas.
+
+         Pasal   18
+                 Cukup jelas.
+
+         Pasal   19
+                 Cukup jelas.
+
+         Pasal 20
+                 Cukup jelas.
+
+         Pasal 21
+                 Cukup jelas.
+
+         Pasal 22
+                 Cukup jelas.
+
+         Pasal 23
+                 Cukup jelas.
+
+
+     TAMBAHAN         LEMBARAN   NEGARA    REPUBLIK    INDONESIA   NOMOR    6803
+
+
+
+
+SK   No 146953 A
+
+<!-- PAGE: 21 -->
+
+                                                                                                                            PRESIDEN
+                                                                                                                      REPUBLIK INDONESIA
+                                                                                                                                            i)
+                                                                                                                                                                                                    LAMPIRAN I
+                                                                                                                                                                                                    UNDANG-UNDANG REPUBLIK INDONESIA
+                                                                                                                                                                                                    NOMOR 14 TAHUN 2022
+                                                                                                                                                                                                    TENTANG
+                                                                                                                                                                                                    PEMBENTUKAN PROVINSI PAPUA SELATAN
+                                                                                             PETA WILAYAH                                      PROVINSI PAPUA SELATAN
+                                       136°15'0"E                                                    138°0'25"E                                                                  139°45'50"E                                                               141°31'15"E
+                                                     EVAR                                                7.
+       ree.                       pias =
+                                            |                                                                           —o                 KAB. ms
+                                                                                                                                                                                                                | PROVINSI PAPUA
+                                                                                                                                                                                                                |
+
+
+                                                                      KAB. MIMIKA                                                                                      KAB. YAHUKIMG                                .
+                                                                                                                                                                                                                | KAB. PEGUNUNGAN BINTANG
+                                                                       ——
+
+                                                                                    Ax
+
+”                                                                                                                                                                                                                                                                                                                            ”
+=}                                                                                                                                                                                                                                                                                                                           fo}
++                                                                                                                                                                                                                                                                                                                            x
+—                                                                                                                                                                                                                                                                                                                            -
+                                                                                                                                                                                                                                                                                                                             N
+3N                                                                                                                                                                                                                                                                                                                           3
+                                                                                                                                                                                                                                                                                                                         it)
+w
+
+
+
+
+                                                                                                                                                                                                                                                                                 —
+
+                                                                                                                                                                                                                                                                                 =
+
+
+
+
+”                                                                                                                                                                                                                                                                                x                                           n
+                                                                                                                                                                                                                                                                                                                         Led
+™                                                                                                                                                                                                                                                                                                                            -
+KR                                              Laut                    Aru                                                                                                                                                                                                                                                  4
+
+
+
+
+)                                                                                                                                                                                                                                                                                                                             ”
+i)                                                                                                                                           Laut        Arafura                                                                                                                     —                          —
+                                                                                                                                                                                                                                                                                                                    A         8s
+                                                                                                                                                                                                                                                                                                                              =
+                                                                                                                                                                                                                                                                           —     —          —
+=
+                                                                                                                                                                                                                                                                                                >,         ra                 N
+N                                                                                                                                                                                                                                                                                                     7                       =
+i                                                                                                                                                                                                                                                                                                                             Py
+°                                                                                                                                                                                                                                                                                                                            fo>)
+for)
+                                       436"15:0°E                                                     138°0'25"E                                                                   139°45'50"E                                                                  147°3T   1S°E
+                                                                                               KETERANGAN                    :                  Batas deus                            Perairan                          Relief              REFERENSI:
+                                                 L                                                                                   m=                      tas Negara                                                    =
+                                                                                                     e               65              a                    Batas Provins!                     rs         Garis Panta        =”      Ronis    1.        Undang-undang No. 12 Tahun 1969 tentang Pembentukan Propinsi
+       SP ECIME                         N                                                            ®               Puncis Provine:                      Sins Keen                                     Dansu                                         Otonom Irian Barat dan Kabupaten-Kabupaten Otonom di Propinsi
+                                                                                                Suatbistieinisard                                                                            >                                                        Irian Barat
+                                                                                                   :         2                   ,                                          pe Deva                                                         2.        Undang-undang No. 26 Tahun 2002 tentang Pembentukan
+                                                                                                                     Loe il                                                                                                                           Kabupaten Sarmi, Kabupaten Keerom, Kabupaten Sorong Selatan,
+                      .       “   SKALA              1:5.400. —                     vs                                           Mpetion                                                                                                              Kabupaten Raja Ampat, Kabupaten Pegunungan Bintang,
+                     =            ee            La                                  a.                                                                   2b                    [I            kee. rsp                                                 Kabupaten Yahukimo, Kabupaten Tolikara, Kabupaten Waropen,
+                                                                                         "                                                        |     bee         casas      |             cass naa                                                 Kabupaten Kaimana, Kabupaten Boven Digoel, Kabupaten Mappi,
+                                                                                                                                                         ceieieciaieie a                      ————                                                    Kabupaten Asmat, Kabupaten Teluk Bintuni, dan Kabupaten Teluk
+               Proyeksi                         Yieccaibc                                       SUMBER DATA:                                                                                                                                          Wondama di Provinsi Papua
+               Sistem Grid                      : Graticule (Geografis)                         Peta Rupabumi Indonesia skala 1:50.000 terbitan Badan Informasi Geospasial, Peta Wilayah                                                    :         Cee             Ne ri cell ab pas rhe Stiabcakdnd ad pase
+                                                                                                Administrasi Provinsi Papua Selatan skala 1:850.000 serta hasil kompilasi dari berbagai                                                          2,    OCANGSUUCaNg        NOE   a              wie       IF            an
+               Datum Horisontal                       GS   -84
+                                                                                                sumber data kewilayahan melalui proses generalisasi                                                                                                   ied                No. 21 Tahun 2001 tentang Otonomi Khusus bagi
+                                                                                                                                                                                                                                                        ‘Ovil     i]
+
+                                                                                                                                                                                                                                            5.        Peraturan Menteri Dalam Negeri No. 141 Tahun 2017 tentang
+PROVINSI PAPUA SELATAN                                                                                                                                                                                                                                Penegasan Batas Daerah
+       A. KABUPATEN                 MERAUKE                      B. KABUPATEN BOVENDIGOEL                           C. KABUPATEN             MAPPI                              D. KABUPATEN ASMAT
+                 DISTRIK           MERAUKE                                DISTRIK MANDOBO                                   DISTRIK         OBAA                                        DISTRIK AGATS
+                                                                                                                       oe
+
+
+
+
+                                                                                                                            DISTRIK         MAMBIOMAN BAPAI                             DISTRIK ATSJ
+                                                                                                                                                                                CONDASON>
+
+
+
+
+                 DISTRIK           MUTING
+                                                                        ho
+
+
+
+
+                                                                          DISTRIK MINDIPTANA
+           CANAAEONS
+
+
+
+
+                                                                                                                       OTe ON
+
+
+
+
+                 DISTRIK           OKABA                                  DISTRIK WAROPKO                                   DISTRIK         CITAK-MITAK                                 DISTRIK SAWA ERMA
+                 DISTRIK           KIMAAM                                 DISTRIK KOUH                                      DISTRIK         EDERA                                       DISTRIK AKAT
+                 DISTRIK           SEMANGGA                               DISTRIK JAIR                                      DISTRIK         HAJU                                        DISTRIK FAYIT
+                 DISTRIK           TANAH MIRING                           DISTRIK BOMAKIA                                   DISTRIK         ASSUE                                       DISTRIK PANTAI KASUARI
+                                                                        DONO
+
+
+
+
+                                                                                                                       $O 00) ND
+
+
+
+
+                 DISTRIK           JAGEBOB                                DISTRIK KOMBUT                                    DISTRIK         KAIBAR                                      DISTRIK SUATOR
+                 DISTRIK           SOTA                                   DISTRIK INIYANDIT                                 DISTRIK         PASSUE                                      DISTRIK SURU-SURU
+                 DISTRIK           ULILIN                                 DISTRIK ARIMOP                                    DISTRIK         MINYAMUR                                    DISTRIK KOLF BRAZA
+                 DISTRIK           ELIKOBAL                           . DISTRIK FOF!                                        DISTRIK         VENAHA                                  . DISTRIK UNIR SIRAU
+                                                                                                                                                                              = erred
+                                                                                                                                                                              = ON=90
+                      ee eg
+
+
+
+
+                                                                                                                         . DISTRIK          SYAHCAME                               . DISTRIK JOERAT
+                                                                                                                      ARON=S
+
+
+
+
+            . DISTRIK              KURIK
+       NA DOCANDARWNARO
+
+
+
+
+                                                                  §) ox ea as
+                                                                   SOANANBWON=?90
+
+
+
+
+                                                                      . DISTRIK AMBATKWI
+             . DISTRIK             NAUKENJERAI                         . DISTRIK MANGGELUM                                . DISTRIK         YAKOMI                                   . DISTRIK PULAU TIGA
+              . DISTRIK            ANIMHA                                 DISTRIK FIRIWAGE                                . DISTRIK         BAMGI                                    . DISTRIK JETSY
+              . DISTRIK            MALIND                              . DISTRIK YANIRUMA                                   DISTRIK         PASSUE BAWAH                                DISTRIK DER KOUMUR
+              . DISTRIK            TUBANG                              . DISTRIK SUBUR                                      DISTRIK         TI ZAIN                                  . DISTRIK KOPAY
+       PT he ee ae ee
+
+
+
+
+                                                                                                                                                                              PNNNSBsBaAaa
+                                                                                                                                                                              ONASGaNDHR
+
+
+
+
+              . DISTRIK            NGGUTI                              . DISTRIK KOMBAY                                                                                              . DISTRIK SAFAN
+              . DISTRIK            KAPTEL                              . DISTRIK NINATI                                                                                              . DISTRIK SIRETS
+              . DISTRIK            TABONJI                             . DISTRIK SESNUK                                                                                                 DISTRIK AYIP
+                 DISTRIK           WAAN                                . DISTRIK KI                                                                                                  . DISTRIK BETCBAMU
+               . DISTRIK           ILWAYAB                              . DISTRIK KAWAGIT                                                                                             . DISTRIK JOUTU
+               . DISTRIK           PADUA                                                                                                                                              . DISTRIK ASWI
+               . DISTRIK           KONTUAR                                                                                                                                            . DISTRIK AWYU
+                                                                                                                                                                                      . DISTRIK KOROWAY BULUANOP
+
+
+
+                                                                                                                                                                                                                                 PRESIDEN                              REPUBLIK INDONESIA,
+
+                                                                                                                                                                                                                                                                           ttd.
+
+                                                                                                                                                                                                                                                           JOKO WIDODO
+
+<!-- PAGE: 22 -->
+
+                                            PRESIDEN
+                                      REPUBLIK  INDONESIA
+
+                                       LAMPIRAN I
+                                       UNDANG-UNDANG REPUBLIK INDONESIA
+                                       NOMOR 14 TAHUN 2022
+                                       TENTANG
+                                       PEMBENTUKAN PROVINSI PAPUA SELATAN
+
+                                 DAFTAR PULAU DAN KOORDINAT
+
+
+      NO.           NAMA PULAU                           KOORDINAT
+
+               Kabupaten Asmat
+
+               Pulau Binar                    05°12'30.66" LS 137°31'00.95" BT
+
+               Pulau Fumirpits                05°12'43.07" LS 137°31'18.41" BT
+      AL e]S
+
+
+
+
+               Pulau Laag                     05°20'41.94" LS 137°44'15.83" BT
+
+               Pulau Somerwoo                 05°11'07.00" LS 137°30'18.00" BT
+
+               Kabupaten Merauke
+
+               Pulau Habe                     08°14'31.99"   LS 139°26'31.99" BT
+
+               Pulau Kolepom                  07°S3'44.99" LS 138°21'51.00" BT
+
+               Pulau Komolom                  08°16'41.44" LS 138°44'46.22" BT
+
+
+
+                                                  PRESIDEN    REPUBLIK    INDONESIA,
+
+                                                                   ttd.
+
+                                                             JOKO WIDODO
+           Salinan sesuai dengan aslinya
+       KEMENTERIAN SEKRETARIAT NEGARA
+               REPUBLIK INDONESIA
+
+
+
+
+SK   No 146746A

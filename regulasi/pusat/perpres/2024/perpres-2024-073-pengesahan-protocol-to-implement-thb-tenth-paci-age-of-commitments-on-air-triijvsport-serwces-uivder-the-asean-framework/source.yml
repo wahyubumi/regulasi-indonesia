@@ -1,0 +1,25 @@
+id: perpres-2024-073
+judul: Peraturan Presiden Nomor 73 Tahun 2024 tentang Pengesahan Protocol To Implement
+  Thb Tenth Paci<Age Of Commitments On Air Triijvsport Serwces Uivder The Asean Framework
+  Agreement O/V Serwces (Protokol Untuk Melaksanakan Paket Kesepuluh Komitmen Jasa
+  Angkutan Udara Dalam Persetujuan Kerangka Kerja Asean Di Bidang Jasa)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,26 @@
+id: pp-1968-004
+judul: Peraturan Pemerintah Nomor 4 Tahun 1968 tentang Perobahan Dan Penambahan Atas
+  Peraturan Pemerintah No 12 Tahun 1967 (Lembaran Negara Tahun 1967 No. 24, Tambahan
+  Lembaran Negara No. 2833) Tentang Peraturan Gaji Pegawai Negeri Sipil Republik Indonesia
+  Tahun 1968 (P.G.P.S. 1968) Sebagaimana Telah Dirobah Dan Ditambah Dengan Peraturan
+  Pemerintah No.1 Tahun 1968 (Lembaran Negara Tahun 1968 No. 5)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

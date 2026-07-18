@@ -1,0 +1,23 @@
+id: perpres-2009-035
+judul: Peraturan Presiden Nomor 35 Tahun 2009 tentang Honorarium Bagi Anggota Dewan
+  Pengarah Lembaga Ketahanan Nasional Republik Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

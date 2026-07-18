@@ -1,0 +1,24 @@
+id: perpres-2018-046
+judul: Peraturan Presiden Nomor 46 Tahun 2018 tentang PENGESAHAN PROTOCOL RELATING
+  TO AN AMENDMENT TO THE CONVENTION ON INTERNATIONAL CIVIL AVIATION [ARTICLE 50 (a)]
+  (PROTOKOL TERKAIT AMENDEMEN KONVENSI PENERBANGAN SIPIL INTERNASIONAL [PASAL 50 (a)])
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

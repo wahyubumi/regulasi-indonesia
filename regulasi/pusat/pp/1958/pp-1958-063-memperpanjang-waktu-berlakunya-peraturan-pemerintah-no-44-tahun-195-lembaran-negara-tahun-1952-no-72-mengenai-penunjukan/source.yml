@@ -1,0 +1,25 @@
+id: pp-1958-063
+judul: Peraturan Pemerintah Nomor 63 Tahun 1958 tentang Memperpanjang Waktu Berlakunya
+  Peraturan Pemerintah No. 44 Tahun 195 (Lembaran-Negara Tahun 1952 No. 72) Mengenai
+  Penunjukan Daerah Indonesia, Dimana Uang Asing Dapat Diterima Sebagai Alat Pembayaran
+  Yang Sah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

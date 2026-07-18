@@ -1,0 +1,24 @@
+id: pp-2000-071
+judul: Peraturan Pemerintah Nomor 71 Tahun 2000 tentang Tata Cara Pelaksanaan Peran
+  Serta Masyarakat Dan Pemberian Penghargaan Dalam Pencegahan Dan Pemberantasan Tindak
+  Pidana Korupsi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

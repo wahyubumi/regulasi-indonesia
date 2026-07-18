@@ -1,0 +1,24 @@
+id: pp-2000-114
+judul: Peraturan Pemerintah Nomor 114 Tahun 2000 tentang Pencabutan Peraturan Pemerintah
+  No. 33 Tahun 1997 Tentang Pembagian Hasil Penerimaan Bea Perolehan Hak Atas Tanah
+  Dan Bangunan Antara Pemerintah Pusat Dan Daerah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

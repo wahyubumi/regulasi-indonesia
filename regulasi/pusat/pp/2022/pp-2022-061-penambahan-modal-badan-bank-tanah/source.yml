@@ -1,0 +1,23 @@
+id: pp-2022-061
+judul: Peraturan Pemerintah Nomor 61 Tahun 2022 tentang Penambahan Modal Badan Bank
+  Tanah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,23 @@
+id: permen-2024-041
+judul: Peraturan Menteri Nomor 41 Tahun 2024 tentang Standar Industri Hijau Untuk
+  Industri Baja Batangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://gatrik.esdm.go.id/frontend
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

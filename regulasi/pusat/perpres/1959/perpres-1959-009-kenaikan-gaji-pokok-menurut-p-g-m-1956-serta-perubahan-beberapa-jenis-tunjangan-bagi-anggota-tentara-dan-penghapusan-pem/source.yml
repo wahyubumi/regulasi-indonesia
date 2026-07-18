@@ -1,0 +1,27 @@
+id: perpres-1959-009
+judul: Peraturan Presiden Nomor 9 Tahun 1959 tentang Kenaikan Gaji Pokok Menurut P.G.M.
+  1956 Serta Perubahan Beberapa Jenis Tunjangan Bagi Anggota Tentara Dan Penghapusan
+  Pemberian Tambahan Penghasilan C.Q. Hak Kesejahteraan Kepada Tenaga Ahli Kesehatan
+  Didalam Lingkungan Angkatan Perang Dan Pemberian Tambahan Penghasilan Kepada Bekas
+  Anggota Tentara Dan Janda Dan/Atau Anak Yatim-Piatunya Yang Menerima Pensiun Dan/Atau
+  Tunjangan Yang Bersifat Pensiun
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

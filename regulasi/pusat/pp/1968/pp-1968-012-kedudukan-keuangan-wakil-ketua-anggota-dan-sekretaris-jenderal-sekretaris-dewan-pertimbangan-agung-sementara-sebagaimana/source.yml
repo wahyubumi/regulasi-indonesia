@@ -1,0 +1,26 @@
+id: pp-1968-012
+judul: Peraturan Pemerintah Nomor 12 Tahun 1968 tentang Kedudukan Keuangan Wakil Ketua,
+  Anggota Dan Sekretaris Jenderal/Sekretaris Dewan Pertimbangan Agung Sementara Sebagaimana
+  Diatur Dalam Peraturan Pemerintah Nomor 211 Tahun 1961 Dan Yang Telah Diubah Dan
+  Ditambah Terakhir Dengan Peraturan Pemerintah Nomor 20 Tahun 1967 (Ln. Tahun 1967
+  Nomor 32, T.L.N. No. 2840)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

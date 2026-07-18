@@ -1,0 +1,26 @@
+id: perpres-2019-076
+judul: Peraturan Presiden Nomor 76 Tahun 2019 tentang PENGESAHAN PERSETUJUAN ANTARA
+  REPUBLIK INDONESIA DAN REPUBLIK TAJIKISTAN MENGENAI PENGHINDARAN PAJAK BERGANDA
+  DAN PENCEGAHAN PENGELAKAN PAJAK ATAS PENGHASILAN (AGREEMENT BETWEEN THE, REPUBLIC
+  OF INDONESIA AND THE REPUBLIC OF TAJIKISNAJV FOR THE AVOIDANCE OF DOUBLE TAruTION
+  AND THE PREVENTION OF F/SCA L EVASION WITH RESPECI TO TAXES OIV INCOME)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

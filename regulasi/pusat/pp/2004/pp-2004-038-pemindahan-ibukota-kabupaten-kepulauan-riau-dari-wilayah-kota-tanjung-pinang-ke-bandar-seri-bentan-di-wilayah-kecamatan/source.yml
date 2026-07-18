@@ -1,0 +1,24 @@
+id: pp-2004-038
+judul: Peraturan Pemerintah Nomor 38 Tahun 2004 tentang Pemindahan Ibukota Kabupaten
+  Kepulauan Riau Dari Wilayah Kota Tanjung Pinang Ke Bandar Seri Bentan Di Wilayah
+  Kecamatan Teluk Bintan Kabupaten Kepulauan Riau
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

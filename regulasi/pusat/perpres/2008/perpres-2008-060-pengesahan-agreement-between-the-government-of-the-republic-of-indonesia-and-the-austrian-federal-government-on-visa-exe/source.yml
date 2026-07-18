@@ -1,0 +1,26 @@
+id: perpres-2008-060
+judul: Peraturan Presiden Nomor 60 Tahun 2008 tentang Pengesahan Agreement Between
+  The Government Of The Republic Of Indonesia And The Austrian Federal Government
+  On Visa Exemption For Holders Of Diplomatic And Service Passports (Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Pemerintah Federal Austria Mengenai Pembebasan
+  Visa Bagi Pemegang Paspor Diplomatik Dan Dinas)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

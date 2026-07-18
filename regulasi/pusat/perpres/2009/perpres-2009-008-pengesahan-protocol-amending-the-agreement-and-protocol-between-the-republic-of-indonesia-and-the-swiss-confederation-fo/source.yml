@@ -1,0 +1,26 @@
+id: perpres-2009-008
+judul: Peraturan Presiden Nomor 8 Tahun 2009 tentang Pengesahan Protocol Amending
+  The Agreement And Protocol Between The Republic Of Indonesia And The Swiss Confederation
+  For The Avoidance Of Double Taxation With Respect To Taxes On Income (Protokol Perubahan
+  Persetujuan Dan Protokol Antara Republik Indonesia Dan Konfederasi Swiss Mengenai
+  Penghindaran Pajak Berganda Yang Berhubungan Dengan Pajak-Pajak Atas Penghasilan)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

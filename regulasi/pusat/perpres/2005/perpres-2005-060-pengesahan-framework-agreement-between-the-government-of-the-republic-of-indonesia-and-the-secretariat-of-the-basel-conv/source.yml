@@ -1,0 +1,29 @@
+id: perpres-2005-060
+judul: Peraturan Presiden Nomor 60 Tahun 2005 tentang Pengesahan Framework Agreement
+  Between The Government Of The Republic Of Indonesia And The Secretariat Of The Basel
+  Convention On The Control Of Transboundary Movements Of Hazardous Wastes And Their
+  Disposal On The Establishment Of A Basel Convention Regional Centre For Training
+  And Technology Transfer For Southeast Asia (Persetujuan Kerangka Kerja Antara Pemerintah
+  Republik Indonesia Dan Sekretariat Konvensi Basel Mengenai Pengawasan Perpin- Dahan
+  Lintas Batas Limbah Bahan Berbahaya Dan Beracun Serta Pembuangannya Tentang Pembentukan
+  Pusat Regional Konvensi Basel Untuk Pelatihan Dan Alih Teknologi Bagi Asia Tenggara)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: perpres-2013-047
+judul: Peraturan Presiden Nomor 47 Tahun 2013 tentang Pengesahan Protocol To Implement
+  The Fifth Package Of Commitments On Financial Services Under The Asean Framework
+  Agreement On Services (Protokol Untuk Melaksanakan Paket Komitmen Kelima Di Bidang
+  Jasa Keuangan Dalam Persetujuan Kerangka Kerja Asean Di Bidang Jasa)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

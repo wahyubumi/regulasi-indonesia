@@ -1,0 +1,592 @@
+---
+id: "pp-2020-008"
+jenis: "pp"
+nomor: "8"
+tahun: 2020
+judul: "Peraturan Pemerintah Nomor 8 Tahun 2020 tentang Perubahan Atas Peraturan Pemerintah Nomor 26 Tahun 2015 Tentang Bentuk Dan Mekanisme Pendanaan Perguruan Tinggi Negeri Badan Hukum"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Pemerintah Nomor 8 Tahun 2020 tentang Perubahan Atas Peraturan Pemerintah Nomor 26 Tahun 2015 Tentang Bentuk Dan Mekanisme Pendanaan Perguruan Tinggi Negeri Badan Hukum
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: pp
+nomor: 8
+tahun: 2020
+tentang: Perubahan Atas Peraturan Pemerintah Nomor 26 Tahun 2015 Tentang Bentuk Dan Mekanisme Pendanaan Perguruan Tinggi Negeri Badan Hukum
+---
+
+<!-- PAGE: 1 -->
+
+               LEMBARAN NEGARA
+              REPUBLIK INDONESIA
+No.28, 2020             PENDIDIKAN. Perguruan Tinggi Negeri. Pendanaan.
+                        Perubahan. (Penjelasan dalam Tambahan Lembaran
+                        Negara Republik Indonesia Nomor 6460)
+
+              PERATURAN PEMERINTAH REPUBLIK INDONESIA
+                           NOMOR 8 TAHUN 2020
+                                    TENTANG
+ PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 26 TAHUN 2015
+ TENTANG BENTUK DAN MEKANISME PENDANAAN PERGURUAN TINGGI
+                          NEGERI BADAN HUKUM
+
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+                      PRESIDEN REPUBLIK INDONESIA,
+
+
+
+
+Menimbang      : a.   bahwa bentuk dan mekanisme pendanaan perguruan
+                      tinggi   negeri     badan     hukum   yang    diatur   dalam
+                      Peraturan Pemerintah Nomor 26 Tahun 2015 tentang
+                      Bentuk dan Mekanisme Pendanaan Perguruan Tinggi
+                      Negeri       Badan         Hukum   belum      mengakomodir
+                      keberadaan Perguruan Tinggi Negeri Badan Hukum di
+                      bawah kementerian yang menyelenggarakan urusan
+                      pemerintahan di bidang agama;
+                 b.   bahwa        berdasarkan      pertimbangan     sebagaimana
+                      dimaksud dalam huruf a, perlu menetapkan Peraturan
+                      Pemerintah        tentang     Perubahan     atas   Peraturan
+                      Pemerintah Nomor 26 Tahun 2015 tentang Bentuk
+                      dan Mekanisme Pendanaan Perguruan Tinggi Negeri
+                      Badan Hukum;
+
+
+Mengingat      : 1.   Pasal    5   ayat    (2)    Undang-Undang    Dasar     Negara
+                      Republik Indonesia Tahun 1945;
+
+
+
+                                                                www.peraturan.go.id
+
+<!-- PAGE: 2 -->
+
+2020, No.28                         -2-
+
+
+               2.   Undang-Undang         Nomor    12     Tahun     2012    tentang
+                    Pendidikan     Tinggi    (Lembaran        Negara       Republik
+                    Indonesia     Tahun     2012      Nomor     158,    Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 5336);
+               3.   Peraturan Pemerintah Nomor 26 Tahun 2015 tentang
+                    Bentuk dan Mekanisme Pendanaan Perguruan Tinggi
+                    Negeri Badan Hukum (Lembaran Negara Republik
+                    Indonesia     Tahun     2015      Nomor     110,    Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 5699);
+
+
+                            MEMUTUSKAN:
+Menetapkan    : PERATURAN PEMERINTAH TENTANG PERUBAHAN ATAS
+               PERATURAN        PEMERINTAH        NOMOR       26    TAHUN     2015
+               TENTANG     BENTUK         DAN      MEKANISME           PENDANAAN
+               PERGURUAN TINGGI NEGERI BADAN HUKUM.
+
+
+                                            Pasal I
+               Beberapa ketentuan dalam Peraturan Pemerintah Nomor
+               26 Tahun 2015 tentang Bentuk dan Mekanisme Pendanaan
+               Perguruan Tinggi Negeri Badan Hukum (Lembaran Negara
+               Republik Indonesia Tahun 2015 Nomor 110, Tambahan
+               Lembaran Negara Republik Indonesia Nomor 5699), diubah
+               sebagai berikut:
+
+
+               1.   Ketentuan ayat (1) Pasal 4 diubah, sehingga berbunyi
+                    sebagai berikut:
+
+
+                                                Pasal 4
+                    (1) Bantuan        Pendanaan        PTN     Badan       Hukum
+                        sebagaimana dimaksud dalam Pasal 3 huruf a,
+                        dialokasikan dalam anggaran pendapatan dan
+                        belanja    negara    setiap     tahun      anggaran   pada
+                        kementerian        yang    menyelenggarakan           tugas
+                        pemerintahan di bidang Pendidikan Tinggi dan
+                        kementerian       yang     menyelenggarakan         urusan
+                        pemerintahan di bidang agama.
+                    (2) Bantuan Pendanaan PTN Badan Hukum yang
+
+
+
+                                                              www.peraturan.go.id
+
+<!-- PAGE: 3 -->
+
+                                                   2020, No.28
+                   -3-
+
+
+         dialokasikan    dari    anggaran    pendapatan    dan
+         belanja negara sebagaimana dimaksud pada ayat
+         (1) merupakan bagian dari 20% (dua puluh
+         persen) alokasi anggaran fungsi pendidikan.
+     (3) Bantuan    Pendanaan         PTN     Badan    Hukum
+         sebagaimana dimaksud pada ayat (1) merupakan
+         penerimaan PTN Badan Hukum yang dikelola
+         secara otonom dan bukan merupakan penerimaan
+         negara bukan pajak.
+
+
+2.   Ketentuan ayat (1) dan ayat (3) Pasal 8 diubah,
+     sehingga berbunyi sebagai berikut:
+
+
+                                Pasal 8
+     (1) Standar satuan biaya operasional PTN Badan
+         Hukum ditetapkan oleh Menteri atau menteri yang
+         menyelenggarakan        urusan     pemerintahan     di
+         bidang    agama         secara     periodik   dengan
+         mempertimbangkan:
+         a.   capaian Standar Nasional Pendidikan Tinggi;
+         b.   jenis program studi; dan
+         c.   indeks kemahalan wilayah.
+     (2) Besaran biaya operasional PTN Badan Hukum
+         sebagaimana dimaksud dalam Pasal 5 huruf a
+         diberikan berdasarkan:
+         a.   perhitungan         standar     satuan      biaya
+              operasional PTN Badan Hukum;
+         b.   penerimaan PTN Badan Hukum; dan
+         c.   efisiensi dan mutu Perguruan Tinggi.
+     (3) Ketentuan mengenai tata cara penetapan standar
+         satuan biaya operasional PTN Badan Hukum
+         diatur dengan Peraturan Menteri atau peraturan
+         menteri    yang        menyelenggarakan       urusan
+         pemerintahan di bidang agama.
+
+
+
+
+                                            www.peraturan.go.id
+
+<!-- PAGE: 4 -->
+
+2020, No.28                          -4-
+
+
+              3.   Ketentuan ayat (1) dan ayat (2) Pasal 9 diubah,
+                   sehingga berbunyi sebagai berikut:
+
+
+                                               Pasal 9
+                   (1)   PTN    Badan      Hukum     menetapkan       tarif    biaya
+                         pendidikan        berdasarkan       pedoman          teknis
+                         penetapan tarif yang ditetapkan oleh Menteri atau
+                         menteri      yang      menyelenggarakan              urusan
+                         pemerintahan di bidang agama.
+                   (2)   Dalam     menetapkan        tarif   biaya    pendidikan
+                         sebagaimana dimaksud pada ayat (1), PTN Badan
+                         Hukum wajib berkonsultasi dengan Menteri atau
+                         menteri      yang      menyelenggarakan              urusan
+                         pemerintahan di bidang agama.
+                   (3)   Tarif biaya pendidikan sebagaimana dimaksud
+                         pada       ayat       (1)       ditetapkan           dengan
+                         mempertimbangkan kemampuan ekonomi:
+                         a.     mahasiswa;
+                         b.     orang tua mahasiswa; atau
+                         c.     pihak lain yang membiayai mahasiswa.
+
+
+              4.   Ketentuan ayat (4) Pasal 11 diubah, sehingga berbunyi
+                   sebagai berikut:
+
+
+                                              Pasal 11
+                   (1)   Pendanaan PTN Badan Hukum yang bersumber
+                         dari selain anggaran pendapatan dan belanja
+                         negara sebagaimana dimaksud dalam Pasal 2
+                         huruf b bersumber dari:
+                         a.     masyarakat;
+                         b.     biaya pendidikan;
+                         c.     pengelolaan dana abadi;
+                         d.     usaha PTN Badan Hukum;
+                         e.     kerja sama tridharma Perguruan Tinggi;
+                         f.     pengelolaan kekayaan PTN Badan Hukum;
+                         g.     anggaran pendapatan dan belanja daerah;
+                                dan/atau
+
+
+
+                                                             www.peraturan.go.id
+
+<!-- PAGE: 5 -->
+
+                                                       2020, No.28
+                       -5-
+
+
+           h.     pinjaman.
+     (2)   Usaha PTN Badan Hukum sebagaimana dimaksud
+           pada    ayat    (1)   huruf   d   merupakan     layanan
+           penunjang tridharma Perguruan Tinggi.
+     (3)   Sumber         Pendanaan      PTN     Badan     Hukum
+           sebagaimana dimaksud pada ayat (1) merupakan
+           penerimaan PTN Badan Hukum yang dikelola
+           secara otonom dan bukan merupakan penerimaan
+           negara bukan pajak.
+     (4)   Ketentuan       mengenai      pinjaman      sebagaimana
+           dimaksud pada ayat (1) huruf h diatur dengan
+           Peraturan Menteri atau peraturan menteri yang
+           menyelenggarakan         urusan      pemerintahan     di
+           bidang agama.
+
+
+5.   Ketentuan ayat (1), ayat (3), dan ayat (4) Pasal 16
+     diubah, sehingga berbunyi sebagai berikut:
+
+
+                                  Pasal 16
+     (1) PTN Badan Hukum menyampaikan usulan alokasi
+           Bantuan Pendanaan PTN Badan Hukum kepada
+           Menteri atau menteri yang menyelenggarakan
+           urusan pemerintahan di bidang agama sesuai
+           dengan jadwal dan tahapan penyusunan anggaran
+           pendapatan dan belanja negara.
+     (2) Usulan alokasi Bantuan Pendanaan PTN Badan
+           Hukum sebagaimana dimaksud pada ayat (1)
+           paling sedikit memuat:
+           a.   target kinerja;
+           b.   kebutuhan biaya operasional, biaya dosen,
+                biaya tenaga kependidikan, biaya investasi,
+                dan biaya pengembangan; dan
+           c.   perhitungan        satuan      biaya    operasional
+                Perguruan Tinggi dan rencana penerimaan
+                PTN Badan Hukum.
+     (3) Menteri atau menteri yang menyelenggarakan
+           urusan pemerintahan di bidang agama bersama
+
+
+
+                                                www.peraturan.go.id
+
+<!-- PAGE: 6 -->
+
+2020, No.28                         -6-
+
+
+                         PTN Badan Hukum membahas usulan alokasi
+                         Bantuan Pendanaan PTN Badan Hukum yang
+                         akan diberikan kepada PTN Badan Hukum.
+                   (4) Berdasarkan        hasil    pembahasan       sebagaimana
+                         dimaksud pada ayat (3), Menteri atau menteri
+                         yang menyelenggarakan urusan pemerintahan di
+                         bidang agama menyetujui besaran usulan alokasi
+                         Bantuan Pendanaan PTN Badan Hukum untuk
+                         diajukan kepada menteri yang menyelenggarakan
+                         urusan pemerintahan di bidang keuangan.
+                   (5) Pengajuan       besaran        usulan   alokasi   Bantuan
+                         Pendanaan     PTN      Badan      Hukum    sebagaimana
+                         dimaksud pada ayat (4) dilaksanakan sesuai
+                         dengan jadwal dan tahapan penyusunan anggaran
+                         pendapatan dan belanja negara.
+
+
+              6.   Ketentuan ayat (3) Pasal 17 diubah, sehingga berbunyi
+                   sebagai berikut:
+
+
+                                                Pasal 17
+                   (1)   PTN Badan Hukum menyusun rencana kerja dan
+                         anggaran     dengan      memuat       besaran   Bantuan
+                         Pendanaan PTN Badan Hukum sesuai dengan
+                         alokasi dalam anggaran pendapatan dan belanja
+                         negara, anggaran pendapatan dan belanja daerah,
+                         dan sumber pendanaan lainnya.
+                   (2)   Rencana kerja dan anggaran PTN Badan Hukum
+                         sebagaimana dimaksud pada ayat (1) ditetapkan
+                         majelis wali amanat setelah pengesahan anggaran
+                         pendapatan       dan     belanja      negara    dan/atau
+                         anggaran pendapatan dan belanja daerah.
+                   (3)   Rencana kerja dan anggaran beserta dokumen
+                         pendukung lainnya digunakan untuk menyusun
+                         kontrak    kinerja     PTN    Badan    Hukum     dengan
+                         Menteri atau menteri yang menyelenggarakan
+                         urusan pemerintahan di bidang agama.
+
+
+
+
+                                                               www.peraturan.go.id
+
+<!-- PAGE: 7 -->
+
+                                                       2020, No.28
+                     -7-
+
+
+     (4)   Ketentuan lebih lanjut mengenai penyusunan
+           rencana kerja dan anggaran beserta dokumen
+           pendukung lainnya ditetapkan oleh PTN Badan
+           Hukum.
+
+
+7.   Ketentuan ayat (5) Pasal 19 diubah, sehingga berbunyi
+     sebagai berikut:
+
+
+                                 Pasal 19
+     (1)   Semua aset yang diperoleh PTN Badan Hukum
+           harus dicatat dalam daftar inventaris barang PTN
+           Badan Hukum.
+     (2)   Aset negara yang dipisahkan dikelola PTN Badan
+           Hukum secara tertib dan akuntabel sesuai dengan
+           prinsip pengelolaan aset yang sehat.
+     (3)   Aset berupa tanah yang berada dalam penguasaan
+           PTN Badan Hukum yang diperoleh dari anggaran
+           pendapatan      dan    belanja   negara     merupakan
+           barang milik negara.
+     (4)   Tanah sebagaimana dimaksud pada ayat (3) harus
+           ditetapkan status penggunaannya oleh menteri
+           yang menyelenggarakan urusan pemerintahan di
+           bidang keuangan.
+     (5)   Tanah sebagaimana dimaksud pada ayat (3)
+           ditatausahakan dalam daftar barang milik negara
+           oleh Menteri atau menteri yang menyelenggarakan
+           urusan pemerintahan di bidang agama.
+     (6)   Hasil pengelolaan aset sebagaimana dimaksud
+           pada ayat (2) merupakan sumber pendapatan PTN
+           Badan Hukum.
+     (7)   Ketentuan mengenai tata cara pengelolaan aset
+           sebagaimana     dimaksud     pada    ayat    (2)   diatur
+           dengan peraturan masing-masing pimpinan PTN
+           Badan Hukum.
+
+
+
+
+                                               www.peraturan.go.id
+
+<!-- PAGE: 8 -->
+
+2020, No.28                           -8-
+
+
+              8.   Ketentuan ayat (1) dan ayat (5) Pasal 20 diubah,
+                   sehingga berbunyi sebagai berikut:
+
+
+                                                Pasal 20
+                   (1)   Pemimpin PTN Badan Hukum menyusun laporan
+                         kinerja dan laporan keuangan PTN Badan Hukum
+                         pada setiap tahun anggaran untuk disampaikan
+                         kepada majelis wali amanat, Menteri atau menteri
+                         yang menyelenggarakan urusan pemerintahan di
+                         bidang        agama,         dan        menteri        yang
+                         menyelenggarakan         urusan        pemerintahan       di
+                         bidang keuangan.
+                   (2)   Laporan kinerja PTN Badan Hukum disusun
+                         secara sistematis, akurat, dan akuntabel.
+                   (3)   Laporan keuangan PTN Badan Hukum disusun
+                         berdasarkan        prinsip   akuntansi     yang      berlaku
+                         umum      sesuai       dengan      standar     akuntansi
+                         keuangan yang ditetapkan oleh Ikatan Akuntan
+                         Indonesia.
+                   (4)   Laporan keuangan sebagaimana dimaksud pada
+                         ayat (3) terdiri atas:
+                         a.   laporan posisi keuangan (neraca);
+                         b.   laporan aktivitas;
+                         c.   laporan arus kas; dan
+                         d.   catatan atas laporan keuangan.
+                   (5)   Ketentuan lebih lanjut mengenai laporan kinerja
+                         sebagaimana        dimaksud     pada    ayat   (2)    diatur
+                         dengan Peraturan Menteri atau peraturan menteri
+                         yang menyelenggarakan urusan pemerintahan di
+                         bidang agama.
+
+
+                                              Pasal II
+              Peraturan Pemerintah ini mulai berlaku pada tanggal
+              diundangkan.
+
+
+
+
+                                                                www.peraturan.go.id
+
+<!-- PAGE: 9 -->
+
+                                                                2020, No.28
+                                 -9-
+
+
+               Agar   setiap   orang     mengetahuinya,      memerintahkan
+               pengundangan     Peraturan      Pemerintah      ini    dengan
+               penempatannya     dalam      Lembaran      Negara     Republik
+               Indonesia.
+
+
+
+
+                                       Ditetapkan di Jakarta
+                                       pada tanggal 24 Januari 2020
+
+
+                                       PRESIDEN REPUBLIK INDONESIA,
+
+
+                                                    ttd
+
+
+                                             JOKO WIDODO
+
+
+Diundangkan di Jakarta
+pada tanggal 27 Januari 2020
+
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+        ttd
+
+
+YASONNA H. LAOLY
+
+
+
+
+                                                          www.peraturan.go.id
+
+<!-- PAGE: 10 -->
+
+                 TAMBAHAN
+            LEMBARAN NEGARA R.I
+No.6460                       PENDIDIKAN. Perguruan Tinggi Negeri. Pendanaan.
+                              Perubahan. (Penjelasan atas Lembaran Negara
+                              Republik Indonesia Tahun 2020 Nomor 28)
+
+                                       PENJELASAN
+                                          ATAS
+                 PERATURAN PEMERINTAH REPUBLIK INDONESIA
+                                 NOMOR 8 TAHUN 2020
+                                        TENTANG
+      PERUBAHAN ATAS PERATURAN PEMERINTAH NOMOR 26 TAHUN 2015
+      TENTANG BENTUK DAN MEKANISME PENDANAAN PERGURUAN TINGGI
+                                NEGERI BADAN HUKUM
+
+I.     UMUM
+            Amanat ketentuan Pasal 89 ayat (3) Undang-Undang Nomor 12
+       Tahun     2012    tentang    Pendidikan   Tinggi   telah   menegaskan         bahwa
+       ketentuan mengenai bentuk dan mekanisme pendanaan pada PTN Badan
+       Hukum      diatur      dengan    Peraturan   Pemerintah,         sehingga     untuk
+       melaksanakan amanat tersebut telah ditetapkan Peraturan Pemerintah
+       Nomor 26 Tahun 2015 tentang Bentuk dan Mekanisme Pendanaan
+       Perguruan Tinggi Negeri Badan Hukum. Namun demikian, pengaturannya
+       belum mengakomodir kedinamisan dan otonomi PTN Badan Hukum yang
+       berada    di     bawah      kementerian   yang     menyelenggarakan           urusan
+       pemerintahan      di   bidang   agama.    Berdasarkan      hal    tersebut,    perlu
+       dilakukan revisi terhadap Peraturan Pemerintah Nomor 26 Tahun 2015
+       tentang Bentuk dan Mekanisme Pendanaan Perguruan Tinggi Negeri
+       Badan Hukum.
+
+II.    PASAL DEMI PASAL
+
+       Pasal I
+            Angka 1
+                 Pasal 4
+                        Cukup jelas.
+
+
+            Angka 2
+                 Pasal 8
+                        Cukup jelas.
+
+
+
+
+                                                                    www.peraturan.go.id
+
+<!-- PAGE: 11 -->
+
+No. 6460                                -2-
+
+
+
+
+           Angka 3
+               Pasal 9
+                     Ayat (1)
+                          Cukup jelas.
+                     Ayat (2)
+                          Tarif biaya pendidikan PTN Badan Hukum yang harus
+                          dikonsultasikan dengan Menteri atau menteri yang
+                          menyelenggarakan urusan pemerintahan di bidang
+                          agama adalah tarif biaya pendidikan jenjang diploma
+                          dan jenjang sarjana.
+                     Ayat (3)
+                          Cukup jelas.
+
+
+           Angka 4
+               Pasal 11
+                     Ayat (1)
+                          Cukup jelas.
+                     Ayat (2)
+                          Layanan     penunjang     tridharma     Perguruan    Tinggi
+                          merupakan      implementasi     kegiatan     dari   produk
+                          pendidikan,     penelitian,   dan     pengabdian    kepada
+                          masyarakat untuk tujuan peningkatan mutu dan
+                          pelayanan PTN Badan Hukum yang juga sekaligus
+                          untuk memperoleh tambahan pendapatan PTN Badan
+                          Hukum.
+                     Ayat (3)
+                          Cukup jelas.
+                     Ayat (4)
+                          Penyusunan Peraturan Menteri atau peraturan menteri
+                          yang     menyelenggarakan     urusan     pemerintahan    di
+                          bidang     agama    dilakukan       berkoordinasi   dengan
+                          kementerian/lembaga terkait, antara lain kementerian
+                          yang     menyelenggarakan     urusan     pemerintahan    di
+                          bidang keuangan.
+
+
+           Angka 5
+               Pasal 16
+                     Cukup jelas.
+
+
+
+
+                                                                  www.peraturan.go.id
+
+<!-- PAGE: 12 -->
+
+                                              No. 6460
+                              -3-
+
+
+
+
+     Angka 6
+           Pasal 17
+               Cukup jelas.
+     Angka 7
+           Pasal 19
+               Cukup jelas.
+
+
+     Angka 8
+           Pasal 20
+               Cukup jelas.
+
+
+Pasal II
+     Cukup jelas.
+
+
+
+
+                                    www.peraturan.go.id

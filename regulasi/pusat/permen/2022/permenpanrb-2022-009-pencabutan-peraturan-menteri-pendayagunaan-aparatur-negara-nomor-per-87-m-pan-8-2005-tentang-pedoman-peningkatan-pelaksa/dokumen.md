@@ -1,0 +1,169 @@
+---
+id: "permenpanrb-2022-009"
+jenis: "permenpanrb"
+nomor: "9"
+tahun: 2022
+judul: "Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2022 tentang Pencabutan Peraturan Menteri Pendayagunaan Aparatur Negara Nomor Per/87/M.Pan/8/2005 Tentang Pedoman Peningkatan Pelaksanaan Efisiensi, Penghematan Dan Disiplin Kerja"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 9 Tahun 2022 tentang Pencabutan Peraturan Menteri Pendayagunaan Aparatur Negara Nomor Per/87/M.Pan/8/2005 Tentang Pedoman Peningkatan Pelaksanaan Efisiensi, Penghematan Dan Disiplin Kerja
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permenpanrb
+nomor: 9
+tahun: 2022
+tentang: Pencabutan Peraturan Menteri Pendayagunaan Aparatur Negara Nomor Per/87/M.Pan/8/2005 Tentang Pedoman Peningkatan Pelaksanaan Efisiensi, Penghematan Dan Disiplin Kerja
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+No. 399, 2022                  KEMENPAN-RB.       Peningkatan.     Pelaksanaan.
+                               Efisiensi. Penghematan. Disiplin Kerja. Pedoman.
+                               Pencabutan.
+
+       PERATURAN MENTERI PENDAYAGUNAAN APARATUR NEGARA
+            DAN REFORMASI BIROKRASI REPUBLIK INDONESIA
+                                 NOMOR 9 TAHUN 2022
+                                     TENTANG
+PENCABUTAN PERATURAN MENTERI PENDAYAGUNAAN APARATUR NEGARA
+   NOMOR PER/87/M.PAN/8/2005 TENTANG PEDOMAN PENINGKATAN
+      PELAKSANAAN EFISIENSI, PENGHEMATAN DAN DISIPLIN KERJA
+
+
+                  DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+                MENTERI PENDAYAGUNAAN APARATUR NEGARA
+            DAN REFORMASI BIROKRASI REPUBLIK INDONESIA,
+
+
+
+
+Menimbang       : a.   bahwa     pedoman     peningkatan    pelaksanan     efisiensi,
+                       penghematan dan disiplin kerja bagi seluruh instansi
+                       pemerintah telah dimuat dalam peraturan perundang-
+                       undangan dan aturan kebijakan secara komprehensif;
+                  b.   bahwa     Peraturan   Menteri    Pendayagunaan      Aparatur
+                       Negara Nomor PER/87/M.PAN/8/2005 tentang Pedoman
+                       Peningkatan Pelaksanaan Efisiensi, Penghematan dan
+                       Disiplin Kerja sudah tidak sesuai dengan perkembangan
+                       hukum, sehingga perlu dicabut;
+                  c.   bahwa       berdasarkan     pertimbangan      sebagaimana
+                       dimaksud dalam huruf a dan huruf b, perlu menetapkan
+                       Peraturan Menteri Pendayagunaan Aparatur Negara dan
+                       Reformasi    Birokrasi    tentang   Pencabutan    Peraturan
+                       Menteri     Pendayagunaan       Aparatur   Negara     Nomor
+                       PER/87/M.PAN/8/2005 tentang Pedoman Peningkatan
+                       Pelaksanaan Efisiensi, Penghematan dan Disiplin Kerja;
+
+
+                                                           www.peraturan.go.id
+
+<!-- PAGE: 2 -->
+
+2022, No. 399                         -2-
+
+
+Mengingat       : 1.   Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
+                       Indonesia Tahun 1945;
+                  2.   Undang-Undang         Nomor      39    Tahun     2008      tentang
+                       Kementerian        Negara     (Lembaran     Negara      Republik
+                       Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+                       Negara Republik Indonesia Nomor 4916);
+                  3.   Undang-Undang Nomor 5 Tahun 2014 tentang Aparatur
+                       Sipil Negara (Lembaran Negara Republik Indonesia Tahun
+                       2014 Nomor 6, Tambahan Lembaran Negara Republik
+                       Indonesia Nomor 5494);
+                  4.   Peraturan Presiden Nomor 47 Tahun 2021 tentang
+                       Kementerian     Pendayagunaan         Aparatur    Negara      dan
+                       Reformasi     Birokrasi       (Lembaran     Negara      Republik
+                       Indonesia Tahun 2021 Nomor 126);
+                  5.   Peraturan Menteri Pendayagunaan Aparatur Negara dan
+                       Reformasi Birokrasi Nomor 60 Tahun 2021 tentang
+                       Organisasi dan Tata Kerja Kementerian Pendayagunaan
+                       Aparatur Negara dan Reformasi Birokrasi (Berita Negara
+                       Republik Indonesia Tahun 2021 Nomor 1249);
+
+
+                                   MEMUTUSKAN:
+Menetapkan      : PERATURAN        MENTERI          PENDAYAGUNAAN           APARATUR
+                  NEGARA      DAN         REFORMASI          BIROKRASI         TENTANG
+                  PENCABUTAN        PERATURAN         MENTERI      PENDAYAGUNAAN
+                  APARATUR       NEGARA           NOMOR      PER/87/M.PAN/8/2005
+                  TENTANG        PEDOMAN           PENINGKATAN          PELAKSANAAN
+                  EFISIENSI, PENGHEMATAN DAN DISIPLIN KERJA.
+
+
+                                                   Pasal 1
+                  Peraturan Menteri Pendayagunaan Aparatur Negara Nomor
+                  PER/87/M.PAN/8/2005              tentang   Pedoman      Peningkatan
+                  Pelaksanaan    Efisiensi, Penghematan          dan   Disiplin    Kerja,
+                  dicabut dan dinyatakan tidak berlaku.
+
+
+                                                   Pasal 2
+                  Peraturan     Menteri     ini     mulai    berlaku    pada      tanggal
+                  diundangkan.
+
+
+                                                             www.peraturan.go.id
+
+<!-- PAGE: 3 -->
+
+                                                                 2022, No. 399
+                                   -3-
+
+
+                Agar     setiap   orang   mengetahuinya,     memerintahkan
+                pengundangan Peraturan Menteri ini dengan penempatannya
+                dalam Berita Negara Republik Indonesia.
+
+
+
+
+                                    Ditetapkan di Jakarta
+                                    pada tanggal 13 April 2022
+
+
+                                    MENTERI    PENDAYAGUNAAN         APARATUR
+                                    NEGARA DAN REFORMASI BIROKRASI
+                                    REPUBLIK INDONESIA,
+
+
+                                                       ttd
+
+
+                                               TJAHJO KUMOLO
+
+
+Diundangkan di Jakarta
+pada tanggal 14 April 2022
+
+
+DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+        ttd
+
+
+BENNY RIYANTO
+
+
+
+
+                                                    www.peraturan.go.id

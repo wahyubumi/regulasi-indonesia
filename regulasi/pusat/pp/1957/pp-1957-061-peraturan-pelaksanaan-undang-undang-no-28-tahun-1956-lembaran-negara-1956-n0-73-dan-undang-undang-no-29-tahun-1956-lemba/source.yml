@@ -1,0 +1,24 @@
+id: pp-1957-061
+judul: Peraturan Pemerintah Nomor 61 Tahun 1957 tentang Peraturan Pelaksanaan Undang-Undang
+  No. 28 Tahun 1956 (Lembaran-Negara 1956 N0. 73) Dan Undang-Undang No. 29 Tahun 1956
+  (Lembaran-Negara 1956 No. 74)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

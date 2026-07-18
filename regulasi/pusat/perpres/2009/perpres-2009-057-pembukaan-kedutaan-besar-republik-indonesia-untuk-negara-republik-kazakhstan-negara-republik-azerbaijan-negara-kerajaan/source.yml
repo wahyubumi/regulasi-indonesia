@@ -1,0 +1,26 @@
+id: perpres-2009-057
+judul: Peraturan Presiden Nomor 57 Tahun 2009 tentang Pembukaan Kedutaan Besar Republik
+  Indonesia Untuk Negara Republik Kazakhstan, Negara Republik Azerbaijan, Negara Kerajaan
+  Bahrain, Negara Kesultanan Oman, Negara Republik Mozambique, Negara Republik Panama,
+  Negara Republik Ekuador, Negara Bosnia Dan Herzegovina, Negara Republik Kroasia,
+  Dan Pembukaan Konsulat Republik Indonesia Di Tawau, Malaysia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

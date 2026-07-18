@@ -1,0 +1,27 @@
+id: perpres-2020-039
+judul: Peraturan Presiden Nomor 39 Tahun 2020 tentang Pengesahan Agreement On Investment
+  Among The Governments Of The Hong Kong Special Administrative Region Of The People’S
+  Republic Of China And The Member States Of The Association Of Southeast Asian Nations
+  (Persetujuan Mengenai Penanaman Modal Antara Pemerintah Wilayah Administratif Khusus
+  Hong Kong Republik Rakyat Tiongkok Dan Negara-Negara Anggota Perhimpunan Bangsa-Bangsa
+  Asia Tenggara)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

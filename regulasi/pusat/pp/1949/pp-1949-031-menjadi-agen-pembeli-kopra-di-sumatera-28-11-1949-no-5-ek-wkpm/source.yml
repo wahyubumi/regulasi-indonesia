@@ -1,0 +1,23 @@
+id: pp-1949-031
+judul: Peraturan Pemerintah Nomor 31 Tahun 1949 tentang Menjadi Agen Pembeli Kopra
+  Di Sumatera (28-11-1949 No. 5/Ek/Wkpm)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

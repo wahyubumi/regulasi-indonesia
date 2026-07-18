@@ -1,0 +1,65 @@
+id: pp-2015-120
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '120'
+nomor_lengkap: '120'
+tahun: 2015
+judul: Penambahan Penyertaan Modal Negara Republik Indonesia Ke Dalam Modal Saham
+  Perusahaan Perseroan (Persero) Pt Pindad
+judul_lengkap: Peraturan Pemerintah Nomor 120 Tahun 2015 tentang Penambahan Penyertaan
+  Modal Negara Republik Indonesia Ke Dalam Modal Saham Perusahaan Perseroan (Persero)
+  Pt Pindad
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp120-2015.md.

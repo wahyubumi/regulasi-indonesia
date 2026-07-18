@@ -1,0 +1,90 @@
+id: pp-2025-008
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '8'
+nomor_lengkap: '8'
+tahun: 2025
+judul: 'Peraturan Nomor 36 Tahun 2023 SK tlo235640A <!-- page: 2 --> N,EPUBLIK INDONESIA
+  -2- l. Pasal 5 ayat (2) Undang-Undang Dasar Negara Republik IndonesiaTahun 1945;
+  2. Undang-Undang Nomor 10 Tahun 1995 tentang Kepabeanan (Lembaran Negara Republik
+  Indonesia Tahun 1995 Nomor 75, Tambahan Irmbaran Negara Republik Indonesia Nomor
+  3612) sebagaimana telah diubah dengan Undang-Undang Nomor t7 Tahun 2OOG tentang
+  Perubahan atas Undang-Undang Nomor 10 Tahun 1995 tentang Negara Republik Indonesia
+  Tahun 2OO6 Nomor 93, Tambahan kmbaran Negara Republik Indonesia Nomor 4661); 3,
+  Undang-Undang Nomor 24 Tahun 1999 tentang lalu Lintas Devisa dan Sistem Nilai Tukar
+  (Iembaran Negara Republik Indonesia Tahun 1999 Nomor 67, Tambahan kmbaran Negara
+  Republik Indonesia Nomor 3844); 4. Peraturan Pemerintah Nomor 36 Tahun 2023 tentang
+  Devisa Hasil Ekspor dari Kegiatan dan/atau Pengolahan Sumber Daya Alam (lembaran
+  Negara Republik Indonesia Tahun 2023 Nomor 94, Tambahan Lembaran Negara Republik
+  Indonesia Nomor 6882); MEMUTUSKAN: PEMERINTAH TENTANG ATAS PERATURAN PEMERINTAH
+  NOMOR 36 TAHUN 2023 TENTANG DEVISA HASIL EKSPOR DARI KEGIATAN PENGUSAHAAN, PENGEI,OI,AAN,
+  DAN/ATAU PENGOI,AHAN SUMBER DAYA AI,AM'
+judul_lengkap: 'Peraturan Pemerintah Nomor 8 Tahun 2025 tentang Peraturan Nomor 36
+  Tahun 2023 SK tlo235640A <!-- page: 2 --> N,EPUBLIK INDONESIA -2- l. Pasal 5 ayat
+  (2) Undang-Undang Dasar Negara Republik IndonesiaTahun 1945; 2. Undang-Undang Nomor
+  10 Tahun 1995 tentang Kepabeanan (Lembaran Negara Republik Indonesia Tahun 1995
+  Nomor 75, Tambahan Irmbaran Negara Republik Indonesia Nomor 3612) sebagaimana telah
+  diubah dengan Undang-Undang Nomor t7 Tahun 2OOG tentang Perubahan atas Undang-Undang
+  Nomor 10 Tahun 1995 tentang Negara Republik Indonesia Tahun 2OO6 Nomor 93, Tambahan
+  kmbaran Negara Republik Indonesia Nomor 4661); 3, Undang-Undang Nomor 24 Tahun 1999
+  tentang lalu Lintas Devisa dan Sistem Nilai Tukar (Iembaran Negara Republik Indonesia
+  Tahun 1999 Nomor 67, Tambahan kmbaran Negara Republik Indonesia Nomor 3844); 4.
+  Peraturan Pemerintah Nomor 36 Tahun 2023 tentang Devisa Hasil Ekspor dari Kegiatan
+  dan/atau Pengolahan Sumber Daya Alam (lembaran Negara Republik Indonesia Tahun 2023
+  Nomor 94, Tambahan Lembaran Negara Republik Indonesia Nomor 6882); MEMUTUSKAN: PEMERINTAH
+  TENTANG ATAS PERATURAN PEMERINTAH NOMOR 36 TAHUN 2023 TENTANG DEVISA HASIL EKSPOR
+  DARI KEGIATAN PENGUSAHAAN, PENGEI,OI,AAN, DAN/ATAU PENGOI,AHAN SUMBER DAYA AI,AM'
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp-no-8-tahun-2025.md.

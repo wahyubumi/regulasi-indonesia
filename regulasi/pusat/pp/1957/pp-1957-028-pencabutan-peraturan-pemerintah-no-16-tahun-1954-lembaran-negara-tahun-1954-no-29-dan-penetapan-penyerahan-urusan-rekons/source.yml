@@ -1,0 +1,24 @@
+id: pp-1957-028
+judul: Peraturan Pemerintah Nomor 28 Tahun 1957 tentang Pencabutan Peraturan Pemerintah
+  No. 16 Tahun 1954 (Lembaran-Negara Tahun 1954 No. 29) Dan Penetapan Penyerahan Urusan
+  Rekonstruksi Nasional Kepada Menteri Urusan Veteran
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

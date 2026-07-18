@@ -1,0 +1,25 @@
+id: perpres-2023-010
+judul: Peraturan Presiden Nomor 10 Tahun 2023 tentang PENGESAHAN N ICE AGRDEMENT COJVCER/V/IVG
+  TH E INTERNATION AL CI,ASSIFICATION OF GOODSAJVD SERWCES FOR THE PURPOSES OF THB
+  REGISTRATION OF IvIARKS (PERSETUJUAN NICE MENGENAI KLASIFIKASI INTERNASIONAL ATAS
+  BARANG DAN JASA UNTUK TUJUAN PENDAFTARAN MEREK)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

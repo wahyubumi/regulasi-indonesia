@@ -1,0 +1,28 @@
+id: pp-2015-098
+judul: Peraturan Pemerintah Nomor 98 Tahun 2015 tentang Peraturan Pelaksanaan Undang-Undang
+  Nomor 9 Tahun 1966 Tentang Keanggotaan Kembali Republik Indonesia Dalam Dana Moneter
+  Inernasional (International Monetary Fund) Dan Bank Internasional Untuk Rekonstruksi
+  Dan Pembangunan (International Bank For Reconstruction And Development) Sebagaimana
+  Telah Diubah Dengan Undang-Undang Nomor 2 Tahun 1967 Tentang Perubahan Undang- Undang
+  Nomor 9 Tahun 1966 Tentang Keanggotaan Kembali Republik Indonesia Dalam International
+  Monetary Fund Dan International Bank For Reconstruction And Development
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,24 @@
+id: perpres-2015-085
+judul: Peraturan Presiden Nomor 85 Tahun 2015 tentang Komite Nasional Prakarsa Segitiga
+  Karang Untuk Terumbu Karang, Perikanan, Dan Ketahanan Pangan (Coral Triangle Initiative
+  On Coral Reefs, Fisheries And Food Security) Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

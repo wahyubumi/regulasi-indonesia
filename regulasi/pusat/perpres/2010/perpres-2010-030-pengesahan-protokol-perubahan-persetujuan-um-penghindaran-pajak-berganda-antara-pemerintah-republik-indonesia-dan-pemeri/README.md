@@ -1,0 +1,33 @@
+# Peraturan Presiden Nomor 30 Tahun 2010 tentang PENGESAHAN PROTOKOL PERUBAHAN PERSETUJUAN um PENGHINDARAN PAJAK BERGANDA ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH MALAYSIA DAN PROTOKOLNYA YANG DITANDATANGANI DI KUALA LUMPUR pk TANGGAL 12 SEPTEMBER 1991 (PROTOCOL AMENDING THE AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF de INDONESIA AND THE GOVERNMENT OF MALAYSIA FOR THE AVOIDANCE OF DOUBLE TAXATIONAND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME AND ITS PROTOCOL SIGNED AT KUALA LUMPUR ON 12 SEPTEMBER 1991)
+
+## Ringkasan
+
+Ringkasan belum diisi. Ringkasan tidak boleh menggantikan teks resmi regulasi.
+
+## Informasi Utama
+
+| Elemen | Isi |
+|---|---|
+| Jenis | Peraturan Presiden |
+| Nomor | 30 |
+| Tahun | 2010 |
+| Judul | PENGESAHAN PROTOKOL PERUBAHAN PERSETUJUAN um PENGHINDARAN PAJAK BERGANDA ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH MALAYSIA DAN PROTOKOLNYA YANG DITANDATANGANI DI KUALA LUMPUR pk TANGGAL 12 SEPTEMBER 1991 (PROTOCOL AMENDING THE AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF de INDONESIA AND THE GOVERNMENT OF MALAYSIA FOR THE AVOIDANCE OF DOUBLE TAXATIONAND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME AND ITS PROTOCOL SIGNED AT KUALA LUMPUR ON 12 SEPTEMBER 1991) |
+| Status | perlu_verifikasi |
+| Tingkat | pusat |
+| Sumber | belum_diisi |
+
+## File
+
+- [`dokumen.md`](dokumen.md)
+- [`metadata.yml`](metadata.yml)
+- [`source.yml`](source.yml)
+- [`relasi.yml`](relasi.yml)
+- [`quality-check.yml`](quality-check.yml)
+
+## Catatan Konversi
+
+Status konversi: needs_review.
+
+## Peringatan
+
+Dokumen Markdown ini adalah hasil konversi untuk kebutuhan pencarian, analisis, dan pemrosesan teks. Untuk rujukan hukum resmi, tetap gunakan sumber regulasi resmi.

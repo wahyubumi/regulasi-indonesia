@@ -1,0 +1,29 @@
+id: perpres-2014-028
+judul: Peraturan Presiden Nomor 28 Tahun 2014 tentang Pengesahan Protocol To Incorporate
+  Technical Barriers To Trade And Sanitary And Phytosanitary Measures Into The Agreement
+  On Trade In Goods Of The Framework Agreement On Comprehensive Economic Co-Operation
+  Between The Association Of Southeast Asian Nations And The People’S Republic Of
+  China (Protokol Untuk Menambahkan Aturan Hambatan Teknis Perdagangan Dan Kebijakan
+  Sanitary Dan Phytosanitary Dalam Persetujuan Perdagangan Barang Dari Persetujuan
+  Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Asosiasi Bangsa-Bangsa
+  Asia Tenggara Dan Republik Rakyat China)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

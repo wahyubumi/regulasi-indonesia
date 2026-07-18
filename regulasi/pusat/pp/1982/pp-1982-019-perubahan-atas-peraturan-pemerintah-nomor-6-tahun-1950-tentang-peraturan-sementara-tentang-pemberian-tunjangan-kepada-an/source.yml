@@ -1,0 +1,26 @@
+id: pp-1982-019
+judul: Peraturan Pemerintah Nomor 19 Tahun 1982 tentang Perubahan Atas Peraturan Pemerintah
+  Nomor 6 Tahun 1950 Tentang Peraturan Sementara Tentang Pemberian Tunjangan Kepada
+  Anggota Tentara Nasional Indonesia Yang Pada Waktu Penyerahan Kedaulatan Tidak Masuk
+  Angktan Perang Republik Indonesia Serikat Sebagaimana Telah Diubah Dengan Peraturan
+  Pemerintah Nomor 39 Tahun 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

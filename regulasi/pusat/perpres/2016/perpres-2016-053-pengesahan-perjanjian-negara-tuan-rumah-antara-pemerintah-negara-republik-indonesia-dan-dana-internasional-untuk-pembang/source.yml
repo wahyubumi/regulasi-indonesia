@@ -1,0 +1,27 @@
+id: perpres-2016-053
+judul: Peraturan Presiden Nomor 53 Tahun 2016 tentang Pengesahan Perjanjian Negara
+  Tuan Rumah Antara Pemerintah Negara Republik Indonesia Dan Dana Internasional Untuk
+  Pembangunan Pertanian (Ifad) Tentang Pendirian Kantor Perwakilan Ifad Di Indonesia
+  (Host Country Agreement Between The Government Of The Republic Of Indonesia And
+  The International Fund For Agricultural Development (Ifad) On The Establishment
+  Of The Ifad’S Country Office In Indonesia)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

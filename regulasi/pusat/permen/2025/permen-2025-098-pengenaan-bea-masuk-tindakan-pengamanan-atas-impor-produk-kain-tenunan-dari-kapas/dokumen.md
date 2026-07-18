@@ -1,0 +1,455 @@
+---
+id: "permen-2025-098"
+jenis: "permen"
+nomor: "98"
+tahun: 2025
+judul: "Peraturan Menteri Nomor 98 Tahun 2025 tentang Pengenaan Bea Masuk Tindakan Pengamanan Atas Impor Produk Kain Tenunan Dari Kapas"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 98 Tahun 2025 tentang Pengenaan Bea Masuk Tindakan Pengamanan Atas Impor Produk Kain Tenunan Dari Kapas
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 98
+tahun: 2025
+tentang: Pengenaan Bea Masuk Tindakan Pengamanan Atas Impor Produk Kain Tenunan Dari Kapas
+---
+
+<!-- PAGE: 1 -->
+
+       PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA
+                    NOMOR 98 TAHUN 2025
+                          TENTANG
+ PENGENAAN BEA MASUK TINDAKAN PENGAMANAN ATAS IMPOR PRODUK
+                  KAIN TENUNAN DARI KAPAS
+
+               DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+              MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+
+Menimbang   : a.   bahwa Indonesia sebagai negara anggota Organisasi
+                   Perdagangan Dunia (World Trade Organization) harus
+                   berperan aktif dalam mewujudkan tatanan perdagangan
+                   dunia yang adil;
+              b.   bahwa berdasarkan ketentuan Pasal 70 ayat (1) Peraturan
+                   Pemerintah Nomor 34 Tahun 2011 tentang Tindakan
+                   Antidumping,     Tindakan     Imbalan,   dan    Tindakan
+                   Pengamanan Perdagangan, terhadap barang impor selain
+                   dikenakan bea masuk dapat dikenakan tindakan
+                   pengamanan jika terdapat lonjakan jumlah impor secara
+                   absolut atau relatif atas barang yang sama dengan barang
+                   sejenis atau barang yang secara langsung bersaing, dan
+                   lonjakan jumlah impor tersebut menyebabkan terjadinya
+                   kerugian serius atau ancaman kerugian serius terhadap
+                   industri dalam negeri;
+              c.   bahwa     hasil    penyelidikan    Komite    Pengamanan
+                   Perdagangan Indonesia telah membuktikan terjadinya
+                   lonjakan jumlah impor produk kain tenunan dari kapas
+                   yang menyebabkan terjadinya kerugian serius terhadap
+                   industri dalam negeri;
+              d.   bahwa berdasarkan pertimbangan sebagaimana dimaksud
+                   dalam huruf a, huruf b, dan huruf c, serta untuk
+                   melaksanakan ketentuan Pasal 23D ayat (2) Undang-
+                   Undang Nomor 17 Tahun 2006 tentang Perubahan atas
+                   Undang-Undang Nomor 10 Tahun 1995 tentang
+                   Kepabeanan, perlu menetapkan Peraturan Menteri
+                   Keuangan tentang Pengenaan Bea Masuk Tindakan
+                   Pengamanan atas Impor Produk Kain Tenunan dari Kapas;
+
+Mengingat   : 1.   Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
+                   Indonesia Tahun 1945;
+
+<!-- PAGE: 2 -->
+
+                                -2-
+
+            2.   Undang-Undang Nomor 10 Tahun 1995 tentang
+                 Kepabeanan (Lembaran Negara Republik Indonesia Tahun
+                 1995 Nomor 75, Tambahan Lembaran Negara Republik
+                 Indonesia Nomor 3612) sebagaimana telah diubah dengan
+                 Undang-Undang Nomor 17 Tahun 2006 tentang
+                 Perubahan atas Undang-Undang Nomor 10 Tahun 1995
+                 tentang Kepabeanan (Lembaran Negara Republik
+                 Indonesia Tahun 2006 Nomor 93, Tambahan Lembaran
+                 Negara Republik Indonesia Nomor 4661);
+            3.   Undang-Undang Nomor 39 Tahun 2008 tentang
+                 Kementerian Negara (Lembaran Negara Republik
+                 Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+                 Negara Republik Indonesia Nomor 4916) sebagaimana
+                 telah diubah dengan Undang-Undang Nomor 61 Tahun
+                 2024 tentang Perubahan atas Undang-Undang Nomor 39
+                 Tahun 2008 tentang Kementerian Negara (Lembaran
+                 Negara Republik Indonesia Tahun 2024 Nomor 225,
+                 Tambahan Lembaran Negara Republik Indonesia Nomor
+                 6994);
+            4.   Peraturan Pemerintah Nomor 34 Tahun 2011 tentang
+                 Tindakan Antidumping, Tindakan Imbalan, dan Tindakan
+                 Pengamanan Perdagangan (Lembaran Negara Republik
+                 Indonesia Tahun 2011 Nomor 66, Tambahan Lembaran
+                 Negara Republik Indonesia Nomor 5225);
+            5.   Peraturan Presiden Nomor 158 Tahun 2024 tentang
+                 Kementerian Keuangan (Lembaran Negara Republik
+                 Indonesia Tahun 2024 Nomor 354);
+            6.   Peraturan Menteri Keuangan Nomor 124 Tahun 2024
+                 tentang Organisasi dan Tata Kerja Kementerian Keuangan
+                 (Berita Negara Republik Indonesia Tahun 2024 Nomor
+                 1063);
+
+                          MEMUTUSKAN:
+
+Menetapkan : PERATURAN MENTERI KEUANGAN TENTANG PENGENAAN
+             BEA MASUK TINDAKAN PENGAMANAN ATAS IMPOR PRODUK
+             KAIN TENUNAN DARI KAPAS.
+
+                                       Pasal 1
+            Dalam Peraturan Menteri ini yang dimaksud dengan Bea
+            Masuk Tindakan Pengamanan adalah pungutan negara untuk
+            memulihkan kerugian serius atau mencegah ancaman
+            kerugian serius yang diderita oleh industri dalam negeri
+            sebagai akibat dari lonjakan jumlah barang impor terhadap
+            barang sejenis atau barang yang secara langsung bersaing
+            dengan tujuan agar industri dalam negeri yang mengalami
+            kerugian serius atau ancaman kerugian serius dapat
+            melakukan penyesuaian yang diperlukan.
+
+                                       Pasal 2
+            Terhadap impor produk kain tenunan dari kapas yang
+            termasuk dalam pos tarif 5208.21.00, 5208.22.00, 5208.31.90,
+            5208.33.00, 5209.11.90, 5209.21.00, 5209.31.00, 5209.49.00,
+            5210.21.00, 5210.32.00, 5210.59.90, 5211.31.00, 5211.59.90,
+            5212.15.90, 5212.21.00, dan 5212.23.00, dikenakan Bea
+            Masuk Tindakan Pengamanan.
+
+<!-- PAGE: 3 -->
+
+                      -3-
+
+                            Pasal 3
+Bea Masuk Tindakan Pengamanan sebagaimana dimaksud
+dalam Pasal 2 dikenakan selama 3 (tiga) tahun dengan besaran
+tarif Bea Masuk Tindakan Pengamanan sebagaimana
+tercantum dalam Lampiran huruf A yang merupakan bagian
+tidak terpisahkan dari Peraturan Menteri ini.
+
+                          Pasal 4
+Pengenaan Bea Masuk Tindakan Pengamanan sebagaimana
+dimaksud dalam Pasal 2 merupakan tambahan dari:
+a. bea masuk umum (most favoured nation); atau
+b. bea masuk preferensi berdasarkan perjanjian atau
+    kesepakatan internasional,
+yang telah dikenakan.
+
+                             Pasal 5
+(1)   Bea    Masuk Tindakan        Pengamanan   sebagaimana
+      dimaksud dalam Pasal 2 dikenakan terhadap importasi
+      produk kain tenunan dari kapas dari semua negara.
+(2)   Pengenaan     Bea    Masuk      Tindakan  Pengamanan
+      sebagaimana dimaksud pada ayat (1), dikecualikan
+      terhadap importasi produk kain tenunan dari kapas yang
+      berasal dari negara sebagaimana tercantum dalam
+      Lampiran huruf B yang merupakan bagian tidak
+      terpisahkan dari Peraturan Menteri ini.
+
+                               Pasal 6
+(1)   Importir wajib menyerahkan dokumen surat keterangan
+      asal (certificate of origin) terhadap impor produk kain
+      tenunan dari kapas yang berasal dari negara yang
+      dikecualikan dari pengenaan Bea Masuk Tindakan
+      Pengamanan sebagaimana dimaksud dalam Pasal 5
+      ayat (2).
+(2)   Dalam hal importir sebagaimana dimaksud pada ayat (1)
+      menggunakan surat keterangan asal (certificate of origin)
+      preferensi, barang impor wajib memenuhi ketentuan asal
+      barang berdasarkan ketentuan peraturan perundang-
+      undangan yang mengatur mengenai pengenaan tarif bea
+      masuk atas barang impor berdasarkan perjanjian atau
+      kesepakatan internasional.
+(3)   Ketentuan asal barang sebagaimana dimaksud pada
+      ayat (2) harus memenuhi:
+      a. kriteria asal barang (origin criteria);
+      b. kriteria pengiriman (consignment criteria); dan
+      c.    ketentuan prosedural (procedural provisions).
+(4)   Penelitian terhadap surat keterangan asal (certificate of
+      origin) preferensi sebagaimana dimaksud pada ayat (2),
+      dilaksanakan sesuai dengan ketentuan peraturan
+      perundang-undangan          yang    mengatur     mengenai
+      pengenaan tarif bea masuk atas barang impor
+      berdasarkan perjanjian atau kesepakatan internasional.
+(5)   Dalam hal importir sebagaimana dimaksud pada ayat (1)
+      menggunakan surat keterangan asal (certificate of origin)
+      nonpreferensi, penelitian surat keterangan asal (certificate
+      of origin) nonpreferensi dilaksanakan berdasarkan
+
+<!-- PAGE: 4 -->
+
+                      -4-
+
+      ketentuan peraturan perundang-undangan di bidang
+      perdagangan.
+
+                                Pasal 7
+(1)   Dalam hal importasi produk kain tenunan dari kapas
+      berasal dari negara yang dikecualikan dari pengenaan Bea
+      Masuk Tindakan Pengamanan sebagaimana dimaksud
+      dalam Pasal 5 ayat (2) tidak memenuhi ketentuan
+      sebagaimana dimaksud dalam Pasal 6 ayat (1), ayat (2),
+      ayat (3), dan ayat (5), atas importasi tersebut dipungut Bea
+      Masuk Tindakan Pengamanan.
+(2)   Dalam hal surat keterangan asal (certificate of origin)
+      sebagaimana dimaksud dalam Pasal 6 ayat (2) sedang
+      dilakukan permintaan retroactive check, atas importasi
+      produk kain tenunan dari kapas yang berasal dari negara
+      yang dikecualikan dari pengenaan Bea Masuk Tindakan
+      Pengamanan sebagaimana dimaksud dalam Pasal 5
+      ayat (2) dipungut Bea Masuk Tindakan Pengamanan.
+
+                           Pasal 8
+(1)   Besaran Bea Masuk Tindakan Pengamanan sebagaimana
+      dimaksud dalam Pasal 3 berlaku terhadap barang impor
+      produk kain tenunan dari kapas yang:
+      a. dokumen pemberitahuan pabean impornya telah
+          mendapat nomor pendaftaran dari kantor pabean
+          tempat penyelesaian kewajiban pabean, dalam hal
+          penyelesaian kewajiban pabean dilakukan dengan
+          pengajuan pemberitahuan pabean; atau
+      b. tarif dan nilai pabeannya ditetapkan oleh kantor
+          pabean tempat penyelesaian kewajiban pabean,
+          dalam hal penyelesaian kewajiban pabean dilakukan
+          tanpa pengajuan pemberitahuan pabean.
+(2)   Pemasukan dan/atau pengeluaran barang ke dan dari
+      kawasan perdagangan bebas dan pelabuhan bebas,
+      tempat penimbunan berikat, atau kawasan ekonomi
+      khusus, dilaksanakan sesuai dengan ketentuan peraturan
+      perundang-undangan      yang    mengatur     mengenai
+      pemasukan dan/atau pengeluaran barang ke dan dari
+      kawasan perdagangan bebas dan pelabuhan bebas,
+      tempat penimbunan berikat, atau kawasan ekonomi
+      khusus.
+
+                            Pasal 9
+Peraturan Menteri ini mulai berlaku setelah 10 (sepuluh) hari
+terhitung sejak tanggal diundangkan.
+
+<!-- PAGE: 5 -->
+
+                                -5-
+
+              Agar   setiap    orang   mengetahuinya,   memerintahkan
+              pengundangan Peraturan Menteri ini dengan penempatannya
+              dalam Berita Negara Republik Indonesia.
+
+
+                          Ditetapkan di Jakarta
+                          pada tanggal 22 Desember 2025
+
+                          MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+
+
+
+                                      PURBAYA Ditandatangani
+                                               YUDHI SADEWA  secara elektronik
+
+
+
+
+Diundangkan di Jakarta
+pada tanggal         Д
+
+DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM REPUBLIK INDONESIA,
+
+      Ѽ
+
+DHAHANA PUTRA
+
+
+BERITA NEGARA REPUBLIK INDONESIA TAHUN 2025 NOMOR                         Ж
+
+<!-- PAGE: 6 -->
+
+                                  -6-
+
+               LAMPIRAN
+               PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA
+               NOMOR 98 TAHUN 2025
+               TENTANG
+               PENGENAAN BEA MASUK TINDAKAN PENGAMANAN ATAS
+               IMPOR PRODUK KAIN TENUN DARI KAPAS
+
+
+
+A.   BESARAN TARIF BEA MASUK TINDAKAN PENGAMANAN.
+
+
+                                          BMTP (Rp/ Meter)
+
+                                                                Tahun ketiga,
+                            Tahun pertama,     Tahun kedua,
+                                                                    dengan
+                            dengan periode         dengan
+                                                                   periode 1
+                             1 (satu) tahun       periode 1
+         No.    Pos Tarif                                        (satu) tahun
+                            terhitung sejak     (satu) tahun
+                                                                   terhitung
+                                 tanggal          terhitung
+                                                                    setelah
+                              berlakunya      setelah tanggal
+                                                                    tanggal
+                               Peraturan        berakhirnya
+                                                                 berakhirnya
+                               Menteri ini    tahun pertama
+                                                                tahun kedua
+
+          1.   5208.21.00       3.300             3.100            2.900
+
+          2.   5208.22.00       3.300             3.100            2.900
+
+          3.   5208.31.90       3.300             3.100            2.900
+
+          4.   5208.33.00       3.300             3.100            2.900
+
+          5.   5209.11.90       3.000             2.800            2.600
+
+          6.   5209.21.00       3.300             3.100            2.900
+
+          7.   5209.31.00       3.300             3.100            2.900
+
+          8.   5209.49.00       3.300             3.100            2.900
+
+          9.   5210.21.00       3.300             3.100            2.900
+
+         10.   5210.32.00       3.300             3.100            2.900
+
+         11.   5210.59.90       3.300             3.100            2.900
+
+         12.   5211.31.00       3.300             3.100            2.900
+
+         13.   5211.59.90       3.300             3.100            2.900
+
+         14.   5212.15.90       3.300             3.100            2.900
+
+         15.   5212.21.00       3.000             2.800            2.600
+
+         16.   5212.23.00       3.300             3.100            2.900
+
+<!-- PAGE: 7 -->
+
+                                       -7-
+
+B.   DAFTAR NEGARA BERKEMBANG ANGGOTA WTO YANG DIKECUALIKAN
+     DARI PENGENAAN BEA MASUK TINDAKAN PENGAMANAN ATAS IMPOR
+     PRODUK KAIN TENUNAN DARI KAPAS.
+
+
+
+
+      No.             Nama Negara             No.             Nama Negara
+
+      1     Afghanistan                       29    Cuba
+                                                    Democratic Republic of the
+      2     Albania                           30
+                                                    Congo
+      3     Angola                            31    Djibouti
+      4     Antigua and Barbuda               32    Dominica
+      5     Argentina                         33    Dominican Republic
+      6     Armenia                           34    Ecuador
+      7     Bahrain, Kingdom of               35    Egypt
+      8     Bangladesh                        36    El Salvador
+      9     Barbados                          37    Eswatini
+      10    Belize                            38    Fiji
+      11    Benin                             39    Gabon
+      12    Bolivia, Plurinational State of   40    Gambia, The
+      13    Botswana                          41    Georgia
+      14    Brazil                            42    Ghana
+      15    Brunei Darussalam                 43    Grenada
+      16    Burkina Faso                      44    Guatemala
+      17    Burundi                           45    Guinea
+      18    Cabo Verde                        46    Guinea-Bissau
+      19    Cambodia                          47    Guyana
+      20    Cameroon                          48    Haiti
+      21    Central African Republic          49    Honduras
+      22    Chad                              50    Israel
+      23    Chile                             51    Jamaica
+      24    Colombia                          52    Jordan
+      25    Comoros                           53    Kazakhstan
+      26    Congo                             54    Kenya
+      27    Costa Rica                        55    Korea, Republic of
+      28    Cote d'Ivoire                     56    Kuwait, the State of
+
+<!-- PAGE: 8 -->
+
+                                -8-
+
+
+No.             Nama Negara           No.             Nama Negara
+
+57    Kyrgyz Republic                 87    Peru
+      Lao People's Democratic
+58                                    88    Philippines
+      Republic
+59    Lesotho                         89    Qatar
+60    Liberia                         90    Rwanda
+61    Macao, China                    91    Saint Kitts and Nevis
+62    Madagascar                      92    Saint Lucia
+                                            Saint Vincent and the
+63    Malawi                          93
+                                            Grenadines
+64    Malaysia                        94    Samoa
+65    Maldives                        95    Saudi Arabia, Kingdom of
+66    Mali                            96    Senegal
+67    Mauritania                      97    Seychelles
+68    Mauritius                       98    Sierra Leone
+69    Mexico                          99    Singapore
+70    Moldova, Republic of            100   Solomon Islands
+71    Mongolia                        101   South Africa
+72    Montenegro                      102   Sri Lanka
+73    Morocco                         103   Suriname
+74    Mozambique                      104   Taipei, Chinese
+75    Myanmar                         105   Tajikistan
+76    Namibia                         106   Tanzania
+77    Nepal                           107   Thailand
+78    Nicaragua                       108   Timor-Leste
+79    Niger                           109   Togo
+80    Nigeria                         110   Tonga
+81    North Macedonia                 111   Trinidad and Tobago
+82    Oman                            112   Tunisia
+83    Pakistan                        113   Turkiye
+84    Panama                          114   Uganda
+85    Papua New Guinea                115   Ukraine
+86    Paraguay                        116   United Arab Emirates
+
+<!-- PAGE: 9 -->
+
+                              -9-
+
+
+No.   Nama Negara                   No.   Nama Negara
+
+117   Uruguay                       120   Yemen
+118   Vanuatu                       121   Zambia
+      Venezuela, Bolivarian
+119                                 122   Zimbabwe
+      Republic of
+
+
+
+
+                         MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+                                             ttd.
+
+                                    PURBAYA YUDHI SADEWA

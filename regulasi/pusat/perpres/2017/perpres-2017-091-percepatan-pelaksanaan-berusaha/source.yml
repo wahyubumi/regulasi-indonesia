@@ -1,0 +1,22 @@
+id: perpres-2017-091
+judul: Peraturan Presiden Nomor 91 Tahun 2017 tentang Percepatan Pelaksanaan Berusaha
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

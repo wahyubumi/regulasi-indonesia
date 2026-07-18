@@ -1,0 +1,23 @@
+id: perpres-1961-018
+judul: Peraturan Presiden Nomor 18 Tahun 1961 tentang Pencabutan Peraturan Presiden
+  Nomor 6 Tahun 1961 Dan Penetapan Penyelenggaraan Pekan Raya Dan Pameran Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

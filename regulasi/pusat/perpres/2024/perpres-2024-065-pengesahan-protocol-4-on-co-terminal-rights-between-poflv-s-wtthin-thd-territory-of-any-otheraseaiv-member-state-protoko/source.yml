@@ -1,0 +1,25 @@
+id: perpres-2024-065
+judul: Peraturan Presiden Nomor 65 Tahun 2024 tentang PENGESAHAN PROTOCOL 4 ON CO-TERMINAL
+  RIGHTS BETWEEN POflV?S WTTHIN THD TERRITORY OF ANY OTHERASEAIV MEMBER STATE (PROTOKOL
+  4 MENGENAI HAK CO-TERMINA^L DI ANTARA TITIK-TITIK DI DAI.AM WILAYAH NEGARA ANGGOTA
+  ASEAN LAINNYA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

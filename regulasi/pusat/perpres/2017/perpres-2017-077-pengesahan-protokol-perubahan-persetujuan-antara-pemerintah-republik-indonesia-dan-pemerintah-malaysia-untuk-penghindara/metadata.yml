@@ -1,0 +1,79 @@
+id: perpres-2017-077
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '77'
+nomor_lengkap: '77'
+tahun: 2017
+judul: Pengesahan Protokol Perubahan Persetujuan Antara Pemerintah Republik Indonesia
+  Dan Pemerintah Malaysia Untuk Penghindaran Pajak Berganda Dan Pencegahan Pengelakan
+  Pajak Yang Berkaitan Dengan Pajak Atas Penghasilan Yang Ditandatangani Di Kuala
+  Lumpur Pada Tanggal 12 September 1991, Yang Telah Diubah Dengan Protokol Yang Ditandatangani
+  Di Bukit Tinggi Pada Tanggal 12 Januari 2006 (Protocol Amending The Agreement Between
+  The Government Of The Republic Of Indonesia And The Government Of Malaysia For The
+  Avoidance Of Double Taxation And The Prevention Of Fiscal Evasion With Respect To
+  Taxes On Income Signed At Kuala Lumpur On 12 September 1991, As Amended By The Protocol
+  Signed At Bukit Tinggi On 12 January 2006)
+judul_lengkap: Peraturan Presiden Nomor 77 Tahun 2017 tentang Pengesahan Protokol
+  Perubahan Persetujuan Antara Pemerintah Republik Indonesia Dan Pemerintah Malaysia
+  Untuk Penghindaran Pajak Berganda Dan Pencegahan Pengelakan Pajak Yang Berkaitan
+  Dengan Pajak Atas Penghasilan Yang Ditandatangani Di Kuala Lumpur Pada Tanggal 12
+  September 1991, Yang Telah Diubah Dengan Protokol Yang Ditandatangani Di Bukit Tinggi
+  Pada Tanggal 12 Januari 2006 (Protocol Amending The Agreement Between The Government
+  Of The Republic Of Indonesia And The Government Of Malaysia For The Avoidance Of
+  Double Taxation And The Prevention Of Fiscal Evasion With Respect To Taxes On Income
+  Signed At Kuala Lumpur On 12 September 1991, As Amended By The Protocol Signed At
+  Bukit Tinggi On 12 January 2006)
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/ps77-2017.md.

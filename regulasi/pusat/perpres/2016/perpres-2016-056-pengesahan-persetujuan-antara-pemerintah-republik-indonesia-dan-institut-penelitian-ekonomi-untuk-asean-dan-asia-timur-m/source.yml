@@ -1,0 +1,28 @@
+id: perpres-2016-056
+judul: Peraturan Presiden Nomor 56 Tahun 2016 tentang Pengesahan Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Institut Penelitian Ekonomi Untuk Asean Dan Asia
+  Timur Mengenai Keistimewaan Dan Kekebalan Sekretariat Institut Penelitian Ekonomi
+  Untuk Asean Dan Asia Timur (Agreement Between The Government Of The Republic Of
+  Indonesia And The Economic Research Institute For Asean And East Asia On The Privileges
+  And Immunities Of The Secretariat Of Economic Research Institute For Asean And East
+  Asia)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

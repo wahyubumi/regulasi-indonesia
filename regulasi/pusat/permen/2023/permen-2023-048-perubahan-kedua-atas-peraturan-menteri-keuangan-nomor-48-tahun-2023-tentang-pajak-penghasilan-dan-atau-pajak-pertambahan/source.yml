@@ -1,0 +1,29 @@
+id: permen-2023-048
+judul: Peraturan Menteri Nomor 48 Tahun 2023 tentang Perubahan Kedua Atas Peraturan
+  Menteri Keuangan Nomor 48 Tahun 2023 Tentang Pajak Penghasilan Dan/Atau Pajak Pertambahan
+  Nilai Atas Penjualan/Penyerahan Emas Perhiasan, Emas Batangan, Perhiasan Yang Bahan
+  Seluruhnya Bukan Dari Emas, Batu Permata Dan/Atau Batu Lainnya Yang Sejenis, Serta
+  Jasa Yang Terkait Dengan Emas Perhiasan, Emas Batangan, Perhiasan Yang Bahan Seluruhnya
+  Bukan Dari Emas, Dan/Atau Batu Permata Dan/Atau Batu Lainnya Yang Sejenis, Yang
+  Dilakukan Oleh Pabrikan Emas Perhiasan, Pedagang Emas Perhiasan, Dan/Atau Pengusaha
+  Emas Batangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

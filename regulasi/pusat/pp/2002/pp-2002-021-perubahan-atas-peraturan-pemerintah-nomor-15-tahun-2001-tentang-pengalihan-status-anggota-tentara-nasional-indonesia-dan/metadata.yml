@@ -1,0 +1,69 @@
+id: pp-2002-021
+jenis: pp
+jenis_lengkap: Peraturan Pemerintah
+nomor: '21'
+nomor_lengkap: '21'
+tahun: 2002
+judul: Perubahan Atas Peraturan Pemerintah Nomor 15 Tahun 2001 Tentang Pengalihan
+  Status Anggota Tentara Nasional Indonesia Dan Anggota Kepolisian Negara Republik
+  Indonesia Menjadi Pegawai Negeri Sipil Untuk Menduduki Jabatan Struktural Sebagaimana
+  Telah Diubah Dengan Peraturan Pemerintah Nomor 4 Tahun 2002
+judul_lengkap: Peraturan Pemerintah Nomor 21 Tahun 2002 tentang Perubahan Atas Peraturan
+  Pemerintah Nomor 15 Tahun 2001 Tentang Pengalihan Status Anggota Tentara Nasional
+  Indonesia Dan Anggota Kepolisian Negara Republik Indonesia Menjadi Pegawai Negeri
+  Sipil Untuk Menduduki Jabatan Struktural Sebagaimana Telah Diubah Dengan Peraturan
+  Pemerintah Nomor 4 Tahun 2002
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/PP21-2002.md.

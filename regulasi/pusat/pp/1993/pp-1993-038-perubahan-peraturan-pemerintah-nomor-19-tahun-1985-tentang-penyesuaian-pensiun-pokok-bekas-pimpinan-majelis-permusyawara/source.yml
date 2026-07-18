@@ -1,0 +1,24 @@
+id: pp-1993-038
+judul: Peraturan Pemerintah Nomor 38 Tahun 1993 tentang Perubahan Peraturan Pemerintah
+  Nomor 19 Tahun 1985 Tentang Penyesuaian Pensiun Pokok Bekas Pimpinan Majelis Permusyawaratan
+  Rakyat Sementara Dan Janda/Dudanya
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

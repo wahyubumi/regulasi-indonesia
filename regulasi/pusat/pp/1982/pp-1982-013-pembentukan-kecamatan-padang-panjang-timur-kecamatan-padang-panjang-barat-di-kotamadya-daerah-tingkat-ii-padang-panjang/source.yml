@@ -1,0 +1,28 @@
+id: pp-1982-013
+judul: Peraturan Pemerintah Nomor 13 Tahun 1982 tentang Pembentukan Kecamatan Padang
+  Panjang Timur, Kecamatan Padang Panjang Barat Di Kotamadya Daerah Tingkat Ii Padang
+  Panjang, Kecamatan Sawahlunto Utara, Kecamatan Sawahlunto Selatan Di Kotamadya Daerah
+  Tingkat Ii Sawahlunto, Kecamatan Lubuk Sikarah, Kecamatan Tanjung Harapan Di Kotamadya
+  Daerah Tingkat Ii Solok, Kecamatan Payakumbuh Utara, Kecamatan Payakumbuh Barat
+  Dan Kecamatan Payakumbuh Timur Di Kotamadya Daerah Tingkat Ii Payakumbuh Dalam Wilayah
+  Propinsi Daerah Tingkat I Sumatera Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

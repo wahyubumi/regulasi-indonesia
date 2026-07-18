@@ -1,0 +1,24 @@
+id: permen-2023-097
+judul: Peraturan Menteri Nomor 97 Tahun 2023 tentang Insentif Fiskal Untuk Penghargaan
+  Kinerja Tahun Berjalan Kategori Peningkatan Kesejahteraan Masyarakat Pada Tahun
+  Anggaran 2023
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://sikd.djpk.kemenkeu.go.id/did
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,27 @@
+id: perpres-2025-063
+judul: Peraturan Presiden Nomor 63 Tahun 2025 tentang PENGESAHAN PROTOKOL PERUBAHAN
+  PERSEf,UJUAN KEMITRAAN EKONOMI KOMPREHENSTF AITTARA PEMERIT{TAH REPUBLIK INDONESI.A
+  DAN PEMERII{TAH REPUBLIK CHILE UNTUK PENGGABUNGAN KETENTUAN-KETENTUAN PERDAGANGAN
+  JASA (PROTOCI2L TO AMEND TTTE @MPRETIEN$I/E E@NOMIC PAKINERSIilP AGREEMENT BE|WEEN
+  ?'ITE @!/ERNMENTOFTHE RE.PITBLIC OF i,IDONESIA ATTD TITE CAyERNMENT OF TAE NAPua|UC
+  OF CHII.E FOR TITE N@RrcRA,.ION oF PROWsIOiyS ON TRADE IN SERWCE"SI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

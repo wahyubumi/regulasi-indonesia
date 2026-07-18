@@ -1,0 +1,24 @@
+id: uu-1947-017
+judul: Undang-Undang Nomor 17 Tahun 1947 tentang pembentukan Haminte-Kota Yogyakarta.
+  UNDANG-UNDANG REPUBLIK INDONESIA TAHUN 1947 NOMOR 17 TENTANG PEMBENTUKAN HAMINTE-KOTA
+  YOGYAKARTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

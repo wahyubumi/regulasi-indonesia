@@ -1,0 +1,24 @@
+id: permen-2022-050
+judul: Peraturan Menteri Nomor 50 Tahun 2022 tentang Ketentuan Ekspor Crude Palm Oil,
+  Refined, Bleached, And Deodorized Palm Oil, Refined, Bleached, And Deodorized Palm
+  Olein, Dan Used Cooking Oil
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://inatrade.kemendag.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

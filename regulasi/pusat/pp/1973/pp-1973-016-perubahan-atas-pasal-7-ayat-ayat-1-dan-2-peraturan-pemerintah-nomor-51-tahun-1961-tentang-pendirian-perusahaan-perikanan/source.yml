@@ -1,0 +1,28 @@
+id: pp-1973-016
+judul: Peraturan Pemerintah Nomor 16 Tahun 1973 tentang Perubahan Atas Pasal 7 Ayat-Ayat
+  (1) Dan (2) Peraturan Pemerintah Nomor 51 Tahun 1961 Tentang Pendirian Perusahaan
+  Perikanan Negara Sulawesi Utara/Tengah (Lembaran Negara Republik Indonesia Tahun
+  1961 Nomor 72; Tambahan Lembaran Negara Republik Indonesia Nomor 2206) Sebagaimana
+  Yang Telah Diubah Dan Ditambah Dengan Peraturan Pemerintah Nomor 52 Tahun 1970 (Lembaran
+  Negara Republik Indonesia Tahun 1970 Nomor 70) Dan Peraturan Pemerintah Nomor 32
+  Tahun 1971 (Lembaran Negara Republik Indonesia Tahun 1971 Nomor 41)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

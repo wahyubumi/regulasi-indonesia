@@ -1,0 +1,26 @@
+id: pp-1999-030
+judul: Peraturan Pemerintah Nomor 30 Tahun 1999 tentang Pencabutan Peraturan Pemerintah
+  Nomor 70 Tahun 1992 Tentang Bank Umum Sebagaimana Telah Beberapa Kali Diubah Terakhir
+  Dengan Peraturan Pemerintah Nomor 73 Tahun 1998, Peraturan Pemerintah Nomor 71 Tahun
+  1992 Tentang Bank Perkreditan Rakyat, Dan Peraturan Pemerintah Nomor 72 Tahun 1992
+  Tentang Bank Berdasarkan Prinsip Bagi Hasil
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

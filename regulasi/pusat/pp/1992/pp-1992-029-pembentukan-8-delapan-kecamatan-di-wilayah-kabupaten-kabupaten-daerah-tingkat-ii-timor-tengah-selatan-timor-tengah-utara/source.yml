@@ -1,0 +1,25 @@
+id: pp-1992-029
+judul: Peraturan Pemerintah Nomor 29 Tahun 1992 tentang Pembentukan 8 (Delapan) Kecamatan
+  Di Wilayah Kabupaten-Kabupaten Daerah Tingkat Ii Timor Tengah Selatan, Timor Tengah
+  Utara, Belu, Ende, Ngada, Sikka, Dan Sumba Barat Dalam Wilayah Propinsi Daerah Tingkat
+  I Nusa Tenggara Timur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

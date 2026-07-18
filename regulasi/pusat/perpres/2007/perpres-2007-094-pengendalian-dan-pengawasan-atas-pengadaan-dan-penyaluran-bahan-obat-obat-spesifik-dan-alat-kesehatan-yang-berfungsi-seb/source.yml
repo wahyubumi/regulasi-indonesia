@@ -1,0 +1,24 @@
+id: perpres-2007-094
+judul: Peraturan Presiden Nomor 94 Tahun 2007 tentang Pengendalian Dan Pengawasan
+  Atas Pengadaan Dan Penyaluran Bahan Obat, Obat Spesifik Dan Alat Kesehatan Yang
+  Berfungsi Sebagai Obat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

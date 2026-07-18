@@ -1,0 +1,27 @@
+id: perpres-2020-074
+judul: Peraturan Presiden Nomor 74 Tahun 2020 tentang Pengesahan Persetujuan Antara
+  Pemerintah Republik Indonesia Dan Pemerintah Kerajaan Kamboja Untuk Penghindaran
+  Pajak Berganda Dan Pencegahan Pengelakan Pajak Yang Berkenaan Dengan Pajak-Pajak
+  Atas Penghasilan (Agreement Between The Government Of The Republic Of Indonesia
+  And The Royal Government Of Cambodia For The Avoidance Of Double Taxation And The
+  Prevention Of Fiscal Evasion With Respect To Taxes On Income)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

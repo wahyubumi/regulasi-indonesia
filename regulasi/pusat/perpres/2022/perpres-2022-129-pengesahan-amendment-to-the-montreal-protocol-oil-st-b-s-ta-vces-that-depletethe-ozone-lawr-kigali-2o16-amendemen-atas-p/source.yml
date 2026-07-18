@@ -1,0 +1,25 @@
+id: perpres-2022-129
+judul: Peraturan Presiden Nomor 129 Tahun 2022 tentang PENGESAHAN AMENDMENT TO THE
+  MONTREAL PROTOCOL Oil ST/B,S'TA]VCES THAT DEPLETETHE OZONE LAWR, KIGALI,2O16 (AMENDEMEN
+  ATAS PROTOKOL MOT.ITREAL TENTANG BAHAN-BAHAN YANG MERUSAK LAPISAN OZON, KIGALI,
+  2016)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

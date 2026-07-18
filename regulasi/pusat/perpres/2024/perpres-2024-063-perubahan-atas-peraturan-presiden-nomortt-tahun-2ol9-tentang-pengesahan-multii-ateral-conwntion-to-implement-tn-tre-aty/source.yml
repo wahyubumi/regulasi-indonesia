@@ -1,0 +1,26 @@
+id: perpres-2024-063
+judul: Peraturan Presiden Nomor 63 Tahun 2024 tentang PERUBAHAN ATAS PERATURAN PRESIDEN
+  NOMORTT TAHUN 2OL9 TENTANG PENGESAHAN MULTII.ATERAL CONWNTION TO IMPLEMENT TN( TRE,ATY
+  RBI.ATE,D ME,ASURES TO PREIr'r,NT BASE EROSIOJV AND PROFIT SH PTIN G (KO NVENSI
+  MULTI LATERAL UNTUK M ENERAPKAN TI NDAKAN- TINDAKAN TERKAIT DENGAN PERSETUJUAN PENGHINDARAN
+  PAJAK BERGANDA UNTUK MENCEGAH PENGGERUSAN BASIS PEMAJAKAN DAN PENGGESERAN LABA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

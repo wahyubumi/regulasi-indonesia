@@ -1,0 +1,25 @@
+id: pp-1976-002
+judul: Peraturan Pemerintah Nomor 2 Tahun 1976 tentang Pelaksanaan Undang-Undang Nomor
+  16 Tahun 1969 Tentang Susunan Dan Kedudukan Majelis Permusyawaratan Rakyat, Dewan
+  Perwakilan Rakyat Dan Dewan Perwakilan Rakyat Daerah Sebagaimana Diubah Dengan Undang-Undang
+  Nomor 5 Tahun 1975
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.
