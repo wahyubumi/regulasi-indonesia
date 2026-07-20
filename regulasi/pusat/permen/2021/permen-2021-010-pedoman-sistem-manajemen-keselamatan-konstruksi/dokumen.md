@@ -1,0 +1,1707 @@
+---
+id: "permen-2021-010"
+jenis: "permen"
+nomor: "10"
+tahun: 2021
+judul: "Peraturan Menteri Nomor 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 10 Tahun 2021 tentang Pedoman Sistem Manajemen Keselamatan Konstruksi
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 10
+tahun: 2021
+tentang: Pedoman Sistem Manajemen Keselamatan Konstruksi
+---
+
+<!-- PAGE: 1 -->
+
+               BERITA NEGARA
+             REPUBLIK INDONESIA
+No.286, 2021                   KEMEN-PUPR. Pedoman Sistem Manajemen
+                               Keselamatan Konstruksi. Pencabutan.
+
+
+   PERATURAN MENTERI PEKERJAAN UMUM DAN PERUMAHAN RAKYAT
+                              REPUBLIK INDONESIA
+                              NOMOR 10 TAHUN 2021
+                                      TENTANG
+      PEDOMAN SISTEM MANAJEMEN KESELAMATAN KONSTRUKSI
+
+
+                   DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+            MENTERI PEKERJAAN UMUM DAN PERUMAHAN RAKYAT
+                              REPUBLIK INDONESIA,
+
+
+
+
+Menimbang      :   a.   bahwa untuk melaksanakan ketentuan Pasal 84AK
+                        Peraturan Pemerintah Nomor 14 Tahun 2021 tentang
+                        Perubahan atas Peraturan Pemerintah Nomor 22 tahun
+                        Tahun 2020 tentang Peraturan Pelaksanaan Undang-
+                        Undang Nomor 2 Tahun 2017 tentang Jasa Konstruksi,
+                        perlu menetapkan Peraturan Menteri Pekerjaan Umum
+                        dan   Perumahan   Rakyat   tentang   Pedoman     Sistem
+                        Manajemen Keselamatan Konstruksi;
+
+
+Mengingat      : 1.     Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
+                        Indonesia Tahun 1945;
+                   2.   Undang-Undang     Nomor    39   Tahun    2008    tentang
+                        Kementerian    Negara   (Lembaran    Negara     Republik
+                        Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+                        Negara Republik Indonesia Nomor 4916);
+                   3.   Undang-Undang Nomor 2 Tahun 2017 tentang Jasa
+                        Konstruksi (Lembaran Negara Republik Indonesia Tahun
+                        2017 Nomor 11, Tambahan Lembaran Negara Republik
+
+<!-- PAGE: 2 -->
+
+2021, No.286                          -2-
+
+
+                    Indonesia Nomor 6018);
+               4.   Undang-Undang Nomor 11 Tahun 2020 tentang Cipta
+                    Kerja (Lembaran Negara Republik Indonesia Tahun 2020
+                    Nomor      245,    Tambahan      Lembaran      Negara Republik
+                    Indonesia Nomor 6573);
+               5.   Peraturan Pemerintah Nomor 22 Tahun 2020 tentang
+                    Peraturan Pelaksanaan Undang-Undang Nomor 2 Tahun
+                    2017    tentang      Jasa   Konstruksi    (Lembaran           Negara
+                    Republik Indonesia Tahun 2020 Nomor 107, Tambahan
+                    Lembaran       Negara    Nomor    6494)   sebagaimana          telah
+                    diubah dengan Peraturan Pemerintah Nomor 14 Tahun
+                    2021 tentang Perubahan atas Peraturan Pemerintah
+                    Nomor 22 Tahun 2020 tentang Peraturan Pelaksanaan
+                    Undang-Undang Nomor 2 Tahun 2017 tentang Jasa
+                    Konstruksi (Lembaran Negara Republik Indonesia Tahun
+                    2021 Nomor 24, Tambahan Lembaran Negara Republik
+                    Indonesia Nomor 6626);
+               6.   Peraturan Presiden Nomor 27 Tahun 2020 tentang
+                    Kementerian Pekerjaan Umum dan Perumahan Rakyat
+                    (Lembaran       Negara    Republik    Indonesia       Tahun    2020
+                    Nomor 40);
+               7.   Peraturan Menteri Pekerjaan Umum dan Perumahan
+                    Rakyat Nomor 13 Tahun 2020 tentang Organisasi dan
+                    Tata    Kerja      Kementerian       Pekerjaan        Umum      dan
+                    Perumahan Rakyat (Berita Negara Republik Indonesia
+                    Tahun 2020 Nomor 476);
+               8.   Peraturan Menteri Pekerjaan Umum dan Perumahan
+                    Rakyat Nomor 16 Tahun 2020 tentang Organisasi dan
+                    Tata   Kerja      Unit   Pelaksana    Teknis     di    Kementerian
+                    Pekerjaan Umum dan Perumahan Rakyat (Berita Negara
+                    Republik       Indonesia     Tahun      2020          Nomor     554)
+                    sebagaimana telah diubah dengan Peraturan Menteri
+                    Pekerjaan Umum dan Perumahan Rakyat Nomor 26
+                    Tahun 2020 tentang Perubahan atas Peraturan Menteri
+                    Pekerjaan Umum dan Perumahan Rakyat Nomor 16
+                    Tahun 2020 tentang Organisasi dan Tata Kerja Unit
+                    Pelaksana Teknis di Kementerian Pekerjaan Umum dan
+
+<!-- PAGE: 3 -->
+
+                                                                        2021, No.286
+                                    -3-
+
+
+                   Perumahan Rakyat (Berita Negara Republik Indonesia
+                   Tahun 2020 Nomor 1144);
+
+
+                               MEMUTUSKAN:
+Menetapkan   : PERATURAN          MENTERI        PEKERJAAN         UMUM        DAN
+              PERUMAHAN         RAKYAT         TENTANG     PEDOMAN          SISTEM
+              MANAJEMEN KESELAMATAN KONSTRUKSI.
+
+
+                                               BAB I
+                                      KETENTUAN UMUM
+
+
+                                               Pasal 1
+              Dalam Peraturan Menteri ini yang dimaksud dengan:
+              1.   Jasa     Konstruksi    adalah    layanan     jasa    Konsultansi
+                   Konstruksi dan/atau Pekerjaan Konstruksi.
+              2.   Pekerjaan Konstruksi adalah keseluruhan atau sebagian
+                   kegiatan yang meliputi pembangunan, pengoperasian,
+                   pemeliharaan,       pembongkaran,       dan      pembangunan
+                   kembali suatu bangunan.
+              3.   Sistem     Manajemen        Keselamatan      Konstruksi     yang
+                   selanjutnya disingkat SMKK adalah bagian dari sistem
+                   manajemen pelaksanaan Pekerjaan Konstruksi untuk
+                   menjamin terwujudnya Keselamatan Konstruksi.
+              4.   Standar     Keamanan,       Keselamatan,      Kesehatan,     dan
+                   Keberlanjutan      adalah     pedoman       teknis    keamanan,
+                   keselamatan, kesehatan tempat kerja konstruksi, dan
+                   perlindungan sosial tenaga kerja, serta tata lingkungan
+                   setempat dan pengelolaan lingkungan hidup dalam
+                   penyelenggaraan Jasa Konstruksi.
+              5.   Penjaminan Mutu dan Pengendalian Mutu Pekerjaan
+                   Konstruksi yang selanjutnya disebut PMPM Pekerjaan
+                   Konstruksi adalah bagian dari SMKK yang menjamin
+                   terlaksananya keselamatan keteknikan konstruksi guna
+                   mewujudkan proses dan hasil Jasa Konstruksi yang
+                   berkualitas.
+              6.   Pekerjaan      Konstruksi    Terintegrasi    adalah    gabungan
+                   Pekerjaan Konstruksi dan jasa Konsultansi Konstruksi.
+              7.   Pengguna Jasa adalah pemilik atau pemberi pekerjaan
+
+<!-- PAGE: 4 -->
+
+2021, No.286                         -4-
+
+
+                    yang menggunakan layanan Jasa Konstruksi.
+               8.   Penyedia Jasa adalah pemberi layanan Jasa Konstruksi
+               9.   Subpenyedia      Jasa     adalah     pemberi     layanan     Jasa
+                    Konstruksi kepada Penyedia Jasa.
+               10. Kontrak Kerja Konstruksi yang selanjutnya disebut
+                    Kontrak adalah keseluruhan dokumen kontrak yang
+                    mengatur hubungan hukum antara Pengguna Jasa dan
+                    Penyedia Jasa dalam penyelenggaraan Jasa Konstruksi.
+               11. Keselamatan        Konstruksi       adalah     segala      kegiatan
+                    keteknikan untuk mendukung Pekerjaan Konstruksi
+                    dalam mewujudkan pemenuhan Standar Keamanan,
+                    Keselamatan,      Kesehatan,       dan     Keberlanjutan     yang
+                    menjamin        keselamatan         keteknikan         konstruksi,
+                    keselamatan dan kesehatan tenaga kerja, keselamatan
+                    publik dan keselamatan lingkungan.
+               12. Rancangan Konseptual SMKK adalah dokumen telaah
+                    tentang Keselamatan Konstruksi yang disusun pada
+                    tahap pengkajian, perencanaan dan/atau perancangan.
+               13. Identifikasi     Bahaya,        Penilaian    Risiko,    Penentuan
+                    Pengendalian Risiko, dan Peluang yang selanjutnya
+                    disebut IBPRP adalah proses mengidentifikasi bahaya,
+                    menilai dan mengendalikan risiko, serta menilai peluang.
+               14. Rencana        Keselamatan      Konstruksi    yang      selanjutnya
+                    disingkat      RKK     adalah     dokumen       telaah     tentang
+                    Keselamatan Konstruksi yang memuat elemen SMKK
+                    yang   merupakan        satu     kesatuan    dengan      dokumen
+                    Kontrak.
+               15. Analisis     Keselamatan        Konstruksi    yang      selanjutnya
+                    disingkat AKK adalah metode dalam mengidentifikasi
+                    dan    mengendalikan      bahaya      berdasarkan        rangkaian
+                    pekerjaan dalam metode pelaksanaan kerja (work method
+                    statement).
+               16. Risiko Keselamatan Konstruksi adalah risiko Konstruksi
+                    yang memenuhi 1 (satu) atau lebih kriteria berupa
+                    besaran risiko pekerjaan, nilai kontrak, jumlah tenaga
+                    kerja, jenis alat berat yang dipergunakan dan tingkatan
+                    penerapan teknologi yang digunakan.
+
+<!-- PAGE: 5 -->
+
+                                                         2021, No.286
+                      -5-
+
+
+17. Penilaian     Risiko      Keselamatan      Konstruksi         adalah
+    perhitungan besaran potensi berdasarkan kemungkinan
+    adanya kejadian yang berdampak terhadap kerugian atas
+    konstruksi, jiwa manusia, keselamatan publik, dan
+    lingkungan yang dapat timbul dari sumber bahaya
+    tertentu, terjadi pada Pekerjaan Konstruksi.
+18. Program Mutu adalah dokumen rencana penerapan
+    Keselamatan Konstruksi yang memuat perencanaan
+    kegiatan penjaminan dan pengendalian mutu yang
+    disusun oleh Penyedia Jasa Konsultansi Konstruksi dan
+    merupakan satu kesatuan dalam Kontrak.
+19. Rencana Mutu Pekerjaan Konstruksi yang selanjutnya
+    disingkat    RMPK         adalah     dokumen      telaah     tentang
+    Keselamatan Konstruksi yang memuat uraian metode
+    pekerjaan,    rencana       inspeksi    dan      pengujian,    serta
+    pengendalian Subpenyedia Jasa dan pemasok, dan
+    merupakan satu kesatuan dengan dokumen kontrak.
+20. Rencana Kerja Pengelolaan dan Pemantauan Lingkungan
+    Hidup     yang    selanjutnya        disingkat    RKPPL       adalah
+    dokumen telaah tentang Keselamatan Konstruksi yang
+    memuat rona lingkungan, pengelolaan dan pemantauan
+    lingkungan yang merupakan pelaporan pelaksanaan
+    pengelolaan dan pemantauan lingkungan.
+21. Rencana      Manajemen        Lalu     Lintas    Pekerjaan     yang
+    selanjutnya disingkat RMLLP adalah dokumen telaah
+    tentang Keselamatan Konstruksi yang memuat analisis,
+    kegiatan dan koordinasi manajemen lalu lintas.
+22. Masa Pemeliharaan adalah kurun waktu dalam Kontrak
+    untuk melakukan pemeliharaan sejak tanggal serah
+    terima pertama pekerjaan sampai dengan tanggal serah
+    terima akhir pekerjaan.
+23. Unit Keselamatan Konstruksi yang selanjutnya disingkat
+    UKK     adalah     unit    pada      Penyedia     Jasa     Pekerjaan
+    Konstruksi       yang       bertanggung         jawab      terhadap
+    pelaksanaan SMKK dalam Pekerjaan Konstruksi.
+24. Pengadaan Langsung Jasa Konsultansi adalah metode
+    pemilihan        untuk      mendapatkan          Penyedia      Jasa
+    konsultansi       yang      bernilai     paling      banyak      Rp
+
+<!-- PAGE: 6 -->
+
+2021, No.286                        -6-
+
+
+                   100.000.000,00 (seratus juta rupiah).
+               25. Harga Perkiraan Sendiri yang selanjutnya disingkat HPS
+                   adalah perkiraan harga barang/jasa yang ditetapkan
+                   oleh    pejabat        pembuat      komitmen          yang   telah
+                   memperhitungkan biaya tidak langsung, keuntungan,
+                   pajak pertambahan nilai.
+               26. Biaya Penerapan SMKK adalah biaya yang diperlukan
+                   untuk menerapkan SMKK dalam penyelenggaraan Jasa
+                   Konstruksi.
+               27. Kecelakaan Konstruksi adalah suatu kejadian akibat
+                   kelalaian pada tahap Pekerjaan Konstruksi karena tidak
+                   terpenuhinya        Standar       Keamanan,           Keselamatan,
+                   Kesehatan     dan      Keberlanjutan,    yang    mengakibatkan
+                   kehilangan harta benda, waktu kerja, kematian, cacat
+                   tetap dan/atau kerusakan lingkungan.
+               28. Ahli   Keselamatan       dan   Kesehatan      Kerja     Konstruksi
+                   adalah tenaga ahli yang mempunyai kompetensi khusus
+                   di bidang keselamatan dan kesehatan kerja konstruksi
+                   dalam merencanakan, melaksanakan dan mengevaluasi
+                   SMKK yang dibuktikan dengan Sertifikat Kompetensi
+                   Kerja Konstruksi.
+               29. Ahli Keselamatan Konstruksi adalah tenaga ahli yang
+                   mempunyai kompetensi khusus di bidang Keselamatan
+                   Konstruksi dalam merencanakan, melaksanakan dan
+                   mengawasi penerapan SMKK yang dibuktikan dengan
+                   Sertifikat Kompetensi Kerja Konstruksi.
+               30. Petugas Keselamatan dan Kesehatan Kerja Konstruksi
+                   yang selanjutnya disebut Petugas K3 Konstruksi adalah
+                   petugas   yang      memiliki     Sertifikat   Kompetensi     Kerja
+                   Konstruksi yang diterbitkan oleh lembaga sertifikasi
+                   profesi atau instansi yang berwenang sesuai dengan
+                   ketentuan peraturan perundang-undangan.
+               31. Petugas Keselamatan Konstruksi adalah orang yang
+                   memiliki kompetensi khusus di bidang Keselamatan
+                   Konstruksi     dalam       melaksanakan         dan     mengawasi
+                   penerapan SMKK yang dibuktikan dengan Sertifikat
+                   Kompetensi Kerja Konstruksi.
+
+<!-- PAGE: 7 -->
+
+                                                                2021, No.286
+                       -7-
+
+
+32. Sertifikat Kompetensi Kerja Konstruksi adalah tanda
+      bukti pengakuan kompetensi tenaga kerja konstruksi.
+33. Menteri adalah menteri yang menyelenggarakan urusan
+      pemerintahan          di    bidang      pekerjaan         umum    dan
+      perumahan rakyat.
+
+
+                                    BAB II
+                            PENERAPAN SMKK
+
+
+                                 Bagian Kesatu
+                                    Umum
+
+
+                                    Pasal 2
+(1)   Setiap   Pengguna          Jasa   dan     Penyedia        Jasa   dalam
+      penyelenggaraan Jasa Konstruksi harus menerapkan
+      SMKK.
+(2)   Penerapan SMKK sebagaimana dimaksud pada ayat (1)
+      dilaksanakan berdasarkan tugas, tanggung jawab, dan
+      wewenang sebagaimana tercantum dalam Lampiran yang
+      merupakan bagian tidak terpisahkan dari Peraturan
+      Menteri ini.
+(3)   Penyedia       Jasa        yang   harus     menerapkan           SMKK
+      sebagaimana       dimaksud        pada     ayat     (1)    merupakan
+      penyedia yang memberikan layanan:
+      a.   konsultasi manajemen penyelenggaraan konstruksi;
+      b.   Konsultansi Konstruksi pengawasan;
+      c.   Pekerjaan Konstruksi; dan
+      d.   Pekerjaan Konstruksi Terintegrasi.
+(4)   Selain layanan sebagaimana dimaksud pada ayat (3),
+      Penyedia Jasa juga harus menerapkan SMKK dalam
+      memberikan layanan:
+      a.   pengkajian;
+      b.   perencanaan; dan
+      c.   perancangan.
+(5)   Penerapan SMKK sebagaimana dimaksud pada ayat (1)
+      harus    memenuhi           Standar     Keamanan,         Keselamatan,
+      Kesehatan, dan Keberlanjutan.
+
+<!-- PAGE: 8 -->
+
+2021, No.286                        -8-
+
+
+               (6)   Pemenuhan        Standar       Keamanan,     Keselamatan,
+                     Kesehatan, dan Keberlanjutan sebagaimana dimaksud
+                     pada ayat (5) dengan menjamin:
+                     a.   keselamatan keteknikan Konstruksi;
+                     b.   keselamatan dan kesehatan kerja;
+                     c.   keselamatan publik; dan
+                     d.   keselamatan lingkungan.
+               (7)   Sasaran atau objek keselamatan sebagaimana dimaksud
+                     pada ayat (6) huruf a terdiri atas:
+                     a.   bangunan dan/atau aset konstruksi; dan/atau
+                     b.   peralatan dan material.
+               (8)   Sasaran atau objek keselamatan sebagaimana dimaksud
+                     pada ayat (6) huruf b memiliki yang terdiri atas:
+                     a.   pemilik atau pemberi pekerjaan;
+                     b.   tenaga kerja konstruksi; dan
+                     c.   pemasok, tamu, dan Subpenyedia Jasa.
+               (9)   Sasaran atau objek keselamatan sebagaimana dimaksud
+                     pada ayat (6) huruf c terdiri atas:
+                     a.   masyarakat di sekitar proyek; dan
+                     b.   masyarakat terpapar.
+               (10) Sasaran atau objek keselamatan sebagaimana dimaksud
+                     pada ayat (6) huruf d terdiri atas:
+                     a.   lingkungan kerja;
+                     b.   lingkungan terdampak proyek;
+                     c.   lingkungan alam; dan
+                     d.   lingkungan terbangun.
+               (11) Penerapan SMKK sebagaimana dimaksud pada ayat (5)
+                     dimuat dalam dokumen SMKK yang terdiri atas :
+                     a.   Rancangan konseptual SMKK;
+                     b.   RKK;
+                     c.   RMPK;
+                     d.   Program Mutu;
+                     e.   RKPPL; dan
+                     f.   RMLLP.
+
+<!-- PAGE: 9 -->
+
+                                                          2021, No.286
+                        -9-
+
+
+                               Bagian Kedua
+                     Rancangan Konseptual SMKK
+
+
+                                  Pasal 3
+(1)   Dalam melakukan pekerjaan pengkajian, perencanaan,
+      dan perancangan, Penyedia Jasa konsultansi konstruksi
+      dan     Pekerjaan       Konstruksi     Terintegrasi     menyusun
+      Rancangan Konseptual SMKK sebagaimana tercantum
+      dalam     Lampiran        yang    merupakan        bagian    tidak
+      terpisahkan dari Peraturan Menteri ini.
+(2)   Dalam     menyusun         Rancangan          Konseptual    SMKK
+      sebagaimana dimaksud pada ayat (1), Penyedia Jasa
+      Konsultansi       Konstruksi     dan    Pekerjaan       Konstruksi
+      Terintegrasi    harus     memiliki     Ahli    Keselamatan    dan
+      Kesehatan Kerja Konstruksi, atau Ahli Keselamatan
+      Konstruksi.
+(3)   Dalam hal pekerjaan sebagaimana dimaksud pada ayat
+      (1)   dilakukan     dengan       Pengadaan       Langsung    Jasa
+      Konsultansi, tenaga ahli yang dilibatkan merangkap
+      sebagai    Ahli     Keselamatan        dan     Kesehatan     Kerja
+      Konstruksi dan/atau Ahli Keselamatan Konstruksi.
+
+
+                                  Pasal 4
+Rancangan Konseptual SMKK sebagaimana dimaksud dalam
+Pasal 3 ayat (1) yang disusun pada pekerjaan pengkajian dan
+perencanaan paling sedikit memuat:
+a.    lingkup     tanggung        jawab       pengkajian       dan/atau
+      perencanaan;
+b.    informasi awal terhadap kelaikan yang meliputi lokasi,
+      lingkungan,       sosio     ekonomi,         dan/atau      dampak
+      lingkungan; dan
+c.    rekomendasi teknis.
+
+
+                                  Pasal 5
+(1)   Rancangan Konseptual SMKK sebagaimana dimaksud
+      dalam Pasal 3 ayat (1) yang disusun pada pekerjaan
+      perancangan memuat:
+
+<!-- PAGE: 10 -->
+
+2021, No.286                         -10-
+
+
+                     a.   lingkup    tanggung    jawab       perancang,         termasuk
+                          pernyataan     bahwa    jika      terjadi    revisi    desain,
+                          tanggung jawab revisi desain dan dampaknya ada
+                          pada penyusun revisi;
+                     b.   metode pelaksanaan Pekerjaan Konstruksi ;
+                     c.   standar pemeriksaan dan pengujian;
+                     d.   rekomendasi rencana pengelolaan lingkungan hidup;
+                     e.   rencana manajemen lalu lintas, jika diperlukan;
+                     f.   IBPRP;
+                     g.   daftar    standar   dan/atau      peraturan     perundang-
+                          undangan Keselamatan Konstruksi yang ditetapkan
+                          untuk desain;
+                     h.   pernyataan penetapan tingkat risiko Keselamatan
+                          Konstruksi;
+                     i.   biaya SMKK serta kebutuhan personil keselamatan
+                          Konstruksi; dan
+                     j.   rancangan panduan keselamatan pengoperasian dan
+                          pemeliharaan konstruksi bangunan.
+               (2)   IBPRP sebagaimana dimaksud pada ayat (1) huruf f
+                     memuat penilaian risiko Keselamatan Konstruksi pada
+                     setiap tahapan pekerjaan yang dihitung dengan perkalian
+                     nilai tingkat kekerapan dan tingkat keparahan dampak
+                     bahaya.
+               (3)   Tingkat kekerapan dan tingkat keparahan sebagaimana
+                     dimaksud pada ayat (2) ditentukan berjenjang pada skala
+                     1 (satu) sampai dengan 5 (lima).
+               (4)   Pernyataan     penetapan     tingkat     Risiko     Keselamatan
+                     Konstruksi sebagaimana dimaksud pada ayat (1) huruf h
+                     ditentukan berdasarkan kriteria penentuan tingkat risiko
+                     keselamatan.
+               (5)   Dalam hal pekerjaan perancangan memiliki besaran
+                     kurang dari Rp50.000.000,00 (lima puluh juta rupiah),
+                     Rancangan Konseptual SMKK hanya memuat IBPRP.
+
+<!-- PAGE: 11 -->
+
+                                                           2021, No.286
+                        -11-
+
+
+                               Bagian Ketiga
+                                   RKK
+
+
+                                  Pasal 6
+(1)   Dalam melaksanakan Pekerjaan Konstruksi, Penyedia
+      Jasa menyusun RKK sebagaimana tercantum dalam
+      Lampiran yang merupakan bagian tidak terpisahkan dari
+      Peraturan Menteri ini.
+(2)   Setiap RKK memuat elemen SMKK yang terdiri atas:
+      a.     kepemimpinan dan partisipasi tenaga kerja dalam
+             Keselamatan Konstruksi;
+      b.     perencanaan Keselamatan Konstruksi;
+      c.     dukungan Keselamatan Konstruksi;
+      d.     operasi Keselamatan Konstruksi; dan
+      e.     evaluasi kinerja penerapan SMKK.
+(3)   RKK terdiri atas:
+      a.     RKK pengawasan;
+      b.     RKK     manajemen         penyelenggaraan      konstruksi;
+             dan/atau
+      c.     RKK pelaksanaan Pekerjaan Konstruksi.
+(4)   RKK pengawasan sebagaimana dimaksud pada ayat (3)
+      huruf     a   disusun     oleh    penyedia    jasa    konsultansi
+      pengawasan.
+(5)   RKK          manajemen       penyelenggaraan           konstruksi
+      sebagaimana dimaksud pada ayat (3) huruf b disusun
+      oleh     penyedia    jasa        manajemen     penyelenggaraan
+      konstruksi.
+(6)   RKK pelaksanaan Pekerjaan Konstruksi sebagaimana
+      dimaksud pada ayat (3) huruf c disusun oleh penyedia
+      jasa pekerjaan konstruksi.
+
+
+                                  Pasal 7
+(1)   Kepemimpinan        dan    partisipasi    tenaga     kerja     dalam
+      Keselamatan Konstruksi sebagaimana dimaksud dalam
+      Pasal 6 ayat (2) huruf a merupakan kegiatan penyusunan
+      kebijakan         untuk          mengembangkan               budaya
+      berkeselamatan,      yang        paling   sedikit    terdiri    atas
+      subelemen:
+
+<!-- PAGE: 12 -->
+
+2021, No.286                             -12-
+
+
+                     a.    kepedulian pimpinan terhadap isu eksternal dan
+                           internal;
+                     b.    organisasi pengelola SMKK;
+                     c.    komitmen Keselamatan Konstruksi             dan partisipasi
+                           tenaga kerja; dan
+                     d.    supervisi, training, akuntabilitas, sumber daya, dan
+                           dukungan.
+               (2)   Penyedia Jasa sebagaimana dimaksud dalam Pasal 2 ayat
+                     (3)   huruf     c    dan    huruf   d   menyusun      subelemen
+                     sebagaimana dimaksud pada ayat (1).
+               (3)   Penyedia Jasa sebagaimana dimaksud dalam Pasal 2 ayat
+                     (3) huruf a dan huruf b hanya menyusun subelemen
+                     sebagaimana dimaksud pada ayat (1) huruf c.
+
+
+                                                  Pasal 8
+               (1)   Elemen         perencanaan          Keselamatan       Konstruksi
+                     sebagaimana dimaksud dalam Pasal 6 ayat (2) huruf b
+                     merupakan kegiatan yang paling sedikit terdiri atas
+                     subelemen:
+                     a.    IBPRP;
+                     b.    rencana       tindakan   keteknikan,   manajemen,      dan
+                           tenaga kerja         yang tertuang dalam sasaran dan
+                           program; dan
+                     c.    pemenuhan standar dan peraturan perundangan-
+                           undangan Keselamatan Konstruksi.
+               (2)   Penyedia Jasa sebagaimana dimaksud dalam Pasal 2 ayat
+                     (3) menyusun subelemen sebagaimana dimaksud pada
+                     ayat (1).
+
+
+                                                  Pasal 9
+               (1)   Elemen dukungan Keselamatan Konstruksi sebagaimana
+                     dimaksud dalam Pasal 6 ayat (2) huruf c merupakan
+                     komponen pendukung Keselamatan Konstruksi yang
+                     terdiri atas subelemen:
+                     a.    sumber daya berupa teknologi, peralatan, material,
+                           dan biaya;
+                     b.    kompetensi tenaga kerja;
+
+<!-- PAGE: 13 -->
+
+                                                    2021, No.286
+                         -13-
+
+
+      c.    kepedulian organisasi;
+      d.    manajemen komunikasi; dan
+      e.    informasi terdokumentasi.
+(2)   Penyedia Jasa sebagaimana dimaksud dalam Pasal 2 ayat
+      (3)   huruf    c    dan   huruf   d   menyusun   subelemen
+      sebagaimana dimaksud pada ayat (1).
+(3)   Penyedia Jasa sebagaimana dimaksud dalam Pasal 2 ayat
+      (3) huruf a dan huruf b hanya menyusun subelemen
+      sebagaimana dimaksud pada ayat (1) huruf c.
+
+
+                                Pasal 10
+(1)   Elemen operasi Keselamatan Konstruksi sebagaimana
+      dimaksud dalam Pasal 6 ayat (2) huruf d merupakan
+      kegiatan dalam mengendalikan Keselamatan Konstruksi,
+      yang paling sedikit terdiri atas subelemen:
+      a.    perencanaan implementasi RKK;
+      b.    pengendalian operasi Keselamatan Konstruksi;
+      c.    kesiapan dan tanggapan terhadap kondisi darurat;
+            dan
+      d.    investigasi kecelakaan Konstruksi.
+(2)   Penyedia Jasa sebagaimana dimaksud dalam Pasal 2 ayat
+      (3)   huruf    c    dan   huruf   d   menyusun   subelemen
+      sebagaimana dimaksud pada ayat (1).
+(3)   Penyedia Jasa sebagaimana dimaksud dalam Pasal 2 ayat
+      (3) huruf a dan huruf b hanya menyusun subelemen
+      sebagaimana dimaksud pada ayat (1) huruf a dan huruf
+      b.
+
+
+                                Pasal 11
+(1)   Elemen evaluasi kinerja penerapan SMKK sebagaimana
+      dimaksud dalam Pasal 6 ayat (2) huruf e paling sedikit
+      terdiri atas subelemen:
+      a.    pemantauan atau inspeksi;
+      b.    audit;
+      c.    evaluasi;
+      d.    tinjauan manajemen; dan
+      e.    peningkatan kinerja Keselamatan Konstruksi.
+
+<!-- PAGE: 14 -->
+
+2021, No.286                             -14-
+
+
+               (2)   Penyedia Jasa sebagaimana dimaksud dalam Pasal 2 ayat
+                     (3)   huruf     c    dan   huruf     d     menyusun      subelemen
+                     sebagaimana dimaksud pada ayat (1).
+               (3)   Penyedia Jasa sebagaimana dimaksud dalam Pasal 2 ayat
+                     (3) huruf a dan huruf b hanya menyusun subelemen
+                     sebagaimana dimaksud pada ayat (1) huruf a.
+
+
+                                                Pasal 12
+               (1)   Dalam hal pekerjaan konsultansi pengawasan memiliki
+                     besaran kurang dari Rp100.000.000,00 (seratus juta
+                     rupiah), RKK pengawasan hanya memuat:
+                     a.    prosedur dan/atau instruksi kerja pengawasan;
+                     b.    formulir izin kerja yang telah ditandatangani; dan
+                     c.    laporan penerapan RKK pelaksanaan                   Pekerjaan
+                           Konstruksi.
+               (2)   Dalam hal pekerjaan pengawasan sebagaimana dimaksud
+                     pada ayat (1) dilakukan dengan Pengadaan Langsung
+                     Jasa Konsultansi, tenaga ahli yang dilibatkan merangkap
+                     sebagai    Ahli       Keselamatan        dan     Kesehatan    Kerja
+                     Konstruksi dan/atau Ahli Keselamatan Konstruksi.
+
+
+                                                Pasal 13
+               (1)   Setiap calon Penyedia Jasa Pekerjaan Konstruksi harus
+                     menyusun dan menyampaikan RKK penawaran dalam
+                     dokumen penawaran.
+               (2)   RKK penawaran sebagaimana dimaksud pada ayat (1)
+                     merupakan bagian persyaratan tender.
+               (3)   Dalam     hal       Penyedia     Jasa      Pekerjaan     Konstruksi
+                     sebagaimana dimaksud pada ayat (1) telah ditetapkan
+                     sebagai    pemenang        tender,       RKK    penawaran    harus
+                     dimutakhirkan menjadi RKK pelaksanaan.
+
+
+                                                Pasal 14
+               (1)   Dalam melakukan Pekerjaan Konstruksi dengan Risiko
+                     keselamatan         konstruksi     kecil       melalui   pengadaan
+                     langsung, Penyedia Jasa menyusun RKK sederhana.
+
+<!-- PAGE: 15 -->
+
+                                                      2021, No.286
+                     -15-
+
+
+(2)   RKK sederhana sebagaimana dimaksud pada ayat (1)
+      paling sedikit memuat:
+      a.   kebijakan Keselamatan Konstruksi;
+      b.   pengadaan alat pelindung diri dan alat pelindung
+           kerja;
+      c.   IBPRP sederhana;
+      d.   rambu keselamatan sesuai identifikasi bahaya; dan
+      e.   jadwal inspeksi.
+
+
+                           Bagian Keempat
+                     RMPK dan Program Mutu
+
+
+                               Pasal 15
+(1)   Setiap   Penyedia     Jasa     Pekerjaan   Konstruksi   wajib
+      menyusun PMPM Pekerjaan Konstruksi dalam RMPK
+      sebagaimana        tercantum      dalam    Lampiran     yang
+      merupakan bagian tidak terpisahkan dari Peraturan
+      Menteri ini.
+(2)   RMPK sebagaimana dimaksud pada ayat (1) paling sedikit
+      memuat:
+      a.   struktur organisasi Penyedia Jasa beserta hubungan
+           kerja antara Pengguna Jasa dan Subpenyedia Jasa;
+      b.   jadwal pelaksanaan pekerjaan;
+      c.   gambar dan spesifikasi teknis;
+      d.   tahapan pekerjaan;
+      e.   rencana metode pelaksanaan kerja (Work method
+           statement) terdiri atas komponen metode kerja,
+           tenaga kerja, material, alat, dan aspek Keselamatan
+           Konstruksi;
+      f.   rencana pemeriksaan dan pengujian;
+      g.   pengendalian Subpenyedia Jasa, meliputi kriteria
+           persyaratan     pemilihan    Subpenyedia    Jasa   yang
+           dilakukan oleh Penyedia Jasa pelaksana konstruksi
+           sesuai dengan ketentuan yang ditetapkan oleh
+           Pengguna Jasa; dan
+      h.   pengendalian pemasok meliputi jenis pekerjaan yang
+           dipasok, jumlah pemasok, kriteria, dan prosedur
+           pemilihan.
+
+<!-- PAGE: 16 -->
+
+2021, No.286                         -16-
+
+
+               (3)   Dalam pengendalian Subpenyedia Jasa dan pemasok
+                     sebagaimana dimaksud pada ayat (2) huruf g dan huruf
+                     h, penyedia jasa harus memastikan Kontrak memuat
+                     anggaran Biaya Penerapan SMKK sesuai kebutuhan.
+
+
+                                               Pasal 16
+               (1)   Setiap   Penyedia      Jasa    manajemen        penyelenggaraan
+                     konstruksi     dan/atau       pengawasan       harus   menyusun
+                     PMPM     Pekerjaan     Konstruksi       dalam    Program    Mutu
+                     sebagaimana      tercantum        dalam         Lampiran     yang
+                     merupakan bagian tidak terpisahkan dari Peraturan
+                     Menteri ini.
+               (2)   Program Mutu sebagaimana dimaksud pada ayat (1)
+                     paling sedikit memuat:
+                     a.   informasi kerja;
+                     b.   organisasi kerja yang menggambarkan hubungan
+                          Penyedia Jasa dan Pengguna Jasa;
+                     c.   jadwal    pelaksanaan      pekerjaan       termasuk   jadwal
+                          peralatan serta penugasan personel inti dan personel
+                          pendukung;
+                     d.   metode pelaksanaan kerja;
+                     e.   pengendalian       pekerjaan         terkait      kesesuaian
+                          pelaksanaan kegiatan dengan metode kerja; dan
+                     f.   laporan pekerjaan.
+
+
+                                               Pasal 17
+               (1)   Dalam    hal    Pekerjaan      Konstruksi       memiliki   Risiko
+                     Keselamatan     Konstruksi      kecil    dan    melalui    metode
+                     pengadaan langsung, RMPK hanya memuat metode
+                     pekerjaan, rencana pemeriksaan dan pengujian, dan
+                     jumlah dan jenis pemasok.
+               (2)   Dalam hal pekerjaan Konsultansi Konstruksi melalui
+                     Pengadaan Langsung Jasa Konsultansi, Program Mutu
+                     hanya memuat metode dan pengendalian pekerjaan.
+
+<!-- PAGE: 17 -->
+
+                                                         2021, No.286
+                       -17-
+
+
+                              Bagian kelima
+                                 RKPPL
+
+
+                                Pasal 18
+(1)   Untuk Pekerjaan Konstruksi dengan Risiko Keselamatan
+      Konstruksi sedang dan besar, setiap Penyedia Jasa
+      Pekerjaan      Konstruksi      wajib     menyusun         rencana
+      pengelolaan      lingkungan     dalam        dokumen       RKPPL
+      sebagaimana        tercantum        dalam     Lampiran      yang
+      merupakan bagian tidak terpisahkan dari Peraturan
+      Menteri ini.
+(2)   Dokumen RKPPL sebagaimana dimaksud pada ayat (1)
+      paling sedikit memuat:
+      a.   struktur organisasi;
+      b.   rona lingkungan awal sebelum dimulainya Pekerjaan
+           Konstruksi;
+      c.   rencana     kerja     pengelolaan       dan   pemantauan
+           lingkungan yang meliputi:
+           1.   lokasi rencana pengelolaan dan pemantauan;
+           2.   potensi dampak kegiatan pada lingkungan;
+           3.   kegiatan yang menimbulkan dampak; dan
+           4.   dokumen pengelolaan dan pemantauan
+                lingkungan;
+      d.   pelaporan          pelaksanaan         pengelolaan      dan
+           pemantauan lingkungan yang meliputi:
+           1.   lokasi pengelolaan dan pemantauan;
+           2.   kegiatan yang menimbulkan dampak;
+           3.   hasil pelaksanaan Pengelolaan;
+           4.   hasil pelaksanaan Pemantauan;
+           5.   evaluasi dan kesimpulan; dan
+           6.   dokumentasi        yang      menggambarkan         atau
+                menjelaskan rona akhir lingkungan.
+
+<!-- PAGE: 18 -->
+
+2021, No.286                             -18-
+
+
+                                                Bagian Keenam
+                                                       RMLLP
+
+
+                                                      Pasal 19
+               (1)   Untuk Pekerjaan Konstruksi dengan Risiko Keselamatan
+                     Konstruksi sedang dan besar, setiap Penyedia Jasa
+                     Pekerjaan        Konstruksi             wajib     menyusun        rencana
+                     manajemen           lalu       lintas     dalam     dokumen       RMLLP
+                     sebagaimana            tercantum          dalam      Lampiran       yang
+                     merupakan bagian tidak terpisahkan dari Peraturan
+                     Menteri ini.
+               (2)   RMLLP sebagaimana dimaksud pada ayat (1) paling
+                     sedikit memuat:
+                     a.     rencana manajemen lalu lintas pekerjaan, yang
+                            paling sedikit memuat:
+                            1.     analisis         arus     lalu    lintas    atau    metode
+                                   pelaksanaan sesuai dengan kebutuhan; dan
+                            2.     pelaksanaan kegiatan manajemen lalu lintas;
+                                   dan
+                     b.     pelaporan kegiatan.
+               (3)   Dalam hal pekerjaan konstruksi sebagaimana dimaksud
+                     pada ayat (1) tidak terkait dengan lalu lintas, RMLLP
+                     paling sedikit memuat penentuan lalu lintas di lokasi
+                     pekerjaan, pertimbangan kelas jalan, serta perambuan
+                     untuk keselamatan pekerja, dan pengguna jalan.
+               (4)   Penyusunan RMLLP sebagaimana dimaksud pada ayat (1)
+                     harus memperhatikan:
+                     a.     ketentuan mengenai kelebihan dimensi dan beban
+                            muatan; dan
+                     b.     analisis dampak lalu lintas, jika diperlukan.
+               (5)   Analisis arus lalu lintas sebagaimana dimaksud pada
+                     ayat    (2)    huruf       a    digunakan       sebagai   dasar    dalam
+                     penerapan manajemen lalu lintas.
+
+<!-- PAGE: 19 -->
+
+                                                        2021, No.286
+                        -19-
+
+
+                               Bagian Ketujuh
+              Penerapan SMKK Tahap Pembangunan
+
+
+                                 Paragraf 1
+                                  Umum
+
+
+                                  Pasal 20
+(1)   SMKK diterapkan pada tahapan:
+      a.   pemilihan Penyedia Jasa;
+      b.   pelaksanaan Pekerjaan Konstruksi; dan
+      c.   serah terima pekerjaan.
+(2)   Penerapan SMKK sebagaimana dimaksud pada ayat (1)
+      huruf      b    dan       huruf   c     dilaksanakan    dengan
+      memperhatikan ketentuan PMPM pekerjaan konstruksi
+      sebagaimana        tercantum       dalam     Lampiran       yang
+      merupakan bagian tidak terpisahkan dari Peraturan
+      Menteri ini.
+(3)   Tahapan serah terima pekerjaan sebagaimana dimaksud
+      pada ayat (1) huruf c meliputi:
+      a.   serah terima pertama pekerjaan
+      b.   masa pemeliharaan; dan
+      c.   serah terima akhir pekerjaan.
+
+
+                                 Paragraf 2
+                     Tahap Pemilihan Penyedia Jasa
+
+
+                                  Pasal 21
+(1)   Penerapan SMKK pada tahap pemilihan Penyedia Jasa
+      Pekerjaan Konstruksi oleh Pengguna Jasa sebagaimana
+      dimaksud dalam Pasal 20 ayat (1) huruf a dituangkan
+      dalam    dokumen          pemilihan     dengan    menilai   RKK
+      penawaran.
+(2)   Selain RKK penawaran sebagaimana dimaksud pada ayat
+      (1), dokumen pemilihan juga harus memuat evaluasi
+      terhadap       personil    manajerial     untuk    Keselamatan
+      Konstruksi.
+
+<!-- PAGE: 20 -->
+
+2021, No.286                            -20-
+
+
+               (3)   Dokumen pemilihan sebagaimana dimaksud pada ayat
+                     (1) harus memuat:
+                     a.     manajemen Risiko Keselamatan Konstruksi                 yang
+                            paling sedikit memuat uraian pekerjaan, identifikasi
+                            bahaya, dan penetapan tingkat Risiko Keselamatan
+                            Konstruksi pada Pekerjaan Konstruksi; dan
+                     b.     Biaya Penerapan SMKK pada HPS.
+               (4)   Penerapan SMKK sebagaimana dimaksud pada ayat (1)
+                     dijelaskan oleh Pengguna Jasa kepada Penyedia Jasa
+                     pada saat penjelasan dokumen.
+               (5)   RKK yang telah dinilai sebagaimana dimaksud ayat (1)
+                     harus dilengkapi dan disahkan pada saat rapat persiapan
+                     pelaksanaan kontrak.
+               (6)   Pengguna Jasa mengacu pada hasil dokumen pekerjaan
+                     jasa    Konsultansi        Konstruksi      perancangan    dan/atau
+                     berkonsultasi dengan ahli keselamatan dan kesehatan
+                     kerja Konstruksi dan/atau ahli Keselamatan Konstruksi
+                     dan/atau tenaga ahli yang membidangi Keselamatan
+                     Konstruksi         dalam     menetapkan        uraian     pekerjaan,
+                     identifikasi   bahaya,        dan    penetapan     tingkat    Risiko
+                     Keselamatan        Konstruksi       pada    Pekerjaan    Konstruksi
+                     sebagaimana dimaksud pada ayat (3) huruf a.
+               (7)   Personil    manajerial       untuk      Keselamatan      Konstruksi
+                     sebagaimana dimaksud pada ayat (2) harus memenuhi
+                     persyaratan:
+                     a.     untuk       Pekerjaan     Konstruksi      dengan       Risiko
+                            Keselamatan Konstruksi besar terdiri atas:
+                            1.   Ahli     Keselamatan        dan     Kesehatan      Kerja
+                                 Konstruksi       utama      atau   Ahli     Keselamatan
+                                 Konstruksi utama; atau
+                            2.   Ahli     Keselamatan        dan     Kesehatan      Kerja
+                                 Konstruksi       Madya      atau   Ahli     Keselamatan
+                                 Konstruksi madya dengan pengalaman paling
+                                 singkat 3 (tiga) tahun;
+                     b.     untuk       Pekerjaan     Konstruksi      dengan       Risiko
+                            Keselamatan Konstruksi sedang terdiri atas:
+
+<!-- PAGE: 21 -->
+
+                                                            2021, No.286
+                          -21-
+
+
+             1.    Ahli     Keselamatan       dan    Kesehatan       Kerja
+                   Konstruksi      madya      atau   Ahli   Keselamatan
+                   Konstruksi madya; atau
+             2.    Ahli     Keselamatan       dan    Kesehatan       Kerja
+                   Konstruksi      muda    atau      Ahli   Keselamatan
+                   Konstruksi      muda dengan pengalaman paling
+                   sedikit 3 (tiga) tahun; dan
+      c.     untuk        Pekerjaan    Konstruksi        dengan     Risiko
+             Keselamatan Konstruksi kecil terdiri atas:
+             1.    Ahli     Keselamatan       dan    Kesehatan       Kerja
+                   Konstruksi      muda    atau      Ahli   Keselamatan
+                   Konstruksi muda; atau
+             2.    Petugas Keselamatan Konstruksi.
+(8)   Biaya Penerapan SMKK sebagaimana dimaksud pada
+      ayat (3) huruf b harus dimasukkan pada daftar kuantitas
+      dan     harga       dengan    besaran     biaya    sesuai     dengan
+      kebutuhan berdasarkan pengendalian dalam RKK.
+
+
+                                   Pasal 22
+(1)   Dalam         hal      pengadaan        Pekerjaan       Konstruksi
+      menggunakan metode sistem harga terendah, Penyedia
+      Jasa        yang    tidak    menyampaikan         perkiraan    Biaya
+      Penerapan SMKK dinyatakan gugur.
+(2)   Dalam         hal      pengadaan        Pekerjaan       Konstruksi
+      menggunakan metode sistem nilai, Penyedia Jasa yang
+      tidak menyampaikan perkiraan Biaya Penerapan SMKK
+      nilai penawaran biayanya dinilai nol.
+
+
+                                   Pasal 23
+(1)   Penerapan SMKK dalam tahap pemilihan Penyedia Jasa
+      pengawasan            atau      manajemen         penyelenggaraan
+      konstruksi oleh Pengguna Jasa sebagaimana dimaksud
+      dalam Pasal 20 ayat (1) huruf a dituangkan dalam
+      dokumen pemilihan.
+(2)   Dokumen pemilihan sebagaimana dimaksud pada ayat
+      (1) paling sedikit harus memuat:
+
+<!-- PAGE: 22 -->
+
+2021, No.286                            -22-
+
+
+                     a.     identifikasi bahaya dan pengendalian risiko terhadap
+                            aktivitas      pengawasan         atau       manajemen
+                            penyelenggaraan       pekerjaan     sesuai     tahapan
+                            Pekerjaan Konstruksi;
+                     b.     tenaga ahli untuk Keselamatan Konstruksi; dan
+                     c.     Biaya Penerapan SMKK pada HPS.
+               (3)   Biaya Penerapan SMKK sebagaimana dimaksud pada
+                     ayat (2) huruf c pada jenis kontrak waktu penugasan
+                     disampaikan dalam biaya langsung nonpersonil.
+               (4)   Biaya Penerapan SMKK sebagaimana dimaksud pada
+                     ayat (2) huruf c pada jenis kontrak lumsum disampaikan
+                     dalam keluaran komponen penerapan SMKK dan daftar
+                     keluaran dan harga.
+               (5)   Penerapan SMKK sebagaimana dimaksud pada ayat (1)
+                     dijelaskan oleh Pengguna Jasa kepada Penyedia Jasa
+                     pada saat penjelasan dokumen.
+
+
+                                               Paragraf 3
+                             Tahap Pelaksanaan Pekerjaan Konstruksi
+
+
+                                               Pasal 24
+               (1)   Penerapan SMKK pada tahapan pelaksanaan Pekerjaan
+                     Konstruksi sebagaimana dimaksud dalam Pasal 20 ayat
+                     (1) huruf b dilakukan dengan melaksanakan RKK, RMPK,
+                     Program Mutu, RKPPL, dan RMLLP.
+               (2)   Pelaksanaan RKK, RMPK, Program Mutu, RKPPL, dan
+                     RMLLP sebagaimana dimaksud pada ayat (1) harus
+                     disesuaikan dengan lingkup pekerjaan dan kondisi di
+                     lapangan.
+               (3)   RKK yang berupa RKK pelaksanaan, RMPK, Program
+                     Mutu, RKPPL, dan RMLLP sebagaimana dimaksud pada
+                     ayat     (2)   disampaikan     oleh    pelaksana     Pekerjaan
+                     Konstruksi untuk diperiksa, dibahas, atau direviu oleh
+                     konsultan Pengawas/direksi teknis/Pengguna Jasa.
+               (4)   RKK yang berupa RKK pelaksanaan , RMPK, Program
+                     Mutu, RKPPL, dan RMLLP yang telah diperiksa, dibahas,
+                     atau direviu sebagaimana dimaksud pada ayat (3)
+
+<!-- PAGE: 23 -->
+
+                                                           2021, No.286
+                       -23-
+
+
+      disetujui     oleh     Konsultan        Manajemen        Konstruksi
+      dan/atau Pengguna Jasa dan Penyedia Jasa pada saat
+      rapat persiapan pelaksanaan Pekerjaan Konstruksi.
+(5)   Program Mutu, RKK yang berupa RKK pengawasan dan
+      RKK         manajemen           penyelenggaraan          konstruksi
+      sebagaimana dimaksud pada ayat (2) disampaikan oleh
+      konsultan       Pengawas        atau    Konsultan        Manajemen
+      Konstruksi,     diperiksa,      dibahas,    atau     direviu    oleh
+      pelaksana Pekerjaan Konstruksi/Pengguna Jasa, dan
+      disetujui     oleh     Konsultan        Manajemen        Konstruksi
+      dan/atau Pengguna Jasa dan Penyedia Jasa pada saat
+      rapat persiapan pelaksanaan Pekerjaan.
+
+
+                                 Pasal 25
+(1)   Dalam tahap pelaksanaan Pekerjaan Konstruksi, RKK,
+      RMPK,       Program    Mutu,     RKPPL,     dan    RMLLP       harus
+      disesuaikan dengan perubahan lingkup dan kondisi pada
+      saat pelaksanaan pekerjaan.
+(2)   Penyesuaian RKK, RMPK, Program Mutu, RKPPL, dan
+      RMLLP sebagaimana dimaksud pada ayat (1) harus
+      mendapatkan persetujuan dari Pengguna Jasa.
+(3)   Pengguna Jasa melakukan pengawasan pelaksanaan
+      RKK, RMPK, Program Mutu, RKPPL dan RMLLP, serta
+      mengevaluasi          kinerja       penerapan      SMKK        yang
+      dilaksanakan oleh Penyedia Jasa.
+(4)   Dalam        melakukan          pengawasan         dan      evaluasi
+      sebagaimana dimaksud pada ayat (3), Pengguna Jasa
+      dapat dibantu oleh Ahli Keselamatan dan Kesehatan
+      Kerja Konstruksi, ahli Keselamatan Konstruksi, tenaga
+      ahli   teknis    yang     terkait      Keselamatan       Konstruksi,
+      dan/atau petugas Keselamatan Konstruksi.
+
+
+                                 Pasal 26
+(1)   Penyedia Jasa harus menerapkan AKK untuk pekerjaan
+      yang mempunyai tingkat risiko besar dan/atau sedang
+      dan pekerjaan bersifat khusus sesuai dengan metode
+      kerja Konstruksi yang terdapat dalam RKK.
+
+<!-- PAGE: 24 -->
+
+2021, No.286                         -24-
+
+
+               (2)   Pekerjaan bersifat khusus sebagaimana dimaksud pada
+                     ayat (1) paling sedikit terdiri atas:
+                     a.   pekerjaan panas/menimbulkan percikan api;
+                     b.   pekerjaan pengangkatan;
+                     c.   pekerjaan di ruang terbatas;
+                     d.   pekerjaan menyelam;
+                     e.   pekerjaan di malam hari;
+                     f.   pekerjaan di ketinggian lebih dari 1,80 (satu koma
+                          delapan puluh) meter;
+                     g.   pekerjaan menggunakan perancah;
+                     h.   pekerjaan dengan menggunakan radiography;
+                     i.   pekerjaan bertegangan listrik; dan
+                     j.   pekerjaan penggalian atau kedalaman.
+               (3)   AKK sebagaimana dimaksud pada ayat (1) disusun oleh
+                     Ahli Keselamatan dan Kesehatan Kerja Konstruksi, Ahli
+                     Keselamatan Konstruksi, tenaga ahli teknis yang terkait
+                     Keselamatan Konstruksi, dan/atau Petugas Keselamatan
+                     Konstruksi
+               (4)   AKK sebagaimana dimaksud pada ayat (1) harus ditinjau
+                     kembali oleh Ahli Keselamatan dan Kesehatan Kerja
+                     Konstruksi,    Ahli    Keselamatan      Konstruksi,   dan/atau
+                     tenaga ahli yang membidangi Keselamatan Konstruksi
+                     dalam hal terjadi perubahan metode kerja, situasi,
+                     pengamanan, dan sumber daya manusia.
+               (5)   Hasil peninjauan kembali sebagaimana dimaksud pada
+                     ayat (4) harus mendapatkan persetujuan dari Pengguna
+                     Jasa dan ahli teknik sesuai bidangnya yang ditunjuk oleh
+                     Penyedia Jasa Pelaksana Konstruksi.
+
+
+                                              Pasal 27
+               Dalam tahap pelaksanaan pekerjaan konstruksi, Rencana
+               metode pelaksanaan kerja, AKK serta rencana pemeriksaan
+               dan pengujian merupakan komponen yang digunakan sebagai
+               bagian dari persyaratan izin kerja.
+
+<!-- PAGE: 25 -->
+
+                                                           2021, No.286
+                       -25-
+
+
+                                Pasal 28
+(1)   Penyedia      Jasa     Pelaksana     Konstruksi           melaporkan
+      pelaksanaan RKK, RMPK, Program Mutu, RKPPL, dan
+      RMLLP sebagaimana dimaksud dalam Pasal 24 ayat (1)
+      kepada      Pengguna     Jasa    sesuai       dengan       kemajuan
+      pekerjaan.
+(2)   Laporan sebagaimana dimaksud pada ayat (1) berupa
+      laporan:
+      a.   harian;
+      b.   mingguan;
+      c.   bulanan; dan
+      d.   akhir.
+(3)   Laporan sebagaimana dimaksud pada ayat (2) dilengkapi
+      dengan dokumentasi foto dan/atau audio visual.
+
+
+                                Pasal 29
+(1)   Berdasarkan hasil pengawasan pelaksanaan RKK, RMPK,
+      Program       Mutu,    RKPPL,    dan     RMLLP        sebagaimana
+      dimaksud       dalam    Pasal   25     ayat    (3)   dan     laporan
+      sebagaimana      dimaksud       dalam     Pasal      28    ayat   (1),
+      Pengguna Jasa melaksanakan evaluasi kinerja penerapan
+      SMKK setiap bulan.
+(2)   Evaluasi sebagaimana dimaksud pada ayat (1) untuk
+      menjamin kesesuaian dan keefektifan pelaksanaan dan
+      penerapan RKK, RMPK, Program Mutu, RKPPL, dan
+      RMLLP.
+(3)   Penyedia       Jasa      Pelaksana        Konstruksi           harus
+      melaksanakan peningkatan kinerja sesuai hasil evaluasi
+      kinerja penerapan SMKK sebagaimana dimaksud pada
+      ayat (1).
+
+
+                               Paragraf 4
+                    Tahap Serah Terima Pekerjaan
+
+
+                                Pasal 30
+(1)   Penerapan SMKK dalam tahap serah terima pertama
+      pekerjaan sebagaimana dimaksud dalam Pasal 20 ayat (3)
+
+<!-- PAGE: 26 -->
+
+2021, No.286                          -26-
+
+
+                     huruf     a     dilakukan     oleh     Konsultan     Manajemen
+                     Konstruksi/pengawasan dan Penyedia Jasa Pelaksana
+                     Konstruksi.
+               (2)   Penerapan SMKK sebagaimana dimaksud pada ayat (1)
+                     dilakukan       dengan      menyampaikan        dokumen      hasil
+                     penerapan SMKK.
+               (3)   Selain melampirkan dokumen sebagaimana dimaksud
+                     pada ayat (2), dokumen hasil penerapan SMKK juga
+                     melampirkan RMLLP.
+               (4)   Dokumen hasil penerapan SMKK sebagaimana dimaksud
+                     pada ayat (2) disampaikan kepada Pengguna Jasa dan
+                     menjadi bagian yang tidak terpisahkan dalam berita
+                     acara serah terima pertama pekerjaan.
+
+
+                                                 Pasal 31
+               (1)   Penerapan        SMKK        dalam      Masa       Pemeliharaan
+                     sebagaimana dimaksud dalam Pasal 20 ayat (3) huruf b
+                     dilakukan oleh Penyedia Jasa Pelaksana Konstruksi
+                     dengan        menerapkan      elemen    operasi    Keselamatan
+                     Konstruksi sebagaimana dimaksud dalam Pasal 10.
+               (2)   Untuk menerapkan SMKK dalam Masa Pemeliharaan
+                     sebagaimana dimaksud pada ayat (1), Pengguna Jasa
+                     harus merujuk pada:
+                     a.   gambar terpasang dan dokumen terlaksana; dan
+                     b.   panduan keselamatan operasi dan pemeliharaan
+                          Konstruksi bangunan yang sudah memperhitungkan
+                          Keselamatan        Konstruksi       yang     disusun    oleh
+                          Penyedia Jasa Pekerjaan Konstruksi berdasarkan
+                          hasil gambar terpasang dan RKK yang sudah
+                          dimutakhirkan.
+               (3)   Laporan       penerapan     SMKK       sebagaimana    ayat     (1)
+                     disampaikan       kepada     Pengguna     Jasa     dalam    Masa
+                     Pemeliharaan dan menjadi bagian yang tidak terpisahkan
+                     dalam laporan pelaksanaan pemeliharaan.
+
+<!-- PAGE: 27 -->
+
+                                                      2021, No.286
+                      -27-
+
+
+                              Pasal 32
+(1)   Penerapan SMKK dalam tahapan serah terima pekerjaan
+      dilakukan dengan menyerahkan dokumen:
+      a.    laporan pelaksanaan RKK sebagaimana tercantum
+            dalam Lampiran yang merupakan bagian tidak
+            terpisahkan dari Peraturan Menteri ini;
+      b.    dokumen RMPK;
+      c.    dokumen Program Mutu; dan
+      d.    dokumen RKPPL.
+(2)   Selain menyerahkan dokumen sebagaimana dimaksud
+      pada ayat (1), Penyedia Jasa juga menyerahkan dokumen
+      RMLLP.
+(3)   Dalam tahap serah terima akhir pekerjaan, Pengguna
+      Jasa mengeluarkan surat keterangan nihil kecelakaan
+      Konstruksi sebagaimana tercantum dalam Lampiran
+      yang merupakan bagian tidak terpisahkan dari Peraturan
+      Menteri ini kepada Penyedia Jasa Pelaksana Konstruksi
+      bagi Pekerjaan Konstruksi yang telah diselesaikan tanpa
+      adanya    kecelakaan   Konstruksi    berdasarkan       laporan
+      akhir pelaksanaan RKK.
+(4)   Dalam hal terjadi kecelakaan, surat keterangan nihil
+      kecelakaan Konstruksi sebagaimana dimaksud pada ayat
+      (3)   mencantumkan     kejadian    Kecelakaan     Konstruksi
+      beserta surat peringatan yang disusun sesuai dengan
+      komponen kegiatan penerapan SMKK.
+(5)   Penyedia Jasa Pekerjaan Konstruksi harus melampirkan
+      panduan operasi dan pemeliharaan yang merupakan
+      pemutakhiran rancangan konseptual SMKK pada tahap
+      perancangan     yang   merupakan     bagian     dari   laporan
+      penerapan SMKK.
+(6)   Dalam hal ditemukan kondisi yang menyimpang dari
+      standar    dan/atau    ketentuan    peraturan     perundang-
+      undangan, panduan keselamatan pengoperasian dan
+      pemeliharaan konstruksi bangunan harus dikaji ulang
+      oleh pengkaji teknis atau tim laik fungsi yang ditunjuk
+      oleh Pengguna Jasa.
+
+<!-- PAGE: 28 -->
+
+2021, No.286                          -28-
+
+
+                                                  BAB III
+                          KOMPONEN KEGIATAN PENERAPAN SMKK
+
+
+                                             Bagian Kesatu
+                                                 Umum
+
+
+                                                 Pasal 33
+               Komponen kegiatan penerapan SMKK merupakan penjelasan
+               penerapan SMKK yang paling sedikit terdiri atas:
+               a.    Risiko Keselamatan Konstruksi;
+               b.    UKK; dan
+               c.    Biaya Penerapan SMKK.
+
+
+                                              Bagian Kedua
+                                    Risiko Keselamatan Konstruksi
+
+
+                                                 Pasal 34
+               (1)   Risiko Keselamatan Konstruksi sebagaimana dimaksud
+                     dalam Pasal 33 huruf a terdiri atas:
+                     a.   kecil;
+                     b.   sedang; dan
+                     c.   besar.
+               (2)   Tingkat Risiko Keselamatan Konstruksi sebagaimana
+                     dimaksud pada ayat (1) ditetapkan oleh Pengguna Jasa
+                     sesuai   dengan         kriteria   penentuan        tingkat   risiko
+                     Keselamatan Konstruksi sebagaimana tercantum dalam
+                     Lampiran yang merupakan bagian tidak terpisahkan dari
+                     Peraturan Menteri ini.
+               (3)   Risiko   Keselamatan         Konstruksi     kecil     sebagaimana
+                     dimaksud pada ayat (1) huruf a harus memenuhi kriteria
+                     sebagai berikut:
+                     a.   bersifat berbahaya rendah berdasarkan penilaian
+                          tingkat risiko dalam RKK             yang ditetapkan oleh
+                          Pengguna Jasa berdasarkan perhitungan;
+                     b.   Pekerjaan Konstruksi dengan nilai harga perkiraan
+                          sendiri      sampai       dengan     Rp10.000.000.000,00
+                          (sepuluh miliar rupiah);
+
+<!-- PAGE: 29 -->
+
+                                                    2021, No.286
+                     -29-
+
+
+      c.   mempekerjakan tenaga kerja yang berjumlah kurang
+           dari 25 (dua puluh lima) orang; dan/atau
+      d.   Pekerjaan Konstruksi yang menggunakan teknologi
+           sederhana.
+(4)   Risiko Keselamatan Konstruksi      sedang sebagaimana
+      dimaksud pada ayat (1) huruf b harus memenuhi kriteria
+      sebagai berikut:
+      a.   bersifat berbahaya sedang berdasarkan penilaian
+           tingkat risiko dalam RKK      yang ditetapkan oleh
+           Pengguna Jasa berdasarkan perhitungan;
+      b.   Pekerjaan Konstruksi dengan nilai harga perkiraan
+           sendiri di atas Rp10.000.000.000,00 (sepuluh miliar
+           rupiah)   sampai    dengan   Rp100.000.000.000,00
+           (seratus miliar rupiah);
+      c.   mempekerjakan tenaga kerja yang berjumlah 25
+           (dua puluh lima) orang sampai dengan 100 (seratus)
+           orang; dan/atau
+      d.   Pekerjaan Konstruksi yang menggunakan teknologi
+           madya.
+(5)   Risiko Keselamatan Konstruksi       besar sebagaimana
+      dimaksud pada ayat (1) huruf c harus memenuhi kriteria
+      sebagai berikut:
+      a.   bersifat berbahaya tinggi berdasarkan penilaian
+           tingkat risiko dalam RKK      yang ditetapkan oleh
+           Pengguna Jasa berdasarkan perhitungan;
+      b.   Pekerjaan Konstruksi dengan nilai HPS di atas
+           Rp100.000.000.000,00 (seratus miliar rupiah);
+      c.   mempekerjakan tenaga kerja yang berjumlah lebih
+           dari 100 (seratus) orang;
+      d.   menggunakan peralatan berupa pesawat angkat;
+      e.   menggunakan        metode    peledakan      dan/atau
+           menyebabkan terjadinya peledakan; dan/atau
+      f.   Pekerjaan Konstruksi yang menggunakan teknologi
+           tinggi.
+(6)   Dalam hal suatu Pekerjaan Konstruksi memenuhi lebih
+      dari 1 (satu) kriteria Risiko Keselamatan Konstruksi
+      sebagaimana dimaksud pada ayat (1), penentuan Risiko
+
+<!-- PAGE: 30 -->
+
+2021, No.286                         -30-
+
+
+                     Keselamatan Konstruksi ditentukan dengan memilih
+                     Risiko Keselamatan Konstruksi yang lebih tinggi.
+               (7)   Pada Pekerjaan Konstruksi yang menggunakan metode
+                     padat karya atau menggunakan banyak tenaga kerja
+                     namun sedikit penggunaan peralatan mesin, kebutuhan
+                     Personel Keselamatan Konstruksi ditentukan oleh RKK.
+
+
+                                              Bagian Kedua
+                                   Unit Keselamatan Konstruksi
+
+
+                                                Pasal 35
+               (1)   Dalam menerapkan SMKK, Penyedia Jasa Pekerjaan
+                     Konstruksi      harus     membentuk       UKK        sebagaimana
+                     dimaksud dalam Pasal 33 huruf b.
+               (2)   UKK sebagaimana dimaksud pada ayat (1) bertanggung
+                     jawab   kepada     unit     yang      menangani      Keselamatan
+                     Konstruksi di bawah pimpinan tertinggi Penyedia Jasa.
+               (3)   UKK sebagaimana dimaksud pada ayat (1) terdiri atas:
+                     a.   pimpinan; dan
+                     b.   anggota.
+               (4)   Tanggung      jawab       penerapan      pengendalian      mutu
+                     Pekerjaan Konstruksi melekat pada pimpinan tertinggi
+                     Penyedia Jasa dan pimpinan UKK.
+
+
+                                                Pasal 36
+               (1)   Pimpinan UKK sebagaimana dimaksud dalam Pasal 35
+                     ayat (3) huruf a harus memiliki kompetensi kerja yang
+                     dibuktikan dengan Sertifikat Kompetensi Kerja di bidang
+                     Keselamatan dan Kesehatan Kerja Konstruksi dan/atau
+                     Keselamatan Konstruksi.
+               (2)   Pimpinan UKK sebagaimana dimaksud pada ayat (1)
+                     berkoordinasi    dengan      pimpinan     tertinggi    Pekerjaan
+                     Konstruksi.
+               (3)   Dalam hal Pekerjaan Konstruksi berisiko Keselamatan
+                     Konstruksi      kecil,     Pimpinan      tertinggi     Pekerjaan
+                     Konstruksi dapat merangkap sebagai pimpinan UKK.
+
+<!-- PAGE: 31 -->
+
+                                                          2021, No.286
+                         -31-
+
+
+(4)   Dalam hal Pekerjaan Konstruksi berisiko Keselamatan
+      Konstruksi sedang atau besar, Penyedia Jasa Pekerjaan
+      Konstruksi harus membentuk UKK yang terpisah dari
+      struktur organisasi Pekerjaan Konstruksi.
+(5)   Persyaratan pimpinan UKK sebagaimana dimaksud pada
+      ayat     (1)    dituangkan      dalam       persyaratan    personil
+      manajerial untuk Keselamatan Konstruksi sebagaimana
+      dimaksud dalam Pasal 21 ayat (7).
+
+
+                                   Pasal 37
+(1)   Anggota sebagaimana dimaksud dalam Pasal 35 ayat (3)
+      huruf b harus memiliki kompetensi kerja yang dibuktikan
+      dengan         kepemilikan     Sertifikat     Kompetensi     Kerja
+      Konstruksi.
+(2)   Anggota sebagaimana dimaksud ayat (1) terdiri atas:
+      a.     ahli Keselamatan Konstruksi;
+      b.     ahli Keselamatan dan Kesehatan Kerja Konstruksi;
+      c.     petugas Keselamatan Konstruksi atau Petugas K3
+             Konstruksi;
+      d.     petugas tanggap darurat;
+      e.     petugas pemadam kebakaran;
+      f.     petugas pertolongan pertama pada kecelakaan;
+      g.     petugas pengatur lalu lintas;
+      h.     tenaga kesehatan; dan
+      i.     petugas pengelolaan lingkungan.
+(3)   Sertifikat Kompetensi Kerja Konstruksi untuk anggota
+      sebagaimana dimaksud pada ayat (2) huruf a, huruf b,
+      dan huruf c diterbitkan oleh lembaga sertifikasi profesi.
+(4)   Sertifikat Kompetensi Kerja Konstruksi untuk anggota
+      sebagaimana dimaksud pada ayat (2) huruf d, huruf e,
+      huruf f, huruf g, huruf h, dan huruf i diterbitkan oleh
+      pejabat yang berwenang.
+(5)   Penentuan anggota sebagaimana dimaksud pada ayat (2)
+      dilakukan berdasarkan kebutuhan pengendalian risiko
+      pada Pekerjaan Konstruksi.
+
+<!-- PAGE: 32 -->
+
+2021, No.286                         -32-
+
+
+                                               Pasal 38
+               (1)   Dalam    hal    Pekerjaan      Konstruksi    memiliki    Risiko
+                     Keselamatan Konstruksi kecil sebagaimana dimaksud
+                     dalam Pasal 34 ayat (3), perbandingan jumlah personil
+                     Keselamatan Konstruksi dengan jumlah tenaga kerja
+                     konstruksi berupa 1:60 (satu banding enam puluh)
+                     dengan paling sedikit 1 (satu) Petugas Keselamatan
+                     Konstruksi dalam tiap Pekerjaan Konstruksi.
+               (2)   Dalam    hal    Pekerjaan      Konstruksi    memiliki    Risiko
+                     Keselamatan Konstruksi sedang sebagaimana dimaksud
+                     dalam Pasal 34 ayat (4), perbandingan jumlah personil
+                     Keselamatan Konstruksi dengan jumlah tenaga kerja
+                     konstruksi berupa 1:50 (satu banding lima puluh)
+                     dengan paling sedikit 1 (satu) ahli Keselamatan dan
+                     Kesehatan Kerja Konstruksi dan/atau ahli Keselamatan
+                     Konstruksi muda dalam tiap Pekerjaan Konstruksi
+               (3)   Dalam    hal    Pekerjaan      Konstruksi    memiliki    Risiko
+                     Keselamatan Konstruksi besar sebagaimana dimaksud
+                     dalam Pasal 34 ayat (5), perbandingan jumlah personil
+                     Keselamatan Konstruksi dengan jumlah tenaga kerja
+                     konstruksi berupa 1:40 (satu banding empat puluh)
+                     dengan paling sedikit 1 (satu) ahli keselamatan dan
+                     kesehatan      kerja    konstruksi    muda    dan/atau     ahli
+                     Keselamatan      Konstruksi     muda     dengan   pengalaman
+                     paling singkat 3 (tiga) tahun           dalam tiap Pekerjaan
+                     Konstruksi.
+               (4)   Pekerjaan Konstruksi yang memiliki Risiko Keselamatan
+                     Konstruksi besar dengan kriteria mempekerjakan lebih
+                     dari 100 (seratus) pekerja sebagaimana dimaksud dalam
+                     Pasal 34 ayat (5) huruf c harus mempunyai personel
+                     Keselamatan Konstruksi         paling sedikit 2 (dua) orang
+                     yang terdiri atas:
+                     a.   1 (satu) orang ahli keselamatan dan kesehatan kerja
+                          Konstruksi utama, ahli Keselamatan Konstruksi
+                          utama,     ahli    keselamatan    dan   kesehatan    kerja
+                          Konstruksi        madya   dengan    pengalaman      paling
+                          singkat 3 (tiga) tahun, atau ahli Keselamatan
+
+<!-- PAGE: 33 -->
+
+                                                         2021, No.286
+                       -33-
+
+
+           Konstruksi       madya    dengan     pengalaman       paling
+           singkat 3 (tiga) tahun; dan
+      b.   1 (satu) orang Ahli Keselamatan dan Kesehatan
+           Kerja Konstruksi muda, atau Ahli Keselamatan
+           Konstruksi muda dengan pengalaman paling singkat
+           3 (tiga) tahun.
+(5)   Pekerjaan Konstruksi yang memiliki Risiko Keselamatan
+      Konstruksi besar sebagaimana dimaksud pada ayat (4)
+      harus menambahkan 1 (satu) orang tambahan Petugas
+      Keselamatan Konstruksi dan/atau Petugas K3 Kontruksi
+      untuk setiap penambahan pekerja kelipatan 40 (empat
+      puluh) orang.
+
+
+                              Bagian Ketiga
+                       Biaya Penerapan SMKK
+
+
+                                Pasal 39
+(1)   Biaya penerapan SMKK sebagaimana dimaksud dalam
+      Pasal 33 huruf c, meliputi:
+      a.   Biaya Penerapan SMKK dalam Pekerjaan Konstruksi;
+           dan
+      b.   Biaya      Penerapan      SMKK        dalam      pekerjaan
+           Konsultansi Konstruksi.
+(2)   Pengguna       Jasa    harus   memastikan       seluruh    Biaya
+      Penerapan SMKK sebagaimana dimaksud pada ayat (1)
+      dianggarkan      dan     diterapkan     oleh    Penyedia    Jasa
+      sebagaimana       tercantum      dalam         Lampiran     yang
+      merupakan bagian tidak terpisahkan dari Peraturan
+      Menteri ini.
+(3)   Biaya Penerapan SMKK sebagaimana dimaksud pada
+      ayat (2) harus disampaikan oleh Penyedia Jasa dalam
+      dokumen penawaran sesuai dengan komponen kegiatan
+      penerapan SMKK.
+(4)   Penyedia Jasa tidak dapat mengusulkan perubahan
+      anggaran Biaya Penerapan SMKK yang tertuang dalam
+      penyesuaian dokumen SMKK dalam hal terjadi:
+
+<!-- PAGE: 34 -->
+
+2021, No.286                         -34-
+
+
+                     a.   perubahan pekerjaan atau pekerjaan baru serta
+                          perubahan       lingkup        pekerjaan      pada       kontrak,
+                          termasuk pekerjaan tambah/kurang; dan
+                     b.   kecelakaan        Konstruksi          yang      mengakibatkan
+                          kehilangan harta benda, waktu kerja, kematian,
+                          cacat tetap, dan/atau kerusakan lingkungan.
+               (5)   Penyedia Jasa pengawasan, manajemen konstruksi, dan
+                     pelaksana Pekerjaan Konstruksi dapat mengusulkan
+                     perubahan anggaran Biaya Penerapan SMKK dalam hal
+                     terjadi penyebaran epidemi dan pandemi yang belum
+                     diperkirakan      sebelumnya,          sehingga      membutuhkan
+                     penanganan kesehatan pada pelaksanaan Pekerjaan
+                     Konstruksi.
+               (6)   Usulan perubahan Biaya Penerapan SMKK sebagaimana
+                     dimaksud      pada     ayat   (5)    merupakan        biaya    terkait
+                     pemenuhan protokol kesehatan untuk mengatasi epidemi
+                     dan pandemi.
+
+
+                                               Pasal 40
+               (1)   Biaya Penerapan SMKK dalam Pekerjaan Konstruksi
+                     sebagaimana dimaksud dalam Pasal 39 ayat (1) huruf a
+                     mencakup rincian:
+                     a.   Penyiapan RKK, RKPPL, dan RMLLP;
+                     b.   sosialisasi, promosi, dan pelatihan;
+                     c.   alat pelindung kerja dan alat pelindung diri;
+                     d.   asuransi dan perizinan;
+                     e.   personel Keselamatan Konstruksi;
+                     f.   fasilitas sarana, prasarana, dan alat kesehatan;
+                     g.   rambu     dan     perlengkapan         lalu     lintas      yang
+                          diperlukan atau manajemen lalu lintas);
+                     h.   konsultasi      dengan         ahli   terkait     Keselamatan
+                          Konstruksi; dan
+                     i.   kegiatan dan peralatan terkait dengan pengendalian
+                          Risiko Keselamatan Konstruksi, termasuk biaya
+                          pengujian/pemeriksaan lingkungan.
+               (2)   Rincian kegiatan sebagaimana dimaksud pada ayat (1)
+                     huruf c, huruf f, huruf g, dan huruf i merupakan barang
+                     habis pakai.
+
+<!-- PAGE: 35 -->
+
+                                                     2021, No.286
+                     -35-
+
+
+(3)   Konsultasi dengan ahli terkait Keselamatan Konstruksi
+      sebagaimana dimaksud pada ayat (1) huruf h dapat
+      dilakukan bagi Pekerjaan Konstruksi dengan Risiko
+      Keselamatan Konstruksi kecil.
+(4)   Untuk pekerjaan dengan Risiko Keselamatan Konstruksi
+      kecil melalui pengadaan langsung dan/atau padat karya,
+      Biaya Penerapan SMKK paling sedikit meliputi pengadaan
+      APD/APK, sarana dan prasarana kesehatan terkait
+      protokol kesehatan, dan rambu keselamatan sesuai
+      kebutuhan.
+
+
+                             Pasal 41
+(1)   Biaya Penerapan SMKK dalam pekerjaan Konsultansi
+      Konstruksi sebagaimana dimaksud dalam Pasal 39 ayat
+      (1) huruf b paling sedikit mencakup rincian:
+      a.   penyiapan RKK dan/atau rancangan konseptual
+           SMKK;
+      b.   fasilitas sarana, prasarana, dan alat kesehatan; dan
+      c.   kegiatan dan peralatan terkait pengendalian risiko
+           Keselamatan Konstruksi.
+(2)   Biaya    Penerapan     SMKK       pekerjaan     Konsultansi
+      Konstruksi sebagaimana ayat (1) terkait biaya asuransi
+      kesehatan, asuransi profesi, biaya pendidikan, pelatihan,
+      asuransi, dan biaya keselamatan dan kesehatan kerja
+      dalam pekerjaan Konsultansi Konstruksi sudah termasuk
+      dalam komponen remunerasi tenaga ahli sesuai dengan
+      ketentuan peraturan perundang-undangan.
+
+
+                             BAB IV
+                PEMBINAAN DAN PENGAWASAN
+
+
+                             Pasal 42
+(1)   Pemerintah pusat dan pemerintah provinsi bertanggung
+      jawab atas pembinaan penerapan SMKK sesuai lingkup
+      kewenangannya sebagaimana diatur dalam peraturan
+      perundang-undangan.
+
+<!-- PAGE: 36 -->
+
+2021, No.286                          -36-
+
+
+               (2)   Pemerintah pusat dan pemerintah provinsi melakukan
+                     pengawasan penerapan SMKK pada Pekerjaan Konstruksi
+                     dan        Konsultansi    konstruksi      sesuai      lingkup
+                     kewenangannya sebagaimana diatur dalam peraturan
+                     perundang-undangan.
+               (3)   Pengawasan penerapan SMKK sebagaimana dimaksud
+                     pada ayat (2) dituangkan dalam laporan penerapan SMKK
+                     yang disampaikan kepada Menteri.
+               (4)   Dalam       melakukan    pengawasan      penerapan     SMKK
+                     sebagaimana       dimaksud    pada      ayat    (2)   Menteri
+                     menetapkan Komite Keselamatan Konstruksi.
+               (5)   Tugas dan wewenang Komite Keselamatan Konstruksi
+                     sebagaimana dimaksud pada ayat (4) sesuai dengan
+                     ketentuan peraturan perundang-undangan.
+
+
+                                              Pasal 43
+               Penyedia Jasa pekerjaan Jasa Konstruksi bertanggung jawab
+               melakukan pembinaan dan pengawasan penerapan SMKK
+               sebagaimana tertuang dalam dokumen SMKK.
+
+
+                                              Pasal 44
+               Rincian mengenai:
+               a.    tugas, tanggung jawab dan wewenang pengguna dan
+                     penyedia;
+               b.    tata cara PMPM Pekerjaan Konstruksi;
+               c.    rancangan konseptual SMKK;
+               d.    RKK;
+               e.    RMPK;
+               f.    Program Mutu;
+               g.    RKPPL;
+               h.    RMLLP;
+               i.    laporan pelaksanaan;
+               j.    kriteria     penentuan     tingkat     risiko   Keselamatan
+                     Konstruksi; dan
+               k.    komponen kegiatan penerapan SMKK;
+               tercantum dalam Lampiran yang merupakan bagian tidak
+               terpisahkan dari Peraturan Menteri ini.
+
+<!-- PAGE: 37 -->
+
+                                                        2021, No.286
+                   -37-
+
+
+                               BAB IV
+                   KETENTUAN PERALIHAN
+
+
+                              Pasal 45
+(1) RKK pada Kontrak Kerja Konstruksi untuk Pekerjaan
+    Konstruksi     yang       telah     ditandatangani          sebelum
+    berlakunya Peraturan Menteri ini tetap berlaku sampai
+    dengan berakhirnya Kontrak Kerja Konstruksi tersebut.
+(2) Sertifikat Petugas K3 Konstruksi yang telah diterbitkan
+    oleh unit kerja yang menangani Keselamatan Konstruksi
+    di Kementerian Pekerjaan Umum dan Perumahan Rakyat
+    sebelum    berlakunya      Peraturan      Menteri     ini     harus
+    menyesuaikan      dengan      ketentuan     dalam       Peraturan
+    Menteri ini paling lambat bulan Desember 2021.
+(3) Sertifikat Petugas Keselamatan Konstruksi yang telah
+    diterbitkan oleh unit kerja yang menangani Keselamatan
+    Konstruksi   di    Kementerian       Pekerjaan      Umum       dan
+    Perumahan    Rakyat       sebelum      berlakunya       Peraturan
+    Menteri ini tetap berlaku sampai dengan terbentuknya
+    lembaga sertifikasi profesi sesuai dengan ketentuan
+    peraturan perundang-undangan.
+
+
+                               BAB V
+                      KETENTUAN PENUTUP
+
+
+                              Pasal 46
+Pada saat Peraturan Menteri ini mulai berlaku, Peraturan
+Menteri Pekerjaan Umum dan Perumahan Rakyat Nomor
+21/PRT/M/2019      tentang      Pedoman       Sistem     Manajemen
+Keselamatan Konstruksi (Berita Negara Republik Indonesia
+Tahun 2019 Nomor 1690), dicabut dan dinyatakan tidak
+berlaku.
+
+
+                              Pasal 47
+Peraturan   Menteri     ini    mulai     berlaku     pada       tanggal
+diundangkan.
+
+<!-- PAGE: 38 -->
+
+2021, No.286                          -38-
+
+
+                 Agar   setiap      orang     mengetahuinya,    memerintahkan
+                 pengundangan Peraturan Menteri ini dengan penempatannya
+                 dalam Berita Negara Republik Indonesia.
+
+
+
+
+                                 Ditetapkan di Jakarta
+                                 pada tanggal 31 Maret 2021
+
+
+                                 MENTERI        PEKERJAAN       UMUM     DAN
+                                 PERUMAHAN RAKYAT REPUBLIK INDONESIA,
+
+
+                                                         ttd.
+
+
+                                             M. BASUKI HADIMULJONO
+
+
+
+
+  Diundangkan di Jakarta
+  pada tanggal 1 April 201
+
+
+  DIREKTUR JENDERAL
+  PERATURAN PERUNDANG-UNDANGAN
+  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+  REPUBLIK INDONESIA,
+
+
+               ttd.
+
+
+  WIDODO EKATJAHJANA

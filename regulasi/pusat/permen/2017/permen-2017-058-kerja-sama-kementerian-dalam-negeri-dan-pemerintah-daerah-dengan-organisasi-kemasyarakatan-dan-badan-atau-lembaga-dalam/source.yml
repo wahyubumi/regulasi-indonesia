@@ -1,0 +1,24 @@
+id: permen-2017-058
+judul: Peraturan Menteri Nomor 58 Tahun 2017 tentang Kerja Sama Kementerian Dalam
+  Negeri Dan Pemerintah Daerah Dengan Organisasi Kemasyarakatan Dan Badan Atau Lembaga
+  Dalam Bidang Politik Dan Pemerintahan Umum
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

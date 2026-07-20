@@ -1,0 +1,75 @@
+id: permen-2017-086
+jenis: permen
+jenis_lengkap: Peraturan Menteri
+nomor: '86'
+nomor_lengkap: '86'
+tahun: 2017
+judul: RPJP Daerah dan RPJM Daerah serta Perubahan RPJP Daerah, RPJM Daerah dan RKP
+  Daerah. Perubahan. PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA NOMOR 86 TAHUN
+  2017 TENTANG TATA CARA PERENCANAAN, PENGENDALIAN DAN EVALUASI PEMBANGUNAN DAERAH,
+  TATA CARA EVALUASI RANCANGAN PERATURAN DAERAH TENTANG RENCANA PEMBANGUNAN JANGKA
+  PANJANG DAERAH DAN RENCANA PEMBANGUNAN JANGKA MENENGAH DAERAH, SERTA TATA CARA PERUBAHAN
+  RENCANA PEMBANGUNAN JANGKA PANJANG DAERAH, RENCANA PEMBANGUNAN JANGKA MENENGAH DAERAH,
+  DAN RENCANA KERJA PEMERINTAH DAERAH
+judul_lengkap: Peraturan Menteri Nomor 86 Tahun 2017 tentang RPJP Daerah dan RPJM
+  Daerah serta Perubahan RPJP Daerah, RPJM Daerah dan RKP Daerah. Perubahan. PERATURAN
+  MENTERI DALAM NEGERI REPUBLIK INDONESIA NOMOR 86 TAHUN 2017 TENTANG TATA CARA PERENCANAAN,
+  PENGENDALIAN DAN EVALUASI PEMBANGUNAN DAERAH, TATA CARA EVALUASI RANCANGAN PERATURAN
+  DAERAH TENTANG RENCANA PEMBANGUNAN JANGKA PANJANG DAERAH DAN RENCANA PEMBANGUNAN
+  JANGKA MENENGAH DAERAH, SERTA TATA CARA PERUBAHAN RENCANA PEMBANGUNAN JANGKA PANJANG
+  DAERAH, RENCANA PEMBANGUNAN JANGKA MENENGAH DAERAH, DAN RENCANA KERJA PEMERINTAH
+  DAERAH
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Kementerian Dalam Negeri
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/bn1312-2017bt.md.

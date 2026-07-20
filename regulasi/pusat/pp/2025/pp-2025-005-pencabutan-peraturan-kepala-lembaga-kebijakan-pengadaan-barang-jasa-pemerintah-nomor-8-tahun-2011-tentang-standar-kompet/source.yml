@@ -1,0 +1,25 @@
+id: pp-2025-005
+judul: Peraturan Pemerintah Nomor 5 Tahun 2025 tentang Pencabutan Peraturan Kepala
+  Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah Nomor 8 Tahun 2011 Tentang Standar
+  Kompetensi Jabatan Struktural Eselon Ii Dan Eselon Iii Di Lembaga Kebijakan Pengadaan
+  Barang/Jasa Pemerintah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

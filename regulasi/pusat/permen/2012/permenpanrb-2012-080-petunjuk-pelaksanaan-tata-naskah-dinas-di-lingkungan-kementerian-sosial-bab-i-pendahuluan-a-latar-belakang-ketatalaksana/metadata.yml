@@ -1,0 +1,85 @@
+id: permenpanrb-2012-080
+jenis: permenpanrb
+jenis_lengkap: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+nomor: '80'
+nomor_lengkap: '80'
+tahun: 2012
+judul: PETUNJUK PELAKSANAAN TATA NASKAH DINAS DI LINGKUNGAN KEMENTERIAN SOSIAL BAB
+  I PENDAHULUAN A. Latar Belakang Ketatalaksanaan Pemerintah merupakan pengaturan
+  tentang cara melaksanakan tugas dan fungsi dalam berbagai bidang kegiatan pemerintahan
+  dan pembangunan di lingkungan instansi pemerintah. Salah satu komponen penting dalam
+  ketatalaksanaan pemerintah adalah administrasi umum. Ruang lingkup administrasi
+  umum meliputi tata naskah dinas, penamaan lembaga, singkatan dan akronim, kearsipan,
+  serta tata ruang perkantoran. Tata naskah dinas sebagai salah satu unsur administrasi
+  umum meliputi antara lain pengaturan tentang jenis dan penyusunan naskah dinas,
+  penggunaan lambang negara, logo dan cap dinas, penggunaan bahasa Indonesia yang
+  baik dan benar, pengurusan naskah dinas, korespondensi, kewenangan, perubahan, pencabutan,
+  pembatalan produk hukum, dan ralat. Ketentuan tentang tata naskah dinas yang berlaku
+  untuk seluruh instansi pemerintah telah diatur dalam Peraturan
+judul_lengkap: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+  Nomor 80 Tahun 2012 tentang PETUNJUK PELAKSANAAN TATA NASKAH DINAS DI LINGKUNGAN
+  KEMENTERIAN SOSIAL BAB I PENDAHULUAN A. Latar Belakang Ketatalaksanaan Pemerintah
+  merupakan pengaturan tentang cara melaksanakan tugas dan fungsi dalam berbagai bidang
+  kegiatan pemerintahan dan pembangunan di lingkungan instansi pemerintah. Salah satu
+  komponen penting dalam ketatalaksanaan pemerintah adalah administrasi umum. Ruang
+  lingkup administrasi umum meliputi tata naskah dinas, penamaan lembaga, singkatan
+  dan akronim, kearsipan, serta tata ruang perkantoran. Tata naskah dinas sebagai
+  salah satu unsur administrasi umum meliputi antara lain pengaturan tentang jenis
+  dan penyusunan naskah dinas, penggunaan lambang negara, logo dan cap dinas, penggunaan
+  bahasa Indonesia yang baik dan benar, pengurusan naskah dinas, korespondensi, kewenangan,
+  perubahan, pencabutan, pembatalan produk hukum, dan ralat. Ketentuan tentang tata
+  naskah dinas yang berlaku untuk seluruh instansi pemerintah telah diatur dalam Peraturan
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit: []
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: http://www.depsos.go.id
+  alternatif:
+  - http://www.kemsos.go.id
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/bn90-2014.md.

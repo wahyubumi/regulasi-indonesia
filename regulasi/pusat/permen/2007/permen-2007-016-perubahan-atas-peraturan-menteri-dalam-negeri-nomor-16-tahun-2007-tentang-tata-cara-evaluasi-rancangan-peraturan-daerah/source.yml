@@ -1,0 +1,25 @@
+id: permen-2007-016
+judul: Peraturan Menteri Nomor 16 Tahun 2007 tentang Perubahan Atas Peraturan Menteri
+  Dalam Negeri Nomor 16 Tahun 2007 Tentang Tata Cara Evaluasi Rancangan Peraturan
+  Daerah Tentang Anggaran Pendapatan Dan Belanja Daerah Dan Rancangan Peraturan Kepala
+  Daerah Tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

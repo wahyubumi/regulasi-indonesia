@@ -1,0 +1,24 @@
+id: permen-2018-047
+judul: Peraturan Menteri Nomor 47 Tahun 2018 tentang Perubahan Keempat Atas Peraturan
+  Menteri Perdagangan Nomor 20/M-Dag/Per/4/2014 Tentang Pengendalian Dan Pengawasan
+  Terhadap Pengadaan, Peredaran, Dan Penjualan Minuman Beralkohol
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://inatrade.kemendag.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

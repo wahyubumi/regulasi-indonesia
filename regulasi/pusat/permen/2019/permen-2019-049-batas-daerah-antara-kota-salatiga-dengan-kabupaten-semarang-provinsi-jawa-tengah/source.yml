@@ -1,0 +1,23 @@
+id: permen-2019-049
+judul: Peraturan Menteri Nomor 49 Tahun 2019 tentang Batas Daerah Antara Kota Salatiga
+  Dengan Kabupaten Semarang Provinsi Jawa Tengah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

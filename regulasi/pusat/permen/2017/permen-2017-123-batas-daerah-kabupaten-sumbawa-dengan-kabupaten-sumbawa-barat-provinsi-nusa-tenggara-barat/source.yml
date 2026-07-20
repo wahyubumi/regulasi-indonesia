@@ -1,0 +1,23 @@
+id: permen-2017-123
+judul: Peraturan Menteri Nomor 123 Tahun 2017 tentang Batas Daerah Kabupaten Sumbawa
+  Dengan Kabupaten Sumbawa Barat Provinsi Nusa Tenggara Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

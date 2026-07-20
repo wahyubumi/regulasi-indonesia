@@ -1,0 +1,24 @@
+id: permenkominfo-2015-034
+judul: Peraturan Menteri Komunikasi dan Informatika Nomor 34 Tahun 2015 tentang Persyaratan
+  Teknis Perangkat Komunikasi Radio Microwave Link Titik Ke Titik Dengan Sistem Digital
+  Hybrid
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

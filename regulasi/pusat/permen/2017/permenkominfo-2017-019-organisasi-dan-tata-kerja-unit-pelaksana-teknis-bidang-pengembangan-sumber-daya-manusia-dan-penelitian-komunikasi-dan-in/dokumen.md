@@ -1,0 +1,968 @@
+---
+id: "permenkominfo-2017-019"
+jenis: "permenkominfo"
+nomor: "19"
+tahun: 2017
+judul: "Peraturan Menteri Komunikasi dan Informatika Nomor 19 Tahun 2017 tentang Organisasi Dan Tata Kerja Unit Pelaksana Teknis Bidang Pengembangan Sumber Daya Manusia Dan Penelitian Komunikasi Dan Informatika"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Komunikasi dan Informatika Nomor 19 Tahun 2017 tentang Organisasi Dan Tata Kerja Unit Pelaksana Teknis Bidang Pengembangan Sumber Daya Manusia Dan Penelitian Komunikasi Dan Informatika
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permenkominfo
+nomor: 19
+tahun: 2017
+tentang: Organisasi Dan Tata Kerja Unit Pelaksana Teknis Bidang Pengembangan Sumber Daya Manusia Dan Penelitian Komunikasi Dan Informatika
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+No.1335, 2017             KEMENKOMINFO.            ORTA.      BBPSDMP       Kominfo.
+                          Pencabutan.
+
+         PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA
+                         REPUBLIK INDONESIA
+                        NOMOR 19 TAHUN 2017
+                                  TENTANG
+         ORGANISASI DAN TATA KERJA UNIT PELAKSANA TEKNIS
+   BIDANG PENGEMBANGAN SUMBER DAYA MANUSIA DAN PENELITIAN
+                    KOMUNIKASI DAN INFORMATIKA
+
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+    MENTERI KOMUNIKASI DAN INFORMATIKA REPUBLIK INDONESIA,
+
+
+
+
+Menimbang       : a. bahwa    dengan       ditetapkannya      Peraturan      Menteri
+                    Komunikasi dan Informatika Nomor 1 Tahun 2016
+                    tentang      Organisasi     dan    Tata   Kerja      Kementerian
+                    Komunikasi       dan      Informatika,       perlu     melakukan
+                    penataan organisasi Unit Pelaksana Teknis Bidang
+                    Penelitian     dan     Pengembangan          Komunikasi     dan
+                    Informatika;
+                 b. bahwa Menteri Pendayagunaan Aparatur Negara dan
+                    Reformasi Birokrasi memberikan persetujuan terhadap
+                    penataan organisasi dan tata kerja unit pelaksana
+                    teknis bidang pengembangan sumber daya manusia dan
+                    penelitian    sebagaimana         dimaksud     dalam    huruf   a
+                    berdasarkan surat Menteri Pendayagunaan Aparatur
+                    Negara        dan         Reformasi       Birokrasi       Nomor
+                    B/215/M.KT.01/2017 tanggal 18 April 2017 perihal
+                    Penataan Organisasi dan Tata Kerja Unit Pelaksana
+                    Teknis Bidang Pengembangan Sumber Daya Manusia
+
+
+
+
+                                                              www.peraturan.go.id
+
+<!-- PAGE: 2 -->
+
+2017, No.1335                      -2-
+
+
+                    dan Penelitian Komunikasi dan Informatika;
+                 c. bahwa       berdasarkan      pertimbangan              sebagaimana
+                    dimaksud     dalam      huruf    a       dan    huruf     b,     perlu
+                    menetapkan      Peraturan       Menteri         Komunikasi        dan
+                    Informatika tentang Organisasi dan Tata Kerja Unit
+                    Pelaksana Teknis Bidang Pengembangan Sumber Daya
+                    Manusia dan Penelitian Komunikasi dan Informatika;
+
+
+Mengingat       : 1. Undang-Undang       Nomor      39       Tahun     2008        tentang
+                    Kementerian     Negara     (Lembaran            Negara     Republik
+                    Indonesia     Tahun     2008      Nomor         166,     Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 4916);
+                 2. Peraturan    Presiden     Nomor      7    Tahun        2015 tentang
+                    Organisasi    Kementerian       Negara         (Lembaran       Negara
+                    Republik Indonesia Tahun 2015 Nomor 8);
+                 3. Peraturan Presiden Nomor 54 Tahun 2015 tentang
+                    Kementerian Komunikasi dan Informatika (Lembaran
+                    Negara Republik Indonesia Tahun 2015 Nomor 54);
+                 4. Peraturan Menteri Negara Pendayagunaan Aparatur
+                    Negara      Nomor     PER/18/M.PAN/11/2008                     tentang
+                    Pedoman Organisasi Unit Pelaksana Teknis Kementerian
+                    dan Lembaga Pemerintah Non Kementerian;
+                 5. Peraturan Menteri Komunikasi dan Informatika Nomor 1
+                    Tahun    2016    tentang     Organisasi         dan     Tata     Kerja
+                    Kementerian     Komunikasi        dan      Informatika         (Berita
+                    Negara Republik Indonesia Tahun 2016 Nomor 103);
+
+
+                             MEMUTUSKAN:
+Menetapkan   : PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA
+                TENTANG ORGANISASI DAN TATA KERJA UNIT PELAKSANA
+                TEKNIS BIDANG PENGEMBANGAN SUMBER DAYA MANUSIA
+                DAN PENELITIAN KOMUNIKASI DAN INFORMATIKA.
+
+
+
+
+                                                               www.peraturan.go.id
+
+<!-- PAGE: 3 -->
+
+                                                           2017, No.1335
+                         -3-
+
+
+                                    BAB I
+       KLASIFIKASI, KEDUDUKAN, TUGAS DAN FUNGSI
+
+
+                                    Pasal 1
+Unit Pelaksana Teknis Bidang Pengembangan Sumber Daya
+Manusia        dan     Penelitian     Komunikasi        dan   Informatika
+diklasifikasikan dalam 2 (dua) kelas terdiri atas:
+a.    Balai Besar Pengembangan Sumber Daya Manusia dan
+      Penelitian Komunikasi dan Informatika; dan
+b.    Balai     Pengembangan          Sumber     Daya      Manusia     dan
+      Penelitian Komunikasi dan Informatika.
+
+
+                                    Pasal 2
+(1)   Balai Besar Pengembangan Sumber Daya Manusia dan
+      Penelitian Komunikasi dan Informatika sebagaimana
+      dimaksud dalam Pasal 1 huruf a, yang selanjutnya
+      disebut BBPSDMP Kominfo meliputi Unit Pelaksana
+      Teknis      di     lingkungan           Badan     Penelitian     dan
+      Pengembangan Sumber Daya Manusia, yang berada di
+      bawah dan bertanggung jawab kepada Kepala Badan
+      Penelitian dan Pengembangan Sumber Daya Manusia dan
+      secara    administratif       dibina     oleh    Sekretaris    Badan
+      Penelitian dan Pengembangan Sumber Daya Manusia.
+(2)   Balai     Pengembangan          Sumber     Daya      Manusia     dan
+      Penelitian Komunikasi dan Informatika sebagaimana
+      dimaksud dalam Pasal 1 huruf b, yang selanjutnya
+      disebut BPSDMP Kominfo adalah Unit Pelaksana Teknis
+      di lingkungan Badan Penelitian dan Pengembangan
+      Sumber Daya Manusia yang berada di bawah dan
+      bertanggung jawab kepada Kepala Badan Penelitian dan
+      Pengembangan         Sumber       Daya    Manusia,      dan    secara
+      administratif dibina oleh Sekretaris Badan Penelitian dan
+      Pengembangan Sumber Daya Manusia.
+(3)   BBPSDMP Kominfo dan BPSDMP Kominfo dipimpin oleh
+      Kepala.
+
+
+
+
+                                                      www.peraturan.go.id
+
+<!-- PAGE: 4 -->
+
+2017, No.1335                           -4-
+
+
+                                                    Pasal 3
+                (1)   BBPSDMP Kominfo mempunyai tugas melaksanakan
+                      pengembangan sumber daya manusia dan penelitian dan
+                      pengembangan bidang komunikasi dan informatika di
+                      wilayah kerja dan daerah perbatasan.
+                (2)   BPSDMP        Kominfo        mempunyai          tugas    melaksanakan
+                      pengembangan sumber daya manusia dan penelitian dan
+                      pengembangan bidang komunikasi dan informatika di
+                      wilayah kerja.
+
+
+                                                    Pasal 4
+                (1)   Dalam     melaksanakan          tugas        sebagaimana      dimaksud
+                      dalam     Pasal      3       ayat     (1),      BBPSDMP        Kominfo
+                      menyelenggarakan fungsi:
+                      a. penyusunan rencana dan evaluasi program dan
+                           anggaran;
+                      b. penyiapan pelaksanaan kerja sama pengembangan
+                           sumber      daya        manusia           dan     penelitian     dan
+                           pengembangan bidang komunikasi dan informatika;
+                      c. penyiapan pelaksanaan dan fasilitasi pengembangan
+                           sumber    daya         manusia     bidang        komunikasi      dan
+                           informatika;
+                      d. penyiapan pelaksanaan penelitian dan pengembangan
+                           bidang komunikasi dan informatika;
+                      e. penyiapan pelaksanaan publikasi hasil penelitian dan
+                           pengembangan            sumber      daya        manusia        bidang
+                           komunikasi dan informatika;
+                      f.   penyiapan      pelaksanaan          penjaminan         mutu      dan
+                           pendayagunaan hasil penelitian bidang komunikasi
+                           dan informatika; dan
+                      g. pelaksanaan          urusan        ketatausahaan,         keuangan,
+                           rumah     tangga,       kepegawaian,            dokumentasi      dan
+                           pengelolaan barang milik negara.
+                (2)   Dalam     melaksanakan          tugas        sebagaimana      dimaksud
+                      dalam      Pasal        3     ayat      (2),     BPSDMP        Kominfo
+                      menyelenggarakan fungsi:
+
+
+
+
+                                                                       www.peraturan.go.id
+
+<!-- PAGE: 5 -->
+
+                                                       2017, No.1335
+                      -5-
+
+
+     a. pelaksanaan         penyusunan     rencana     dan     evaluasi
+          program dan anggaran;
+     b. penyiapan pelaksanaan dan fasilitasi pengembangan
+          sumber    daya     manusia      bidang    komunikasi     dan
+          informatika;
+     c. penyiapan pelaksanaan penelitian dan pengembangan
+          bidang komunikasi dan informatika;
+     d. penyiapan pelaksanaan publikasi hasil penelitian dan
+          pengembangan bidang komunikasi dan informatika;
+     e. penyiapan        pelaksanaan      penjaminan       mutu    dan
+          pendayagunaan hasil penelitian dan pengembangan
+          bidang komunikasi dan informatika; dan
+     f.   pelaksanaan       urusan     ketatausahaan,        keuangan,
+          rumah       tangga,        kepegawaian,      dokumentasi,
+          administrasi kerja sama dan pengelolaan barang milik
+          negara.
+
+
+                                BAB II
+                      SUSUNAN ORGANISASI
+
+
+                            Bagian Kesatu
+                             Balai Besar
+     Pengembangan Sumber Daya Manusia dan Penelitian
+                    Komunikasi dan Informatika
+
+
+                                Pasal 5
+BBPSDMP Kominfo terdiri atas:
+a.   Bagian Tata Usaha;
+b.   Bidang       Pengembangan         Sumber       Daya      Manusia
+     Komunikasi dan Informatika;
+c.   Bidang Penelitian Komunikasi dan Informatika; dan
+d.   Kelompok Jabatan Fungsional.
+
+
+                                Pasal 6
+Bagian Tata Usaha mempunyai tugas melaksanakan urusan
+ketatausahaan,      keuangan,     rumah      tangga,    kepegawaian,
+
+
+
+
+                                                www.peraturan.go.id
+
+<!-- PAGE: 6 -->
+
+2017, No.1335                        -6-
+
+
+                dokumentasi,      administrasi      kerja   sama     dan   pengelolaan
+                barang milik negara.
+
+
+                                               Pasal 7
+                Dalam melaksanakan tugas sebagaimana dimaksud dalam
+                Pasal 6, Bagian Tata Usaha menyelenggarakan fungsi:
+                a.    pelaksanaan perencanaan dan evaluasi program dan
+                      anggaran;
+                b.    pelaksanaan urusan keuangan dan administrasi kerja
+                      sama;
+                c.    pelaksanaan     urusan        tata    usaha,   rumah     tangga,
+                      kepegawaian dan dokumentasi; dan
+                d.    pengelolaan barang milik negara.
+
+
+                                               Pasal 8
+                Bagian Tata Usaha terdiri atas:
+                a. Subbagian Perencanaan dan Keuangan; dan
+                b. Subbagian Umum.
+
+
+                                               Pasal 9
+                (1)   Subbagian Perencanaan dan Keuangan sebagaimana
+                      dimaksud dalam Pasal 8 huruf a mempunyai tugas
+                      melakukan urusan perencanaan dan evaluasi program
+                      dan anggaran, keuangan dan administrasi kerja sama.
+                (2)   Subbagian Umum sebagaimana dimaksud dalam Pasal 8
+                      huruf b mempunyai tugas melakukan urusan tata usaha,
+                      kepegawaian, rumah tangga dan dokumentasi serta
+                      pengelolaan barang milik negara.
+
+
+                                              Pasal 10
+                Bidang    Pengembangan Sumber Daya Manusia Komunikasi
+                dan Informatika mempunyai tugas melaksanakan penyiapan
+                pelaksanaan    dan     fasilitasi    pengembangan      sumber    daya
+                manusia bidang komunikasi dan informatika.
+
+
+
+
+                                                                 www.peraturan.go.id
+
+<!-- PAGE: 7 -->
+
+                                                     2017, No.1335
+                      -7-
+
+
+                              Pasal 11
+Dalam melaksanakan tugas sebagaimana dimaksudkan dalam
+Pasal 10, Bidang Pengembangan Sumber Daya Manusia
+Komunikasi dan Informatika menyelenggarakan fungsi:
+a.    penyiapan      bahan      pelaksanaan         dan        fasilitasi
+      pengembangan          sumber   daya      manusia          bidang
+      komunikasi; dan
+b.    penyiapan      bahan      pelaksanaan         dan        fasilitasi
+      pengembangan          sumber   daya      manusia          bidang
+      informatika.
+
+
+                              Pasal 12
+Bidang Pengembangan Sumber Daya Manusia Komunikasi
+dan Informatika terdiri atas:
+a.    Subbidang      Pengembangan        Sumber     Daya   Manusia
+      Komunikasi; dan
+b.    Subbidang      Pengembangan        Sumber     Daya   Manusia
+      Informatika.
+
+
+                              Pasal 13
+(1)   Subbidang      Pengembangan        Sumber    Daya    Manusia
+      Komunikasi sebagaimana dimaksud dalam Pasal 12
+      huruf a mempunyai tugas melakukan penyiapan bahan
+      pelaksanaan dan fasilitasi pengembangan sumber daya
+      manusia bidang komunikasi.
+(2) Subbidang Pengembangan SDM Informatika sebagaimana
+      dimaksud dalam Pasal 12 huruf b mempunyai tugas
+      melakukan penyiapan bahan pelaksanaan dan fasilitasi
+      pengembangan          sumber   daya      manusia          bidang
+      informatika.
+
+
+                              Pasal 14
+Bidang Penelitian Komunikasi dan Informatika mempunyai
+tugas      melaksanakan         penyiapan         penelitian        dan
+pengembangan, publikasi hasil penelitian dan pengembangan,
+penjaminan mutu dan pendayagunaan hasil penelitian dan
+pengembangan bidang komunikasi dan informatika.
+
+
+
+                                              www.peraturan.go.id
+
+<!-- PAGE: 8 -->
+
+2017, No.1335                         -8-
+
+
+                                               Pasal 15
+                Dalam melaksanakan tugas sebagaimana dimaksudkan dalam
+                Pasal 14, Bidang Penelitian Komunikasi dan Informatika
+                menyelenggarakan fungsi:
+                a.    penyiapan    bahan       penelitian    dan       pengembangan,
+                      penjaminan mutu penelitian dan pengembangan, serta
+                      publikasi   dan    pendayagunaan       hasil    penelitian    dan
+                      pengembangan bidang komunikasi; dan
+                b.    penyiapan    bahan       penelitian    dan       pengembangan,
+                      penjaminan mutu penelitian dan pengembangan, serta
+                      publikasi   dan    pendayagunaan       hasil    penelitian    dan
+                      pengembangan bidang informatika.
+
+
+                                               Pasal 16
+                Bidang Penelitian Komunikasi dan Informatika terdiri atas:
+                a. Subbidang Penelitian Komunikasi; dan
+                b. Subbidang Penelitian Informatika.
+
+
+                                               Pasal 17
+                (1)   Subbidang       Penelitian     Komunikasi          sebagaimana
+                      dimaksud dalam Pasal 16 huruf a mempunyai tugas
+                      melakukan         penyiapan     bahan          penelitian     dan
+                      pengembangan,         penjaminan      mutu      penelitian    dan
+                      pengembangan, serta publikasi dan pendayagunaan hasil
+                      penelitian dan pengembangan bidang komunikasi.
+                (2)   Subbidang Penelitian Informatika sebagaimana dimaksud
+                      dalam Pasal 16 huruf b mempunyai tugas melakukan
+                      penyiapan    bahan       penelitian    dan       pengembangan,
+                      penjaminan mutu penelitian dan pengembangan, serta
+                      publikasi   dan    pendayagunaan       hasil    penelitian    dan
+                      pengembangan bidang informatika.
+
+
+                                               Pasal 18
+                Bagan    Organisasi     BBPSDMP      Kominfo       tercantum       dalam
+                Lampiran I yang merupakan bagian tidak terpisahkan dari
+                Peraturan Menteri ini.
+
+
+
+
+                                                               www.peraturan.go.id
+
+<!-- PAGE: 9 -->
+
+                                                            2017, No.1335
+                        -9-
+
+
+                                Bagian Kedua
+  Balai Pengembangan Sumber Daya Manusia dan Penelitian
+                      Komunikasi dan Informatika
+
+
+                                  Pasal 19
+Susunan Organisasi BPSDMP Kominfo terdiri atas:
+a.    Subbagian Tata Usaha;
+b.    Seksi Pengembangan Sumber Daya Manusia Komunikasi
+      dan Informatika;
+c.    Seksi Penelitian Komunikasi dan Informatika; dan
+d.    Kelompok Jabatan Fungsional.
+
+
+                                  Pasal 20
+(1)   Subbagian Tata Usaha sebagaimana dimaksud dalam
+      Pasal 19 huruf a mempunyai tugas melaksanakan
+      perencanaan        dan     evaluasi    program       dan    anggaran,
+      urusan       keuangan,      tata    usaha,      kepegawaian,       dan
+      dokumentasi, dan pengelolaan barang milik negara serta
+      administrasi kerja sama pengembangan sumber daya
+      manusia       dan penelitian dan pengembangan                  bidang
+      komunikasi dan informatika.
+(2)   Seksi Pengembangan Sumber Daya Manusia Komunikasi
+      dan Informatika sebagaimana dimaksud dalam Pasal 19
+      huruf    b     mempunyai         tugas     melakukan        penyiapan
+      pelaksanaan dan fasilitasi pengembangan sumber daya
+      manusia bidang komunikasi dan informatika.
+(3)   Seksi        Penelitian        Komunikasi       dan        Informatika
+      sebagaimana          dimaksud      dalam     Pasal    19     huruf   c
+      mempunyai tugas melakukan penyiapan penelitian dan
+      pengembangan,           penjaminan       mutu,       publikasi    dan
+      pendayagunaan          hasil    penelitian   dan      pengembangan
+      bidang komunikasi dan informatika.
+
+
+                                  Pasal 21
+Bagan    Organisasi         BPSDMP       Kominfo      tercantum        dalam
+Lampiran      II    yang    merupakan        bagian    terpisahkan      dari
+Peraturan Menteri ini.
+
+
+
+                                                    www.peraturan.go.id
+
+<!-- PAGE: 10 -->
+
+2017, No.1335                           -10-
+
+
+                                               Bagian Ketiga
+                                     Kelompok Jabatan Fungsional
+
+
+                                                 Pasal 22
+                Kelompok Jabatan Fungsional mempunyai tugas melakukan
+                kegiatan sesuai dengan jabatan fungsional masing-masing
+                sesuai dengan ketentuan peraturan perundang-undangan.
+
+
+                                                 Pasal 23
+                (1)   Kelompok Jabatan Fungsional sebagaimana dimaksud
+                      dalam Pasal 22 terdiri atas sejumlah jabatan fungsional
+                      yang terbagi dalam berbagai kelompok sesuai dengan
+                      bidang keahliannya.
+                (2)   Setiap kelompok sebagaimana dimaksud pada ayat (1)
+                      dikoordinasikan oleh pejabat fungsional senior yang
+                      ditunjuk oleh Kepala Unit Pelaksana Teknis Bidang
+                      Pengembangan Sumber Daya Manusia dan Penelitian
+                      Komunikasi dan Informatika.
+                (3)   Jumlah Jabatan Fungsional sebagaimana dimaksud pada
+                      ayat (1) ditentukan sesuai dengan kebutuhan dan beban
+                      kerja.
+                (4)   Jenis    dan     jenjang    Jabatan      Fungsional   Fungsional
+                      sebagaimana dimaksud pada ayat (1) diatur sesuai
+                      dengan ketentuan peraturan perundang-undangan.
+
+
+                                                  BAB III
+                                               TATA KERJA
+
+
+                                                 Pasal 24
+                Dalam melaksanakan tugas dan fungsi, Unit Pelaksana Teknis
+                Bidang Pengembangan Sumber Daya Manusia dan Penelitian
+                Komunikasi dan Informatika harus menyusun peta bisnis
+                proses yang menggambarkan tata hubungan kerja yang efektif
+                dan efisien antar unit organisasi di lingkungan Unit Pelaksana
+                Teknis Bidang Pengembangan Sumber Daya Manusia dan
+                Penelitian Komunikasi dan Informatika.
+
+
+
+
+                                                                  www.peraturan.go.id
+
+<!-- PAGE: 11 -->
+
+                                                  2017, No.1335
+                    -11-
+
+
+                           Pasal 25
+Kepala Unit Pelaksana Teknis Bidang Pengembangan Sumber
+Daya Manusia dan Penelitian Komunikasi dan Informatika
+menyampaikan laporan hasil pelaksanaan tugas kepada
+Kepala Badan Penelitian dan Pengembangan Sumber Daya
+Manusia    dengan    tembusan      kepada    Sekretaris   Badan
+Penelitian dan Pengembangan Sumber Daya Manusia secara
+berkala atau sewaktu-waktu sesuai kebutuhan.
+
+
+                           Pasal 26
+Unit Pelaksana Teknis Bidang Pengembangan Sumber Daya
+Manusia dan Penelitian Komunikasi dan Informatika harus
+menyusun analisis jabatan, peta jabatan, uraian tugas, dan
+analisis beban kerja terhadap seluruh jabatan di lingkungan
+Unit Pelaksana Teknis Bidang Pengembangan Sumber Daya
+Manusia dan Penelitian Komunikasi dan Informatika.
+
+
+                           Pasal 27
+Setiap unsur di lingkungan Unit Pelaksana Teknis Bidang
+Pengembangan     Sumber     Daya       Manusia   dan   Penelitian
+Komunikasi dan Informatika dalam melaksanakan tugasnya
+harus   menerapkan     prinsip     koordinasi,   integrasi,   dan
+sinkronisasi, baik dalam lingkungan Unit Pelaksana Teknis
+Bidang Pengembangan Sumber Daya Manusia dan Penelitian
+Komunikasi dan Informatika maupun dalam hubungan antar
+instansi pemerintah baik pusat maupun daerah.
+
+
+                           Pasal 28
+Setiap pimpinan unit organisasi harus menerapkan sistem
+pengendalian intern pemerintah di lingkungan masing-masing
+untuk mewujudkan terlaksananya mekanisme akuntabilitas
+publik melalui penyusunan perencanaan, pelaksanaan, dan
+pelaporan kinerja yang terintegrasi.
+
+
+
+
+                                            www.peraturan.go.id
+
+<!-- PAGE: 12 -->
+
+2017, No.1335                        -12-
+
+
+                                              Pasal 29
+                Setiap    pimpinan    unit     organisasi     bertanggung        jawab
+                memimpin dan mengoordinasikan bawahan dan memberikan
+                pengarahan, serta petunjuk bagi pelaksanaan tugas bawahan.
+
+
+                                              Pasal 30
+                Setiap    pimpinan     unit     organisasi        wajib   mengawasi
+                pelaksanaan tugas bawahan masing-masing dan apabila
+                terjadi penyimpangan wajib mengambil langkah-langkah yang
+                diperlukan sesuai dengan ketentuan peraturan perundang-
+                undangan.
+
+
+                                              Pasal 31
+                Setiap   pimpinan    unit    organisasi     harus    mengikuti    dan
+                mematuhi petunjuk serta bertanggung jawab pada atasan
+                masing-masing dan menyampaikan laporan kinerja secara
+                berkala tepat pada waktunya.
+
+
+                                              Pasal 32
+                Dalam melaksanakan tugas, setiap pimpinan unit organisasi
+                harus melakukan pembinaan dan pengawasan terhadap unit
+                organisasi di bawahnya.
+
+
+                                              BAB IV
+                                            ESELONISASI
+
+
+                                              Pasal 33
+                (1)   Eselonisasi BBPSDMP Kominfo terdiri atas:
+                      a. Kepala     BBPSDMP      Kominfo      merupakan     jabatan
+                         struktural eselon II.b atau Jabatan Pimpinan Tinggi
+                         Pratama;
+                      b. Kepala Bagian dan Kepala Bidang pada BBPSDMP
+                         Kominfo merupakan jabatan struktural eselon III.b
+                         atau Jabatan Administrator; dan
+                      c. Kepala   Subbagian     dan      Kepala     Subbidang    pada
+                         BBPSDMP Kominfo merupakan jabatan struktural
+                         eselon IV.b atau Jabatan Pengawas.
+
+
+
+                                                               www.peraturan.go.id
+
+<!-- PAGE: 13 -->
+
+                                                  2017, No.1335
+                     -13-
+
+
+(2)   Eselonisasi BPSDMP Kominfo terdiri atas:
+      a. Kepala    BPSDMP      Kominfo    merupakan      jabatan
+         struktural eselon III.a atau Jabatan Administrator;
+         dan
+      b. Kepala Subbagian dan Kepala Seksi pada BPSDMP
+         Kominfo merupakan jabatan struktural eselon IV.a
+         atau Jabatan Pengawas.
+
+
+                             BAB V
+                             LOKASI
+
+
+                            Pasal 34
+(1)   Jumlah Unit Pelaksana Teknis Bidang Pengembangan
+      Sumber Daya Manusia dan Penelitian Komunikasi dan
+      Informatika berjumlah 8 (delapan) unit, yang terdiri atas:
+      a. 2 (dua) BBPSDMP Kominfo; dan
+      b. 6 (enam) BPSDMP Kominfo.
+(2)   Nama dan wilayah kerja BBPSDMP Kominfo dan BPSDMP
+      Kominfo tercantum dalam Lampiran III yang merupakan
+      bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+
+                             BAB VI
+                    KETENTUAN PERALIHAN
+
+
+                            Pasal 35
+Pada saat Peraturan Menteri ini mulai berlaku, semua
+peraturan pelaksanaan dari Peraturan Menteri Komunikasi
+dan Informatika Nomor 7/PER/M.KOMINFO/03/2011 tentang
+Organisasi dan Tata Kerja Unit Pelaksana Teknis Bidang
+Pengkajian dan Pengembangan Komunikasi dan Informatika
+tetap berlaku sepanjang tidak bertentangan dengan Peraturan
+Menteri ini.
+
+
+                            Pasal 36
+Pada saat Peraturan Menteri ini mulai berlaku, seluruh
+jabatan yang ada beserta pejabat yang memangku jabatan di
+lingkungan Unit Pelaksana Teknis Bidang Pengkajian dan
+
+
+
+                                            www.peraturan.go.id
+
+<!-- PAGE: 14 -->
+
+2017, No.1335                          -14-
+
+
+                Pengembangan          Komunikasi          dan     Informatika       tetap
+                melaksanakan tugas dan fungsi balai sampai dengan diatur
+                kembali sesuai dengan Peraturan Menteri ini.
+
+
+                                                 Pasal 37
+                Perubahan atas organisasi dan tata kerja Unit Pelaksana
+                Teknis Bidang Pengkajian dan Pengembangan Komunikasi
+                dan Informatika ditetapkan oleh Menteri Komunikasi dan
+                Informatika      setelah   mendapat       persetujuan    tertulis    dari
+                menteri yang menyelenggarakan urusan pemerintahan di
+                bidang aparatur negara.
+
+
+                                                 BAB VII
+                                       KETENTUAN PENUTUP
+
+
+                                                 Pasal 38
+                Pada saat Peraturan Menteri ini mulai berlaku, Peraturan
+                Menteri          Komunikasi        dan          Informatika     Nomor
+                7/PER/M.KOMINFO/03/2011 tentang Organisasi dan Tata
+                Kerja     Unit    Pelaksana      Teknis     Bidang    Pengkajian     dan
+                Pengembangan Komunikasi dan Informatika, dicabut dan
+                dinyatakan tidak berlaku.
+
+
+                                                 Pasal 39
+                Peraturan        Menteri   ini    mulai     berlaku     pada    tanggal
+                diundangkan.
+
+
+
+
+                                                                   www.peraturan.go.id
+
+<!-- PAGE: 15 -->
+
+                                                                 2017, No.1335
+                                   -15-
+
+
+               Agar      setiap   orang    mengetahuinya,       memerintahkan
+               pengundangan Peraturan Menteri ini dengan penempatannya
+               dalam Berita Negara Republik Indonesia.
+
+
+
+
+                              Ditetapkan di Jakarta
+                              pada tanggal 20 September 2017
+
+
+                              MENTERI KOMUNIKASI DAN INFORMATIKA
+                              REPUBLIK INDONESIA,
+
+
+                                                      ttd
+
+
+                                              RUDIANTARA
+
+
+Diundangkan di Jakarta
+pada tanggal 28 September 2017
+
+
+DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+       ttd
+
+
+WIDODO EKATJAHJANA
+
+
+
+
+                                                            www.peraturan.go.id
+
+<!-- PAGE: 16 -->
+
+2017, No.1335                     -16-
+
+
+                   LAMPIRAN I
+                   PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA
+                   REPUBLIK INDONESIA
+                   NOMOR 19 TAHUN 2017
+                   TENTANG
+                   ORGANISASI     DAN    TATA   KERJA   UNIT     PELAKSANA
+                   TEKNIS      BIDANG PENGKAJIAN DAN PENGEMBANGAN
+                   KOMUNIKASI DAN INFORMATIKA
+
+
+           BAGAN ORGANISASI BALAI BESAR PENGEMBANGAN
+SUMBER DAYA MANUSIA DAN PENELITIAN KOMUNIKASI DAN INFORMATIKA
+
+
+                            KEPALA BALAI
+
+
+
+                                                      BAGIAN
+                                                    TATA USAHA
+
+
+
+
+                                           SUBBAGIAN           SUBBAGIAN
+                                             UMUM             PERENCANAAN
+                                                              DAN KEUANGAN
+
+
+
+
+           BIDANG                                 BIDANG
+      PENGEMBANGAN                              PENELITIAN
+    SUMBER DAYA MANUSIA                  KOMUNIKASI DAN INFORMATIKA
+ KOMUNIKASI DAN INFORMATIKA
+
+
+
+           SUBBIDANG
+                                                  SUBBIDANG
+     PENGEMBANGAN SUMBER
+                                             PENELITIAN KOMUNIKASI
+    DAYA MANUSIA INFORMATIKA
+
+
+          SUBBIDANG
+                                                   SUBBIDANG
+     PENGEMBANGAN SUMBER
+                                             PENELITIAN INFORMATIKA
+    DAYA MANUSIA KOMUNIKASI
+
+
+
+
+                                 MENTERI KOMUNIKASI DAN INFORMATIKA
+                                 REPUBLIK INDONESIA,
+
+
+                                                        ttd
+
+                                                      www.peraturan.go.id
+                                                  RUDIANTARA
+
+<!-- PAGE: 17 -->
+
+                                                              2017, No.1335
+                                 -17-
+
+
+                   LAMPIRAN II
+                   PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA
+                   REPUBLIK INDONESIA
+                   NOMOR 19 TAHUN 2017
+                   TENTANG
+                   ORGANISASI    DAN    TATA   KERJA   UNIT    PELAKSANA
+                   TEKNIS    BIDANG PENGKAJIAN DAN PENGEMBANGAN
+                   KOMUNIKASI DAN INFORMATIKA
+
+
+
+
+BAGAN ORGANISASI BALAI PENGEMBANGAN SUMBER DAYA MANUSIA DAN
+             PENELITIAN KOMUNIKASI DAN INFORMATIKA
+
+
+
+
+                            KEPALA BALAI
+
+
+
+
+                                                  SUBBAGIAN
+                                                  TATA USAHA
+
+
+
+
+           SEKSI
+                                                  SEKSI
+PENGEMBANGAN SUMBER DAYA
+        MANUSIA                                 PENELITIAN
+KOMUNIKASI DAN INFORMATIKA              KOMUNIKASI DAN INFORMATIKA
+
+
+
+
+                                 MENTERI KOMUNIKASI DAN INFORMATIKA
+                                 REPUBLIK INDONESIA,
+
+
+                                                        ttd
+
+
+                                                  RUDIANTARA
+
+                                                       www.peraturan.go.id
+
+<!-- PAGE: 18 -->
+
+2017, No.1335                     -18-
+
+
+                   LAMPIRAN III
+                   PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA
+                   REPUBLIK INDONESIA
+                   NOMOR 19 TAHUN 2017
+                   TENTANG
+                   ORGANISASI     DAN    TATA   KERJA     UNIT   PELAKSANA
+                   TEKNIS    BIDANG PENGKAJIAN DAN PENGEMBANGAN
+                   KOMUNIKASI DAN INFORMATIKA
+
+
+       WILAYAH KERJA BBPSDMP KOMINFO DAN BPSDMP KOMINFO
+
+ NO             NAMA UPT                        WILAYAH KERJA
+
+                                    1. Aceh
+                                    2. Sumatera Utara
+                                    3. Sumatera Barat
+ 1    BBPSDMP Kominfo Medan         4. Riau
+                                    5. Kepulauan Riau
+                                    6. Kalimantan Barat
+                                    7. Kalimantan Utara
+                                    1. Sulawesi Selatan
+                                    2. Sulawesi Tenggara
+                                    3. Nusa Tenggara Timur
+ 2    BBPSDMP Kominfo Makassar      4. Maluku
+                                    5. Maluku Utara
+                                    6. Papua
+                                    7. Papua Barat
+                                    1. DKI Jakarta
+                                    2. Sumatera Selatan
+ 3    BPSDMP Kominfo Jakarta
+                                    3. Bangka Belitung
+                                    4. Jambi
+                                    1. Jabar
+                                    2. Banten
+ 4    BPSDMP Kominfo Bandung
+                                    3. Lampung
+                                    4. Bengkulu
+                                    1. Jawa Timur
+ 5    BPSDMP Kominfo Surabaya
+                                    2. NTB
+
+
+
+
+                                                         www.peraturan.go.id
+
+<!-- PAGE: 19 -->
+
+                                                           2017, No.1335
+                                -19-
+
+
+                                  1. Daerah Istimewa Yogyakarta
+6   BPSDMP Kominfo Yogyakarta     2. Jawa Tengah
+                                  3. Bali
+                                  1. Kalimantan Selatan
+7   BPSDMP Kominfo Banjarmasin    2. Kalimantan Tengah
+                                  3. Kalimantan Timur
+                                  1. Sulawesi Utara
+                                  2. Sulawesi Tengah
+8   BPSDMP Kominfo Manado
+                                  3. Gorontalo
+                                  4. Sulawesi Barat
+
+
+                                  MENTERI KOMUNIKASI DAN INFORMATIKA
+                                  REPUBLIK INDONESIA,
+
+
+                                                          ttd
+
+
+                                                      RUDIANTARA
+
+
+
+
+                                                      www.peraturan.go.id

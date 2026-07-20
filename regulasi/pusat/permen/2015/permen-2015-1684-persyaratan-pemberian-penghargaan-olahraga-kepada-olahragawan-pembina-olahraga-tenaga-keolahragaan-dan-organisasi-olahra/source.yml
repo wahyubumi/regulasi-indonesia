@@ -1,0 +1,24 @@
+id: permen-2015-1684
+judul: Peraturan Menteri Nomor 1684 Tahun 2015 tentang Persyaratan Pemberian Penghargaan
+  Olahraga Kepada Olahragawan, Pembina Olahraga, Tenaga Keolahragaan, Dan Organisasi
+  Olahraga
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

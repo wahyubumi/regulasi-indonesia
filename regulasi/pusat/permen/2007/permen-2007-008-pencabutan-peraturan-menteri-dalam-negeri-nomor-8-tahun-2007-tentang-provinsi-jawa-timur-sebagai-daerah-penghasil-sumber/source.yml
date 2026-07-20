@@ -1,0 +1,24 @@
+id: permen-2007-008
+judul: Peraturan Menteri Nomor 8 Tahun 2007 tentang Pencabutan Peraturan Menteri Dalam
+  Negeri Nomor 8 Tahun 2007 Tentang Provinsi Jawa Timur Sebagai Daerah Penghasil Sumber
+  Daya Alam Sektor Minyak Bumi Dan Gas Bumi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

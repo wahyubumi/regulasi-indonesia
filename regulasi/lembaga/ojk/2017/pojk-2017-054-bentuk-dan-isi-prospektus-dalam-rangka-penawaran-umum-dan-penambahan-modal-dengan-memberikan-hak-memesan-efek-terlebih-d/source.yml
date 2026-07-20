@@ -1,0 +1,25 @@
+id: pojk-2017-054
+judul: Peraturan Otoritas Jasa Keuangan Nomor 54/POJK.04/2017 tentang Bentuk Dan Isi
+  Prospektus Dalam Rangka Penawaran Umum Dan Penambahan Modal Dengan Memberikan Hak
+  Memesan Efek Terlebih Dahulu Oleh Emiten Dengan Aset Skala Kecil Atau Emiten Dengan
+  Aset Skala Menengah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

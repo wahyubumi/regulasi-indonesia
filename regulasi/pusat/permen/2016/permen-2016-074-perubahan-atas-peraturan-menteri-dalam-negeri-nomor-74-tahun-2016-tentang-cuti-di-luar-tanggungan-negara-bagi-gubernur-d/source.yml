@@ -1,0 +1,24 @@
+id: permen-2016-074
+judul: Peraturan Menteri Nomor 74 Tahun 2016 tentang Perubahan Atas Peraturan Menteri
+  Dalam Negeri Nomor 74 Tahun 2016 Tentang Cuti Di Luar Tanggungan Negara Bagi Gubernur
+  Dan Wakil Gubernur, Bupati Dan Wakil Bupati, Serta Wali Kota Dan Wakil Wali Kota
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

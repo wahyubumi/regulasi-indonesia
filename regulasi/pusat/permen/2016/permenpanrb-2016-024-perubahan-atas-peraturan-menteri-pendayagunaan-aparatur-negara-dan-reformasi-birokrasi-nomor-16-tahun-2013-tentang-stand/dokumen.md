@@ -1,0 +1,1389 @@
+---
+id: "permenpanrb-2016-024"
+jenis: "permenpanrb"
+nomor: "24"
+tahun: 2016
+judul: "Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 24 Tahun 2016 tentang Perubahan Atas Peraturan Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Nomor 16 Tahun 2013 Tentang Standar Pelayanan Di Lingkungan Kementerian Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 24 Tahun 2016 tentang Perubahan Atas Peraturan Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Nomor 16 Tahun 2013 Tentang Standar Pelayanan Di Lingkungan Kementerian Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permenpanrb
+nomor: 24
+tahun: 2016
+tentang: Perubahan Atas Peraturan Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi Nomor 16 Tahun 2013 Tentang Standar Pelayanan Di Lingkungan Kementerian Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+No.1899, 2016               KEMENPAN-RB. Standar Pelayanan. Perubahan.
+
+    PERATURAN MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN
+                REFORMASI BIROKRASI REPUBLIK INDONESIA
+                          NOMOR 24 TAHUN 2016
+                                  TENTANG
+  PERUBAHAN ATAS PERATURAN MENTERI PENDAYAGUNAAN APARATUR
+ NEGARA DAN REFORMASI BIROKRASI NOMOR 16 TAHUN 2013 TENTANG
+STANDAR PELAYANAN DI LINGKUNGAN KEMENTERIAN PENDAYAGUNAAN
+             APARATUR NEGARA DAN REFORMASI BIROKRASI
+
+
+
+                 DENGAN RAHMAT TUHAN YANG MAHA ESA,
+
+
+
+            MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN
+
+                REFORMASI BIROKRASI REPUBLIK INDONESIA,
+
+
+
+
+Menimbang    : a. bahwa terdapat beberapa perubahan ketentuan dalam
+                   penerapan   standar    pelayanan   penetapan   kelembagaan
+                   instansi pemerintah serta penambahan jenis layanan di
+                   lingkungan Kementerian Pendayagunaan Aparatur Negara
+                   dan Reformasi Birokrasi;
+
+                b. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+                   dalam huruf a, perlu menetapkan Peraturan Menteri
+                   Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+                   tentang Perubahan Atas Peraturan Menteri Pendayagunaan
+                   Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun
+                   2013    tentang   Standar    Pelayanan    di    Lingkungan
+                   Kementerian    Pendayagunaan       Aparatur    Negara   dan
+                   Reformasi Birokrasi;
+
+
+
+
+                                                          www.peraturan.go.id
+
+<!-- PAGE: 2 -->
+
+2016, No.1899                         -2-
+
+
+
+
+Mengingat   : 1. Undang-Undang Republik Indonesia Nomor 25 Tahun 2009
+                  tentang Pelayanan Publik (Lembaran Negara Republik
+                  Indonesia Tahun 2009 Nomor 112, Tambahan Lembaran
+                  Negara Republik Indonesia Nomor 5038);
+
+                2. Undang-Undang Republik Indonesia Nomor 5 Tahun 2014
+                  tentang Aparatur Sipil Negara (Lembaran Negara Republik
+                  Indonesia Tahun 2014 Nomor 6, Tambahan Lembaran
+                  Negara Republik Indonesia Nomor 5494);
+                3. Peraturan Pemerintah Nomor 96 Tahun 2012 tentang
+                  Pelaksanaan        Undang-Undang    Nomor     25    tahun    2009
+                  tentang Pelayanan Publik (Lembaran Negara Republik
+                  Indonesia Tahun 2012 Nomor 215, Tambahan Lembaran
+                  Negara Republk Indonesia Nomor 5357);
+                4. Peraturan    Presiden    Nomor    47    Tahun     2015   tentang
+                  Kementerian        Pendayagunaan        Aparatur    Negara    dan
+                  Reformasi Birokrasi (Lembaran Negara Republik Indonesia
+                  Tahun 2015 Nomor 89);
+                5. Keputusan Presiden Nomor 83/P Tahun 2016 tentang
+                  Penggantian Beberapa Menteri Negara Kabinet Kerja Periode
+                  Tahun 2014-2019;
+                6. Peraturan Menteri Pendayagunaan Aparatur Negara Nomor
+                  15 Tahun 2014, tentang Pedoman Standar Pelayanan
+                  (Berita Negara Republik Indonesia Tahun 2014 Nomor 615);
+                7. Peraturan Menteri Negara Pendayagunaan Aparatur Negara
+                  dan Reformasi Birokrasi Nomor 3 Tahun 2016 tentang
+                  Organisasi dan Tata Kerja Kementerian Pendayagunaan
+                  Aparatur Negara dan Reformasi Birokrasi (Berita Negara
+                  Republik Indonesia Tahun 2016 Nomor 517);
+
+
+
+                                MEMUTUSKAN:
+
+Menetapkan :    PERATURAN        MENTERI      PENDAYAGUNAAN             APARATUR
+                NEGARA         DAN     REFORMASI          BIROKRASI      TENTANG
+                PERUBAHAN ATAS PERATURAN MENTERI PENDAYAGUNAAN
+                APARATUR NEGARA DAN REFORMASI BIROKRASI NOMOR
+                16 TAHUN 2013 TENTANG STANDAR PELAYANAN                          DI
+
+
+
+                                                              www.peraturan.go.id
+
+<!-- PAGE: 3 -->
+
+                                                       2016, No.1899
+                      -3-
+
+
+LINGKUNGAN KEMENTERIAN PENDAYAGUNAAN APARATUR
+NEGARA DAN REFORMASI BIROKRASI.
+
+
+
+                                Pasal I
+
+Beberapa ketentuan dalam Peraturan Menteri Pendayagunaan
+Aparatur Negara dan Reformasi Birokrasi Nomor 16 Tahun
+2013 tentang Standar Pelayanan di Lingkungan Kementerian
+Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+diubah sebagai berikut:
+
+
+
+1. Ketentuan Pasal 1 diubah, sehingga berbunyi sebagai
+  berikut:
+
+
+
+                                Pasal 1
+
+Penetapan Standar Pelayanan pada Unit Organisasi Kerja
+pelayanan     di    lingkungan       Kementerian      Pendayagunaan
+Aparatur     Negara    dan      Reformasi   Birokrasi        merupakan
+implementasi dari pelaksanaan tugas dan fungsi Kementerian
+Pendayagunaan Aparatur Negara dan Reformasi Birokrasi,
+yang bersifat perumusan kebijakan, regulasi, pengendalian
+dan   pengawasan,       termasuk       kategori     pelayanan     tidak
+langsung, yang meliputi layanan:
+a. Data    dan     Informasi,    sebagaimana       tercantum     dalam
+  Lampiran I yang merupakan bagian tidak terpisahkan dari
+  Peraturan Menteri ini;
+b. Konsultasi, sebagaimana tercantum dalam Lampiran II
+  yang merupakan bagian tidak terpisahkan dari Peraturan
+  Menteri ini;
+c. Audiensi, sebagaimana tercantum dalam Lampiran III yang
+  merupakan        bagian    tidak    terpisahkan     dari    Peraturan
+  Menteri ini;
+d. Penyediaan Narasumber, sebagaimana tercantum dalam
+  Lampiran IV yang merupakan bagian tidak terpisahkan
+  dari Peraturan Menteri ini;
+
+
+
+
+                                                  www.peraturan.go.id
+
+<!-- PAGE: 4 -->
+
+2016, No.1899                          -4-
+
+
+                e. Advokasi      dan     Rekomendasi            Pelaksanaan         Kebijakan
+                  Reformasi      Birokrasi,         sebagaimana          tercantum        dalam
+                  Lampiran V yang merupakan bagian tidak terpisahkan dari
+                  Peraturan Menteri ini;
+                f. Penataan Kelembagaan, sebagaimana tercantum dalam
+                  Lampiran VI yang merupakan bagian tidak terpisahkan
+                  dari Peraturan Menteri ini;
+                g. Pengadaan Formasi Pegawai Negeri Sipil, sebagaimana
+                  tercantum dalam Lampiran VII yang merupakan bagian
+                  tidak terpisahkan dari Peraturan Menteri ini;
+                h. Pengaduan Pelayanan Publik, sebagaimana tercantum
+                  dalam      Lampiran        VIII    yang     merupakan       bagian      tidak
+                  terpisahkan dari Peraturan Menteri ini;
+                i. Informasi Publik, sebagaimana tercantum dalam Lampiran
+                  IX   yang      merupakan           bagian     tidak     terpisahkan      dari
+                  Peraturan Menteri ini;
+                j. Peminjaman Buku Perpustakaan, sebagaimana tercantum
+                  dalam      Lampiran        X      yang      merupakan      bagian       tidak
+                  terpisahkan dari Peraturan Menteri ini;
+                k. Penetapan      Tunjangan           Kinerja     Instansi         Pemerintah,
+                  sebagaimana          tercantum         dalam     Lampiran          XI    yang
+                  merupakan       bagian         tidak     terpisahkan      dari    Peraturan
+                  Menteri ini;
+                l. Penetapan Kelas Jabatan, sebagaimana tercantum dalam
+                  Lampiran XII yang merupakan bagian tidak terpisahkan
+                  dari Peraturan Menteri ini; dan
+                m. Penetapan Jabatan Fungsional sebagaimana tercantum
+                  dalam      Lampiran        XIII    yang     merupakan       bagian      tidak
+                  terpisahkan dari Peraturan Menteri ini.
+
+
+
+                2. Ketentuan Pasal 2 diubah, sehingga berbunyi sebagai
+                  berikut:
+
+
+
+                                                    Pasal 2
+                a. Pimpinan Unit Kerja Eselon I (Deputi Bidang Reformasi
+                  Birokrasi, Akuntabilitas Aparatur, dan Pengawasan; Deputi
+
+
+
+                                                                        www.peraturan.go.id
+
+<!-- PAGE: 5 -->
+
+                                                    2016, No.1899
+                   -5-
+
+
+  Bidang Kelembagaan dan Tata Laksana; Deputi Bidang
+  Sumber Daya Manusia Aparatur; dan Deputi Bidang
+  Pelayanan Publik) untuk layanan:
+  1) Data dan Informasi;
+  2) Konsultasi;
+  3) Audiensi; dan
+  4) Penyediaan Narasumber.
+b. Deputi Bidang Reformasi Birokrasi, Akuntabilitas Aparatur,
+  dan Pengawasan, untuk layanan:
+  1) Advokasi dan Rekomendasi Pelaksanaan Kebijakan
+     Reformasi Birokrasi; dan
+  2) Penetapan Tunjangan Kinerja Instansi Pemerintah.
+c. Deputi Bidang Kelembagaan dan Tata Laksana, untuk
+  layanan Penataan Kelembagaan.
+d. Deputi Bidang Sumber Daya Manusia Aparatur untuk
+  layanan:
+  1) Pengadaan Formasi Pegawai Negeri Sipil;
+  2) Penetapan Kelas Jabatan; dan
+  3) Penetapan Jabatan Fungsional.
+e. Pimpinan Unit Kerja Eselon I, dan Kepala Biro Hukum,
+  Komunikasi dan Informasi Publik, untuk layanan:
+  1) Pengaduan Pelayanan Publik; dan
+  2) Layanan Informasi Publik.
+f. Kepala Biro Hukum, Komunikasi dan Informasi Publik,
+  untuk layanan Peminjaman Buku Perpustakaan.
+
+
+
+                               Pasal II
+
+Peraturan    Menteri     ini    mulai     berlaku   pada   tanggal
+diundangkan.
+
+
+
+
+                                              www.peraturan.go.id
+
+<!-- PAGE: 6 -->
+
+2016, No.1899                      -6-
+
+
+                Agar     setiap   orang   mengetahuinya,       memerintahkan
+                pengundangan Peraturan Menteri ini dengan penempatannya
+                dalam Berita Negara Republik Indonesia.
+
+
+
+
+                                   Ditetapkan di Jakarta
+
+                                   pada tanggal 24 November 2016
+
+
+
+                                   MENTERI PENDAYAGUNAAN APARATUR
+                                   NEGARA DAN REFORMASI BIROKRASI
+                                   REPUBLIK INDONESIA,
+
+
+
+                                                      ttd
+
+
+
+                                                ASMAN ABNUR
+
+
+
+Diundangkan di Jakarta
+
+pada tanggal 14 Desember 2016
+
+
+
+DIREKTUR JENDERAL
+
+PERATURAN PERUNDANG-UNDANGAN
+
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+
+REPUBLIK INDONESIA,
+
+
+
+        ttd
+
+
+
+WIDODO EKATJAHJANA
+
+
+
+
+                                                           www.peraturan.go.id
+
+<!-- PAGE: 7 -->
+
+                          2016, No.1899
+-7-
+
+
+
+      LAMPIRAN VI
+
+      PERATURAN               MENTERI
+      PENDAYAGUNAAN          APARATUR
+      NEGARA      DAN       REFORMASI
+      BIROKRASI
+
+      NOMOR     24        TAHUN   2016
+      TENTANG     PERUBAHAN       ATAS
+      PERATURAN               MENTERI
+      PENDAYAGUNAAN          APARATUR
+      NEGARA      DAN       REFORMASI
+      BIROKRASI NOMOR 16 TAHUN
+      2013     TENTANG        STANDAR
+      PELAYANAN      DI    LINGKUNGAN
+      KEMENTERIAN
+      PENDAYAGUNAAN          APARATUR
+      NEGARA      DAN       REFORMASI
+      BIROKRASI
+
+
+
+
+                  www.peraturan.go.id
+
+<!-- PAGE: 8 -->
+
+2016, No.1899                      -8-
+
+
+                         STANDAR PELAYANAN
+
+                         Penataan Kelembagaan
+
+NO    KOMPONEN                                URAIAN
+
+ 1.   Dasar Hukum   1.   Undang-undang Nomor 39 Tahun 2008 tentang
+                         Kementerian Negara;
+                    2.   Undang-Undang Nomor 25 Tahun 2009 tentang
+                         Pelayanan Publik;
+                    3.   Undang-Undang Nomor 23 Tahun 2014 tentang
+                         Pemerintah Daerah;
+                    4.   Peraturan Pemerintah Nomor 96 Tahun 2012
+                         tentang Pelaksanaan Undang-Undang Nomor 25
+                         tahun 2009 Tentang Pelayanan Publik;
+                    5.   Peraturan Pemerintah Nomor 18 Tahun 2016
+                         tentang Perangkat Daerah;
+                    6.   Keputusan Presiden Nomor 103 Tahun 2001
+                         tentang         Kedudukan,         Tugas,      Fungsi,
+                         Kewenangan, Susunan Organisasi, dan Tata
+                         Kerja Lembaga Pemerintah Non Kementerian
+                         sebagaimana        telah   diubah       beberapa    kali
+                         terakhir dengan Peraturan Presiden Nomor 3
+                         tahun 2013;
+                    7.   Keputusan Presiden Nomor 42 Tahun 2002
+                         tentang     Pedoman        Pelaksanaan       Anggaran
+                         Pendapatan dan Belanja Negara;
+                    8.   Peraturan       Presiden   Nomor    7    Tahun     2015
+                         tentang Organisasi Kementerian Negara;
+                    9.   Peraturan Presiden Nomor 47 Tahun 2015
+                         tentang Kementerian Pendayagunaan Aparatur
+                         Negara dan Reformasi Birokrasi;
+                    10. Peraturan Menteri PANRB Nomor 35 Tahun
+                         2012 tentang Pedoman Penyusunan Standar
+                         Operasional Prosedur Administrasi Pemerintah;
+                    11. Peraturan Menteri PANRB Nomor 15 Tahun
+                         2014 tentang Pedoman Standar Pelayanan;
+
+
+
+
+                                                             www.peraturan.go.id
+
+<!-- PAGE: 9 -->
+
+                                                                    2016, No.1899
+                                    -9-
+
+
+NO   KOMPONEN                                 URAIAN
+
+                    12. Peraturan Menteri PANRB Nomor 3 Tahun 2016
+                         tentang Organisasi dan Tata Kerja Kementerian
+                         Pendayagunaan Aparatur Negara dan Reformasi
+                         Birokrasi.
+
+
+
+
+2.   Persyaratan    1. Surat   Usulan     dari     Menteri   atau    Pimpinan
+     Pelayanan           Lembaga;
+                    2. Naskah Akademik dan Data Pendukungnya.
+3.   Sistem,        1.   Menteri atau Pimpinan Lembaga menyampaikan
+     mekanisme,          usulan dalam bentuk berkas usulan dilengkapi
+     dan prosedur        dengan       naskah       akademik      dan      data
+                         pendukungnya ke Menteri PANRB;
+                    2.   Menteri PANRB memberikan disposisi kepada
+                         Deputi Bidang Kelembagaan dan Tata Laksana;
+                    3.   Deputi Bidang Kelembagaan dan Tata Laksana
+                         mempelajari      usulan     lalu    mendisposisikan
+                         kepada     Asisten    Deputi   untuk       melakukan
+
+
+
+
+                                                             www.peraturan.go.id
+
+<!-- PAGE: 10 -->
+
+2016, No.1899                    -10-
+
+
+NO    KOMPONEN                                URAIAN
+
+                      telaahan/kajian/analisis lebih dalam;
+                 4.   Asisten Deputi beserta Staf melakukan proses
+                      uji kelengkapan naskah akademik dan data
+                      pendukungnya;
+                 5.   Apabila berkas persyaratan tidak lengkap maka
+                      berkas     dikembalikan         pada   pengusul        untuk
+                      dilengkapi;
+                 6.   Berkas               yang           lengkap             akan
+                      ditelaah/dikaji/dianalisis Asisten Deputi beserta
+                      staf    dan    hasil    telaahan     akan     disampaikan
+                      kepada Deputi Bidang Kelembagaan dan Tata
+                      Laksana;
+                 7.   Apabila       usul   penataan       kelembagaan        cukup
+                      “krusial” memerlukan pertimbangan dan arahan
+                      khusus dari Menteri maka kajian disampaikan
+                      kepada Menteri PANRB untuk mohon petunjuk;
+                 8.   Apabila       usul     penataan      kelembagaan        tidak
+                      cukup         krusial       maka     usulan       penataan
+                      kelembagaan tersebut akan dirapatkan oleh
+                      Deputi beserta staf dengan Instansi terkait,
+                      antara lain: Instansi Pengusul, LAN, BKN, dan
+                      Direktorat       Jenderal       Anggaran       Kementerian
+                      Keuangan;
+                 9.   Hasil    rapat       dengan     Instansi     terkait    akan
+                      dilanjutkan dengan pembahasan teknis oleh
+                      Asisten Deputi beserta staf dengan Instansi
+                      pengusul;
+                 10. Deputi Bidang Kelembagaan dan Tata Laksana
+                      meneliti      dan      mereview     hasil     pembahasan,
+                      menandatangani           Nota      Dinas    dan   memaraf
+                      konsep jawaban;
+                 11. Apabila Instansi pengusul tidak menindaklanjuti
+                      hasil rapat dalam waktu 3 bulan maka usulan
+                      penataan       kelembagaan         dianggap     dibatalkan.
+                      Pengusulan berikutnya dimulai dari tahap awal;
+
+
+
+
+                                                                 www.peraturan.go.id
+
+<!-- PAGE: 11 -->
+
+                                                                  2016, No.1899
+                                  -11-
+
+
+NO    KOMPONEN                              URAIAN
+
+                    12. Penyampaian       surat   pertimbangan      dan/atau
+                        persetujuan usulan penataan kelembagaan oleh
+                        Menteri PANRB kepada Instansi pengusul.
+4.   Jangka waktu   Jangka   waktu       yang   diperlukan     dalam    proses
+     penyelesaian   pelayanan Pertimbangan dan Persetujuan Usulan
+                    Penataan Kelembagaan Kementerian dan Lembaga
+                    adalah 45 hari kerja.
+
+5.   Biaya/tarif    Tidak ada biaya/tarif
+
+6.   Produk         1. Surat Menteri PANRB mengenai pertimbangan
+     pelayanan         dan/atau        persetujuan      usulan      penataan
+                       kelembagaan;
+                    2. Draft Rancangan Peraturan Menteri/Pimpinan
+                       Lembaga yang telah di validasi.
+7.   Sarana,        1. Ruang Rapat
+     prasarana,     2. Komputer
+     dan/atau       3. Printer
+     fasilitas      4. Jaringan Internet
+                    5. Database kelembagaan
+                    6. Mesin faksimili
+                    7. Mesin fotocopy
+8.   Kompetensi     1. Pendidikan minimal sarjana terutama bidang
+     Pelaksana         pemerintahan, hukum dan administrasi negara;
+                    2. Mempunyai       kemampuan        untuk     melakukan
+                       identifikasi permasalahan, analisis, dan alternatif
+                       pemecahan        masalah      terkait     kelembagaan
+                       pemerintah;
+                    3. Memiliki pengetahuan dan pengalaman di bidang
+                       organisasi dan manajemen;
+                    4. Mempunyai        kemampuan       dalam      menyusun
+                       peraturan perundang-undangan;
+                    5. Memiliki        kemampuan         presentasi       dan
+                       berargumentasi; dan
+                    6. Memiliki      kemampuan     mengolah      data   secara
+                       elektronik.
+
+
+
+
+                                                             www.peraturan.go.id
+
+<!-- PAGE: 12 -->
+
+2016, No.1899                      -12-
+
+
+NO     KOMPONEN                             URAIAN
+
+ 9.    Pengawasan    1. Dilakukan oleh atasan langsung;
+       internal      2. Rapat pleno Deputi Bidang Kelembagaan dan
+                        Tata Laksana; dan
+                     3. Sistem pelaporan bulanan masing-masing Asisten
+                        Deputi.
+ 10.   Penanganan    1. Melalui konsultasi langsung;
+       pengaduan,    2. Melalui telepon;
+       saran, dan    3. Melalui komunikasi secara elektronik (e-mail
+       masukan          dan/atau e-complaint) sesuai bidang tugasnya.
+
+ 11.   Jumlah        Maksimal 5 (lima) orang.
+       Pelaksana
+
+
+ 12.   Jaminan       Pertimbangan dan Persetujuan Usulan Penataan
+       pelayanan     Kelembagaan yang Rasional dan Proporsional.
+
+ 13.   Jaminan       1. Pelayanan Pertimbangan dan Persetujuan Usulan
+       keamanan         Penataan    Kelembagaan   yang    akuntabel   dan
+       dan              transparan;
+       keselamatan   2. Pertimbangan dan Persetujuan Usulan Penataan
+       pelayanan        Kelembagaan yang berkualitas karena melibatkan
+                        pihak terkait seperti LAN, BKN, dan Direktorat
+                        Anggaran Kementerian Keuangan.
+
+
+
+
+                                                          www.peraturan.go.id
+
+<!-- PAGE: 13 -->
+
+                                                            2016, No.1899
+                              -13-
+
+
+14.   Evaluasi    1. Laporan evaluasi pelaksanaan tugas dan fungsi
+      kinerja       disampaikan kepada Menteri PANRB baik secara
+      Pelaksana     berkala setiap bulan dan setiap tahun, maupun
+                    apabila diperlukan sewaktu-waktu;
+                  2. Secara berkala dilaporkan juga melalui jaringan
+                    e-performance Kementerian PANRB;
+                  3. Progres report penyelesaian usulan penataan
+                    kelembagaan      dapat   dilihat    pada    website
+                    www.menpan.go.id.
+
+
+
+
+                              MENTERI PENDAYAGUNAAN APARATUR
+                              NEGARA DAN REFORMASI BIROKRASI
+                              REPUBLIK INDONESIA,
+
+
+
+                                                  ttd
+
+
+
+                                             ASMAN ABNUR
+
+
+
+
+                                                       www.peraturan.go.id
+
+<!-- PAGE: 14 -->
+
+2016, No.1899                    -14-
+
+
+
+                                           LAMPIRAN XI
+
+                                           PERATURAN               MENTERI
+                                           PENDAYAGUNAAN          APARATUR
+                                           NEGARA      DAN       REFORMASI
+                                           BIROKRASI
+
+                                           NOMOR     24        TAHUN   2016
+                                           TENTANG     PERUBAHAN       ATAS
+                                           PERATURAN               MENTERI
+                                           PENDAYAGUNAAN          APARATUR
+                                           NEGARA      DAN       REFORMASI
+                                           BIROKRASI NOMOR 16 TAHUN
+                                           2013     TENTANG       STANDAR
+                                           PELAYANAN      DI    LINGKUNGAN
+                                           KEMENTERIAN
+                                           PENDAYAGUNAAN          APARATUR
+                                           NEGARA      DAN       REFORMASI
+                                           BIROKRASI
+
+
+
+
+                      STANDAR PELAYANAN
+
+                    Penetapan Tunjangan Kinerja
+
+
+
+NO    KOMPONEN                             URAIAN
+
+ 1.   Dasar Hukum   1. Undang-undang Nomor 39 Tahun 2008 tentang
+                       Kementerian Negara;
+                    2. Undang-Undang Nomor 25 Tahun 2009 tentang
+                       Pelayanan Publik;
+                    3. Undang-Undang Nomor 23 Tahun 2014 tentang
+                       Pemerintah Daerah;
+                    4. Peraturan Pemerintah Nomor 18 Tahun 2016
+                       tentang Perangkat Daerah;
+                    5. Keputusan Presiden Nomor 103 Tahun 2001
+                       tentang      Kedudukan,       Tugas,       Fungsi,
+
+
+
+
+                                                       www.peraturan.go.id
+
+<!-- PAGE: 15 -->
+
+                                                                     2016, No.1899
+                                     -15-
+
+
+NO   KOMPONEN                                 URAIAN
+
+                          Kewenangan, Susunan Organisasi, dan Tata
+                          Kerja Lembaga Pemerintah Non Kementerian
+                          sebagaimana telah diubah beberapa kali terakhir
+                          dengan Peraturan Presiden Nomor 3 tahun 2013;
+                    6. Peraturan       Presiden    Nomor     81   Tahun     2010
+                          tentang Grand Design Reformasi Birokrasi 2010-
+                          2025;
+                    7. Keputusan Presiden Nomor 42 Tahun 2002
+                          tentang      Pedoman     Pelaksanaan        Anggaran
+                          Pendapatan dan Belanja Negara;
+                    8. Peraturan Presiden Nomor 7 Tahun 2015 tentang
+                          Kementerian Negara;
+                    9. Peraturan       Presiden    Nomor     47   Tahun     2015
+                          tentang Kementerian Pendayagunaan Aparatur
+                          Negara dan Reformasi Birokrasi;
+                    10. Peraturan Menteri PANRB Nomor 15 Tahun 2014
+                          tentang Pedoman Standar Pelayanan;
+                    11. Peraturan Menteri PANRB Nomor 3 Tahun 2016
+                          tentang Organisasi dan Tata Kerja Kementerian
+                          Pendayagunaan Aparatur Negara dan Reformasi
+                          Birokrasi.
+2.   Persyaratan    1. Surat       Usulan   dari   Menteri    atau    Pimpinan
+     Pelayanan           Lembaga;
+                    2. Naskah Akademik dan Data Pendukungnya.
+3.   Sistem,        1.    Menteri PANRB selaku Ketua TRBN menerima
+     mekanisme,           usulan kenaikan tunjangan kinerja K/L             yang
+     dan prosedur         diterima langsung dari K/L yang bersangkutan
+                          maupun yang diajukan melalui Presiden;
+                    2.    Menteri PANRB selaku Ketua TRBN menugaskan
+                          Deputi       Bidang       Reformasi         Birokrasi,
+                          Akuntabilitas Aparatur, dan Pengawasan selaku
+                          ketua     UPRBN     untuk     melakukan       evaluasi
+                          pelaksanaan       reformasi   birokrasi      di   K/L
+                          dimaksud;
+
+
+
+
+                                                             www.peraturan.go.id
+
+<!-- PAGE: 16 -->
+
+2016, No.1899                     -16-
+
+
+NO    KOMPONEN                              URAIAN
+
+                 3.   Deputi       melakukan          evaluasi        pelaksanaan
+                      reformasi     birokrasi    di     K/L      dimaksud        dan
+                      dituangkan dalam Laporan Hasil Evaluasi (lebih
+                      lanjut    diuraikan     pada      Mekanisme          Evaluasi
+                      Perkembangan              Pelaksanaan             Reformasi
+                      Birokrasi);
+                 4.   Laporan Hasil Evaluasi pelaksanaan reformasi
+                      birokrasi     K/L    disampaikan        kepada          Menteri
+                      PANRB       untuk      digunakan           sebagai       bahan
+                      pertimbangan         dalam       memberikan             usulan
+                      penetapan besaran tunjangan kinerja K/L;
+                 5.   Menteri PANRB memberikan persetujuan dan
+                      menetapkan besaran tunjangan kinerja yang
+                      akan diberikan dan menyampaikan permohonan
+                      izin prinsip penyesuaian tunjangan kinerja ke
+                      Menteri     Keuangan.      Jika     TRBN        tidak    dapat
+                      memutuskan maka akan diajukan ke dalam
+                      rapat KPRBN;
+                 6.   KPRBN memutuskan besaran tunjangan kinerja
+                      dan hasilnya disampaikan ke TRBN;
+                 7.   Kementerian         Keuangan       membuat           simulasi
+                      besaran tunjangan pada masing-masing jabatan
+                      dan     dampak      anggarannya,        (jika    diperlukan
+                      penambahan anggaran mengusulkan ke DPR);
+                 8.   DPR menyetujui penambahan anggaran untuk
+                      kenaikan      tunjangan         kienrja.     Ketika       tidak
+                      menyetujui         dikembalikan         ke      kementerian
+                      keuangan untuk dibuatkan simulasi baru;
+                 9.   Menteri Keuangan membuat surat Izin Prinsip
+                      dan menyampaikan surat persetujuan kepada
+                      Ketua     TRBN         sebagai       dasar       perumusan
+                      Rancangan Perpres;
+                 10. Ketua TRBN menerima surat Izin Prinsip dari
+                      menteri Keuangan dan menugaskan UPRBN
+                      untuk menyiapkan Rancangan Perpres tentang
+
+
+
+
+                                                              www.peraturan.go.id
+
+<!-- PAGE: 17 -->
+
+                                                                      2016, No.1899
+                                   -17-
+
+
+NO   KOMPONEN                                URAIAN
+
+                        tunjangan kinerja;
+                    11. UPRBN       merumuskan             Rancangan      perpres
+                        tentang Tunjangan Kinerja bersama instansi
+                        terkait    (Kementerian      Keuangan,        Kementerian
+                        Hukum dan HAM, Sekretariat Kabinet dan BKN),
+                        dan menyampaikan hasilnya ke Ketua TRBN;
+                    12. Menteri      PANRB/Ketua TRBN menyampaikan
+                        rancangan Perpres tentang Tunjangan Kinerja
+                        untuk K/L kepada Presiden melalui Sekretaris
+                        Kabinet;
+                    13. Setkab     memproses        penetapan       Perpres   dan
+                        menyampaikan hasil penetapan Perpres kepada
+                        Menteri PANRB/Ketua TRBN, Menteri Keuangan,
+                        Menteri Koordinator untuk memperoleh paraf
+                        koordinasi dan penetapan oleh Presiden menjadi
+                        Keputusan       Presiden.      Serta    menyampaiakn
+                        Perpres tentang tunjangan kinerja ke              Menteri
+                        PANRB dan K/L yang bersangkutan;
+                    14. Menteri PANRB/Ketua TRBN menerima Perpres
+                        yang sudah ditetapkan;
+                    15. Menerima Perpres dan               menyusun dokumen
+                        anggaran dan pembayaran.
+4.   Jangka waktu   Jangka     waktu      yang    diperlukan     dalam     proses
+     penyelesaian   pelayanan Pertimbangan dan Persetujuan Usulan
+                    Penetapan          Tunjangan             Kinerja          bagi
+                    Kementerian/Lembaga adalah enam bulan.
+
+5.   Biaya/tarif    Tidak ada biaya/tarif
+
+6.   Produk         1. Surat Menteri PANRB mengenai pertimbangan
+     pelayanan         dan/atau        persetujuan         usulan      Penetapan
+                       Tunjangan Kinerja bagi Kementerian/Lembaga.
+                    2. Draft   Rancangan         Perpres    tentang    Tunjangan
+                       Kinerja bersama instansi terkait.
+7.   Sarana,
+                    1. Ruang Rapat
+     prasarana,
+
+
+
+
+                                                               www.peraturan.go.id
+
+<!-- PAGE: 18 -->
+
+2016, No.1899                     -18-
+
+
+NO      KOMPONEN                            URAIAN
+
+       dan/atau     2. Komputer
+       fasilitas    3. Printer
+                    4. Jaringan Internet
+                    5. Mesin faksimili
+                    6. Mesin fotocopy
+ 8.    Kompetensi   1. Pendidikan minimal sarjana terutama bidang
+       Pelaksana       pemerintahan, hukum dan administrasi negara;
+                    2. Mempunyai         kemampuan      untuk    melakukan
+                       identifikasi permasalahan, analisis, dan alternatif
+                       pemecahan         masalah     terkait    kelembagaan
+                       pemerintah;
+                    3. Memiliki pengetahuan dan pengalaman di bidang
+                       organisasi dan manajemen;
+                    4. Mempunyai         kemampuan      dalam     menyusun
+                       peraturan perundang-undangan;
+                    5. Memiliki        kemampuan         presentasi      dan
+                       berargumentasi; dan
+                    6. Memiliki      kemampuan     mengolah     data   secara
+                       elektronik.
+ 9.    Pengawasan   1. Dilakukan oleh atasan langsung;
+       internal     2. Rapat pleno Deputi Bidang Reformasi Birokrasi,
+                       Akuntabilitas Aparatur dan Pengawasan; dan
+                    3. Sistem pelaporan bulanan masing-masing Asisten
+                       Deputi.
+ 10.   Penanganan   1. Melalui konsultasi langsung;
+       pengaduan,   2. Melalui telepon;
+       saran, dan   3. Melalui komunikasi secara elektronik (e-mail, e-
+       masukan         complaint) sesuai bidang tugasnya.
+
+ 11.   Jumlah       Maksimal 5 (lima) orang.
+       Pelaksana
+
+
+ 12.   Jaminan      Pelayanan dilaksanakan sesui dengan SOP dan
+       pelayanan    norma waktu yang telah ditetapkan.
+
+
+
+
+                                                           www.peraturan.go.id
+
+<!-- PAGE: 19 -->
+
+                                                                 2016, No.1899
+                                  -19-
+
+
+NO    KOMPONEN                             URAIAN
+
+
+
+
+13.   Jaminan
+                    Pelayanan Usulan Penetapan Tunjangan Kinerja bagi
+      keamanan
+                    Kementerian/Lembaga          yang       akuntabel      dan
+      dan
+                    transparan;
+      keselamatan
+      pelayanan
+
+14.   Evaluasi      1. Laporan evaluasi pelaksanaan tugas dan fungsi
+      kinerja          disampaikan kepada Menteri PANRB baik secara
+      Pelaksana        berkala setiap bulan dan setiap tahun, maupun
+                       apabila diperlukan sewaktu-waktu;
+                    2. Secara berkala dilaporkan juga melalui jaringan e-
+                       performance Kementerian PANRB;
+                    3. Progres report penyelesaian usulan penataan
+                       kelembagaan       dapat    dilihat     pada      website
+                       www.menpan.go.id.
+
+
+
+
+                                  MENTERI PENDAYAGUNAAN APARATUR
+                                  NEGARA DAN REFORMASI BIROKRASI
+                                  REPUBLIK INDONESIA,
+
+
+
+                                                        ttd
+
+
+
+                                                 ASMAN ABNUR
+
+
+
+
+                                                            www.peraturan.go.id
+
+<!-- PAGE: 20 -->
+
+2016, No.1899                    -20-
+
+
+
+                                         LAMPIRAN XII
+
+                                         PERATURAN                  MENTERI
+                                         PENDAYAGUNAAN            APARATUR
+                                         NEGARA      DAN         REFORMASI
+                                         BIROKRASI
+
+                                         NOMOR       24        TAHUN     2016
+                                         TENTANG     PERUBAHAN           ATAS
+                                         PERATURAN                  MENTERI
+                                         PENDAYAGUNAAN            APARATUR
+                                         NEGARA      DAN         REFORMASI
+                                         BIROKRASI NOMOR 16 TAHUN
+                                         2013     TENTANG           STANDAR
+                                         PELAYANAN        DI    LINGKUNGAN
+                                         KEMENTERIAN
+                                         PENDAYAGUNAAN            APARATUR
+                                         NEGARA      DAN         REFORMASI
+                                         BIROKRASI
+
+
+
+
+                     STANDAR PELAYANAN
+
+                      Penetapan Kelas Jabatan
+
+
+
+NO    KOMPONEN                          URAIAN
+
+ 1.   Dasar Hukum   1. Undang-undang Nomor 5 Tahun 2014 tentang
+                       Aparatur Sipil Negara;
+                    2. Undang-undang Nomor 34 Tahun 2004 tentang
+                       Tentara Nasional Indonesia;
+                    3. Undang-undang Nomor 2 Tahun 2002 tentang
+                       Kepolisian Negara Republik Indonesia;
+                    4. Peraturan Pemerintah Nomor 16 Tahun 1994
+                       tentang Jabatan Fungsional Pegawai Negeri Sipil;
+                    5. Peraturan Pemerintah Nomor 100 Tahun 2000
+                       tentang    Pengangkatan   Pegawai       Negeri   Sipil
+
+
+
+
+                                                     www.peraturan.go.id
+
+<!-- PAGE: 21 -->
+
+                                                                2016, No.1899
+                                 -21-
+
+
+NO   KOMPONEN                              URAIAN
+
+                        Dalam Jabatan Struktural sebagaimana telah
+                        diubah dengan Peraturan Pemerintah Nomor 13
+                        Tahun 2002;
+                    6. Keputusan       Menteri   Pendayagunaan     Aparatur
+                        Negara Nomor; KEP/23.2/M.PAN/2004 tentang
+                        Pedoman Penataan Pegawai Negeri Sipil;
+                    7. Peraturan Menteri PANRB Nomor 11 Tahun 2015
+                        tentang Road Map Reformasi Birokrasi Tahun
+                        2015-2019;
+                    8. Peraturan Menteri PANRB Nomor 34 Tahun 2011
+                        tentang Pedoman Evaluasi Jabatan;
+                    9. Peraturan Menteri PANRB Nomor 39 Tahun 2013
+                        tentang Penetapan Kelas Jabatan di Lingkungan
+                        Instansi Pemerintah;
+2.   Persyaratan    1. Surat Usulan dari Pejabat Pembina Kepegawaian
+     Pelayanan        (PPK);
+                    2. Lampiran I s.d V;
+                    3. Peta Jabatan;
+                    4. Informasi Faktor Jabatan Struktural;
+                    5. Informasi Faktor Jabatan Fungsional.
+3.   Sistem,        1. Instansi Pengusul menyampaikan usulan dalam
+     mekanisme,        bentuk berkas dokumen hasil evaluasi jabatan
+     dan prosedur      yang terdiri dari: Surat yang ditandatangani PPK,
+                       Lampiran I. s.d. V, Peta Jabatan, Informasi Faktor
+                       Jabatan (Struktural dan Fungsional);
+                    2. Menteri PANRB memberikan disposisi kepada
+                       Deputi Bidang SDM Aparatur;
+                    3. Deputi Bidang SDM Aparatur mempelajari usulan
+                       dan memberikan disposisi kepada Asisten Deputi
+                       Kesejahteraan SDM Aparatur untuk melakukan
+                       telaahan/kajian/analisis;
+                    4. Asisten   Deputi    Kesejahteraan     SDM   Aparatur
+                       Meneliti kelengkapan Dokumen Evaluasi Jabatan;
+                    5. Asisten   Deputi    Kesejahteraan     SDM   Aparatur
+                       Membuat telaahan/kajian/analisis;
+
+
+
+
+                                                           www.peraturan.go.id
+
+<!-- PAGE: 22 -->
+
+2016, No.1899                       -22-
+
+
+NO     KOMPONEN                               URAIAN
+
+                     6. Asisten    Deputi     Kesejahteraan      SDM       Aparatur
+                        Meneliti kelengkapan Dokumen Evaluasi Jabatan
+                        Membuat telaahan/kajian/analisis;
+                     7. Deputi Bidang SDM Aparatur              melakukan rapat
+                        validasi dengan instansi terkait, antara lain:
+                        instansi     pengusul,      BKN,    dan      Kementerian
+                        Keuangan, Pejabat dan Staf Deputi Bidang SDM
+                        Aparatur;
+                     8. Asisten    Deputi     Kesejahteraan      SDM       Aparatur
+                        memperbaiki hasil evaluasi jabatan hasil validasi;
+                     9. Deputi     Bidang     SDM     Aparatur       memeriksa,
+                        meninjau      ulang       dokumen    penetapan        kelas
+                        jabatan,     menandatangani         Nota     Dinas     dan
+                        memaraf konsep surat penetapan;
+                     10. Sekretaris Kementerian Paraf koordinasi konsep
+                        surat penetapan;
+                     11. Menteri PANRB menandatangani surat penetapan
+                        kelas jabatan untuk kemudian diserahkan kepada
+                        instansi pengusul.
+ 4.   Jangka waktu   Jangka     waktu      yang    diperlukan      dalam     proses
+      penyelesaian   pelayanan Pertimbangan dan Persetujuan Usulan
+                     Penetapan Kelas Jabatan adalah 33 hari kerja.
+
+ 5.   Biaya/tarif    Tidak ada biaya/tarif
+
+ 6.   Produk         Surat    Menteri      PANRB     mengenai       pertimbangan
+      pelayanan      dan/atau      persetujuan     usulan    Penetapan        Kelas
+                     Jabatan.
+
+ 7.   Sarana,        1. Ruang Rapat
+      prasarana,     2. Komputer
+      dan/atau       3. Printer
+      fasilitas      4. Jaringan Internet
+                     5. Mesin faksimili
+                     6. Mesin fotocopy
+
+
+
+
+                                                              www.peraturan.go.id
+
+<!-- PAGE: 23 -->
+
+                                                                  2016, No.1899
+                                  -23-
+
+
+NO    KOMPONEN                              URAIAN
+
+8.    Kompetensi    1. Pendidikan     minimal     sarjana    terutama    bidang
+      Pelaksana        pemerintahan, hukum dan administrasi negara;
+                    2. Mempunyai         kemampuan       untuk      melakukan
+                       identifikasi permasalahan, analisis, dan alternatif
+                       pemecahan         masalah     terkait      kelembagaan
+                       pemerintah;
+                    3. Memiliki pengetahuan dan pengalaman di bidang
+                       Manajemen SDM;
+                    4. Memiliki        kemampuan            presentasi     dan
+                       berargumentasi; dan
+                    5. Memiliki      kemampuan      mengolah      data   secara
+                       elektronik.
+9.    Pengawasan    1. Dilakukan oleh atasan langsung;
+      internal      2. Rapat pleno Deputi Bidang SDM Aparatur; dan
+                    3. Sistem pelaporan bulanan Asisten Deputi bidang
+                       Kesejahteraan SDM.
+10.   Penanganan    1. Melalui konsultasi langsung;
+      pengaduan,    2. Melalui telepon;
+      saran, dan    3. Melalui komunikasi secara elektronik (e-mail dan
+      masukan          e-complaint) sesuai bidang tugasnya.
+
+11.   Jumlah
+      Pelaksana     Maksimal 5 (lima) orang
+
+
+12.   Jaminan       Pelayanan dilaksanakan sesui dengan SOP dan
+      pelayanan     norma waktu yang telah ditetapkan.
+
+13.   Jaminan       1. Pelayanan Pertimbangan dan Persetujuan Usulan
+      keamanan         Penetapan Kelas Jabatan yang transparan, bebas
+      dan              dari keterlibatan pihak ketiga;
+      keselamatan   2. Pertimbangan dan Persetujuan Usulan Penetapan
+      pelayanan        Kelas Jabatan yang berkualitas karena melibatkan
+                       pihak   terkait    yaitu    BKN      dan   Kementerian
+                       Keuangan.
+14.   Evaluasi      1. Laporan evaluasi pelaksanaan tugas dan fungsi
+      kinerja          disampaikan kepada Menteri PANRB baik secara
+
+
+
+
+                                                             www.peraturan.go.id
+
+<!-- PAGE: 24 -->
+
+2016, No.1899                  -24-
+
+
+NO    KOMPONEN                             URAIAN
+
+      Pelaksana     berkala setiap bulan dan setiap tahun, maupun
+                    apabila diperlukan sewaktu-waktu;
+                  2. Secara berkala dilaporkan juga melalui jaringan e-
+                    performance Kementerian PANRB;
+                  3. Progres   report    penyelesaian      usulan   penataan
+                    kelembagaan         dapat    dilihat     pada    website
+                    www.menpan.go.id.
+
+
+
+                               MENTERI PENDAYAGUNAAN APARATUR
+                               NEGARA DAN REFORMASI BIROKRASI
+                               REPUBLIK INDONESIA,
+
+
+
+                                                      ttd
+
+
+
+                                                ASMAN ABNUR
+
+
+
+
+                                                           www.peraturan.go.id
+
+<!-- PAGE: 25 -->
+
+                                                                 2016, No.1899
+                              -25-
+
+
+
+                                         LAMPIRAN XIII
+
+                                         PERATURAN                   MENTERI
+                                         PENDAYAGUNAAN              APARATUR
+                                         NEGARA        DAN         REFORMASI
+                                         BIROKRASI
+
+                                         NOMOR         24        TAHUN    2016
+                                         TENTANG       PERUBAHAN          ATAS
+                                         PERATURAN                   MENTERI
+                                         PENDAYAGUNAAN              APARATUR
+                                         NEGARA        DAN         REFORMASI
+                                         BIROKRASI NOMOR 16 TAHUN
+                                         2013      TENTANG           STANDAR
+                                         PELAYANAN          DI    LINGKUNGAN
+                                         KEMENTERIAN
+                                         PENDAYAGUNAAN              APARATUR
+                                         NEGARA        DAN         REFORMASI
+                                         BIROKRASI
+
+
+
+
+                     STANDAR PELAYANAN
+
+                   Penetapan Jabatan Fungsional
+
+
+
+NO   KOMPONEN                            URAIAN
+
+1.   Dasar Hukum   1. Undang-undang Nomor 5 Tahun 2014 tentang
+                     Aparatur Sipil Negara;
+                   2. Peraturan Pemerintah Nomor 16 Tahun 1994
+                     tentang Jabatan Fungsional Pengawai Negeri Sipil
+                     sebagaimana     telah    diubah   dngan       Peraturan
+                     Pemerintah Nomor 40 Tahun 2010;
+                   3. Keputusan   Presiden    Nomor    87        Tahun   1999
+                     tentang Rumpun Jabatan Fungsional Pegawai
+                     Negeri Sipil sebagaimana telah diubah beberapa
+                     kali terakhir dengan Keputusan Presiden Nomor
+
+
+
+
+                                                       www.peraturan.go.id
+
+<!-- PAGE: 26 -->
+
+2016, No.1899                      -26-
+
+
+NO    KOMPONEN                                URAIAN
+
+                        116 Tahun 2014;
+
+
+
+                     4. Peraturan Presiden Nomor 7 Tahun 2015 tentang
+                        Organisasi Kementerian Negara;
+                     5. Peraturan Menteri PAN dan RB Nomor 35 Tahun
+                        2012     tentang   Pedoman     Penyusunan      Standar
+                        Operasional Prosedur Administrasi Pemerintah;
+                     6. Peraturan Menteri PANRB Nomor 15 Tahun 2014
+                        tentang Pedoman Standar Pelayanan.
+ 2.   Persyaratan    1. Surat Usulan dari Instansi Pembina;
+      Pelayanan      2. Naskah Akademik.
+
+ 3.   Sistem,        1. Instansi     Pembina    mengusulkan        penetapan
+      mekanisme,        jabatan fungsional dalam bentuk surat usulan
+      dan prosedur      dan naskah akademik ke Menteri PANRB;
+                     2. Menteri      PANRB      menerima        usulan      dan
+                        mendisposisikan      usulan    kepada    Deputi     dan
+                        secara berjenjang kepada Asisten deputi dan
+                        Kepala Bidang Untuk dilakukan telaahan oleh
+                        Kasubbid/ Analis;
+                     3. Deputi     mengundang    Instansi    Pembina      untuk
+                        melakukan ekspose usulan jabatan fungsional;
+                     4. Menteri menerbitkan surat jawaban atas usulan
+                        jabatan fungsional;
+                     5. Instansi Pembina merumuskan tugas pokok dan
+                        uraian kegiatan;
+                     6. Instansi Pembina mekakukan uji beban kerja dan
+                        olah data;
+                     7. Kementerian PANRB dan BKN melakukan validasi
+                        atas hasil olah data uji beban kerja (bersama
+                        instansi pembina);
+                     8. Instansi Pembina bersama dengan Kementerian
+                        PANRB dan BKN melakukan penyusunan draft
+                        Peraturan     Menteri   PANRB       tentang      jabatan
+                        fungsional yang diusulkan;
+
+
+
+
+                                                            www.peraturan.go.id
+
+<!-- PAGE: 27 -->
+
+                                                                 2016, No.1899
+                                  -27-
+
+
+NO    KOMPONEN                              URAIAN
+
+                    9. BKN memberikan Pertimbangan Teknis atas draft
+                       Peraturan Menteri PANRB;
+                    10. Biro Hukum, Komunikasi dan Informasi Publik
+                        Kementerian PANRB melakukan legal drafting
+                        terhadap draft Permenpan;
+                    11. Draft Peraturan Menteri PANRB diajukan kepada
+                        Menteri untuk ditetapkan;
+                    12. Peraturan Menteri PANRB yang sudah ditetapkan
+                        diajukan kepada Biro HUKIP untuk dilakukan
+                        penomoran dan pengundangan di Kementerian
+                        Hukum dan HAM;
+                    13. Salinan   Peraturan     Menteri   PANRB        diberikan
+                        kepada Instansi Pembina dan BKN;
+                    14. Peraturan    Menteri     PANRB       tentang    jabatan
+                        fungsional dimaksud dimuat dalam website JDIH
+                        Kementerian PANRB.
+4.   Jangka waktu   Jangka   waktu       yang   diperlukan     dalam     proses
+     penyelesaian   keseluruhan      pelayanan       Pertimbangan           dan
+                    Persetujuan Usulan Penataan Jabatan Fungsional
+                    adalah 215 hari kerja dengan proses di Kementerian
+                    PANRB selama 20 hari kerja.
+
+5.   Biaya/tarif    Tidak ada biaya/tarif
+
+6.   Produk         1. Surat Deputi SDM Aparatur mengenai persetujuan
+     pelayanan         usulan Penetapan Jabatan Fungsional;
+                    2. Peraturan Menteri PANRB.
+7.   Sarana,        1. Ruang Rapat
+     prasarana,     2. Komputer
+     dan/atau       3. Printer
+     fasilitas      4. Jaringan Internet
+                    5. Mesin faksimili
+                    6. Mesin fotocopy
+8.   Kompetensi     1. Pendidikan    minimal    sarjana    terutama      bidang
+     Pelaksana         pemerintahan,        hukum,        manajemen         dan
+                       administrasi negara;
+
+
+
+
+                                                           www.peraturan.go.id
+
+<!-- PAGE: 28 -->
+
+2016, No.1899                      -28-
+
+
+NO     KOMPONEN                                 URAIAN
+
+                     2. Mempunyai         kemampuan        untuk     melakukan
+                        identifikasi permasalahan, analisis, dan alternatif
+                        pemecahan masalah terkait manajemen ASN;
+                     3. Memiliki pengetahuan dan pengalaman di bidang
+                        organisasi dan manajemen;
+                     4. Mempunyai         kemampuan        dalam      menyusun
+                        peraturan perundang-undangan;
+                     5. Memiliki        kemampuan           presentasi       dan
+                        berargumentasi; dan
+                     6. Memiliki      kemampuan     mengolah        data   secara
+                        elektronik.
+ 9.    Pengawasan    1. Dilakukan oleh atasan langsung;
+       internal      2. Rapat pleno Deputi Bidang SDM Aparatur; dan
+                     3. Sistem pelaporan bulanan masing-masing Asisten
+                        Deputi.
+ 10.   Penanganan    1. Melalui konsultasi langsung;
+       pengaduan,    2. Melalui telepon;
+       saran, dan    3. Melalui komunikasi secara elektronik (e-mail dan
+       masukan          e-complaint) sesuai bidang tugasnya.
+
+ 11.   Jumlah        Maksimal 5 (lima) orang
+       Pelaksana
+
+
+ 12.   Jaminan       Pelayanan dilaksankan sesuai dengan SOP dan
+       pelayanan     norma waktu yang telah ditetapkan.
+
+ 13.   Jaminan       1. Pelayanan Pertimbangan dan Persetujuan Usulan
+       keamanan         Penetapan Jabatan Fungsional yang transparan,
+       dan              bebas dari KKN;
+       keselamatan   2. Pertimbangan dan Persetujuan Usulan Penetapan
+       pelayanan        Jabatan    Fungsional     yang     berkualitas     karena
+                        melibatkan      pihak    terkait    yaitu    BKN     dan
+                        Kementerian Keuangan.
+ 14.   Evaluasi      1. Laporan evaluasi pelaksanaan tugas dan fungsi
+       kinerja          disampaikan kepada Menteri PANRB baik secara
+                        berkala setiap bulan dan setiap tahun, maupun
+
+
+
+
+                                                             www.peraturan.go.id
+
+<!-- PAGE: 29 -->
+
+                                                               2016, No.1899
+                              -29-
+
+
+NO   KOMPONEN                             URAIAN
+
+     Pelaksana     apabila diperlukan sewaktu-waktu;
+                 2. Secara berkala dilaporkan juga melalui jaringan e-
+                   performance Kementerian PANRB;
+                 3. Progres   report    penyelesaian      usulan   penataan
+                   kelembagaan         dapat    dilihat     pada    website
+                   www.menpan.go.id.
+
+
+
+
+                              MENTERI PENDAYAGUNAAN APARATUR
+                              NEGARA DAN REFORMASI BIROKRASI
+                              REPUBLIK INDONESIA,
+
+
+
+                                                     ttd
+
+
+
+                                               ASMAN ABNUR
+
+
+
+
+                                                          www.peraturan.go.id

@@ -1,0 +1,25 @@
+id: permenpanrb-2020-090
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  90 Tahun 2020 tentang Perubahan Atas Peraturan Menteri Pendayagunaan Aparatur Negara
+  Dan Reformasi Birokrasi Nomor 65 Tahun 2020 Tentang Pemberian Tunjangan Kinerja
+  Bagi Pegawai Di Kementerian Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

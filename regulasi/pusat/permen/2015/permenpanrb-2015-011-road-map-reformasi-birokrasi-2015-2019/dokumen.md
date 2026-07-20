@@ -1,0 +1,187 @@
+---
+id: "permenpanrb-2015-011"
+jenis: "permenpanrb"
+nomor: "11"
+tahun: 2015
+judul: "Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 11 Tahun 2015 tentang Road Map Reformasi Birokrasi 2015-2019"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 11 Tahun 2015 tentang Road Map Reformasi Birokrasi 2015-2019
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permenpanrb
+nomor: 11
+tahun: 2015
+tentang: Road Map Reformasi Birokrasi 2015-2019
+---
+
+<!-- PAGE: 1 -->
+
+           BERITA NEGARA
+         REPUBLIK INDONESIA
+No.985, 2015              KEMENPAN RB. Road Map. 2015-2019.
+
+
+                     PERATURAN MENTERI
+              PENDAYAGUNAAN APARATUR NEGARA
+         DAN REFORMASI BIROKRASI REPUBLIK INDONESIA
+                    NOMOR 11 TAHUN 2015
+                          TENTANG
+           ROAD MAP REFORMASI BIROKRASI 2015-2019
+               DENGAN RAHMAT TUHAN YANG MAHA ESA
+        MENTERI PENDAYAGUNAAN APARATUR NEGARA DAN
+          REFORMASI BIROKRASI REPUBLIK INDONESIA,
+
+
+Menimbang : a.      Bahwa Peraturan Menteri Pendayagunaan Aparatur
+                    Negara dan Reformasi Birokrasi Nomor 20 Tahun 2010
+                    tentang Road Map Reformasi Birokrasi 2010-2014
+                    sudah tidak sesuai dengan perkembangan keadaan;
+               b.   bahwa untuk melaksanakan ketentuan Pasal 4
+                    Peraturan Presiden Nomor 81 Tahun 2010 tentang
+                    Grand Design Reformasi Birokrasi 2010-2025 perlu
+                    mengganti Peraturan Menteri Pendayagunaan Aparatur
+                    Negara dan Reformasi Birokrasi Nomor 20 Tahun 2010
+                    tentang Road Map Reformasi Birokrasi 2010-2014;
+               c.   bahwa    berdasarkan    pertimbangan    sebagaimana
+                    dimaksud dalam huruf a dan huruf b perlu
+                    menetapkan    Peraturan    Menteri   Pendayagunaan
+                    Aparatur Negara dan Reformasi Birokrasi tentang Road
+                    Map Reformasi Birokrasi 2015-2019
+
+
+
+                                                     www.peraturan.go.id
+
+<!-- PAGE: 2 -->
+
+2015, No.985                       2
+
+
+Mengingat   : 1.    Undang-Undang Nomor 28 Tahun 1999 tentang
+                    Penyelenggaraan Negara Yang Bersih dan Bebas dari
+                    Korupsi, Kolusi dan Nepotisme (Lembaran Negara
+                    Republik Indonesia Tahun 1999 Nomor 75, Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 3851);
+               2.   Undang-Undang Nomor 17 Tahun 2003 tentang
+                    Keuangan Negara (Lembaran Negara Republik
+                    Indonesia Tahun 2003 Nomor 47, Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 4286);
+               3.   Undang-Undang Nomor 1 Tahun 2004 tentang
+                    Perbendaharaan Negara (Lembaran Negara Republik
+                    Indonesia Tahun 2004 Nomor 47, Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 4355);
+               4.   Undang-Undang Nomor 15 Tahun 2004 tentang
+                    Pemeriksaan Pengelolaan dan Tanggung Jawab
+                    Keuangan Negara (Lembaran Negara Republik
+                    Indonesia Tahun 2004 Nomor 66, Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 4400);
+               5.   Undang-Undang Nomor 5 Tahun 2014 tentang
+                    Aparatur Sipil Negara (Lembaran Negara Tahun 2014
+                    Nomor 6, Tambahan Lembaran Negara Nomor 5494);
+               6.   Undang-Undang Nomor 23 Tahun 2014 tentang
+                    Pemerintahan Daerah (Lembaran Negara Republik
+                    Indonesia Tahun 2014 Nomor 125, Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 5587)
+                    sebagaimana telah beberapa kali diubah terakhir
+                    dengan Undang-Undang Nomor 9 Tahun 2015
+                    (Lembaran Negara Republik Indonesia Tahun 2015
+                    Nomor 58, Tambahan Lembaran Negara Republik
+                    Indonesia Nomor 5679);
+               7.   Peraturan Presiden Nomor 81 Tahun 2010 tentang
+                    Grand Design Reformasi Birokrasi 2010 - 2025;
+               8.   Keputusan Presiden Nomor 15 Tahun 2015 tentang
+                    Pembentukan Komite Pengarah Reformasi Birokrasi
+                    Nasional dan Tim Reformasi Birokrasi Nasional;
+                            MEMUTUSKAN:
+Menetapkan : PERATURAN MENTERI PENDAYAGUNAAN APARATUR
+             NEGARA DAN REFORMASI BIROKRASI TENTANG ROAD
+             MAP REFORMASI BIROKRASI 2015-2019.
+
+
+
+
+                                                   www.peraturan.go.id
+
+<!-- PAGE: 3 -->
+
+                                   3                         2015, No.985
+
+
+
+                                Pasal 1
+Road Map Reformasi Birokrasi 2015-2019, digunakan sebagai acuan bagi:
+a.   Kementerian Pendayagunaan Aparatur Negara dan Reformasi
+     Birokrasi dan Kementerian/Lembaga yang disebut dalam Road Map
+     Reformasi Birokrasi 2015-2019, untuk menetapkan dan menjalankan
+     program Makro dan Meso; dan
+b.   Seluruh Kementerian/Lembaga dan Pemerintah Daerah untuk
+     menyusun Road Map Reformasi Birokrasi di masing-masing instansi
+     serta menjalankan program Mikro.
+                                Pasal 2
+Road Map Birokrasi Reformasi Birokrasi 2015-2019 sebagaimana
+dimaksud dalam Pasal 1, adalah sebagaimana tercantum dalam Lampiran
+yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+                                Pasal 3
+Pada saat Peraturan Menteri ini mulai berlaku, kementerian/lembaga dan
+pemerintah daerah yang telah menyusun Road Map Reformasi Birokrasi
+berdasarkan Peraturan Menteri Pendayagunaan Aparatur Negara dan
+Reformasi Birokrasi Nomor 20 Tahun 2010 tentang Road Map Reformasi
+Birokrasi 2010-2014 dinyatakan tetap berlaku sepanjang tidak
+bertentangan dengan Peraturan Menteri ini.
+                                Pasal 4
+Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri
+Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 20
+Tahun 2010 tentang Road Map Reformasi Birokrasi 2010-2014, dicabut
+dan dinyatakan tidak berlaku.
+                                Pasal 5
+Peraturan Menteri ini mulai berlaku pada saat diundangkan.
+
+
+
+
+                                                    www.peraturan.go.id
+
+<!-- PAGE: 4 -->
+
+2015, No.985                  4
+
+
+Agar Setiap orang mengetahuinya, memerintahkan pengundangan
+Peraturan Menteri ini dengan penempatannya dalam Berita Negara
+Republik Indonesia.
+
+
+                                    Ditetapkan di Jakarta
+                                    pada tanggal 22 Juni 2015
+                                    MENTERI PENDAYAGUNAAN
+                                    APARATUR NEGARA DAN
+                                    REFORMASI BIROKRASI
+                                    REPUBLIK INDONESIA,
+
+
+                                    YUDDY CHRISNANDI
+
+
+Diundangkan di Jakarta
+pada tanggal 02 Juli 2015
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+YASONNA H. LAOLY
+
+
+
+
+                                              www.peraturan.go.id

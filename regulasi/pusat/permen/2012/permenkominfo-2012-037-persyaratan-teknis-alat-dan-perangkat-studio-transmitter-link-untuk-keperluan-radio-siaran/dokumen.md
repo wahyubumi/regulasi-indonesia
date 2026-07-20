@@ -1,0 +1,204 @@
+---
+id: "permenkominfo-2012-037"
+jenis: "permenkominfo"
+nomor: "37"
+tahun: 2012
+judul: "Peraturan Menteri Komunikasi dan Informatika Nomor 37 Tahun 2012 tentang Persyaratan Teknis Alat Dan Perangkat Studio Transmitter Link Untuk Keperluan Radio Siaran"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Komunikasi dan Informatika Nomor 37 Tahun 2012 tentang Persyaratan Teknis Alat Dan Perangkat Studio Transmitter Link Untuk Keperluan Radio Siaran
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permenkominfo
+nomor: 37
+tahun: 2012
+tentang: Persyaratan Teknis Alat Dan Perangkat Studio Transmitter Link Untuk Keperluan Radio Siaran
+---
+
+<!-- PAGE: 1 -->
+
+          BERITA NEGARA
+        REPUBLIK INDONESIA
+No.1204, 2012            KEMENTERIAN            KOMUNIKASI         DAN
+                         INFORMATIKA. Alat dan Perangkat.        Studio
+                         Transmitter Link. Persyaratan.
+
+      PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA
+                    REPUBLIK INDONESIA
+                   NOMOR 37 TAHUN 2012
+                         TENTANG
+ PERSYARATAN TEKNIS ALAT DAN PERANGKAT STUDIO TRANSMITTER
+            LINK UNTUK KEPERLUAN RADIO SIARAN
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+  MENTERI KOMUNIKASI DAN INFORMATIKA REPUBLIK INDONESIA,
+
+
+
+Menimbang        : a. bahwa sesuai dengan ketentuan dalam Pasal 71
+                      Peraturan Pemerintah Nomor 52 Tahun 2000 tentang
+                      Penyelenggaraan Telekomunikasi menyebutkan bahwa
+                      setiap alat dan perangkat telekomunikasi yang dibuat,
+                      dirakit, dimasukkan untuk diperdagangkan dan/Atau
+                      digunakan di wilayah Negara Republik Indonesia wajib
+                      memenuhi persyaratan teknis;
+
+                   b. bahwa    berdasarkan    pertimbangan    sebagaimana
+                      dimaksud dalam huruf a, perlu menetapkan Peraturan
+                      Menteri   Komunikasi     dan   Informatika    tentang
+                      Persyaratan Teknis Alat dan Perangkat Studio
+                      Transmitter Link untuk Keperluan Radio Siaran.
+
+Mengingat        : 1. Undang-Undang Nomor 36 Tahun 1999 tentang
+                      Telekomunikasi (Lembaran Negara Republik Indonesia
+                      Tahun 1999 Nomor 154, Tambahan Lembaran Negara
+                      Republik Indonesia Nomor 3881);
+
+
+
+                                                    www.djpp.depkumham.go.id
+
+<!-- PAGE: 2 -->
+
+2012, No.1204                  2
+
+
+
+
+                2. Peraturan Pemerintah Nomor 52 Tahun 2000 tentang
+                   Penyelenggaraan Telekomunikasi (Lembaran Negara
+                   Republik Indonesia Tahun 2000 Nomor 107,
+                   Tambahan Lembaran Negara Republik Indonesia
+                   Nomor 3980);
+
+                3. Peraturan Presiden Nomor 47 Tahun 2009 tentang
+                   Pembentukan dan Organisasi Kementerian Negara,
+                   sebagaimana telah diubah terakhir dengan Peraturan
+                   Presiden Nomor 91 Tahun 2011 tentang Perubahan
+                   Ketiga Peraturan Presiden Nomor 47 Tahun 2009
+                   tentang Pembentukan dan Organisasi Kementerian
+                   Negara;
+
+                4. Peraturan Presiden Nomor 24 Tahun 2010 tentang
+                   Kedudukan, Tugas, dan Fungsi Kementerian Negara
+                   serta Susunan Organisasi, Tugas, dan Fungsi Eselon I
+                   Kementerian Negara sebagaimana telah diubah
+                   terakhir dengan Peraturan Presiden Nomor 92 Tahun
+                   2011 tentang Perubahan Kedua atas Peraturan
+                   Presiden Nomor 24 Tahun 2010 tentang Kedudukan,
+                   Tugas, dan Fungsi Kementerian Negara serta Susunan
+                   Organisasi, Tugas, dan Fungsi Eselon I Kementerian
+                   Negara;
+
+                5. Keputusan Menteri Perhubungan Nomor KM 3 Tahun
+                   2001 tentang Persyaratan Teknis Alat dan Perangkat
+                   Telekomunikasi;
+
+                6. Peraturan Menteri Komunikasi dan Informatika Nomor
+                   03/PM.Kominfo/5/2005 tentang Penyesuaian Kata
+                   Sebutan Pada Beberapa Keputusan/Peraturan Menteri
+                   Perhubungan yang Mengatur Materi Muatan Khusus
+                   di Bidang Pos dan Telekomunikasi;
+
+                7. Peraturan Menteri Komunikasi dan Informatika Nomor
+                   29/PER/M.KOMINFO/09/2008 tentang Sertifikasi Alat
+                   dan Perangkat Telekomunikasi;
+
+                8. Peraturan Menteri Komunikasi dan Informatika Nomor
+                   17/PER/M.KOMINFO/10/2010 tentang Organisasi
+                   dan Tata Kerja Kementerian Komunikasi dan
+                   Informatika;
+
+
+
+
+                                                 www.djpp.depkumham.go.id
+
+<!-- PAGE: 3 -->
+
+                                   3                     2012, No.1204
+
+
+
+
+                   9. Peraturan Menteri Komunikasi dan Informatika Nomor
+                      26/PER/M.KOMINFO/12/2010          Perencanaan  dan
+                      Penggunaan Pita Frekuensi Radio (Band Plan) pada
+                      Frekuensi 300 MHz untuk Sistem Komunikasi Radio
+                      Konvensional dan Studio-Transmitter Link;
+
+                   9. Peraturan Menteri Komunikasi dan Informatika Nomor
+                      15/PER/M.KOMINFO/06/2011 tentang Penyesuaian
+                      kata Sebutan Pada beberapa Keputusan/Peraturan
+                      Menteri Komunikasi dan Informatika yang Mengatur
+                      Materi Muatan Khusus di Bidang Pos dan
+                      Telekomunikasi dan Keputusan/Peraturan Direktur
+                      Jenderal Pos dan Telekomunikasi;
+
+                              MEMUTUSKAN :
+
+Menetapkan       : PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA
+                   TENTANG PERSYARATAN TEKNIS ALAT DAN PERANGKAT
+                   STUDIO TRANSMITTER LINK UNTUK KEPERLUAN RADIO
+                   SIARAN.
+
+                                Pasal 1
+Alat dan perangkat Studio Transmitter Link untuk keperluan radio siaran
+wajib memenuhi persyaratan teknis sebagaimana dimaksud dalam
+Lampiran yang merupakan bagian tak terpisahkan dari Peraturan Menteri
+ini.
+                                Pasal 2
+Pelaksanaan pengujian perangkat Studio Transmitter Link untuk keperluan
+radio siaran wajib berpedoman pada persyaratan teknis sebagaimana
+dimaksud dalam Lampiran yang merupakan bagian tak terpisahkan dari
+Peraturan Menteri ini.
+                                Pasal 3
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+
+
+
+
+                                                     www.djpp.depkumham.go.id
+
+<!-- PAGE: 4 -->
+
+2012, No.1204                 4
+
+
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan
+Peraturan Menteri ini dengan penempatannya dalam Berita Negara
+Republik Indonesia.
+
+
+                         Ditetapkan di Jakarta
+                         pada tanggal 26 November 2012
+                         MENTERI KOMUNIKASI DAN INFORMATIKA
+                         REPUBLIK INDONESIA,
+
+
+                         TIFATUL SEMBIRING
+
+
+Diundangkan di Jakarta
+pada tanggal 3 Desember 2012
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+AMIR SYAMSUDIN
+
+
+
+
+                                             www.djpp.depkumham.go.id

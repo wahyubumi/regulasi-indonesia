@@ -1,0 +1,24 @@
+id: permenpanrb-2016-012
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  12 Tahun 2016 tentang Penetapan Kebutuhan Pegawai Negeri Sipil Dan Pelaksanaan Seleksi
+  Calon Pegawai Negeri Sipil Dari Pelamar Umum Tahun 2016
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://panselnas.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

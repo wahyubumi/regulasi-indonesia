@@ -1,0 +1,25 @@
+id: permen-1983-007
+judul: Peraturan Menteri Nomor 7 Tahun 1983 tentang Jenis Jasa Lain Sebagaimana Dimaksud
+  Dalam Pasal 23 Ayat (1) Huruf C Angka 2 Undang-Undang Nomor 7 Tahun 1983 Tentang
+  Pajak Penghasilan Sebagaimana Telah Diubah Terakhir Dengan Undang-Undang Nomor 36
+  Tahun 2008
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

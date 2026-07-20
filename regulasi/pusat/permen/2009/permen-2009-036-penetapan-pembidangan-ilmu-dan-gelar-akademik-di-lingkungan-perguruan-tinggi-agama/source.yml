@@ -1,0 +1,23 @@
+id: permen-2009-036
+judul: Peraturan Menteri Nomor 36 Tahun 2009 tentang Penetapan Pembidangan Ilmu Dan
+  Gelar Akademik Di Lingkungan Perguruan Tinggi Agama
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

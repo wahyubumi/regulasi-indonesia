@@ -1,0 +1,25 @@
+id: permen-2012-066
+judul: Peraturan Menteri Nomor 66 Tahun 2012 tentang Pelaksanaan Peraturan Pemerintah
+  Nomor 23 Tahun 2011 Tentang Perubahan Atas Peraturan Pemerintah Nomor 19 Tahun 2010
+  Tentang Tata Cara Pelaksanaan Tugas Dan Wewenang Serta Kedudukan Keuangan Gubernur
+  Sebagai Wakil Pemerintah Di Wilayah Provinsi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

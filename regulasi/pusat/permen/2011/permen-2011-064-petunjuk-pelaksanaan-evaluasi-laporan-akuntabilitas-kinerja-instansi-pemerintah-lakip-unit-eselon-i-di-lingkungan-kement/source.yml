@@ -1,0 +1,24 @@
+id: permen-2011-064
+judul: Peraturan Menteri Nomor 64 Tahun 2011 tentang Petunjuk Pelaksanaan Evaluasi
+  Laporan Akuntabilitas Kinerja Instansi Pemerintah (Lakip) Unit Eselon I Di Lingkungan
+  Kementerian Sosial
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

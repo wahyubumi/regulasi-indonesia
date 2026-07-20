@@ -1,0 +1,24 @@
+id: permen-2010-004
+judul: Peraturan Menteri Nomor 4 Tahun 2010 tentang Pembentukan Kantor Kementerian
+  Agama Kabupaten Nagekeo, Kantor Kementerian Agama Kabupaten Sumba Tengah, Dan Kantor
+  Kementerian Agama Kabupaten Sumba Barat Daya Di Provinsi Nusa Tenggara Timur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

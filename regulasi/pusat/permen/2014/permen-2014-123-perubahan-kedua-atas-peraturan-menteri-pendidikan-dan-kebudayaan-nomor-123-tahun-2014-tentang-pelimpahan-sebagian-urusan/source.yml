@@ -1,0 +1,25 @@
+id: permen-2014-123
+judul: Peraturan Menteri Nomor 123 Tahun 2014 tentang Perubahan Kedua Atas Peraturan
+  Menteri Pendidikan Dan Kebudayaan Nomor 123 Tahun 2014 Tentang Pelimpahan Sebagian
+  Urusan Pemerintahan Bidang Pendidikan Kepada Gubernur Dalam Penyelenggaraan Dekonsentrasi
+  Tahun Anggaran 2015
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

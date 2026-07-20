@@ -1,0 +1,23 @@
+id: permen-2011-070
+judul: Peraturan Menteri Nomor 70 Tahun 2011 tentang Pedoman Jabatan Fungsional Umum
+  Di Lingkungan Pemerintah Daerah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

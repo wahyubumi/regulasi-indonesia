@@ -1,0 +1,23 @@
+id: permen-2011-041
+judul: Peraturan Menteri Nomor 41 Tahun 2011 tentang Pedoman Organisasi Dan Tata Kerja
+  Satuan Polisi Pamong Praja Provinsi Daerah Khusus Ibukota Jakarta
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

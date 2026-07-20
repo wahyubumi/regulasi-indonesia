@@ -1,0 +1,24 @@
+id: permen-2012-012
+judul: Peraturan Menteri Nomor 12 Tahun 2012 tentang Pelimpahan Sebagian Urusan Pemerintahan
+  (Dekonsentrasi) Bidang Pemberdayaan Perempuan Dan Perlindungan Anak Tahun 2013 Kepada
+  10 (Sepuluh) Gubernur Pemerintah Provinsi Selaku Wakil Pemerintah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

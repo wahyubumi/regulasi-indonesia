@@ -1,0 +1,25 @@
+id: permenpanrb-2020-072
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  72 Tahun 2020 tentang Perubahan Atas Peraturan Menteri Pendayagunaan Aparatur Negara
+  Dan Reformasi Birokrasi Nomor 2 Tahun 2019 Tentang Pengadaan Pegawai Pemerintah
+  Dengan Perjanjian Kerja Untuk Guru, Dosen, Tenaga Kesehatan, Dan Penyuluh Pertanian
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,26 @@
+id: permen-2017-064
+judul: Peraturan Menteri Nomor 64 Tahun 2017 tentang Perubahan Ketiga Atas Peraturan
+  Menteri Perhubungan Nomor Km 57 Tahun 2010 Tentang Peraturan Keselamatan Penerbangan
+  Sipil Bagian 141 (Civil Aviation Safety Regulations Part 141) Tentang Persyaratan
+  Sertifikasi Dan Operasi Untuk Sekolah Penerbang (Certification And Operating Requirement
+  For Pilot School)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

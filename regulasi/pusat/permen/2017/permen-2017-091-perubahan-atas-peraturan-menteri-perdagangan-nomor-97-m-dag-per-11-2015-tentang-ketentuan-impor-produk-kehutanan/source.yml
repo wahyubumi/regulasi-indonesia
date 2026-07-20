@@ -1,0 +1,23 @@
+id: permen-2017-091
+judul: Peraturan Menteri Nomor 91 Tahun 2017 tentang Perubahan Atas Peraturan Menteri
+  Perdagangan Nomor 97/M-Dag/Per/11/2015 Tentang Ketentuan Impor Produk Kehutanan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://inatrade.kemendag.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

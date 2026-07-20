@@ -1,0 +1,23 @@
+id: permen-2006-005
+judul: Peraturan Menteri Nomor 05 Tahun 2006 tentang Penggunaan Smart Card/Kartu Elektronik
+  Dalam Proses Pemeriksaan Keimigrasian Di Tempat Pemeriksaan Imigrasi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

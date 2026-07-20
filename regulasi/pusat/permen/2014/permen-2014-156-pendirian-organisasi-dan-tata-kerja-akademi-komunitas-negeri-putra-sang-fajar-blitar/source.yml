@@ -1,0 +1,23 @@
+id: permen-2014-156
+judul: Peraturan Menteri Nomor 156 Tahun 2014 tentang Pendirian, Organisasi, Dan Tata
+  Kerja Akademi Komunitas Negeri Putra Sang Fajar Blitar
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

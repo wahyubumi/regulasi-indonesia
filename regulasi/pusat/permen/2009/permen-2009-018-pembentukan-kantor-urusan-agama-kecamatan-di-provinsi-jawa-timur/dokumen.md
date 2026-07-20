@@ -1,0 +1,208 @@
+---
+id: "permen-2009-018"
+jenis: "permen"
+nomor: "18"
+tahun: 2009
+judul: "Peraturan Menteri Nomor 18 Tahun 2009 tentang Pembentukan Kantor Urusan Agama Kecamatan Di Provinsi Jawa Timur"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 18 Tahun 2009 tentang Pembentukan Kantor Urusan Agama Kecamatan Di Provinsi Jawa Timur
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 18
+tahun: 2009
+tentang: Pembentukan Kantor Urusan Agama Kecamatan Di Provinsi Jawa Timur
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+ No.358, 2009               DEPARTEMEN AGAMA. Pembentukan. KUA.
+                            Kecamatan.
+
+
+        PERATURAN MENTERI AGAMA REPUBLIK INDONESIA
+                   NOMOR 18 TAHUN 2009
+                         TENTANG
+       PEMBENTUKAN KANTOR URUSAN AGAMA KECAMATAN
+                  DI PROVINSI JAWA TIMUR
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+                 MENTERI AGAMA REPUBLIK INDONESIA,
+
+
+Menimbang        : bahwa dengan adanya pemekaran wilayah kecamatan dan
+                   untuk meningkatkan pelayanan di bidang perkawinan umat
+                   Islam dan urusan agama Islam, perlu menetapkan Peraturan
+                   Menteri Agama tentang Pembentukan Kantor Urusan Agama
+                   kecamatan di Provinsi Jawa Timur;
+
+Mengingat        : 1.   Peraturan Presiden Nomor 20 Tahun 2008 tentang
+                        Perubahan Keempat Atas Peraturan Presiden Nomor 9
+                        Tahun 2005 tentang Kedudukan, Tugas, Fungsi, Susunan
+                        Organisasi dan Tata Kerja Kementerian Negara Republik
+                        Indonesia;
+
+                   2.   Peraturan Presiden Nomor 50 Tahun 2008 tentang
+                        Perubahan Kesembilan Atas Peraturan Presiden Nomor
+                        10 Tahun 2005 tentang Unit Organisasi dan Tugas
+                        Eselon I Kementerian Negara Republik Indonesia;
+
+<!-- PAGE: 2 -->
+
+ 2009, No.358                         2
+
+
+
+                  3.    Peraturan Menteri Agama Nomor 8 Tahun 2008 tentang
+                        Perubahan Atas Lampiran Keputusan Menteri Agama
+                        Nomor 517 Tahun 2001 tentang Penataan Organisasi
+                        Kantor Urusan Agama Kecamatan;
+
+                  4.    Keputusan Menteri Agama Nomor 373 Tahun 2002
+                        tentang Organisasi dan Tata Kerja Kantor Wilayah
+                        Departemen Agama Provinsi dan Kantor Departemen
+                        Agama Kabupaten/Kota yang telah diubah dengan
+                        Keputusan Menteri Agama Nomor 480 Tahun 2003;
+
+                  5.    Peraturan Menteri Agama Nomor 3 Tahun 2006 tentang
+                        Organisasi dan Tata Kerja Departemen Agama;
+
+Memperhatikan : 1.      Persetujuan Menteri Pendayagunaan Aparatur Negara
+                        dengan Surat Nomor B/2638/M.PAN/8/2009 tanggal 05
+                        Agustus 2009;
+
+                   2.   a. Peraturan Daerah Kabupaten Bondowoso Nomor 3
+                           Tahun 2005 tentang Pembentukan 3 (tiga)
+                           Kecamatan;
+                        b. Peraturan Daerah Kota Probolinggo Nomor 20 Tahun
+                           2006 tentang Penataan dan Pengembangan
+                           Kelembagaan Kecamatan.
+                              MEMUTUSKAN:
+Menetapkan      : PERATURAN    MENTERI    AGAMA     TENTANG
+                  PEMBENTUKAN    KANTOR    URUSAN     AGAMA
+                  KECAMATAN DI PROVINSI JAWA TIMUR.
+
+KESATU          : Membentuk Kantor Urusan Agama kecamatan pada 11
+                  (sebelas) wilayah kecamatan di Provinsi Jawa Timur, sebagai
+                  berikut:
+                  1. Kantor Urusan Agama Kecamatan Jambesari Darus Sholah
+                     di lingkungan Kantor Departemen Agama Kabupaten
+                     Bondowoso;
+                  2. Kantor Urusan Agama Kecamatan Taman Krocok di
+                     lingkungan Kantor Departemen Agama, Kabupaten
+                     Bondowoso;
+
+<!-- PAGE: 3 -->
+
+                                 3                         2009, No.358
+
+
+            3. Kantor Urusan Agama Kecamatan Botolinggo di
+               lingkungan Kantor Departemen Agama Kabupaten
+               Bondowoso;
+            4. Kantor Urusan Agama Kecamatan Kayen Kidul di
+               lingkungan Kantor Departemen Agama Kabupaten Kediri;
+            5. Kantor Urusan Agama Kecamatan Ngasem di lingkungan
+               Kantor Departemen Agama Kabupaten Kediri;
+            6. Kantor Urusan Agama Kecamatan Badas di lingkungan
+               Kantor Departemen Agama Kabupaten Kediri;
+            7. Kantor Urusan Agama Kecamatan Kanigaran di
+               lingkungan Kantor Departemen Agama Kota Probolinggo;
+            8. Kantor Urusan Agama Kecamatan Kedopok di lingkungan
+               Kantor Departemen Agama Kota Probolinggo;
+            9. Kantor Urusan Agama Kecamatan Grabagan di lingkungan
+               Kantor Departemen Agama Kabupaten Tuban;
+           10. Kantor Urusan Agama Kecamatan Gerih di lingkungan
+               Kantor Departemen Agama Kabupaten Ngawi; dan
+           11. Kantor Urusan Agama Kecamatan Kasreman di
+               lingkungan Kantor Departemen Agama Kabupaten Ngawi.
+
+KEDUA     : Kedudukan, tugas, fungsi dan tata laksana Kantor Urusan
+            Agama kecamatan sebagaimana dimaksud pada Diktum
+            KESATU diatur dalam Keputusan Menteri Agama Nomor
+            517 tahun 2001 tentang Penataan Organisasi Kantor Urusan
+            Agama Kecamatan.
+
+KETIGA    : Bagan organisasi Kantor Urusan Agama kecamatan yang
+            dibentuk sebagaimana dimaksud pada Diktum KESATU
+            tercantum dalam Lampiran Peraturan ini.
+
+KEEMPAT   : Peraturan ini mulai berlaku pada tanggal ditetapkan.
+
+<!-- PAGE: 4 -->
+
+ 2009, No.358                      4
+
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan ini
+dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+
+                                          Ditetapkan di Jakarta
+                                          pada tanggal 8 Oktober 2009
+                                          MENTERI AGAMA
+                                          REPUBLIK INDONESIA,
+
+
+                                          MUHAMMAD M. BASYUNI
+
+
+ Diundangkan di Jakarta
+ pada tanggal 8 Oktober 2009
+ MENTERI HUKUM DAN HAK ASASI MANUSIA
+ REPUBLIK INDONESIA,
+
+
+ ANDI MATTALATTA
+
+<!-- PAGE: 5 -->
+
+                         5                           2009, No.358
+
+
+
+LAMPIRAN PERATURAN MENTERI AGAMA REPUBLIK INDONESIA
+                NOMOR 18 TAHUN 2009
+                      TENTANG
+   PEMBENTUKAN KANTOR URUSAN AGAMA KECAMATAN
+               DI PROVINSI JAWA TIMUR
+
+
+    BAGAN ORGANISASI KANTOR URUSAN AGAMA KECAMATAN
+
+
+
+
+         KEPALA
+
+
+
+
+                                     PETUGAS TATA USAHA
+
+
+
+
+    JABATAN FUNGSIONAL
+
+
+
+
+                             MENTERI AGAMA REPUBLIK INDONESIA,
+
+
+
+
+                             MUHAMMAD M. BASYUNI

@@ -1,0 +1,25 @@
+id: permenkominfo-2019-015
+judul: Peraturan Menteri Komunikasi dan Informatika Nomor 15 Tahun 2019 tentang Ikatan
+  Dinas Bagi Calon Pegawai Negeri Sipil Dan Pegawai Negeri Sipil Lulusan Program Diploma
+  Bidang Keuangan Politeknik Keuangan Negara Stan Yang Ditempatkan Di Lingkungan Kementerian
+  Komunikasi Dan Informatika
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,27 @@
+id: permen-2017-061
+judul: 'Peraturan Menteri Nomor 61 Tahun 2017 tentang Perubahan Keempat Atas Peraturan
+  Menteri Perhubungan Nomor Pm 28 Tahun 2013 Tentang Peraturan Keselamatan Penerbangan
+  Sipil Bagian 121 (Civil Aviation Safety Regulation Part 121) Tentang Persyaratan–Persyaratan
+  Sertifikasi Dan Operasi Bagi Perusahaan Angkutan Udara Yang Melakukan Penerbangan
+  Dalam Negeri, Internasional Dan Angkutan Udara Niaga Tidak Berjadwal (Certification
+  And Operating Requirements : Domestic, Flag And Supplemental Air Carriers)'
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

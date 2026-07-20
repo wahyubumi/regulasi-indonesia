@@ -1,0 +1,751 @@
+---
+id: "permenpanrb-2022-008"
+jenis: "permenpanrb"
+nomor: "8"
+tahun: 2022
+judul: "Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 8 Tahun 2022 tentang Pembentukan Peraturan Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 8 Tahun 2022 tentang Pembentukan Peraturan Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permenpanrb
+nomor: 8
+tahun: 2022
+tentang: Pembentukan Peraturan Menteri Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+No.278, 2022                   KEMENPAN-RB. Pembentukan Peraturan Menteri.
+                               Pencabutan.
+
+     PERATURAN MENTERI PENDAYAGUNAAN APARATUR NEGARA
+            DAN REFORMASI BIROKRASI REPUBLIK INDONESIA
+                             NOMOR 8 TAHUN 2022
+                                     TENTANG
+                      PEMBENTUKAN PERATURAN MENTERI
+   PENDAYAGUNAAN APARATUR NEGARA DAN REFORMASI BIROKRASI
+
+
+                 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+               MENTERI PENDAYAGUNAAN APARATUR NEGARA
+            DAN REFORMASI BIROKRASI REPUBLIK INDONESIA,
+
+
+
+
+Menimbang      : a.    bahwa untuk melaksanakan urusan pemerintahan di
+                       bidang pendayagunaan aparatur negara dan reformasi
+                       birokrasi perlu menciptakan kepastian hukum dalam
+                       penyelenggaraan pemerintahan;
+                 b.    bahwa      untuk       meningkatkan     tertib   administrasi,
+                       menguatkan peran koordinasi dan sistem informasi
+                       layanan hukum pembentukan peraturan perundang-
+                       undangan yang efektif dan berkualitas di lingkungan
+                       Kementerian     Pendayagunaan         Aparatur   Negara   dan
+                       Reformasi Birokrasi;
+                 c.    bahwa      Peraturan    Menteri   Pendayagunaan      Aparatur
+                       Negara dan Reformasi Birokrasi Nomor 33 Tahun 2013
+                       tentang Tata Cara Pembentukan Peraturan Perundang-
+                       undangan di Lingkungan Kementerian Pendayagunaan
+                       Aparatur Negara dan Reformasi Birokrasi sudah tidak
+                       sesuai dengan perkembangan hukum sehingga perlu
+                       diganti;
+
+<!-- PAGE: 2 -->
+
+2022, No.278                         -2-
+
+
+                 d.   bahwa       berdasarkan        pertimbangan       sebagaimana
+                      dimaksud dalam huruf a, huruf b, dan huruf c, perlu
+                      menetapkan Peraturan Menteri Pendayagunaan Aparatur
+                      Negara dan Reformasi Birokrasi tentang Pembentukan
+                      Peraturan Menteri Pendayagunaan Aparatur Negara dan
+                      Reformasi Birokrasi;
+
+
+Mengingat      : 1.   Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
+                      Indonesia Tahun 1945;
+                 2.   Undang-Undang        Nomor      39   Tahun       2008     tentang
+                      Kementerian     Negara     (Lembaran       Negara        Republik
+                      Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+                      Negara Republik Indonesia Nomor 4916);
+                 3.   Undang-Undang        Nomor      12   Tahun       2011     tentang
+                      Pembentukan            Peraturan        Perundang-undangan
+                      (Lembaran     Negara    Republik     Indonesia    Tahun     2011
+                      Nomor   82,    Tambahan        Lembaran    Negara        Republik
+                      Indonesia    Nomor     5234)    sebagaimana      telah    diubah
+                      dengan Undang-Undang Nomor 15 Tahun 2019 tentang
+                      Perubahan atas Undang-Undang Nomor 12 Tahun 2011
+                      tentang Pembentukan Peraturan Perundang-Undangan
+                      (Lembaran     Negara    Republik     Indonesia    Tahun     2019
+                      Nomor   183,    Tambahan       Lembaran      Negara      Republik
+                      Indonesia Nomor 6398);
+                 4.   Peraturan Presiden Nomor 47 Tahun 2021 tentang
+                      Kementerian     Pendayagunaan        Aparatur     Negara     dan
+                      Reformasi     Birokrasi    (Lembaran      Negara         Republik
+                      Indonesia Tahun 2021 Nomor 126);
+                 5.   Peraturan Menteri Pendayagunaan Aparatur Negara dan
+                      Reformasi Birokrasi Nomor 60 Tahun 2021 tentang
+                      Organisasi dan Tata Kerja Kementerian Pendayagunaan
+                      Aparatur Negara dan Reformasi Birokrasi (Berita Negara
+                      Republik Indonesia Nomor 1249 Tahun 2021);
+
+<!-- PAGE: 3 -->
+
+                                                                          2022, No.278
+                                   -3-
+
+
+                               MEMUTUSKAN:
+Menetapkan   : PERATURAN       MENTERI         PENDAYAGUNAAN                APARATUR
+              NEGARA         DAN     REFORMASI            BIROKRASI          TENTANG
+              PEMBENTUKAN PERATURAN MENTERI PENDAYAGUNAAN
+              APARATUR NEGARA DAN REFORMASI BIROKRASI.
+
+
+                                              BAB I
+                                     KETENTUAN UMUM
+
+
+                                             Pasal 1
+              Dalam Peraturan Menteri ini yang dimaksud dengan:
+              1.   Peraturan    Menteri      adalah    peraturan        tertulis    yang
+                   memuat norma hukum yang mengikat secara umum dan
+                   dibentuk    berdasarkan       prosedur      oleh    menteri      yang
+                   menyelenggarakan         urusan     pemerintahan         di     bidang
+                   pendayagunaan aparatur negara.
+              2.   Pembentukan       Peraturan      Menteri      adalah     pembuatan
+                   Peraturan Menteri yang mencakup tahapan perencanaan,
+                   penyusunan,       pembahasan,       harmonisasi,         penetapan,
+                   pengundangan,         autentifikasi,     penyebarluasan           dan
+                   pendokumentasian.
+              3.   Program     Pembentukan          Peraturan      Menteri         adalah
+                   instrumen perencanaan pembentukan Peraturan Menteri
+                   di   lingkungan     kementerian        yang    menyelenggarakan
+                   urusan pemerintahan di bidang pendayagunaan aparatur
+                   negara yang disusun untuk jangka waktu 1 (satu) tahun.
+              4.   Naskah Urgensi adalah naskah kajian yang memuat latar
+                   belakang dan tujuan serta pokok materi muatan yang
+                   akan diatur dalam Peraturan Menteri.
+              5.   Pemrakarsa adalah pimpinan unit organisasi setingkat
+                   jabatan pimpinan tinggi madya yang mengajukan usul
+                   penyusunan rancangan Peraturan Menteri.
+              6.   Aplikasi Sistem Informasi Layanan Hukum Kementerian
+                   Pendayagunaan         Aparatur     Negara      yang     selanjutnya
+                   disebut    dengan     SiLAHKAN      adalah      sistem    informasi
+                   berbasis    elektronik    yang     berfungsi       sebagai      sarana
+
+<!-- PAGE: 4 -->
+
+2022, No.278                         -4-
+
+
+                    layanan      hukum       dalam      pembentukan     kebijakan
+                    Kementerian Pendayagunaan Aparatur Negara.
+               7.   Menteri adalah menteri yang menyelenggarakan urusan
+                    pemerintahan di bidang aparatur negara.
+               8.   Kementerian adalah kementerian yang menyelenggarakan
+                    urusan pemerintahan di bidang aparatur negara.
+
+
+                                              Pasal 2
+               Peraturan Menteri ini dimaksudkan sebagai acuan dalam
+               pembentukan Peraturan Menteri, dengan tujuan:
+               a.   meningkatkan kualitas dan kejelasan materi Peraturan
+                    Menteri;
+               b.   melakukan penataan pembentukan Peraturan Menteri
+                    yang lebih efektif, terpadu, dan efisien;
+               c.   meningkatkan peran dan koordinasi unit organisasi;
+               d.   memberi penguatan sistem informasi layanan hukum,
+                    jaringan dokumentasi, dan informasi hukum; dan
+               e.   memberi penguatan peran jabatan fungsional dalam
+                    pembentukan Peraturan Menteri.
+
+
+                                              Pasal 3
+               Pembentukan       Peraturan     Menteri    disusun     berdasarkan
+               perintah peraturan perundang-undangan yang lebih tinggi,
+               kewenangan, dan/atau putusan Mahkamah Agung.
+
+
+                                              Pasal 4
+               Tata cara pembentukan Peraturan Menteri meliputi tahapan:
+               a.   perencanaan;
+               b.   penyusunan;
+               c.   pembahasan;
+               d.   pengharmonisasian;
+               e.   penetapan;
+               f.   pengundangan;
+               g.   autentifikasi;
+               h.   penyebarluasan; dan
+               i.   pendokumentasian.
+
+<!-- PAGE: 5 -->
+
+                                                             2022, No.278
+                       -5-
+
+
+                                 BAB II
+      TATA CARA PEMBENTUKAN PERATURAN MENTERI
+
+
+                             Bagian Kesatu
+                              Perencanaan
+
+
+                                 Pasal 5
+Perencanaan pembentukan Peraturan Menteri dimuat dalam
+Program Pembentukan Peraturan Menteri.
+
+
+                                 Pasal 6
+(1)   Pemrakarsa       menyusun         usulan      daftar     rancangan
+      Peraturan Menteri yang akan dimuat dalam Program
+      Pembentukan Peraturan Menteri.
+(2)   Usulan sebagaimana dimaksud pada ayat (1) diajukan
+      oleh Pemrakarsa kepada pejabat pimpinan tinggi madya
+      yang     menyelenggarakan            fungsi    koordinasi      dan
+      penyusunan       peraturan    perundang-undangan             dengan
+      tembusan kepada Pejabat Pimpinan Tinggi Pratama yang
+      membidangi hukum.
+(3)   Usulan sebagaimana dimaksud pada ayat (1) diajukan
+      sesuai dengan format sebagaimana tercantum dalam
+      Lampiran yang merupakan bagian tidak terpisahkan dari
+      Peraturan Menteri ini.
+
+
+                                 Pasal 7
+(1)   Pejabat Pimpinan Tinggi Pratama yang membidangi
+      hukum          melakukan      analisis        terhadap       usulan
+      sebagaimana dimaksud dalam Pasal 6.
+(2)   Hasil analisis sebagaimana dimaksud pada ayat (1)
+      disampaikan         dalam       rapat         koordinasi       yang
+      mengikutsertakan        Pemrakarsa         untuk     mendapatkan
+      klarifikasi.
+(3)   Dalam     hal    Pemrakarsa       tidak    hadir     dalam    rapat
+      koordinasi, pemrakrasa dapat menyampaikan klarifikasi
+      kepada    pejabat      Pimpinan      Tinggi   yang      membidangi
+      hukum.
+
+<!-- PAGE: 6 -->
+
+2022, No.278                          -6-
+
+
+               (4)   Klarifikasi sebagaimana dimaksud pada ayat (2) dan ayat
+                     (3) digunakan untuk melengkapi usulan penyusunan
+                     rancangan Peraturan Menteri sebagaimana dimaksud
+                     dalam Pasal 6.
+
+
+                                              Pasal 8
+               (1)   Pejabat   pimpinan     tinggi   pratama      yang   membidangi
+                     hukum menyusun daftar rancangan Peraturan Menteri
+                     berdasarkan hasil koordinasi sebagaimana dimaksud
+                     dalam Pasal 7.
+               (2)   Daftar    rancangan     Peraturan     Menteri       sebagaimana
+                     dimaksud pada ayat (1) memuat:
+                     a.   nomor;
+                     b.   judul;
+                     c.   urgensi pembentukan;
+                     d.   peraturan/kebijakan yang terkait;
+                     e.   instansi yang terkait;
+                     f.   status rancangan; dan
+                     g.   pemrakarsa.
+               (3)   Format daftar rancangan Peraturan Menteri sebagaimana
+                     dimaksud pada ayat (2) tercantum dalam Lampiran yang
+                     merupakan bagian tidak terpisahkan dari Peraturan
+                     Menteri ini.
+
+
+                                              Pasal 9
+               (1)   Daftar    Rancangan     Peraturan     Menteri       sebagaimana
+                     dimaksud       dalam   Pasal    8   dimuat    dalam    Program
+                     Pembentukan Peraturan Menteri.
+               (2)   Program Pembentukan Peraturan Menteri ditetapkan
+                     dengan keputusan pejabat pimpinan tinggi madya yang
+                     menyelenggarakan fungsi koordinasi dan penyusunan
+                     peraturan perundang-undangan.
+
+
+                                             Pasal 10
+               (1)   Dalam keadaan tertentu, Pemrakarsa dapat mengajukan
+                     usulan sebagaimana dimaksud dalam Pasal 6 ayat (1)
+                     berdasarkan arahan atau izin Menteri.
+
+<!-- PAGE: 7 -->
+
+                                                         2022, No.278
+                       -7-
+
+
+(2)   Keadaan tertentu sebagaimana dimaksud pada ayat (1)
+      meliputi:
+      a.   Putusan Mahkamah Agung;
+      b.   perintah peraturan perundang-undangan yang lebih
+           tinggi; atau
+      c.   penyelenggaraan         urusan     pemerintahan       yang
+           mendesak.
+(3)   Dalam hal pengajuan usulan sebagaimana dimaksud
+      pada ayat (1) berdasarkan arahan Menteri, Pemrakarsa
+      menyusun rancangan Peraturan Menteri.
+(4)   Dalam hal pengajuan usulan sebagaimana dimaksud
+      pada ayat (1) berdasarkan izin Menteri, Pemrakarsa
+      mengajukan       izin    kepada   Menteri    melalui     Pejabat
+      Pimpinan Tinggi Madya yang menyelenggarakan fungsi
+      koordinasi     dan      penyusunan     peraturan      perundang-
+      undangan.
+
+
+                              Bagian Kedua
+                               Penyusunan
+
+
+                                Pasal 11
+(1)   Pemrakarsa       menyusun      Naskah      Urgensi     mengenai
+      rancangan Peraturan Menteri yang akan disusun.
+(2)   Format Naskah Urgensi sebagaimana dimaksud pada
+      ayat (1) tercantum dalam Lampiran yang merupakan
+      bagian tidak terpisahkan dari Peraturan Menteri ini.
+(3)   Dalam    hal    rancangan     Peraturan     Menteri    mengatur
+      mengenai pembentukan jabatan fungsional, Pemrakarsa
+      menyusun naskah akademik sesuai dengan ketentuan
+      mengenai       pengusulan,    penetapan,     dan      pembinaan
+      jabatan fungsional.
+
+
+                                Pasal 12
+Penyusunan rancangan Peraturan Menteri dilakukan oleh
+Pemrakarsa dengan mengacu pada Naskah Urgensi atau
+naskah akademik sebagaimana dimaksud dalam Pasal 11.
+
+<!-- PAGE: 8 -->
+
+2022, No.278                          -8-
+
+
+                                                Pasal 13
+               (1)   Naskah Urgensi atau naskah akademik beserta hasil
+                     penyusunan rancangan Peraturan Menteri disampaikan
+                     kepada     Pejabat        Pimpinan    Tinggi      Pratama     yang
+                     membidangi hukum.
+               (2)   Pejabat pimpinan tinggi pratama yang membidangi
+                     hukum      menganalisis       rancangan      Peraturan      Menteri
+                     sebagaimana dimaksud pada ayat (1).
+               (3)   Analisis sebagaimana dimaksud pada ayat (2) meliputi:
+                     a.   analisis substansi dari aspek:
+                          1.    filosofis;
+                          2.    sosiologis;
+                          3.    yuridis yang meliputi:
+                                a)   dasar         pembentukan           sebagaimana
+                                     dimaksud dalam Pasal 3;
+                                b)   pengaturan      secara     umum     pelaksanaan
+                                     tugas       pokok,       fungsi    utama,      dan
+                                     kewenangan Kementerian;
+                                c)   kebijakan penataan peraturan perundang-
+                                     undangan; dan
+                     c.   teknik penyusunan peraturan perundang-undangan.
+
+
+                                              Bagian Ketiga
+                                              Pembahasan
+
+
+                                                Pasal 14
+               (1)   Rancangan Peraturan Menteri sebagaimana dimaksud
+                     dalam Pasal 13 dibahas secara internal oleh pejabat
+                     pimpinan tinggi pratama yang membidangi hukum.
+               (2)   Dalam hal terdapat permasalahan substansi, pejabat
+                     pimpinan tinggi pratama yang membidangi hukum
+                     menyelenggarakan            rapat     pembahasan            dengan
+                     mengundang              Pemrakarsa       untuk      menyepakati
+                     penyelesaian atas permasalahan rancangan Peraturan
+                     Menteri.
+
+<!-- PAGE: 9 -->
+
+                                                          2022, No.278
+                    -9-
+
+
+(3)   Penyelenggaraan       rapat         pembahasan      sebagaimana
+      dimaksud    pada    ayat      (2)    dapat   dilaksanakan   oleh
+      Pemrakarsa.
+(4)   Hasil   kesepakatan    penyelesaian          atas   permasalahan
+      rancangan Peraturan Menteri sebagaimana dimaksud
+      pada ayat (2) dimuat dalam rancangan Peraturan Menteri
+      yang akan disempurnakan.
+
+
+                             Pasal 15
+Rancangan Peraturan Menteri yang telah disempurnakan
+sebagaimana dimaksud dalam Pasal 14 ayat (4) disampaikan
+kepada Pemrakarsa untuk dilakukan pembahasan dengan
+mengikutsertakan seluruh unit organisasi Kementerian.
+
+
+                             Pasal 16
+Pembahasan      rancangan     Peraturan        Menteri    sebagaimana
+dimaksud dalam Pasal 15 dilaksanakan untuk:
+a.    menyelaraskan rancangan Peraturan Menteri dengan
+      kebijakan kementerian; dan
+b.    menyosialisasikan rancangan Peraturan Menteri kepada
+      seluruh unit organisasi kementerian.
+
+
+                             Pasal 17
+Rancangan Peraturan Menteri hasil pembahasan sebagaimana
+dimaksud dalam Pasal 16 diajukan ke kementerian yang
+menyelenggarakan urusan pemerintahan di bidang hukum
+untuk dilakukan pengharmonisasian.
+
+
+                          Bagian Keempat
+                      Pengharmonisasian
+
+
+                             Pasal 18
+Pengharmonisasian          rancangan           Peraturan       Menteri
+dilaksanakan sesuai dengan ketentuan peraturan perundang-
+undangan.
+
+<!-- PAGE: 10 -->
+
+2022, No.278                         -10-
+
+
+                                            Bagian Kelima
+                                             Penetapan
+
+
+                                                 Pasal 19
+               (1)   Setiap rancangan Peraturan Menteri yang memiliki
+                     kriteria:
+                     a.   berdampak luas bagi kehidupan masyarakat;
+                     b.   bersifat strategis, yaitu berpengaruh pada program
+                          prorioritas     Presiden,     target     pemerintah       yang
+                          ditetapkan dalam Rencana Pembangunan Jangka
+                          Menengah Nasional dan Rencana Kerja Pemerintah,
+                          pertahanan dan keamanan, serta keuangan negara
+                          negara; dan/atau
+                     c.   lintas sektoral atau lintas kementerian/lembaga,
+                     wajib mendapatkan persetujuan Presiden.
+               (2)   Persetujuan Presiden sebagaimana dimaksud pada ayat
+                     (1) diajukan setelah surat keterangan telah selesainya
+                     pengharmonisasian diterima oleh Pejabat pimpinan tinggi
+                     madya yang menyelenggarakan fungsi koordinasi dan
+                     penyusunan peraturan perundang-undangan.
+               (3)   Proses persetujuan Presiden dilaksanakan sesuai dengan
+                     ketentuan peraturan perundang-undangan.
+
+
+                                                 Pasal 20
+               Rancangan         Peraturan        Menteri      yang      telah   selesai
+               pengharmonisasian disampaikan kepada Pemrakarsa beserta
+               dokumen kelengkapan sebagai berikut:
+               a.    fotokopi     surat      selesai        pengharmonisasian       dari
+                     kementerian          yang       menyelenggarakan            urusan
+                     pemerintahan di bidang hukum ;
+               b.    naskah       rancangan          Peraturan        Menteri       hasil
+                     pengharmonisasian; dan
+               c.    fotokopi    surat     persetujuan        Presiden,     dalam    hal
+                     rancangan      Peraturan       Menteri      wajib    mendapatkan
+                     persetujuan presiden.
+
+<!-- PAGE: 11 -->
+
+                                                           2022, No.278
+                         -11-
+
+
+                                 Pasal 21
+(1)    Pengajuan penetapan oleh Pemrakarsa kepada Menteri
+       dilakukan dengan menyiapkan 3 (tiga) naskah asli
+       rancangan Peraturan Menteri yang akan ditetapkan.
+(2)    1 (satu) naskah asli rancangan                Peraturan Menteri
+       sebagaimana dimaksud pada ayat (1) dibubuhi paraf
+       koordinasi.
+(3)    Paraf koordinasi sebagaimana dimaksud pada ayat (1)
+       dilakukan paling sedikit oleh:
+       a.     pejabat      pimpinan         tinggi      madya      yang
+              menyelenggarakan        fungsi          koordinasi    dan
+              penyusunan peraturan perundang-undangan; dan
+       b.     Pemrakarsa.
+(4)    Dalam hal rancangan Peraturan Menteri yang mengatur
+       mengenai jabatan fungsional, selain dibubuhi paraf
+       koordinasi sebagaimana dimaksud pada ayat (3), juga
+       dibubuhi paraf koordinasi oleh pimpinan unit organisasi
+       paling rendah setingkat pejabat pimpinan tinggi madya di
+       instansi pembina jabatan fungsional.
+(5)    Naskah asli rancangan Peraturan Menteri sebagaimana
+       dimaksud pada ayat (1) dicetak sesuai dengan format
+       yang tercantum dalam Lampiran yang merupakan bagian
+       tidak terpisahkan dari Peraturan Menteri ini.
+
+
+                                 Pasal 22
+Pemrakarsa mengajukan Rancangan Peraturan Menteri yang
+telah dibubuhi paraf koordinasi kepada Menteri untuk
+ditetapkan.
+
+
+                                 Pasal 23
+Pemrakarsa menyampaikan naskah asli Peraturan Menteri
+yang        telah   ditetapkan   kepada     pejabat    pimpinan    tinggi
+pratama yang membidangi hukum untuk diberikan nomor
+peraturan, tanggal penetapan, dan diproses pengundangan.
+
+<!-- PAGE: 12 -->
+
+2022, No.278                         -12-
+
+
+                                         Bagian Keenam
+                                            Pengundangan
+
+
+                                               Pasal 24
+               Pengundangan Peraturan Menteri dilaksanakan sesuai dengan
+               ketentuan peraturan perundang-undangan.
+
+
+                                         Bagian Ketujuh
+                                            Autentifikasi
+
+
+                                               Pasal 25
+               (1)   Peraturan Menteri yang telah diundangkan dilakukan
+                     autentifikasi    dengan     membubuhkan         tanda   tangan
+                     pejabat pimpinan tinggi pratama yang membidangi
+                     hukum.
+               (2)   Dalam    hal    pejabat    pimpinan    tinggi   pratama   yang
+                     membidangi hukum berhalangan sebagaimana dimaksud
+                     pada ayat (1), dapat dilakukan oleh Pejabat pimpinan
+                     tinggi madya yang menyelenggarakan fungsi koordinasi
+                     dan penyusunan peraturan perundang-undangan.
+               (3)   Hasil autentifikasi merupakan naskah salinan Peraturan
+                     Menteri yang disebarluaskan.
+               (4)   Salinan Peraturan Menteri sebagaimana dimaksud pada
+                     ayat (3) dibuat dalam bentuk cetak dan elektronik.
+               (5)   Format salinan Peraturan Menteri tercantum dalam
+                     Lampiran yang merupakan bagian tidak terpisahkan dari
+                     Peraturan Menteri ini.
+
+
+                                        Bagian Kedelapan
+                                         Penyebarluasan
+
+
+                                               Pasal 26
+               Pejabat pimpinan tinggi pratama yang membidangi hukum
+               menyampaikan          salinan      Peraturan     Menteri      kepada
+               Pemrakarsa.
+
+<!-- PAGE: 13 -->
+
+                                                      2022, No.278
+                     -13-
+
+
+                              Pasal 27
+Penyebarluasan      salinan   Peraturan    Menteri     yang   telah
+diautentifikasi selain sebagaimana dimaksud dalam Pasal 26,
+juga dilakukan melalui:
+a.    situs web JDIH Kementerian;
+b.    media cetak dan elektronik; dan/atau
+c.    sosialisasi/seminar/lokakarya/forum diskusi.
+
+
+                       Bagian Kesembilan
+                       Pendokumentasian
+
+
+                              Pasal 28
+Pendokumentasian dilakukan oleh pejabat pimpinan tinggi
+pratama yang membidangi hukum terhadap:
+a.    naskah asli Peraturan Menteri; dan
+b.    salinan Peraturan Menteri.
+
+
+                              BAB III
+                     KETENTUAN LAIN-LAIN
+
+
+                              Pasal 29
+(1)   Setiap   tahapan      pembentukan     Peraturan       Menteri
+      sebagaimana     dimaksud      dalam     Pasal     4     dapat
+      mengikutsertakan pejabat fungsional dalam rumpun
+      hukum dan peradilan.
+(2)   Selain pejabat fungsional sebagaimana dimaksud pada
+      ayat (1), dapat mengikutsertakan pejabat fungsional
+      dalam rumpun lain yang terkait, akademisi, ahli bahasa,
+      pimpinan unit organisasi di lingkungan kementerian yang
+      terkait, dan pimpinanan instansi yang terkait, serta
+      pemangku kepentingan.
+
+
+                              Pasal 30
+(1)   Naskah Urgensi atau naskah akademik, rancangan
+      Peraturan Menteri, dan dokumen kelengkapan lainnya
+      beserta nota dinas penyampaian mulai dari tahapan
+
+<!-- PAGE: 14 -->
+
+2022, No.278                          -14-
+
+
+                     penyusunan,      pembahasan,           pengharmonisasian,       dan
+                     pengundangan disampaikan melalui SiLAHKAN.
+               (2)   Dalam      hal   SiLAHKAN       mengalami        kendala     teknis,
+                     penyampaian sebagaimana dimaksud pada ayat (1) dapat
+                     melalui aplikasi lainnya.
+               (3)   Dalam hal aplikasi lainnya sebagaimana dimaksud pada
+                     ayat    (2)   mengalami       kendala     teknis,    penyampaian
+                     sebagaimana dimaksud pada ayat (1) dilakukan secara
+                     manual.
+
+
+                                                 BAB IV
+                                      KETENTUAN PENUTUP
+
+
+                                                 Pasal 31
+               Pada saat Peraturan Menteri ini mulai berlaku, ketentuan
+               Lampiran I:
+               a.    huruf B angka 11 sampai dengan angka 14; dan
+               b.    huruf J,
+               dalam Peraturan Menteri Pendayagunaan Aparatur Negara
+               dan Reformasi Birokrasi Nomor 13 Tahun 2019 tentang
+               Pengusulan Penetapan dan Pembinaan Jabatan Fungsional
+               Pegawai Negeri Sipil (Berita Negara Republik Indonesia Tahun
+               2019 Nomor 834), dicabut dan dinyatakan tidak berlaku.
+
+
+                                                 Pasal 32
+               Pada saat Peraturan Menteri ini mulai berlaku, Peraturan
+               Menteri Pendayagunaan Aparatur Negara dan Reformasi
+               Birokrasi     Nomor    33     Tahun     2013     tentang    Tata     Cara
+               Pembentukan Peraturan Perundang-Undangan di Lingkungan
+               Kementerian Pendayagunaan Aparatur Negara dan Reformasi
+               Birokrasi (Berita Negara Republik Indonesia Tahun 2013
+               Nomor 1195), dicabut dan dinyatakan tidak berlaku.
+
+
+                                                 Pasal 33
+               Peraturan      Menteri      ini    mulai     berlaku      pada   tanggal
+               diundangkan.
+
+<!-- PAGE: 15 -->
+
+                                                             2022, No.278
+                                -15-
+
+
+              Agar    setiap   orang   mengetahuinya,      memerintahkan
+              pengundangan Peraturan Menteri ini dengan penempatannya
+              dalam Berita Negara Republik Indonesia.
+
+
+
+
+                               Ditetapkan di Jakarta
+                               pada tanggal 8 Maret 2022
+
+
+                               MENTERI PENDAYAGUNAAN APARATUR
+                               NEGARA DAN REFORMASI BIROKRASI
+                               REPUBLIK INDONESIA,
+
+
+                                                   ttd
+
+
+                                            TJAHJO KUMOLO
+
+
+Diundangkan di Jakarta
+pada tanggal 8 Maret 2022
+
+
+DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+      ttd
+
+
+BENNY RIYANTO
+
+<!-- PAGE: 16 -->
+
+2022, No.278   -16-
+
+<!-- PAGE: 17 -->
+
+       2022, No.278
+-17-
+
+<!-- PAGE: 18 -->
+
+2022, No.278   -18-
+
+<!-- PAGE: 19 -->
+
+       2022, No.278
+-19-
+
+<!-- PAGE: 20 -->
+
+2022, No.278   -20-
+
+<!-- PAGE: 21 -->
+
+       2022, No.278
+-21-
+
+<!-- PAGE: 22 -->
+
+2022, No.278   -22-
+
+<!-- PAGE: 23 -->
+
+       2022, No.278
+-23-
+
+<!-- PAGE: 24 -->
+
+2022, No.278   -24-
+
+<!-- PAGE: 25 -->
+
+       2022, No.278
+-25-
+
+<!-- PAGE: 26 -->
+
+2022, No.278   -26-
+
+<!-- PAGE: 27 -->
+
+       2022, No.278
+-27-

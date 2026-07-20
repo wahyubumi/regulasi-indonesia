@@ -1,0 +1,726 @@
+---
+id: "permen-2018-094"
+jenis: "permen"
+nomor: "94"
+tahun: 2018
+judul: "Peraturan Menteri Nomor 94 Tahun 2018 tentang Ketentuan Penggunaan Letter Of Credit Untuk Ekspor Barang Tertentu"
+status: "perlu_verifikasi"
+sumber: "https://inatrade.kemendag.go.id"
+---
+
+# Peraturan Menteri Nomor 94 Tahun 2018 tentang Ketentuan Penggunaan Letter Of Credit Untuk Ekspor Barang Tertentu
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 94
+tahun: 2018
+tentang: Ketentuan Penggunaan Letter Of Credit Untuk Ekspor Barang Tertentu
+---
+
+<!-- PAGE: 1 -->
+
+              BERITA NEGARA
+            REPUBLIK INDONESIA
+No.1251, 2018                KEMENDAG. L/C untuk Ekspor Barang Tertentu.
+                             Pencabutan.
+
+       PERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA
+                          NOMOR 94 TAHUN 2018
+                                    TENTANG
+                KETENTUAN PENGGUNAAN LETTER OF CREDIT
+                     UNTUK EKSPOR BARANG TERTENTU
+
+
+                 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+            MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+
+
+
+Menimbang   : a.     bahwa untuk melaksanakan ketentuan Pasal 4 ayat (3)
+                     Peraturan Pemerintah Nomor 29 Tahun 2017 tentang
+                     Cara Pembayaran Barang dan Cara Penyerahan Barang
+                     dalam    Kegiatan   Ekspor     dan    Impor,    serta    untuk
+                     mendorong optimalisasi perolehan devisa hasil ekspor,
+                     akurasi perolehan devisa hasil ekspor dan menjaga
+                     stabilitas peningkatan harga ekspor barang tertentu yang
+                     merupakan sumber daya alam di pasar internasional,
+                     perlu mengatur ketentuan mengenai penggunaan Letter
+                     of Credit untuk Ekspor Barang tertentu;
+                b.   bahwa     berdasarkan        pertimbangan        sebagaimana
+                     dimaksud dalam huruf a, perlu menetapkan Peraturan
+                     Menteri Perdagangan tentang Ketentuan Penggunaan
+                     Letter of Credit untuk Ekspor Barang Tertentu;
+
+
+Mengingat   : 1.     Undang-Undang       Nomor      7     Tahun     1994     tentang
+                     Pengesahan Agreement Establishing The World Trade
+                     Organization    (Persetujuan       Pembentukan     Organisasi
+                     Perdagangan     Dunia)   (Lembaran       Negara       Republik
+
+
+
+                                                              www.peraturan.go.id
+
+<!-- PAGE: 2 -->
+
+2018, No.1251                        -2-
+
+
+                     Indonesia Tahun 1994 Nomor 57, Tambahan Lembaran
+                     Negara Republik Indonesia Nomor 3564);
+                2.   Undang-Undang         Nomor   10       Tahun     1995    tentang
+                     Kepabeanan      (Lembaran     Negara      Republik      Indonesia
+                     Tahun 1995 Nomor 75, Tambahan Lembaran Negara
+                     Republik Indonesia Nomor 3612) sebagaimana telah
+                     diubah dengan Undang-Undang Nomor 17 Tahun 2006
+                     tentang      Perubahan     atas    Undang-Undang          Nomor
+                     10 Tahun 1995 tentang Kepabeanan (Lembaran Negara
+                     Republik Indonesia Tahun 2006 Nomor 93, Tambahan
+                     Lembaran Negara Republik Indonesia Nomor 4661);
+                3.   Undang-Undang Nomor 24 Tahun 1999 tentang Lalu
+                     Lintas Devisa dan Sistem Nilai Tukar (Lembaran Negara
+                     Republik Indonesia Tahun 1999 Nomor 67, Tambahan
+                     Lembaran Negara Republik Indonesia Nomor 3844);
+                4.   Undang-Undang         Nomor   39       Tahun     2008    tentang
+                     Kementerian      Negara     (Lembaran      Negara       Republik
+                     Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran
+                     Negara Republik Indonesia Nomor 4916);
+                5.   Undang-Undang         Nomor   7        Tahun    2014     tentang
+                     Perdagangan     (Lembaran     Negara      Republik      Indonesia
+                     Tahun 2014 Nomor 45, Tambahan Lembaran Negara
+                     Republik Indonesia Nomor 5512);
+                6.   Peraturan Pemerintah Nomor 29 Tahun 2017 tentang
+                     Cara Pembayaran Barang dan Cara Penyerahan Barang
+                     Dalam Kegiatan Ekspor dan Impor (Lembaran Negara
+                     Republik Indonesia Tahun 2017 Nomor 167, Tambahan
+                     Lembaran Negara Republik Indonesia Nomor 6102);
+                7.   Peraturan     Presiden    Nomor    7    Tahun    2015     tentang
+                     Organisasi     Kementerian    Negara      (Lembaran       Negara
+                     Republik Indonesia Tahun 2015 Nomor 8);
+                8.   Peraturan Presiden Nomor 48 Tahun 2015 tentang
+                     Kementerian Perdagangan (Lembaran Negara Republik
+                     Indonesia Tahun 2015 Nomor 90);
+                9.   Peraturan      Menteri     Perdagangan          Nomor      13/M-
+                     DAG/PER/3/2012 tentang Ketentuan Umum di Bidang
+                     Ekspor (Berita Acara Republik Indonesia Tahun 2012
+
+
+
+
+                                                                www.peraturan.go.id
+
+<!-- PAGE: 3 -->
+
+                                                                    2018, No.1251
+                                   -3-
+
+
+                    Nomor 395);
+               10. Peraturan      Menteri    Perdagangan          Nomor      08/M-
+                    DAG/PER/7/2016 tentang Organisasi dan Tata Kerja
+                    Kementerian     Perdagangan       (Berita    Acara     Republik
+                    Indonesia Tahun 2016 Nomor 202);
+
+
+                               MEMUTUSKAN:
+Menetapkan :   PERATURAN          MENTERI        PERDAGANGAN              TENTANG
+               KETENTUAN PENGGUNAAN LETTER OF CREDIT UNTUK
+               EKSPOR BARANG TERTENTU.
+
+
+                                            Pasal 1
+               Dalam Peraturan Menteri ini yang dimaksud dengan:
+               1.   Barang adalah setiap benda, baik berwujud maupun
+                    tidak berwujud, baik bergerak maupun tidak bergerak,
+                    baik dapat dihabiskan maupun tidak dapat dihabiskan,
+                    dan dapat diperdagangkan, dipakai, digunakan, atau
+                    dimanfaatkan oleh konsumen atau pelaku usaha.
+               2.   Letter of Credit yang selanjutnya disebut L/C adalah
+                    suatu kredit atau pemberitahuan kredit yang dikeluarkan
+                    oleh suatu bank devisa (opening bank/issuing bank) atas
+                    dasar permintaan importir yang menjadi nasabahnya dan
+                    ditujukan kepada eksportir sebagai beneficiary melalui
+                    bank korespondennya (advising bank) di luar negeri.
+               3.   Bank Devisa adalah bank yang memperoleh persetujuan
+                    dari otoritas yang berwenang untuk dapat melakukan
+                    kegiatan usaha perbankan dalam valuta asing, termasuk
+                    kantor cabang bank asing di Indonesia, namun tidak
+                    termasuk kantor cabang luar negeri dari bank yang
+                    berkantor pusat di Indonesia.
+               4.   Ekspor   adalah   kegiatan    mengeluarkan        barang   dari
+                    daerah pabean.
+               5.   Eksportir adalah orang perseorangan atau lembaga atau
+                    badan    usaha, baik yang berbentuk            badan    hukum
+                    maupun bukan badan hukum, yang melakukan Ekspor.
+               6.   Verifikasi atau Penelusuran Teknis adalah penelitian dan
+                    pemeriksaan barang yang dilakukan oleh surveyor.
+
+
+
+
+                                                                www.peraturan.go.id
+
+<!-- PAGE: 4 -->
+
+2018, No.1251                         -4-
+
+
+                7.    Surveyor adalah perusahaan survey yang mendapat
+                      otorisasi dari Menteri untuk melakukan verifikasi atau
+                      penelusuran teknis barang.
+                8.    Menteri adalah menteri yang menyelenggarakan urusan
+                      pemerintahan di bidang perdagangan.
+                9.    Direktur Jenderal adalah Direktur Jenderal Perdagangan
+                      Luar Negeri Kementerian Perdagangan.
+                10. Direktur adalah Direktur Fasilitasi Ekspor dan Impor
+                      Kementerian Perdagangan.
+
+
+                                               Pasal 2
+                (1)   Pembayaran Barang untuk Ekspor Barang tertentu wajib
+                      menggunakan cara pembayaran L/C.
+                (2)   Barang tertentu sebagaimana dimaksud pada ayat (1)
+                      tercantum dalam Lampiran I yang merupakan bagian
+                      tidak terpisahkan dari Peraturan Menteri ini.
+
+
+                                               Pasal 3
+                (1)   Harga Ekspor Barang Tertentu yang tercantum dalam
+                      L/C sebagaimana dimaksud dalam Pasal 2 paling rendah
+                      sama dengan harga pasar dunia.
+                (2)   Dalam hal tidak ada harga pasar dunia sebagaimana
+                      dimaksud pada ayat (1), harga ekspor barang tertentu
+                      menggunakan harga yang ditetapkan oleh pemerintah
+                      atau harga di negara tujuan ekspor.
+
+
+                                               Pasal 4
+                (1)   Cara pembayaran L/C sebagaimana dimaksud dalam
+                      Pasal 2 ayat (1) wajib diterima melalui Bank Devisa di
+                      dalam negeri.
+                (2)   Selain melalui Bank Devisa sebagaimana dimaksud pada
+                      ayat (1), cara pembayaran L/C dapat diterima melalui
+                      lembaga   pembiayaan     ekspor    yang   dibentuk   oleh
+                      Pemerintah.
+                (3)   Lembaga pembiayaan ekspor sebagaimana dimaksud
+                      pada ayat (2) dalam menerima cara pembayaran L/C
+                      mengikuti ketentuan Peraturan Bank Indonesia mengenai
+
+
+
+
+                                                            www.peraturan.go.id
+
+<!-- PAGE: 5 -->
+
+                                                                2018, No.1251
+                         -5-
+
+
+      Devisa Hasil Ekspor.
+
+
+                                        Pasal 5
+Eksportir       yang       melakukan           Ekspor    Barang        tertentu
+sebagaimana dimaksud dalam Pasal 2 wajib mencantumkan
+cara pembayaran L/C pada pemberitahuan ekspor barang.
+
+
+                                        Pasal 6
+(1)   Selain kewajiban mencantumkan cara pembayaran L/C
+      pada      pemberitahuan           ekspor        barang      sebagaimana
+      dimaksud dalam Pasal 5, Eksportir wajib menyampaikan
+      surat pernyataan bermeterai kepada Surveyor.
+(2)   Format surat pernyataan sebagaimana dimaksud pada
+      ayat (1) tercantum dalam Lampiran II yang merupakan
+      bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+
+                                        Pasal 7
+(1)   Ekspor Barang tertentu sebagaimana dimaksud dalam
+      Pasal     2   ayat      (2)    wajib     dilakukan       Verifikasi   atau
+      penelusuran teknis oleh Surveyor.
+(2)   Verifikasi       atau         penelusuran       teknis      sebagaimana
+      dimaksud       pada       ayat    (1)    dilakukan       terhadap     data
+      dan/atau         keterangan             dalam     surat       pernyataan
+      sebagaimana dimaksud dalam Pasal 6 ayat (1) dengan
+      dokumen cara pembayaran L/C.
+(3)   Verifikasi       atau         penelusuran       teknis      sebagaimana
+      dimaksud pada ayat (2) dilakukan pada saat Verifikasi
+      atau penelusuran teknis Barang.
+(4)   Dalam hal pembayaran Ekspor Barang tertentu telah
+      menggunakan           cara       pembayaran       L/C       sebagaimana
+      dimaksud pada ayat (2), Surveyor dapat menerbitkan
+      laporan surveyor.
+(5)   Surveyor sebagaimana dimaksud pada ayat (1) ditetapkan
+      oleh:
+      a.      Menteri untuk ekspor Minyak dan Gas Bumi,
+              Mineral, dan Batubara; dan
+
+
+
+
+                                                         www.peraturan.go.id
+
+<!-- PAGE: 6 -->
+
+2018, No.1251                         -6-
+
+
+                      b.   Direktur Utama Badan Pengelola Dana Perkebunan
+                           Kelapa Sawit untuk ekspor Kelapa Sawit.
+                (6)   Penetapan oleh Menteri dan Direktur Utama Badan
+                      Pengelola Dana Perkebunan Kelapa Sawit sebagaimana
+                      dimaksud      pada    ayat   (5)   sesuai   dengan   ketentuan
+                      peraturan perundang-undangan.
+
+
+                                                   Pasal 8
+                (1)   Eksportir wajib menyampaikan laporan realisasi Ekspor
+                      Barang tertentu dilengkapi dengan harga final L/C setiap
+                      bulan paling lambat tanggal 15 (lima belas) bulan
+                      berikutnya kepada Direktur Jenderal.
+                (2)   Laporan     sebagaimana        dimaksud      pada    ayat    (1)
+                      disampaikan melalui https://inatrade.kemendag.go.id.
+
+
+                                                   Pasal 9
+                (1)   Pengawasan terhadap pelaksanaan cara pembayaran L/C
+                      untuk Ekspor Barang tertentu dilakukan oleh Menteri,
+                      menteri yang menyelenggarakan urusan pemerintahan di
+                      bidang keuangan, Gubernur Bank Indonesia, menteri
+                      teknis dan/atau pimpinan lembaga terkait sesuai dengan
+                      kewenangannya.
+                (2)   Dalam     keadaan     tertentu,    pengawasan     sebagaimana
+                      dimaksud pada ayat (1) dapat dilakukan secara bersama-
+                      sama dan dikoordinasikan oleh Menteri.
+                (3)   Pelaksanaan pengawasan bersama-sama sebagaimana
+                      dimaksud pada ayat (2) dilakukan secara berkala paling
+                      sedikit 1 (satu) kali dalam 1 (satu) tahun dan sewaktu-
+                      waktu dalam hal diperlukan.
+
+
+                                                   Pasal 10
+                (1)   Ketentuan dalam Peraturan Menteri ini dikecualikan
+                      terhadap Ekspor Barang tertentu yang berupa:
+                      a.   Barang     contoh       (sample)   yang     tidak   untuk
+                           diperdagangakan;
+                      b.   Barang untuk penelitian dan pengembangan ilmu
+                           pengetahuan; dan
+
+
+
+
+                                                                  www.peraturan.go.id
+
+<!-- PAGE: 7 -->
+
+                                                        2018, No.1251
+                       -7-
+
+
+      c.   Barang promosi untuk keperluan pameran di luar
+           negeri.
+(2)   Pengecualian sebagaimana dimaksud pada ayat (1) dapat
+      dilakukan      setelah     mendapatkan        persetujuan    dari
+      Direktur.
+(3)   Untuk mendapatkan persetujuan sebagaimana dimaksud
+      pada ayat (2), Eksportir harus mengajukan permohonan
+      secara tertulis kepada Direktur.
+
+
+                                   Pasal 11
+(1)   Dalam hal Eksportir belum dapat menggunakan cara
+      pembayaran       L/C,       Eksportir     dapat     mengajukan
+      permohonan penangguhan cara pembayaran L/C kepada
+      Menteri.
+(2)   Menteri dapat memberikan penangguhan dari kewajiban
+      penggunaan cara pembayaran L/C setelah mendapat
+      pertimbangan dari menteri teknis terkait.
+(3)   Pemberian pertimbangan sebagaimana dimaksud pada
+      ayat (2) dengan memperhatikan:
+      a.   kontrak antara Eksportir dan pembeli di luar negeri
+           mengenai     Ekspor      Barang     tertentu   yang    telah
+           mengatur cara pembayaran selain L/C yang dibuat
+           sebelum penetapan Peraturan Menteri ini;
+      b.   kesanggupan         Eksportir   Barang     tertentu    untuk
+           menyesuaikan cara pembayaran menggunakan L/C
+           dalam jangka waktu tertentu; dan
+      c.   surat      pernyataan       bermeterai       cukup      yang
+           menyatakan          kebenaran      kontrak     sebagaimana
+           dimaksud pada huruf a, dan kesanggupan untuk
+           menyesuaikan
+           cara pembayaran L/C sebagaimana dimaksud dalam
+           huruf b.
+
+
+                                   Pasal 12
+Barang tertentu yang akan diekspor dan tidak memenuhi
+ketentuan sebagaimana dimaksud dalam Pasal 2 ayat (1),
+Pasal 4, Pasal 5, dan Pasal 6 ayat (1), tidak dapat diekspor.
+
+
+
+
+                                                  www.peraturan.go.id
+
+<!-- PAGE: 8 -->
+
+2018, No.1251                         -8-
+
+
+                                                  Pasal 13
+                Perizinan   Ekspor    dan/atau      perizinan   berusaha       dicabut
+                apabila Eksportir:
+                a.    menyampaikan data dan/atau informasi yang tidak
+                      benar dalam surat      pernyataan dan        dokumen        cara
+                      pembayaran L/C;
+                b.    mengubah data dan/atau informasi yang tercantum
+                      dalam surat pernyataan dan dokumen cara pembayaran
+                      L/C; dan
+                c.    dinyatakan bersalah berdasarkan putusan pengadilan
+                      yang telah mempunyai kekuatan hukum tetap atas
+                      tindak pidana yang berkaitan dengan penyalahgunaan
+                      cara pembayaran L/C.
+
+
+                                                  Pasal 14
+                (1)   Eksportir yang melanggar ketentuan Pasal 8 ayat (2)
+                      dikenai sanksi berupa peringatan tertulis.
+                (2)   Dalam hal Eksportir mendapatkan peringatan secara
+                      tertulis paling banyak 2 (dua) kali, Eksportir dikenai
+                      sanksi berupa pembekuan Perizinan Ekspor dan/atau
+                      Perizinan Berusaha.
+                (3)   Apabila dalam jangka waktu paling lama 10 (sepuluh)
+                      hari setelah dikenai peringatan tertulis sebagaimana
+                      dimaksud pada ayat (2), Eksportir tidak menyampaikan
+                      sebagaimana dimaksud dalam Pasal 8 ayat (2), Eksportir
+                      dikenai sanksi berupa pembekuan perizinan Ekspor
+                      dan/atau perizinan berusaha.
+                (4)   Pembekuan      perizinan     Ekspor    dan/atau      perizinan
+                      berusaha dicabut apabila Eksportir telah melaksanakan
+                      kewajiban      menyampaikan        laporan    tertulis      atas
+                      pelaksanaan      Ekspor       Barang      tertentu       dengan
+                      menggunakan cara pembayaran L/C.
+
+
+                                                  Pasal 15
+                Pada saat Peraturan Menteri ini mulai berlaku,
+                a.    Peraturan         Menteri         Perdagangan             Nomor
+                      04/M-DAG/PER/1/2015 tentang Ketentuan Penggunaan
+
+
+
+
+                                                                www.peraturan.go.id
+
+<!-- PAGE: 9 -->
+
+                                                    2018, No.1251
+                     -9-
+
+
+     Letter of Credit untuk Ekspor Barang Tertentu (Berita Negara
+     Republik Indonesia Tahun 2015 Nomor 15) sebagaimana
+     telah diubah dengan Peraturan Menteri Perdagangan Nomor
+     67/M-DAG/PER/8/2015 tentang Perubahan atas Peraturan
+     Menteri     Perdagangan     Nomor      04/M-DAG/PER/1/2015
+     tentang Ketentuan Penggunaan Letter of Credit untuk
+     Ekspor Barang Tertentu (Berita Negara Republik Indonesia
+     Tahun 2015 Nomor 1406); dan
+b.   Peraturan         Menteri           Perdagangan        Nomor
+     26/M-DAG/PER/3/2015           tentang     Ketentuan   Khusus
+     Pelaksanaan Penggunaan Letter of Credit untuk Ekspor
+     Barang Tertentu (Berita Negara Republik Indonesia Tahun
+     2015 Nomor 489),
+dicabut dan dinyatakan tidak berlaku.
+
+
+                                 Pasal 16
+Peraturan Menteri ini mulai berlaku setelah 30 (tiga puluh)
+hari terhitung sejak tanggal diundangkan.
+
+
+
+
+                                               www.peraturan.go.id
+
+<!-- PAGE: 10 -->
+
+2018, No.1251                      -10-
+
+
+                Agar     setiap   orang   mengetahuinya,      memerintahkan
+                pengundangan Peraturan Menteri ini dengan penempatannya
+                dalam Berita Negara Republik Indonesia.
+
+
+
+
+                       Ditetapkan di Jakarta
+                       pada tanggal 6 September 2018
+
+
+                       MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+
+                                           ttd.
+
+
+                                   ENGGARTIASTO LUKITA
+
+
+Diundangkan di Jakarta
+pada tanggal 7 September 2018
+
+
+DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+         ttd.
+
+
+WIDODO EKATJAHJANA
+
+
+
+
+                                                           www.peraturan.go.id
+
+<!-- PAGE: 11 -->
+
+                                                                      2018, No.1251
+                                       -11-
+
+
+               LAMPIRAN I
+               PERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA
+               NOMOR 94 TAHUN 2018
+               TENTANG
+               KETENTUAN PENGGUNAAN LETTER OF CRDIT UNTUK EKSPOR
+               BARANG TERTENTU
+
+
+           BARANG EKSPOR TERTENTU YANG WAJIB MENGGUNAKAN
+                    CARA PEMBAYARAN LETTER OF CREDIT (L/C)
+
+
+     A. MINERAL
+NO.                       URAIAN BARANG                              POS TARIF/HS
+1.     Nikel dengan kadar <1,7% Ni                                    ex 2604.00.00
+
+2.     Bauksit yang telah dilakukan pencucian (washed                 ex 2606.00.00
+       bauxite) dengan kadar ≥ 42% Al2O3
+3.     Konsentrat besi (hematit, magnetit) dengan kadar               ex 2601.11.10
+       ≥ 62% Fe dan ≤ 1% TiO2                                         ex 2601.11.90
+                                                                      ex 2601.12.10
+                                                                      ex 2601.12.90
+4.     Konsentrat    besi laterit   (gutit, hematit, magnetit)        ex 2601.11.10
+       dengan kadar ≥ 50% Fe dan ≥ 10% (Al2O3+SiO2)                   ex 2601.11.90
+                                                                      ex 2601.12.10
+                                                                      ex 2601.12.90
+5.     Konsentrat pasir besi (lamela magnetit - ilmenit)              ex 2601.11.10
+       dengan kadar ≥ 56% Fe dan 1% < TiO2 ≤ 25%                      ex 2601.11.90
+                                                                      ex 2601.12.10
+                                                                      ex 2601.12.90
+6.     Pellet konsentrat pasir besi (lamela magnetit - ilmenit)       ex 2601.11.10
+       dengan kadar ≥ 54% Fe dan 1% < TiO2 ≤ 25%                      ex 2601.11.90
+                                                                      ex 2601.12.10
+                                                                      ex 2601.12.90
+
+7.     Konsentrat mangan dengan kadar ≥ 49% Mn                        ex 2602.00.00
+8.     Konsentrat tembaga dengan kadar ≥ 15% Cu                       ex 2603.00.00
+9.     Konsentrat timbal dengan kadar ≥ 56% Pb                        ex 2607.00.00
+10.    Konsentrat seng dengan kadar ≥ 51% Zn                          ex 2608.00.00
+11.    Konsentrat kromit dengan kadar ≥ 40% Cr2O3 dan                 ex 2610.00.00
+
+
+
+
+                                                                  www.peraturan.go.id
+
+<!-- PAGE: 12 -->
+
+2018, No.1251                         -12-
+
+
+NO.                      URAIAN BARANG                          POS TARIF/HS
+       ≥ 13% Fe
+12.    Konsentrat ilmenite dengan kadar ≥ 45% TiO2               ex 2614.00.10
+13.    Konsentrat rutil dengan kadar ≥ 90% TiO2                  ex 2614.00.90
+
+
+     B. BATUBARA
+
+NO.                       URAIAN BARANG                         POS TARIF/HS
+
+       Batu bara; briket, ovoid dan bahan bakar padat 27.01
+       semacam itu dibuat dari batu bara.
+       - Batu bara, dihancurkan maupun tidak, tetapi tidak
+        diaglomerasi:
+ 1     - - Antrasit                                           2701.11.00
+
+       - - Bituminous coal:                                   2701.12
+
+ 2     - - - Batu bara bahan bakar                            2701.12.10
+
+ 3     - - - Lain-lain                                        2701.12.90
+
+ 4     - - Batu bara lainnya                                  2701.19.00
+
+ 5     - Briket, ovoid dan bahan bakar padat semacam itu 2701.20.00
+        dibuat dari batu bara
+       Lignit, diaglomerasi maupun tidak, tidak termasuk 27.02
+       jet.
+ 6     - Lignit, dihancurkan maupun tidak, tetapi tidak 2702.10.00
+        diaglomerasi
+ 7     - Lignit diaglomerasi                                  2702.20.00
+
+
+
+     C. MINYAK BUMI DAN GAS BUMI
+
+
+NO.                       URAIAN BARANG                          POS TARIF/HS
+      Minyak petroleum dan minyak yang diperoleh dari
+      mineral mengandung bitumen, mentah.
+ 1    -Minyak petroleum mentah                                 2709.00.10
+ 2    -Kondensat                                               2709.00.20
+      Gas petroleum dan gas hidrokarbon lainnya.
+      -Dicairkan:
+
+
+
+
+                                                             www.peraturan.go.id
+
+<!-- PAGE: 13 -->
+
+                                                             2018, No.1251
+                                      -13-
+
+
+NO.                     URAIAN BARANG                        POS TARIF/HS
+ 3    --Gas alam                                         2711.11.00
+ 4    - - Propana                                        2711.12.00
+ 5    - - Butana                                         2711.13.00
+ 6    --lain-lain (capuran Propana dan Butana)           ex. 2711.19.00
+      -Dalam bentuk gas:
+      --Gas alam :
+ 7    ---Dari jenis yang digunakan sebagai bahan bakar 2711.21.10
+      motor
+ 8    ---Lain-lain                                       2711.21.90
+
+
+     D. KELAPA SAWIT
+
+
+NO.                     URAIAN BARANG                        POS TARIF/HS
+
+1.     Crude Palm Oil (CPO)                              1511.10.00
+
+2.     Crude Palm Karnel Oil (CPKO)                      1513.21.10
+
+
+
+
+                           MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+
+                                                 ttd
+
+
+                                       ENGGARTIASTO LUKITA
+
+
+
+
+                                                       www.peraturan.go.id
+
+<!-- PAGE: 14 -->
+
+2018, No.1251                              -14-
+
+
+                LAMPIRAN II
+                PERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA
+                NOMOR 94 TAHUN 2018
+                TENTANG
+                KETENTUAN PENGGUNAAN LETTER OF CREDIT UNTUK
+                EKSPOR BARANG TERTENTU
+
+
+
+                                 SURAT PERNYATAAN
+
+Yang bertanda tangan di bawah ini:
+                     :
+Nama
+Jabatan              :
+Perusahaan           :
+NPWP/TDP             :
+Alamat perusahaan    :
+Alamat pabrik        :
+No. Tlp              :                fax:                 email:
+dengan ini menyatakan bahwa ekspor yang kami lakukan telah menggunakan cara pembayaran
+L/C sebagaimana diatur dalam Peraturan Menteri Perdagangan Nomor        Tahun 2018 tentang
+Ketentuan Penggunaan Letter of Credit untuk Ekspor Barang Tertentu sebagai berikut:
+1.                                       :
+     Nama Barang
+2.                                       :
+     No. Pos Tarif / HS code
+3.                                       :
+     Volume ekspor (Ton)
+4.                                       :
+     Jumlah nilai ekspor (FOB)
+5.                                       :
+     Nomor dan tanggal L/C
+6.                                       :
+     Harga dalam L/C
+7.                                       :
+     Harga pasar dunia/harga di
+     negara tujuan ekspor
+8.                                       :
+     Bank Devisa/lembaga pembiayaan
+     ekspor
+                                                        Tempat/Tanggal
+
+                                                        Yang membuat pernyataan
+
+
+                                                        Tanda tangan
+                                                        (meterai cukup)
+9.                                     :
+     Tanggal kesepakatan harga
+ Selanjutnya kami bersedia menerima sanksi sesuai ketentuan peraturan perundang-undangan
+apabila dalam menyampaikan data dan informasi dalam surat pernyataan ini terbukti tidak
+benar.
+
+
+
+
+                                 MENTERI PERDAGANGAN REPUBLIK INDONESIA,
+
+
+                                                           ttd
+
+                                                  ENGGARTIASTO LUKITA
+
+
+
+
+                                                                    www.peraturan.go.id

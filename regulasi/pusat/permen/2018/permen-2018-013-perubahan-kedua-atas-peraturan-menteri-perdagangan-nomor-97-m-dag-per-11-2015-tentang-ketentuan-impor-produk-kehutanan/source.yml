@@ -1,0 +1,23 @@
+id: permen-2018-013
+judul: Peraturan Menteri Nomor 13 Tahun 2018 tentang Perubahan Kedua Atas Peraturan
+  Menteri Perdagangan Nomor 97/M-Dag/Per/11/2015 Tentang Ketentuan Impor Produk Kehutanan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://inatrade.kemendag.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

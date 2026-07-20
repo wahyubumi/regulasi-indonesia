@@ -1,0 +1,33 @@
+# Peraturan Menteri Nomor 6 Tahun 1983 tentang Perubahan Atas Peraturan Menteri Keuangan Nomor 29/Pmk.03/2015 Tentang Penghapusan Sanksi Administrasi Bunga Yang Terbit Berdasarkan Pasal 19 Ayat (1) Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan Umum Dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang-Undang Nomor 16 Tahun 2009
+
+## Ringkasan
+
+Ringkasan belum diisi. Ringkasan tidak boleh menggantikan teks resmi regulasi.
+
+## Informasi Utama
+
+| Elemen | Isi |
+|---|---|
+| Jenis | Peraturan Menteri |
+| Nomor | 6 |
+| Tahun | 1983 |
+| Judul | Perubahan Atas Peraturan Menteri Keuangan Nomor 29/Pmk.03/2015 Tentang Penghapusan Sanksi Administrasi Bunga Yang Terbit Berdasarkan Pasal 19 Ayat (1) Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan Umum Dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Undang-Undang Nomor 16 Tahun 2009 |
+| Status | perlu_verifikasi |
+| Tingkat | pusat |
+| Sumber | belum_diisi |
+
+## File
+
+- [`dokumen.md`](dokumen.md)
+- [`metadata.yml`](metadata.yml)
+- [`source.yml`](source.yml)
+- [`relasi.yml`](relasi.yml)
+- [`quality-check.yml`](quality-check.yml)
+
+## Catatan Konversi
+
+Status konversi: needs_review.
+
+## Peringatan
+
+Dokumen Markdown ini adalah hasil konversi untuk kebutuhan pencarian, analisis, dan pemrosesan teks. Untuk rujukan hukum resmi, tetap gunakan sumber regulasi resmi.

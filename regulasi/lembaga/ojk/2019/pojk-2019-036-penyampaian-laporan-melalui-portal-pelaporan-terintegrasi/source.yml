@@ -1,0 +1,23 @@
+id: pojk-2019-036
+judul: Peraturan Otoritas Jasa Keuangan Nomor 36/POJK.03/2019 tentang Penyampaian
+  Laporan Melalui Portal Pelaporan Terintegrasi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://pelaporan.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

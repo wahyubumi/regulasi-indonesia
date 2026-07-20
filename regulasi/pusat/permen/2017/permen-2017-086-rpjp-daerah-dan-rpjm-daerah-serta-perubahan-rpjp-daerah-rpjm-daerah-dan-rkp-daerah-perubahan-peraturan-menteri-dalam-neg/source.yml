@@ -1,0 +1,29 @@
+id: permen-2017-086
+judul: Peraturan Menteri Nomor 86 Tahun 2017 tentang RPJP Daerah dan RPJM Daerah serta
+  Perubahan RPJP Daerah, RPJM Daerah dan RKP Daerah. Perubahan. PERATURAN MENTERI
+  DALAM NEGERI REPUBLIK INDONESIA NOMOR 86 TAHUN 2017 TENTANG TATA CARA PERENCANAAN,
+  PENGENDALIAN DAN EVALUASI PEMBANGUNAN DAERAH, TATA CARA EVALUASI RANCANGAN PERATURAN
+  DAERAH TENTANG RENCANA PEMBANGUNAN JANGKA PANJANG DAERAH DAN RENCANA PEMBANGUNAN
+  JANGKA MENENGAH DAERAH, SERTA TATA CARA PERUBAHAN RENCANA PEMBANGUNAN JANGKA PANJANG
+  DAERAH, RENCANA PEMBANGUNAN JANGKA MENENGAH DAERAH, DAN RENCANA KERJA PEMERINTAH
+  DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

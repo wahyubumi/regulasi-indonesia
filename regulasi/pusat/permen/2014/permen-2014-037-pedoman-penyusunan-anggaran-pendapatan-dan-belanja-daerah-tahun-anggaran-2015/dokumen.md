@@ -1,0 +1,146 @@
+---
+id: "permen-2014-037"
+jenis: "permen"
+nomor: "37"
+tahun: 2014
+judul: "Peraturan Menteri Nomor 37 Tahun 2014 tentang Pedoman Penyusunan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2015"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 37 Tahun 2014 tentang Pedoman Penyusunan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2015
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 37
+tahun: 2014
+tentang: Pedoman Penyusunan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2015
+---
+
+<!-- PAGE: 1 -->
+
+           BERITA NEGARA
+         REPUBLIK INDONESIA
+No.680, 2014              KEMENDAGRI.      APBN.      Tahun      2015.
+                          Penyusunan. Pedoman.
+
+
+     PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA
+                   NOMOR 37 TAHUN 2014
+                         TENTANG
+         PEDOMAN PENYUSUNAN ANGGARAN PENDAPATAN
+          DAN BELANJA DAERAH TAHUN ANGGARAN 2015
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+            MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+
+Menimbang :     bahwa untuk melaksanakan ketentuan Pasal 34 ayat (2)
+                Peraturan Pemerintah Nomor 58 Tahun 2005 tentang
+                Pengelolaan   Keuangan   Daerah,    perlu menetapkan
+                Peraturan Menteri Dalam Negeri Republik Indonesia
+                tentang Pedoman Penyusunan Anggaran Pendapatan dan
+                Belanja Daerah Tahun Anggaran 2015;
+Mengingat   :   1.   Undang-Undang Nomor 32 Tahun 2004 tentang
+                     Pemerintahan Daerah (Lembaran Negara Republik
+                     Indonesia Tahun 2004 Nomor 125, Tambahan
+                     Lembaran Negara Republik Indonesia Nomor 4437)
+                     sebagaimana telah diubah beberapa kali, terakhir
+                     dengan Undang-Undang Nomor 12 Tahun 2008
+                     tentang Perubahan Kedua Atas Undang-Undang Nomor
+                     32 Tahun 2004 tentang Pemerintahan Daerah
+                     (Lembaran Negara Republik Indonesia Tahun 2008
+                     Nomor 59, Tambahan Lembaran Negara Republik
+                     Indonesia Nomor 4844);
+                2.   Undang-Undang Nomor 39 Tahun 2008 tentang
+                     Kementerian Negara (Lembaran Negara Republik
+
+
+
+
+                                                   www.djpp.kemenkumham.go.id
+
+<!-- PAGE: 2 -->
+
+2014, No.680                          2
+
+
+                     Indonesia Tahun 2008 Nomor 166, Tambahan
+                     Lembaran Negara Republik Indonesia Nomor 4916);
+                3.   Peraturan Pemerintah Nomor 58 Tahun 2005 tentang
+                     Pengelolaan Keuangan Daerah, (Lembaran Negara
+                     Republik Indonesia Tahun 2005 Nomor 140,
+                     Tambahan Lembaran Negara Republik Indonesia
+                     Nomor 4578);
+                             MEMUTUSKAN:
+Menetapkan :    PERATURAN MENTERI DALAM NEGERI TENTANG
+                PEDOMAN PENYUSUNAN ANGGARAN PENDAPATAN DAN
+                BELANJA DAERAH TAHUN ANGGARAN 2015.
+                                    Pasal 1
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+1.   Anggaran Pendapatan dan Belanja Daerah yang selanjutnya disingkat
+     APBD, adalah rencana keuangan tahunan pemerintahan daerah yang
+     dibahas dan disetujui bersama oleh pemerintah daerah dan DPRD,
+     dan ditetapkan dengan peraturan daerah.
+2.   Pedoman Penyusunan APBD adalah pokok-pokok kebijakan sebagai
+     petunjuk dan arah bagi pemerintah daerah dalam penyusunan,
+     pembahasan dan penetapan APBD.
+3.   Pemerintah Daerah adalah Pemerintah Provinsi dan Pemerintah
+     Kabupaten/Kota.
+4. Kepala Daerah adalah Gubernur dan Bupati/Walikota.
+                                    Pasal 2
+(1) Pedoman penyusunan APBD Tahun Anggaran 2015 meliputi:
+     a.   Sinkronisasi Kebijakan Pemerintah Daerah dengan Kebijakan
+          Pemerintah;
+     b.   Prinsip Penyusunan APBD;
+     c.   Kebijakan Penyusunan APBD;
+     d.   Teknis Penyusunan APBD; dan
+     e.   Hal-hal Khusus Lainnya.
+(2) Uraian pedoman penyusunan APBD Tahun Anggaran 2015
+    sebagaimana dimaksud pada ayat (1) tercantum dalam Lampiran
+    Peraturan Menteri ini.
+                                    Pasal 3
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+
+
+
+
+                                                    www.djpp.kemenkumham.go.id
+
+<!-- PAGE: 3 -->
+
+                                3                       2014, No.680
+
+
+
+Agar setiap orang mengetahuinya, Peraturan Menteri ini diundangkan
+dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+
+                                    Ditetapkan di Jakarta
+                                    pada tanggal 19 Mei 2014
+                                    MENTERI DALAM NEGERI
+                                    REPUBLIK INDONESIA,
+
+                                    GAMAWAN FAUZI
+
+
+Diundangkan di Jakarta
+pada tanggal 21 Mei 2014
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+AMIR SYAMSUDIN
+
+
+
+
+                                                  www.djpp.kemenkumham.go.id

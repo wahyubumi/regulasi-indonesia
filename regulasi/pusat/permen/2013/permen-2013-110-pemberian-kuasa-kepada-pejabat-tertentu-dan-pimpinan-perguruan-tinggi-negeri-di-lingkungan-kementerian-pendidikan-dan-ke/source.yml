@@ -1,0 +1,25 @@
+id: permen-2013-110
+judul: Peraturan Menteri Nomor 110 Tahun 2013 tentang Pemberian Kuasa Kepada Pejabat
+  Tertentu Dan Pimpinan Perguruan Tinggi Negeri Di Lingkungan Kementerian Pendidikan
+  Dan Kebudayaan Untuk Menandatangani Keputusan Pemberian Dan Penghentian Pembayaran
+  Tunjangan Kinerja Pegawai Di Lingkungan Kementerian Pendidikan Dan Kebudayaan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

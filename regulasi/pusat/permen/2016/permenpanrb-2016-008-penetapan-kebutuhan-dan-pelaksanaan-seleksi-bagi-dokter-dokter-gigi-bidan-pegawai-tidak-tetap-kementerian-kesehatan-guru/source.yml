@@ -1,0 +1,27 @@
+id: permenpanrb-2016-008
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  8 Tahun 2016 tentang Penetapan Kebutuhan Dan Pelaksanaan Seleksi Bagi Dokter, Dokter
+  Gigi, Bidan Pegawai Tidak Tetap Kementerian Kesehatan, Guru Garis Depan Kementerian
+  Pendidikan Dan Kebudayaan, Dan Tenaga Harian Lepas Tenaga Bantu Penyuluh Pertanian
+  Kementerian Pertanian Menjadi Calon Aparatur Sipil Negara Di Lingkungan Pemerintah
+  Daerah Tahun 2016
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

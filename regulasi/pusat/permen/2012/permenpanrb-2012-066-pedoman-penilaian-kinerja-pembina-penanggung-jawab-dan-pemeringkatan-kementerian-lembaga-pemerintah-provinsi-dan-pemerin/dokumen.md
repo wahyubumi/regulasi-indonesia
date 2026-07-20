@@ -1,0 +1,172 @@
+---
+id: "permenpanrb-2012-066"
+jenis: "permenpanrb"
+nomor: "66"
+tahun: 2012
+judul: "Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 66 Tahun 2012 tentang Pedoman Penilaian Kinerja Pembina/Penanggung Jawab Dan Pemeringkatan Kementerian/Lembaga, Pemerintah Provinsi, Dan Pemerintah Kabupaten/Kota Dalam Penyelenggaraan Pelayanan Publik"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 66 Tahun 2012 tentang Pedoman Penilaian Kinerja Pembina/Penanggung Jawab Dan Pemeringkatan Kementerian/Lembaga, Pemerintah Provinsi, Dan Pemerintah Kabupaten/Kota Dalam Penyelenggaraan Pelayanan Publik
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permenpanrb
+nomor: 66
+tahun: 2012
+tentang: Pedoman Penilaian Kinerja Pembina/Penanggung Jawab Dan Pemeringkatan Kementerian/Lembaga, Pemerintah Provinsi, Dan Pemerintah Kabupaten/Kota Dalam Penyelenggaraan Pelayanan Publik
+---
+
+<!-- PAGE: 1 -->
+
+          BERITA NEGARA
+        REPUBLIK INDONESIA
+No.1119, 2012              KEMENTERIAN PENDAYAGUNAAN APARATUR
+                           NEGARA      DAN      REFORMASI      BIROKRASI.
+                           Penilaian Kinerja. Pelayanan Publik. Pedoman.
+
+
+    PERATURAN MENTERI PENDAYAGUNAAN APARATUR NEGARA
+                  DAN REFORMASI BIROKRASI
+                    NOMOR 66 TAHUN 2012
+                          TENTANG
+   PEDOMAN PENILAIAN KINERJA PEMBINA/PENANGGUNG JAWAB
+   DAN PEMERINGKATAN KEMENTERIAN/LEMBAGA, PEMERINTAH
+         PROVINSI, DAN PEMERINTAH KABUPATEN/KOTA
+         DALAM PENYELENGGARAAN PELAYANAN PUBLIK
+
+                 DENGAN RAHMAT TUHAN YANG MAHA ESA
+            MENTERI PENDAYAGUNAAN APARATUR NEGARA
+                       DAN REFORMASI BIROKRASI,
+
+
+Menimbang    :   a.   bahwa untuk mendorong percepatan peningkatan
+                      kualitas penyelenggaraan pelayanan publik pada
+                      Kementerian/Lembaga, Pemerintah Provinsi, dan
+                      Pemerintah   Kabupaten/Kota,    perlu   dilakukan
+                      penilaian  kinerja   Pembina/Penanggung     Jawab
+                      Pelayanan      Publik     dan       pemeringkatan
+                      Kementerian/Lembaga, Pemerintah Provinsi dan
+                      Pemerintah Kabupaten/Kota dalam penyelenggaraan
+                      pelayanan publik;
+                 b.   bahwa dalam rangka meningkatkan objektivitas
+                      penilaian oleh Tim Penilai perlu ditetapkan pedoman
+                      penilaian kinerja Pembina/ Penanggung Jawab dan
+                      pemeringkatan Kementerian/Lembaga, Pemerintah
+                      Provinsi, dan Pemerintah Kabupaten/ Kota dalam
+                      penyelenggaraan Pelayanan Publik untuk digunakan
+
+
+
+                                                      www.djpp.depkumham.go.id
+
+<!-- PAGE: 2 -->
+
+2012, No.1119                      2
+
+
+
+                     sebagai acuan     dalam melaksanakan penilaian
+                     dengan Peraturan Menteri Pendayagunaan Aparatur
+                     Negara dan Reformasi Birokrasi.
+Mengingat   :   1.   Undang-Undang Republik Indonesia Nomor 32 Tahun
+                     2004 tentang Pemerintahan Daerah (Lembaran
+                     Negara Republik Indonesia Tahun 2004 Nomor: 125
+                     dan Tambahan Lembaran Negara Republik Indonesia
+                     Nomor: 4437) sebagaimana telah diubah terakhir
+                     dengan Undang-Undang Republik Indonesia Nomor
+                     12 Tahun 2008 tentang perubahan kedua atas
+                     Undang-Undang Republik Indonesia Nomor 32 Tahun
+                     2004 tentang Pemerintahan Daerah (Lembaran
+                     Negara Republik Indonesia Tahun 2008 Nomor: 59
+                     dan Tambahan Lembaran Negara Republik Indonesia
+                     Nomor: 4844);
+                2.   Undang-Undang Republik Indonesia Nomor 25 Tahun
+                     2009 tentang Pelayanan Publik (Lembaran Negara
+                     Republik Indonesia Tahun 2009 Nomor: 112 dan
+                     Tambahan Lembaran Negara Republik Indonesia
+                     Nomor: 3058);
+                3.   Peraturan Pemerintah Nomor 6 Tahun 2008 tentang
+                     Pedoman Evaluasi Penyelenggaraan Pemerintahan
+                     Daerah (Lembaran Negara Republik Indonesia Tahun
+                     2008 Nomor 19 dan Tambahan Lembaran Negara
+                     Republik Indonesia Nomor 4815);
+                4.   Keputusan Menteri Negara Pendayagunaan Aparatur
+                     Negara Nomor 25/KEP/M.PAN/2/2004 tentang
+                     Pedoman Penyusunan Indeks Kepuasan Masyarakat
+                     Unit Pelayanan Instansi Pemerintah;
+                5.   Peraturan Menteri Pendayagunaan Aparatur Negara
+                     dan Reformasi Birokrasi Nomor 36 Tahun 2012
+                     tentang Petunjuk Teknis Penyusunan, Penetapan dan
+                     Penerapan Standar Pelayanan;
+                6.   Peraturan Menteri Pendayagunaan Aparatur Negara
+                     dan Reformasi Birokrasi Nomor 38 Tahun 2012
+                     tentang Pedoman Penilaian Kinerja Unit Pelayanan
+                     Publik.
+
+
+
+
+                                                    www.djpp.depkumham.go.id
+
+<!-- PAGE: 3 -->
+
+                                  3                      2012, No.1119
+
+
+
+                              MEMUTUSKAN:
+Menetapkan : PERATURAN MENTERI PENDAYAGUNAAN APARATUR
+                 NEGARA DAN REFORMASI BIROKRASI TENTANG
+                 PEDOMAN          PENILAIAN     KINERJA       PEMBINA/
+                 PENANGGUNG          JAWAB     DAN     PEMERINGKATAN
+                 KEMENTERIAN/LEMBAGA, PEMERINTAH PROVINSI,
+                 DAN      PEMERINTAH       KABUPATEN/KOTA        DALAM
+                 PENYELENGGARAAN PELAYANAN PUBLIK
+                                   Pasal 1
+Pedoman     penilaian     kinerja    Pembina/Penanggung    Jawab    dan
+pemeringkatan      Kementerian/Lembaga,     Pemerintah   Provinsi,  dan
+Pemerintah Kabupaten/Kota dalam penyelenggaraan pelayanan publik
+sebagaimana tersebut dalam Lampiran Peraturan ini merupakan bagian
+yang tidak terpisahkan dari Peraturan ini dan digunakan sebagai acuan
+penilaian oleh Tim Penilai yang dibentuk dan ditetapkan oleh Menteri
+Pendayagunaan Aparatur Negara dan Reformasi Birokrasi.
+                                 Pasal 2
+Dengan ditetapkannya Peraturan ini, maka Peraturan Menteri Negara
+Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 44
+Tahun 2011 tentang Pedoman Penilaian Penyelenggaraan Pelayanan
+Publik Pemerintah Kabupaten/Kota dicabut dan dinyatakan tidak berlaku
+lagi.
+                                   Pasal 3
+Peraturan ini berlaku sejak tanggal diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan
+Peraturan Menteri ini dengan penempatannya dalam Berita Negara
+Republik Indonesia.
+
+                  Ditetapkan di Jakarta
+                  pada tanggal 23 Oktober 2012
+                  MENTERI PENDAYAGUNAAN APARATUR NEGARA
+                  DAN REFORMASI BIROKRASI REPUBLIK INDONESIA,
+
+
+                  AZWAR ABUBAKAR
+
+Diundangkan di Jakarta
+pada tanggal 12 November 2012
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+AMIR SYAMSUDIN
+
+
+
+                                                    www.djpp.depkumham.go.id

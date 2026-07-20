@@ -1,0 +1,25 @@
+id: permen-2011-056
+judul: Peraturan Menteri Nomor 56 Tahun 2011 tentang Perubahan Atas Peraturan Menteri
+  Pendidikan Dan Kebudayaan Nomor 56 Tahun 2011 Tentang Petunjuk Teknis Penggunaan
+  Dana Alokasi Khusus Bidang Pendidikan Tahun Anggaran 2012 Untuk Sekolah Dasar/Sekolah
+  Dasar Luar Biasa
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

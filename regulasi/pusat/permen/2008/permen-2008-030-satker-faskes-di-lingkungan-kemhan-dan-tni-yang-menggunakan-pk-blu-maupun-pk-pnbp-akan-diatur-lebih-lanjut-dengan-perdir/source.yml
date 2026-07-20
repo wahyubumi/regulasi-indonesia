@@ -1,0 +1,24 @@
+id: permen-2008-030
+judul: Peraturan Menteri Nomor 30 Tahun 2008 tentang Satker Faskes di lingkungan Kemhan
+  dan TNI yang menggunakan PK BLU maupun PK PNBP akan diatur lebih lanjut dengan Perdirjen
+  Renhan. BAB XVII KETENTUAN PENUTUP Pasal 71 Peraturan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

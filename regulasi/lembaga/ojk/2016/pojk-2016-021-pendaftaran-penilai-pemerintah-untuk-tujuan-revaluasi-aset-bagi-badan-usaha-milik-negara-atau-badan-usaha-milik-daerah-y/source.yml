@@ -1,0 +1,24 @@
+id: pojk-2016-021
+judul: Peraturan Otoritas Jasa Keuangan Nomor 21/POJK.04/2016 tentang Pendaftaran
+  Penilai Pemerintah Untuk Tujuan Revaluasi Aset Bagi Badan Usaha Milik Negara Atau
+  Badan Usaha Milik Daerah Yang Melakukan Penawaran Umum Di Pasar Modal
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

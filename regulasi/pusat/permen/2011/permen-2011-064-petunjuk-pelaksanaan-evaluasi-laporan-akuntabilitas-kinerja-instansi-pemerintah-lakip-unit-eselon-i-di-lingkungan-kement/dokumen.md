@@ -1,0 +1,185 @@
+---
+id: "permen-2011-064"
+jenis: "permen"
+nomor: "64"
+tahun: 2011
+judul: "Peraturan Menteri Nomor 64 Tahun 2011 tentang Petunjuk Pelaksanaan Evaluasi Laporan Akuntabilitas Kinerja Instansi Pemerintah (Lakip) Unit Eselon I Di Lingkungan Kementerian Sosial"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 64 Tahun 2011 tentang Petunjuk Pelaksanaan Evaluasi Laporan Akuntabilitas Kinerja Instansi Pemerintah (Lakip) Unit Eselon I Di Lingkungan Kementerian Sosial
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 64
+tahun: 2011
+tentang: Petunjuk Pelaksanaan Evaluasi Laporan Akuntabilitas Kinerja Instansi Pemerintah (Lakip) Unit Eselon I Di Lingkungan Kementerian Sosial
+---
+
+<!-- PAGE: 1 -->
+
+                     PERATURAN MENTERI SOSIAL REPUBLIK INDONESIA
+                                 NOMOR 64 TAHUN 2011
+                                       TENTANG
+             PETUNJUK PELAKSANAAN EVALUASI LAPORAN AKUNTABILITAS KINERJA
+                INSTANSI PEMERINTAH (LAKIP) UNIT ESELON I DI LINGKUNGAN
+                                 KEMENTERIAN SOSIAL
+
+                           DENGAN RAHMAT TUHAN YANG MAHA ESA
+                            MENTERI SOSIAL REPUBLIK INDONESIA,
+
+Menimbang : a.     bahwa dalam rangka untuk lebih meningkatkan pelaksanaan pemerintahan yang
+                   lebih berdaya guna, berhasil guna, bersih dan bebas dari praktik kolusi, korupsi
+                   dan nepotisme menuju tercapainya pemerintahan yang baik (good governance) di
+                   lingkungan Kementerian Sosial, perlu adanya pelaporan akuntabilitas kinerja
+                   instansi pemerintah unit Eselon I di lingkungan Kementerian Sosial sebagai wujud
+                   pertanggungjawaban atas segala tugas dan kewajiban pemerintah;
+
+              b.   bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu
+                   menetapkan Peraturan Menteri Sosial tentang Petunjuk Pelaksanaan Evaluasi
+                   Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP) Unit Eselon I di
+                   Lingkungan Kementerian Sosial;
+
+Mengingat   : 1.   Undang-Undang Nomor 28 Tahun 1999 tentang Penyelenggaraan Negara Yang
+                   Bebas Dari Korupsi, Kolusi dan Nepotisme (Lembaran Negara Tahun 1999 Nomor
+                   1999, Tambahan Lembaran Negara Nomor 3851);
+
+              2.   Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana
+                   Korupsi (Lembaran Negara Tahun 1999 Nomor 140, Tambahan Lembaran Negara
+                   Nomor 3874) sebagaimana telah diubah dengan Undang-Undang RI Nomor 20
+                   Tahun 2001;
+
+              3.   Undang-Undang Nomor 11 Tahun 2009 tentang Kesejahteraan Sosial (Lembaran
+                   Negara Republik Indonesia Tahun 2009 Nomor 12, Tambahan Lembaran Negara
+                   Republik Indonesia Nomor 4967);
+
+              4.   Peraturan Pemerintah Nomor 8 Tahun 2006 tentang Pelaporan Keuangan dan
+                   Kinerja Instansi Pemerintah (Lembaran Negara Republik Indonesia Tahun 2006
+                   Npomor 25, Tambahan Lembaran Negara Republik Indonesia Nomor 4614);
+
+
+
+
+                                                                          www.djpp.depkumham.go.id
+
+<!-- PAGE: 2 -->
+
+                      5.    Peraturan Pemerintah Nomr 39 Tahun 2006 tentang Tata Cara
+                            Pengendalian dan Evaluasi Pelaksanaan Rencana Pembangunan
+                            (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 96,
+                            Tambahan Lembaran Negara Republik Indonesia Nomor 4663);
+
+                      6.    Keputusan Presiden Nomor 84/P Tahun 2009 tentang Pembentukan
+                            Kabinet Indonesia Bersatu II;
+
+                      7.    Peraturan Presiden Nomor 47 Tahun 2009 tentang Pembentukan dan
+                            Organisasi Kementerian Negara;
+
+                      8.    Peraturan Presiden Nomor 24 Tahun 2010 tentang Kedudukan, Tugas,
+                            dan Fungsi Kementerian Negara serta Susunan Organisasi, Tugas, dan
+                            Fungsi Eselon I Kementerian Negara;
+
+                      9.    Peraturan Menteri Negara Pendayagunaan Aparatur Negara dan
+                            Reformasi Birokrasi Nomor 29 Tahun 2010 tentang Pedoman
+                            Penyusunan Penetapan Kinerja dan Pelaporan Akuntabilitas Kinerja
+                            Instansi Pemerintah;
+
+                      10.   Peraturan Menteri Sosial Nomor 86/HUK/2010 tentang Organisasi dan
+                            Tata Kerja Kementerian Sosial;
+
+Memperhatikan :       1. Instruksi Presiden Nomor 7 Tahun 1999 tentang Akuntabilitas Kinerja
+                         Instansi Pemerintah;
+
+                      2. Instruksi Pemerintah Nomor     5   Tahun   2004   tentang   Percepatan
+                         Pemberantasan Korupsi;
+
+                                                   MEMUTUSKAN :
+
+Menetapkan        :   PERATURAN MENTERI SOSIAL TENTANG PETUNJUK PELAKSANAAN
+                      EVALUASI LAPORAN AKUNTABILITAS KINERJA INSTANSI PEMERINTAH
+                      (LAKIP) UNIT ESELON I DI LINGKUNGAN KEMENTERIAN SOSIAL.
+
+                                                      Pasal 1
+
+                      Petunjuk Pelaksanaan Evaluasi Laporan Akuntabilitas Kinerja Instansi
+                      Pemerintah (LAKIP) Unit Eselon I di Lingkungan Kementerian Sosial
+                      sebagaimana tercantum dalam Lampiran Peraturan Menteri Sosial ini.
+
+                                                      Pasal 2
+
+                      Petunjuk Pelaksanaan Evaluasi Laporan Akuntabilitas Kinerja Instansi
+                      Pemerintah (LAKIP) Unit Eselon I di Lingkungan Kementerian Sosial
+                      sebagaimana dimaksud dalam Pasal 1 sebagai pedoman dalam menyusun
+                      Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP) di lingkungan
+                      Kementerian Sosial dan merupakan bagian yang tidak terpisahkan dari
+                      Peraturan Menteri ini.
+
+
+                                               2
+
+
+
+                                                                        www.djpp.depkumham.go.id
+
+<!-- PAGE: 3 -->
+
+                                                     Pasal 3
+
+                  Petunjuk Pelaksanaan Evaluasi Laporan Akuntabilitas Kinerja Instansi
+                  Pemerintah (LAKIP) Unit Eselon I di Lingkungan Kementerian Sosial di susun
+                  dengan sistematika sebagai berikut :
+
+                  BAB I PENDAHULUAN
+                  BAB II PERENCANAAN EVALUASI LAKIP
+                  BAB III PELAKSANAAN EVALUASI LAKIP
+                  BAB IV PELAPORAN HASIL EVALUASI
+
+                  LAMPIRAN
+
+                  A.   Petunjuk Pengisian Formulir Evaluasi Sistem AKIP.
+                  B.   Petunjuk Pengisian Formulir Evaluasi Atas Akuntabilitas Kinerja Instansi
+                       Unit Kerja Eselon I.
+
+                                                     Pasal 4
+
+                  Peraturan ini mulai berlaku pada tanggal ditetapkan.
+
+                  Agar setiap orang mengetahuinya, Peraturan Menteri Sosial ini diundangkan
+                  dengan penempatannya dalam Berita Negara Republik Indonesia
+
+
+                                             Ditetapkan di Jakarta
+                                             pada tanggal 20 Mei 2011
+                                             MENTERI SOSIAL REPUBLIK INDONESIA,
+
+
+                                             SALIM SEGAF AL JUFRI
+
+Diundangkan di Jakarta
+pada tanggal 27 Mei 2011
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+
+PATRIALIS AKBAR
+
+             BERITA NEGARA REPUBLIK INDONESIA TAHUN 2011 NOMOR 315
+
+
+
+
+                                             3
+
+
+
+                                                                         www.djpp.depkumham.go.id

@@ -1,0 +1,23 @@
+id: permen-2018-108
+judul: Peraturan Menteri Nomor 108 Tahun 2018 tentang Batas Daerah Kabupaten Blitar
+  Dengan Kabupaten Tulungagung Provinsi Jawa Timur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

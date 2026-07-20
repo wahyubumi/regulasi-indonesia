@@ -1,0 +1,29 @@
+id: permen-2018-082
+judul: Peraturan Menteri Nomor 82 Tahun 2018 tentang Barang yang diatur Tata Niaga
+  Impornya. PERATURAN MENTERI PERDAGANGAN REPUBLIK INDONESIA NOMOR 82 TAHUN 2018 TENTANG
+  PENCABUTAN KETENTUAN IMPOR 4 CHLORO-3,5-DIMETHYLPHENOL (PCMX) SEBAGAIMANA DIATUR
+  DALAM KEPUTUSAN MENTERI PERINDUSTRIAN DAN PERDAGANGAN NOMOR 230/MPP/KEP/7/1997 TENTANG
+  BARANG YANG DIATUR TATA NIAGA IMPORNYA SEBAGAIMANA TELAH BEBERAPA KALI DIUBAH TERAKHIR
+  DENGAN KEPUTUSAN MENTERI PERINDUSTRIAN DAN PERDAGANGAN NOMOR 406/MPP/KEP/6/2004
+  TENTANG PERUBAHAN ATAS KEPUTUSAN MENTERI PERINDUSTRIAN DAN PERDAGANGAN NOMOR 230/MPP/KEP/7/1997
+  TENTANG BARANG YANG DIATUR TATA NIAGA IMPORNYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,24 @@
+id: permen-2008-062
+judul: Peraturan Menteri Nomor 62 Tahun 2008 tentang Perubahan Atas Peraturan Menteri
+  Dalam Negeri Nomor 62 Tahun 2008 Tentang Standar Pelayanan Minimal Bidang Pemerintahan
+  Dalam Negeri Di Kabupaten/Kota
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

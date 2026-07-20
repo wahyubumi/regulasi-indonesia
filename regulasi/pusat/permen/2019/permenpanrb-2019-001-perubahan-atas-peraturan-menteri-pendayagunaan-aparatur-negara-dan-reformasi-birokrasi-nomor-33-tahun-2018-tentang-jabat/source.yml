@@ -1,0 +1,25 @@
+id: permenpanrb-2019-001
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  1 Tahun 2019 tentang Perubahan Atas Peraturan Menteri Pendayagunaan Aparatur Negara
+  Dan Reformasi Birokrasi Nomor 33 Tahun 2018 Tentang Jabatan Fungsional Analis Investigasi
+  Dan Pengamanan Perdagangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

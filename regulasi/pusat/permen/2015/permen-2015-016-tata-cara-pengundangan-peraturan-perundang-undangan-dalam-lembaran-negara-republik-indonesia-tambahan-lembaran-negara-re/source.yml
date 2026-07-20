@@ -1,0 +1,25 @@
+id: permen-2015-016
+judul: Peraturan Menteri Nomor 16 Tahun 2015 tentang Tata Cara Pengundangan Peraturan
+  Perundang-Undangan Dalam Lembaran Negara Republik Indonesia, Tambahan Lembaran Negara
+  Republik Indonesia, Berita Negara Republik Indonesia, Dan Tambahan Berita Negara
+  Republik Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,23 @@
+id: pojk-2015-003
+judul: Peraturan Otoritas Jasa Keuangan Nomor 3/Pojk.05/2015 tentang Perubahan Atas
+  Peraturan Otoritas Jasa Keuangan Nomor 3/Pojk.05/2015 Tentang Investasi Dana Pensiun
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

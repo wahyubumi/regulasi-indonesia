@@ -1,0 +1,24 @@
+id: permen-2014-001
+judul: Peraturan Menteri Nomor 1 Tahun 2014 tentang Perubahan Atas Keputusan Menteri
+  Tenaga Kerja Dan Transmigrasi Nomor Kep.250/Men/Xii/2008 Tentang Klasifikasi Dan
+  Karakteristik Data Dari Jenis Informasi Ketenagakerjaan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,25 @@
+id: permen-2019-050
+judul: Peraturan Menteri Nomor 50 Tahun 2019 tentang Perubahan Atas Peraturan Menteri
+  Perindustrian Nomor 54/M-Ind/Per/7/2016 Tentang Lembaga Penilaian Kesesuaian Dalam
+  Rangka Pemberlakuan Dan Pengawasan Standar Nasional Indonesia Pipa Baja Saluran
+  Air Dengan Atau Tanpa Lapisan Seng Secara Wajib
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

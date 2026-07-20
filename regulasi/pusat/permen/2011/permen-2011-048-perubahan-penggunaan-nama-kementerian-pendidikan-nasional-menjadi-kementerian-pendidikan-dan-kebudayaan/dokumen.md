@@ -1,0 +1,118 @@
+---
+id: "permen-2011-048"
+jenis: "permen"
+nomor: "48"
+tahun: 2011
+judul: "Peraturan Menteri Nomor 48 Tahun 2011 tentang Perubahan Penggunaan Nama Kementerian Pendidikan Nasional Menjadi Kementerian Pendidikan Dan Kebudayaan"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 48 Tahun 2011 tentang Perubahan Penggunaan Nama Kementerian Pendidikan Nasional Menjadi Kementerian Pendidikan Dan Kebudayaan
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 48
+tahun: 2011
+tentang: Perubahan Penggunaan Nama Kementerian Pendidikan Nasional Menjadi Kementerian Pendidikan Dan Kebudayaan
+---
+
+<!-- PAGE: 1 -->
+
+            PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN
+                         REPUBLIK INDONESIA,
+                         NOMOR 48 TAHUN 2011
+                              TENTANG
+     PERUBAHAN PENGGUNAAN NAMA KEMENTERIAN PENDIDIKAN NASIONAL
+           MENJADI KEMENTERIAN PENDIDIKAN DAN KEBUDAYAAN
+
+                      DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+                       MENTERI PENDIDIKAN DAN KEBUDAYAAN
+                               REPUBLIK INDONESIA,
+
+Menimbang    : a.    bahwa berdasarkan Peraturan Presiden Nomor 77 Tahun 2011 tentang
+                     Perubahan Kedua Atas Peraturan Presiden Nomor 47 Tahun 2009 tentang
+                     Pembentukan dan Organisasi Kementerian Negara, nama Kementerian
+                     Pendidikan Nasional diubah menjadi Kementerian Pendidikan dan
+                     Kebudayaan;
+                b.   bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu
+                     menetapkan Peraturan Menteri Pendidikan dan Kebudayaan tentang Perubahan
+                     Penggunaan Nama Kementerian Pendidikan Nasional Menjadi Kementerian
+                     Pendidikan dan Kebudayaan;
+
+Mengingat    : 1.    Peraturan Presiden 47 Tahun 2009 tentang Pembentukan dan Organisasi
+                     Kementerian Negara sebagaimana telah diubah dengan Peraturan Presiden
+                     Nomor 77 Tahun 2011;
+                2.   Keputusan Presiden Nomor 84/P Tahun 2009 mengenai Pembentukan Kabinet
+                     Indonesia Bersatu II sebagaimana telah diubah dengan Keputusan Presiden
+                     Nomor 59/P Tahun 2011;
+
+                                      MEMUTUSKAN:
+
+Menetapkan : PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN TENTANG
+               PERUBAHAN PENGGUNAAN NAMA KEMENTERIAN PENDIDIKAN
+               NASIONAL   MENJADI   KEMENTERIAN  PENDIDIKAN  DAN
+               KEBUDAYAAN.
+
+                                            Pasal 1
+Nama Kementerian Pendidikan Nasional yang digunakan pada kepala surat, cap dinas/cap jabatan,
+papan nama, tanda pengenal, ijazah, tanda jasa dan penghargaan, serta dokumen dan identitas
+lainnya yang diberlakukan dan dikeluarkan oleh Kementerian Pendidikan Nasional diubah dengan
+nama Kementerian Pendidikan dan Kebudayaan.
+
+                                       Pasal 2
+Perubahan nama Kementerian Pendidikan Nasional menjadi Kementerian Pendidikan dan
+Kebudayaan sebagaimana dimaksud dalam Pasal 1 diselesaikan paling lambat pada tanggal 31
+Desember 2011.                                                    www.djpp.depkumham.go.id
+
+<!-- PAGE: 2 -->
+
+                                             Pasal 3
+Pada saat mulai berlakunya Peraturan Menteri ini semua penggunaan nama Kementerian Pendidikan
+Nasional pada kepala surat, cap dinas/cap jabatan, papan nama, tanda pengenal, ijazah, tanda jasa
+dan penghargaan, serta dokumen dan identitas lainnya yang telah ada sebelum tanggal 1 Januari
+2012 dinyatakan tetap dibenarkan.
+
+                                              Pasal 4
+Dengan berlakunya Peraturan Menteri ini Peraturan Menteri Pendidikan Nasional Nomor 1 Tahun
+2010 tentang Perubahan Penggunaan Nama Departemen Pendidikan Nasional Menjadi Kementerian
+Pendidikan Nasional dinyatakan tidak berlaku.
+
+                                              Pasal 5
+Peraturan Menteri ini mulai berlaku pada tanggal 18 Oktober 2011.
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri Pendidikan
+Nasional ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+
+
+                                             Ditetapkan di Jakarta
+                                             pada tanggal 24 Oktober 2011
+                                             MENTERI PENDIDIKAN DAN KEBUDAYAAN
+                                             REPUBLIK INDONESIA,
+
+
+                                             MOHAMMAD NUH
+
+Diundangkan di Jakarta
+pada tanggal 24 Oktober 2011
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+AMIR SYAMSUDDIN
+
+BERITA NEGARA REPUBLIK INDONESIA TAHUN 2011 NOMOR 661
+
+
+
+
+                                                                        www.djpp.depkumham.go.id

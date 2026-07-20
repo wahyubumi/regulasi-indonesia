@@ -1,0 +1,24 @@
+id: permen-2019-017
+judul: Peraturan Menteri Nomor 17 Tahun 2019 tentang Pemenuhan Hak Pegawai Negeri
+  Sipil, Penyediaan Sarana Dan Prasarana Minimal, Pembinaan Teknis Operasional Dan
+  Penghargaan Satuan Polisi Pamong Praja
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,24 @@
+id: permen-2013-096
+judul: Peraturan Menteri Nomor 96 Tahun 2013 tentang Biaya Kuliah Tunggal Dan Uang
+  Kuliah Tunggal Bagi Mahasiswa Baru Pada Perguruan Tinggi Agama Negeri Di Lingkungan
+  Kementerian Agama Tahun Akademik 2013/2014
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

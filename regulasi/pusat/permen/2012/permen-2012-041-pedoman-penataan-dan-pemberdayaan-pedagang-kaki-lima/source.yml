@@ -1,0 +1,23 @@
+id: permen-2012-041
+judul: Peraturan Menteri Nomor 41 Tahun 2012 tentang Pedoman Penataan Dan Pemberdayaan
+  Pedagang Kaki Lima
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

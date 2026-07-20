@@ -1,0 +1,25 @@
+id: permenkominfo-2012-030
+judul: Peraturan Menteri Komunikasi dan Informatika Nomor 30 Tahun 2012 tentang Prosedur
+  Koordinasi Antara Penyelenggara Telekomunikasi Yang Menerapkan Personal Communication
+  System 1900 Dengan Penyelenggara Telekomunikasi Yang Menerapkan Universal Mobile
+  Telecommunication System
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

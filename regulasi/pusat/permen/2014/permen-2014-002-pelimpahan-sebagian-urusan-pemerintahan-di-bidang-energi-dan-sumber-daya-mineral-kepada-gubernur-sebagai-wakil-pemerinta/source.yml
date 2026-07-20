@@ -1,0 +1,24 @@
+id: permen-2014-002
+judul: Peraturan Menteri Nomor 02 Tahun 2014 tentang Pelimpahan Sebagian Urusan Pemerintahan
+  Di Bidang Energi Dan Sumber Daya Mineral Kepada Gubernur Sebagai Wakil Pemerintah
+  Dalam Rangka Penyelenggaraan Dekonsentrasi Tahun Anggaran 2014
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,72 @@
+id: permen-2017-061
+jenis: permen
+jenis_lengkap: Peraturan Menteri
+nomor: '61'
+nomor_lengkap: '61'
+tahun: 2017
+judul: 'Perubahan Keempat Atas Peraturan Menteri Perhubungan Nomor Pm 28 Tahun 2013
+  Tentang Peraturan Keselamatan Penerbangan Sipil Bagian 121 (Civil Aviation Safety
+  Regulation Part 121) Tentang Persyaratan–Persyaratan Sertifikasi Dan Operasi Bagi
+  Perusahaan Angkutan Udara Yang Melakukan Penerbangan Dalam Negeri, Internasional
+  Dan Angkutan Udara Niaga Tidak Berjadwal (Certification And Operating Requirements
+  : Domestic, Flag And Supplemental Air Carriers)'
+judul_lengkap: 'Peraturan Menteri Nomor 61 Tahun 2017 tentang Perubahan Keempat Atas
+  Peraturan Menteri Perhubungan Nomor Pm 28 Tahun 2013 Tentang Peraturan Keselamatan
+  Penerbangan Sipil Bagian 121 (Civil Aviation Safety Regulation Part 121) Tentang
+  Persyaratan–Persyaratan Sertifikasi Dan Operasi Bagi Perusahaan Angkutan Udara Yang
+  Melakukan Penerbangan Dalam Negeri, Internasional Dan Angkutan Udara Niaga Tidak
+  Berjadwal (Certification And Operating Requirements : Domestic, Flag And Supplemental
+  Air Carriers)'
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit: []
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/bn1097-2017.md.

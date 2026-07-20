@@ -1,0 +1,24 @@
+id: permen-2018-023
+judul: Peraturan Menteri Nomor 23 Tahun 2018 tentang Perubahan Atas Peraturan Menteri
+  Perdagangan Nomor 74/M- Dag/Per/12/2012 Tentang Alat-Alat Ukur, Takar, Timbang,
+  Dan Perlengkapannya Asal Impor
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

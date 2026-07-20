@@ -1,0 +1,183 @@
+---
+id: "permen-2014-141"
+jenis: "permen"
+nomor: "141"
+tahun: 2014
+judul: "Peraturan Menteri Nomor 141 Tahun 2014 tentang Penghentian Perjanjian Kerja Sama Guru Bantu"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 141 Tahun 2014 tentang Penghentian Perjanjian Kerja Sama Guru Bantu
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 141
+tahun: 2014
+tentang: Penghentian Perjanjian Kerja Sama Guru Bantu
+---
+
+<!-- PAGE: 1 -->
+
+No.1672, 2014             KEMENDIKBUD. Perjanjian Kerja Sama. Guru
+                          Bantu. Penghentian.
+
+
+       PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN
+                         REPUBLIK INDONESIA
+                        NOMOR 141 TAHUN 2014
+                                TENTANG
+       PENGHENTIAN PERJANJIAN KERJA SAMA GURU BANTU
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+   MENTERI PENDIDIKAN DAN KEBUDAYAAN REPUBLIK INDONESIA,
+
+Menimbang   :a.    bahwa pengangkatan Guru Bantu padatahun 2003 dan
+                   2004 berdasarkan Keputusan Menteri Pendidikan
+                   Nasional Nomor 034/U/2003 tentang Guru Bantu
+                   dimaksudkan untuk mengatasi kekurangan guru;
+                b. bahwa berdasarkan data surat perjanjian kerja sama
+                   guru bantu secara nasional, guru bantu yang diangkat
+                   pada satuan pendidikan tempat guru tersebut diangkat
+                   sebagian besar telah berpindah kesatuan pendidikan
+                   lain;
+                c. bahwa    berdasarkan     pertimbangan   sebagaimana
+                   dimaksud pada huruf a dan b perlu menetapkan
+                   Peraturan Menteri Pendidikan dan Kebudayaan tentang
+                   Penghentian Perjanjian Kerja Sama Guru Bantu;
+Mengingat   :1. Undang-Undang Nomor 20 Tahun 2003 tentang Sistem
+                Pendidikan Nasional (Lembaran Negara Republik
+                Indonesia Tahun 2003 Nomor 78, Tambahan Lembaran
+                Negara Republik Indonesia Nomor 4301);
+
+<!-- PAGE: 2 -->
+
+2014, No.1672                      2
+
+
+                2. Undang-Undang Nomor 32 Tahun 2004 tentang
+                   Pemerintahan Daerah (Lembaran Negara Republik
+                   Indonesia Tahun 2004 Nomor 125, Tambahan
+                   Lembaran Negara Republik Indonesia Nomor 4437),
+                   sebagaimana telah beberapa kali diubah terakhir
+                   dengan Undang-Undang Nomor 12 Tahun 2008
+                   (Lembaran Negara Republik Indonesia Tahun 2008
+                   Nomor 59, Tambahan Lembaran Negara Republik
+                   Indonesia Nomor 4844);
+                3. Undang-Undang Nomor 14 Tahun 2005 tentang Guru
+                   dan Dosen (Lembaran Negara Republik Indonesia
+                   Tahun 2005 Nomor 157, Tambahan Lembaran Negara
+                   Republik Indonesia Nomor 4586);
+                4. Undang-Undang Nomor 39 Tahun 2008 tentang
+                   Kementerian Negara (Lembaran Negara Republik
+                   Indonesia Tahun 2008 Nomor 166, Tambahan
+                   Lembaran Negara Republik Indonesia Nomor 4916);
+                5. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang
+                   Pembagian Urusan Pemerintahan antara Pemerintah,
+                   Pemerintah Daerah Provinsi, dan Pemerintah Daerah
+                   Kabupaten/Kota (Lembaran Negara Republik Indonesia
+                   Tahun 2007 Nomor 82, Tambahan Lembaran Negara
+                   Republik Indonesia Nomor 4737);
+                6. Peraturan Pemerintah Nomor 74 Tahun 2008 tentang
+                   Guru (Lembaran Negara Republik Indonesia Tahun
+                   2008 Nomor 194, Tambahan Lembaran Negara Republik
+                   Indonesia Nomor 4941);
+                7. Peraturan Pemerintah Nomor 17 Tahun 2010 tentang
+                   Pengelolaan   dan     Penyelenggaraan Pendidikan,
+                   (Lembaran Negara Republik Indonesia Tahun 2010
+                   Nomor 23, Tambahan Lembaran Negara Republik
+                   Indonesia Nomor 5105) sebagaimana telah diubah
+                   dengan Peraturan Pemerintah Nomor 66 Tahun 2010
+                   (Lembaran Negara Republik Indonesia Tahun 2010
+                   Nomor 112, Tambahan Lembaran Negara Republik
+                   Indonesia Nomor 5157);
+                8. Peraturan Presiden Nomor 47 Tahun 2009 tentang
+                   Pembentukan dan Organisasi Kementerian Negara,
+                   sebagaimana telah diubah dengan Peraturan Presiden
+                   Nomor 13 Tahun 2013;
+
+<!-- PAGE: 3 -->
+
+                                3                     2014, No.1672
+
+
+
+             9. Peraturan Presiden Nomor 24 Tahun 2010 tentang
+                Kedudukan, Tugas, dan Fungsi Kementerian Negara
+                serta Susunan Organisasi, Tugas dan Fungsi Eselon I
+                Kementerian Negara, sebagaimana telah diubah dengan
+                Peraturan Presiden Nomor 14 Tahun 2014;
+
+             10.Keputusan Presiden Nomor 84/P Tahun 2009 mengenai
+                Pembentukan     Kabinet   Indonesia   Bersatu   II,
+                sebagaimana telah diubah dengan Keputusan Presiden
+                Nomor 8/P Tahun 2014;
+
+                          MEMUTUSKAN:
+Menetapkan   : PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN
+               TENTANG PENGHENTIAN PERJANJIAN KERJA SAMA
+               GURU BANTU.
+
+                              Pasal1
+
+(1) Perjanjian kerja sama guru bantu secara nasional dihentikan dan
+    dinyatakan berakhir pada tanggal 31 Desember2015.
+
+(2) Dengan berakhirnya perjanjian kerja sama guru bantu secara
+    nasional sebagaimana dimaksud pada ayat (1), honorarium guru
+    bantu dihentikan.
+
+                              Pasal 2
+
+(1) Berdasarkan kewenangannya, pemerintah daerah atau masyarakat
+    penyelenggara pendidikan dapat mengoptimalkan peran guru bantu.
+
+(2) Berdasarkan analisis kebutuhan, optimalisasi peran guru bantu
+    sebagaimana dimaksud pada ayat (1) dapat berupa pengangkatan
+    guru bantu sebagai calon pegawai negeri sipil atau sebagai guru
+    tetap pada satuan pendidikan yang diselenggarakan oleh
+    masyarakat.
+
+(3) Pelaksanaan optimalisasi peran guru bantu sebagaimana dimaksud
+    pada ayat (2) dibebankan pada anggaran pendapatan dan belanja
+    daerah atau anggaran yayasan penyelenggara pendidikan.
+
+                              Pasal 3
+
+Keputusan Menteri Pendidikan Nasional Nomor 034/U/2003 tentang Guru
+Bantu, dicabut dan dinyatakan tidak berlaku mulai 1 Januari 2016.
+
+<!-- PAGE: 4 -->
+
+2014, No.1672                      4
+
+
+                                Pasal 4
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan
+Peraturan Menteri ini dengan penempatannya dalam Berita Negara
+Republik Indonesia.
+                         Ditetapkan di Jakarta
+                         pada tanggal 14 Oktober 2014
+                         MENTERI PENDIDIKAN DAN KEBUDAYAAN
+                         REPUBLIK INDONESIA,
+
+
+                         MOHAMMAD NUH
+Diundangkan di Jakarta
+pada tanggal 17 Oktober 2014
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+AMIR SYAMSUDIN

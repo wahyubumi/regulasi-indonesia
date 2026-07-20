@@ -1,0 +1,25 @@
+id: permen-2009-044
+judul: Peraturan Menteri Nomor 44 Tahun 2009 tentang Perubahan Atas Peraturan Menteri
+  Dalam Negeri Nomor 44 Tahun 2009 Tentang Pedoman Kerja Sama Departemen Dalam Negeri
+  Dan Pemerintah Daerah Dengan Organisasi Kemasyarakatan Dan Lembaga Nirlaba Lainnya
+  Dalam Bidang Kesatuan Bangsa Dan Politik Dalam Negeri
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

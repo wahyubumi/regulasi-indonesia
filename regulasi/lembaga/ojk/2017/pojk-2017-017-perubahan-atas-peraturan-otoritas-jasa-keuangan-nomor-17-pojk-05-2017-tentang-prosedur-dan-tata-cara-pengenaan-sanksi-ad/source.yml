@@ -1,0 +1,26 @@
+id: pojk-2017-017
+judul: Peraturan Otoritas Jasa Keuangan Nomor 17/Pojk.05/2017 tentang Perubahan Atas
+  Peraturan Otoritas Jasa Keuangan Nomor 17/Pojk.05/2017 Tentang Prosedur Dan Tata
+  Cara Pengenaan Sanksi Administratif Di Bidang Perasuransian Dan Pemblokiran Kekayaan
+  Perusahaan Asuransi, Perusahaan Asuransi Syariah, Perusahaan Reasuransi, Dan Perusahaan
+  Reasuransi Syariah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

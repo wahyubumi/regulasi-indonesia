@@ -1,0 +1,34 @@
+id: permenpanrb-2012-080
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  80 Tahun 2012 tentang PETUNJUK PELAKSANAAN TATA NASKAH DINAS DI LINGKUNGAN KEMENTERIAN
+  SOSIAL BAB I PENDAHULUAN A. Latar Belakang Ketatalaksanaan Pemerintah merupakan
+  pengaturan tentang cara melaksanakan tugas dan fungsi dalam berbagai bidang kegiatan
+  pemerintahan dan pembangunan di lingkungan instansi pemerintah. Salah satu komponen
+  penting dalam ketatalaksanaan pemerintah adalah administrasi umum. Ruang lingkup
+  administrasi umum meliputi tata naskah dinas, penamaan lembaga, singkatan dan akronim,
+  kearsipan, serta tata ruang perkantoran. Tata naskah dinas sebagai salah satu unsur
+  administrasi umum meliputi antara lain pengaturan tentang jenis dan penyusunan naskah
+  dinas, penggunaan lambang negara, logo dan cap dinas, penggunaan bahasa Indonesia
+  yang baik dan benar, pengurusan naskah dinas, korespondensi, kewenangan, perubahan,
+  pencabutan, pembatalan produk hukum, dan ralat. Ketentuan tentang tata naskah dinas
+  yang berlaku untuk seluruh instansi pemerintah telah diatur dalam Peraturan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.depsos.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

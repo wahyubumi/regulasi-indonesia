@@ -1,0 +1,77 @@
+id: permen-2014-121
+jenis: permen
+jenis_lengkap: Peraturan Menteri
+nomor: '121'
+nomor_lengkap: '121'
+tahun: 2014
+judul: Rincian Tugas Lembaga Penjaminan Mutu Pendidikan Provinsi Aceh, Provinsi Sumatera
+  Utara, Provinsi Riau, Provinsi Jambi, Provinsi Sumatera Selatan, Provinsi Kepulauan
+  Bangka Belitung, Provinsi Bengkulu, Provinsi Lampung, Provinsi Banten, Provinsi
+  Dki Jakarta, Provinsi Jawa Barat, Provinsi D.I. Yogyakarta, Provinsi Jawa Timur,
+  Provinsi Bali, Provinsi Nusa Tenggara Barat, Provinsi Nusa Tenggara Timur, Provinsi
+  Kalimantan Barat, Provinsi Kalimantan Timur, Provinsi Kalimantan Selatan, Provinsi
+  Kalimantan Tengah, Provinsi Sulawesi Utara, Provinsi Sulawesi Tenggara, Provinsi
+  Sulawesi Tengah, Provinsi Gorontalo, Provinsi Maluku, Provinsi Maluku Utara, Dan
+  Provinsi Papua
+judul_lengkap: Peraturan Menteri Nomor 121 Tahun 2014 tentang Rincian Tugas Lembaga
+  Penjaminan Mutu Pendidikan Provinsi Aceh, Provinsi Sumatera Utara, Provinsi Riau,
+  Provinsi Jambi, Provinsi Sumatera Selatan, Provinsi Kepulauan Bangka Belitung, Provinsi
+  Bengkulu, Provinsi Lampung, Provinsi Banten, Provinsi Dki Jakarta, Provinsi Jawa
+  Barat, Provinsi D.I. Yogyakarta, Provinsi Jawa Timur, Provinsi Bali, Provinsi Nusa
+  Tenggara Barat, Provinsi Nusa Tenggara Timur, Provinsi Kalimantan Barat, Provinsi
+  Kalimantan Timur, Provinsi Kalimantan Selatan, Provinsi Kalimantan Tengah, Provinsi
+  Sulawesi Utara, Provinsi Sulawesi Tenggara, Provinsi Sulawesi Tengah, Provinsi Gorontalo,
+  Provinsi Maluku, Provinsi Maluku Utara, Dan Provinsi Papua
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit: []
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/bn1652-2014.md.

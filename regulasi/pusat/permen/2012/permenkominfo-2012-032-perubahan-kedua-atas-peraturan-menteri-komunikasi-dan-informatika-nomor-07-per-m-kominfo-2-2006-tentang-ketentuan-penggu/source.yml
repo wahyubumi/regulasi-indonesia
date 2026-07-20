@@ -1,0 +1,25 @@
+id: permenkominfo-2012-032
+judul: Peraturan Menteri Komunikasi dan Informatika Nomor 32 Tahun 2012 tentang PERUBAHAN
+  KEDUA ATAS PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA NOMOR 07/PER/M.KOMINFO/2/2006
+  TENTANG KETENTUAN PENGGUNAAN PITA FREKUENSI RADIO 2.1 GHz UNTUK PENYELENGGARAAN
+  JARINGAN BERGERAK SELULER
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

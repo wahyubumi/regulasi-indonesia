@@ -1,0 +1,63 @@
+id: permen-2015-030
+jenis: permen
+jenis_lengkap: Peraturan Menteri
+nomor: '30'
+nomor_lengkap: '30'
+tahun: 2015
+judul: Tata Cara Pembentukan Peraturan Menteri Di Lingkungan Kementerian Hukum Dan
+  Hak Asasi Manusia
+judul_lengkap: Peraturan Menteri Nomor 30 Tahun 2015 tentang Tata Cara Pembentukan
+  Peraturan Menteri Di Lingkungan Kementerian Hukum Dan Hak Asasi Manusia
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit: []
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/bn1474-2015.md.

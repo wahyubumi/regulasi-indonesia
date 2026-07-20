@@ -1,0 +1,24 @@
+id: permenpanrb-2019-005
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  5 Tahun 2019 tentang Kompetisi Inovasi Pelayanan Publik Di Lingkungan Kementerian/Lembaga,
+  Pemerintah Daerah, Badan Usaha Milik Negara, Dan Badan Usaha Milik Daerah
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://sinovik.menpan.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

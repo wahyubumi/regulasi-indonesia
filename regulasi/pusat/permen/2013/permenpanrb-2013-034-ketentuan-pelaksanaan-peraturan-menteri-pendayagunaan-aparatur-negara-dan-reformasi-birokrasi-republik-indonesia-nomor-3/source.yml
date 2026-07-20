@@ -1,0 +1,25 @@
+id: permenpanrb-2013-034
+judul: Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  34 Tahun 2013 tentang Ketentuan Pelaksanaan Peraturan Menteri Pendayagunaan Aparatur
+  Negara Dan Reformasi Birokrasi Republik Indonesia Nomor 34 Tahun 2013 Tentang Jabatan
+  Fungsional Pemeriksa Merek Dan Angka Kreditnya
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

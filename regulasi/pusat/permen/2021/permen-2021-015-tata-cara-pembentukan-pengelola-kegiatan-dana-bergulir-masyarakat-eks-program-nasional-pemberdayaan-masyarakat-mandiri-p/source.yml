@@ -1,0 +1,24 @@
+id: permen-2021-015
+judul: Peraturan Menteri Nomor 15 Tahun 2021 tentang Tata Cara Pembentukan Pengelola
+  Kegiatan Dana Bergulir Masyarakat Eks Program Nasional Pemberdayaan Masyarakat Mandiri
+  Perdesaan Menjadi Badan Usaha Milik Desa Bersama
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

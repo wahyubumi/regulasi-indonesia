@@ -1,0 +1,24 @@
+id: permen-2017-082
+judul: Peraturan Menteri Nomor 82 Tahun 2017 tentang Perubahan Atas Peraturan Menteri
+  Perdagangan Nomor 82 Tahun 2017 Tentang Ketentuan Penggunaan Angkutan Laut Dan Asuransi
+  Nasional Untuk Ekspor Dan Impor Barang Tertentu
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

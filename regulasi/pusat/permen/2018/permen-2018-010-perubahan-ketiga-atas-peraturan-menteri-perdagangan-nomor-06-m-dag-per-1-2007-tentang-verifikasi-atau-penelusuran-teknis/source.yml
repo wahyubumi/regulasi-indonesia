@@ -1,0 +1,24 @@
+id: permen-2018-010
+judul: Peraturan Menteri Nomor 10 Tahun 2018 tentang Perubahan Ketiga Atas Peraturan
+  Menteri Perdagangan Nomor 06/M-Dag/Per/1/2007 Tentang Verifikasi Atau Penelusuran
+  Teknis Impor Keramik
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://inatrade.kemendag.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

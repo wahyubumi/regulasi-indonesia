@@ -1,0 +1,23 @@
+id: pojk-2024-030
+judul: Peraturan Otoritas Jasa Keuangan Nomor 30 Tahun 2024 tentang Konglomerasi Keuangan
+  Dan Perusahaan Induk Konglomerasi Keuangan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://sipenaojk.ojk.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

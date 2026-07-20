@@ -1,0 +1,23 @@
+id: pojk-2023-017
+judul: Peraturan Otoritas Jasa Keuangan Nomor 17 Tahun 2023 tentang Penerapan Tata
+  Kelola Bagi Bank Umum
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://sipenaojk.ojk.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

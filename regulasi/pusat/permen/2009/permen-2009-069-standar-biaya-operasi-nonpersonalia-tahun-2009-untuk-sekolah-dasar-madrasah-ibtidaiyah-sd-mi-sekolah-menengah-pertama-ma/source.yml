@@ -1,0 +1,26 @@
+id: permen-2009-069
+judul: Peraturan Menteri Nomor 69 Tahun 2009 tentang STANDAR BIAYA OPERASI NONPERSONALIA
+  TAHUN 2009 UNTUK SEKOLAH DASAR/MADRASAH IBTIDAIYAH (SD/MI), SEKOLAH MENENGAH PERTAMA/MADRASAH
+  TSANAWIYAH (SMP/MTs), SEKOLAH MENENGAH ATAS/MADRASAH ALIYAH (SMA/MA), SEKOLAH MENENGAH
+  KEJURUAN (SMK), SEKOLAH DASAR LUAR BIASA (SDLB), SEKOLAH MENENGAH PERTAMA LUAR BIASA
+  (SMPLB), DAN SEKOLAH MENENGAH ATAS LUAR BIASA (SMALB)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

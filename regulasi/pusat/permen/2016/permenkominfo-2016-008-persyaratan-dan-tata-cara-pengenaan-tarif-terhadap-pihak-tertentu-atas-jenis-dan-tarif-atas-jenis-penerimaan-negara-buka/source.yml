@@ -1,0 +1,25 @@
+id: permenkominfo-2016-008
+judul: Peraturan Menteri Komunikasi dan Informatika Nomor 8 Tahun 2016 tentang Persyaratan
+  Dan Tata Cara Pengenaan Tarif Terhadap Pihak Tertentu Atas Jenis Dan Tarif Atas
+  Jenis Penerimaan Negara Bukan Pajak Pada Balai Pelatihan Dan Pengembangan Teknologi
+  Informasi Dan Komunikasi Cikarang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

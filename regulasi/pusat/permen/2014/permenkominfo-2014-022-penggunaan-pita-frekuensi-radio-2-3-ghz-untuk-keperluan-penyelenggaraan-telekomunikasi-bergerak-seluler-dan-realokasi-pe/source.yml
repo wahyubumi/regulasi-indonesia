@@ -1,0 +1,25 @@
+id: permenkominfo-2014-022
+judul: Peraturan Menteri Komunikasi dan Informatika Nomor 22 Tahun 2014 tentang PENGGUNAAN
+  PITA FREKUENSI RADIO 2.3 GHz UNTUK KEPERLUAN PENYELENGGARAAN TELEKOMUNIKASI BERGERAK
+  SELULER DAN REALOKASI PENGGUNA PITA FREKUENSI RADIO 1.9 GHz YANG MENERAPKAN PERSONAL
+  COMMUNICATION SYSTEM 1900 KE PITA FREKUENSI RADIO 2.3 GHz
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,23 @@
+id: permen-2010-005
+judul: Peraturan Menteri Nomor 05 Tahun 2010 tentang Pelaksanaan Pengadaan Barang/Jasa
+  Secara Elektronik (E- Procurement) Di Lingkungan Kementerian Perumahan Rakyat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://lelang.kemenpera.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

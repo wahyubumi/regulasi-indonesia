@@ -1,0 +1,23 @@
+id: pojk-2017-065
+judul: Peraturan Otoritas Jasa Keuangan Nomor 65/POJK.04/2017 tentang Pedoman Penerbitan
+  Dan Pelaporan Efek Beragun Aset Berbentuk Kontrak Investasi Kolektif
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://aria.ojk.go.id/
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

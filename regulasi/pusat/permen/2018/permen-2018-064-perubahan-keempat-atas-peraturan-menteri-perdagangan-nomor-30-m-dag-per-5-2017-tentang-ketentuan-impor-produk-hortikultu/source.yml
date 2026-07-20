@@ -1,0 +1,23 @@
+id: permen-2018-064
+judul: Peraturan Menteri Nomor 64 Tahun 2018 tentang Perubahan Keempat Atas Peraturan
+  Menteri Perdagangan Nomor 30/M-Dag/Per/5/2017 Tentang Ketentuan Impor Produk Hortikultura
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

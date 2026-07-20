@@ -1,0 +1,30 @@
+id: permen-2014-121
+judul: Peraturan Menteri Nomor 121 Tahun 2014 tentang Rincian Tugas Lembaga Penjaminan
+  Mutu Pendidikan Provinsi Aceh, Provinsi Sumatera Utara, Provinsi Riau, Provinsi
+  Jambi, Provinsi Sumatera Selatan, Provinsi Kepulauan Bangka Belitung, Provinsi Bengkulu,
+  Provinsi Lampung, Provinsi Banten, Provinsi Dki Jakarta, Provinsi Jawa Barat, Provinsi
+  D.I. Yogyakarta, Provinsi Jawa Timur, Provinsi Bali, Provinsi Nusa Tenggara Barat,
+  Provinsi Nusa Tenggara Timur, Provinsi Kalimantan Barat, Provinsi Kalimantan Timur,
+  Provinsi Kalimantan Selatan, Provinsi Kalimantan Tengah, Provinsi Sulawesi Utara,
+  Provinsi Sulawesi Tenggara, Provinsi Sulawesi Tengah, Provinsi Gorontalo, Provinsi
+  Maluku, Provinsi Maluku Utara, Dan Provinsi Papua
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

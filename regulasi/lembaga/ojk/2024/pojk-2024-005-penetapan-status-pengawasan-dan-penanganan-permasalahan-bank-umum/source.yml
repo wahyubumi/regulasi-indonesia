@@ -1,0 +1,23 @@
+id: pojk-2024-005
+judul: Peraturan Otoritas Jasa Keuangan Nomor 5 Tahun 2024 tentang Penetapan Status
+  Pengawasan Dan Penanganan Permasalahan Bank Umum
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: https://sipenaojk.ojk.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,23 @@
+id: permen-2013-099
+judul: Peraturan Menteri Nomor 99 Tahun 2013 tentang Tata Kelola Teknologi Informasi
+  Dan Komunikasi Di Lingkungan Kementerian Pendidikan Dan Kebudayaan
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

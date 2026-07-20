@@ -1,0 +1,24 @@
+id: pojk-2016-013
+judul: Peraturan Otoritas Jasa Keuangan Nomor 13/POJK.05/2016 tentang Tata Cara Permohonan
+  Pengesahan Pembentukan Dana Pensiun Pemberi Kerja Dan Pengesahan Atas Perubahan
+  Peraturan Dana Pensiun Dari Dana Pensiun Pemberi Kerja
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

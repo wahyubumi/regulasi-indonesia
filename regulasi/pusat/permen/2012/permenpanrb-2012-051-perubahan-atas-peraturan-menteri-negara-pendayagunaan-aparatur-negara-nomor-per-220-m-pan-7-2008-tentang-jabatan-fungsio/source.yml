@@ -1,0 +1,25 @@
+id: permenpanrb-2012-051
+judul: 'Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor
+  51 Tahun 2012 tentang Perubahan Atas Peraturan Menteri Negara Pendayagunaan Aparatur
+  Negara Nomor: Per/220/M.Pan/7/2008 Tentang Jabatan Fungsional Auditor Dan Angka
+  Kreditnya'
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

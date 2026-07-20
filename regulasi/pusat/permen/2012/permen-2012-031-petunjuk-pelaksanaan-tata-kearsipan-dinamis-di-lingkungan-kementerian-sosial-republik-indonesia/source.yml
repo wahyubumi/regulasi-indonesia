@@ -1,0 +1,23 @@
+id: permen-2012-031
+judul: Peraturan Menteri Nomor 31 Tahun 2012 tentang Petunjuk Pelaksanaan Tata Kearsipan
+  Dinamis Di Lingkungan Kementerian Sosial Republik Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://www.depsos.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

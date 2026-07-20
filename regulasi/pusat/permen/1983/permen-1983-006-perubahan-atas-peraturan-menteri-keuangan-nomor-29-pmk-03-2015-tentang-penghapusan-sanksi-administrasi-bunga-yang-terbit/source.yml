@@ -1,0 +1,26 @@
+id: permen-1983-006
+judul: Peraturan Menteri Nomor 6 Tahun 1983 tentang Perubahan Atas Peraturan Menteri
+  Keuangan Nomor 29/Pmk.03/2015 Tentang Penghapusan Sanksi Administrasi Bunga Yang
+  Terbit Berdasarkan Pasal 19 Ayat (1) Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan
+  Umum Dan Tata Cara Perpajakan Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan
+  Undang-Undang Nomor 16 Tahun 2009
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,673 @@
+---
+id: "permen-2012-068"
+jenis: "permen"
+nomor: "68"
+tahun: 2012
+judul: "Peraturan Menteri Nomor 68 Tahun 2012 tentang Tata Cara Pelaporan Penyelenggaraan Administrasi Kependudukan"
+status: "perlu_verifikasi"
+sumber: "belum_diisi"
+---
+
+# Peraturan Menteri Nomor 68 Tahun 2012 tentang Tata Cara Pelaporan Penyelenggaraan Administrasi Kependudukan
+
+## Catatan Konversi
+
+Dokumen ini diimpor dari file Markdown staging. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+---
+bentuk_singkat: permen
+nomor: 68
+tahun: 2012
+tentang: Tata Cara Pelaporan Penyelenggaraan Administrasi Kependudukan
+---
+
+<!-- PAGE: 1 -->
+
+          BERITA NEGARA
+        REPUBLIK INDONESIA
+No.1028, 2012           KEMENTERIAN DALAM NEGERI. Pelaporan.
+                        Administrasi Kependudukan. Tata Cara.
+
+
+     PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA
+                   NOMOR 68 TAHUN 2012
+                         TENTANG
+                   TATA CARA PELAPORAN
+        PENYELENGGARAAN ADMINISTRASI KEPENDUDUKAN
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+            MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+
+
+Menimbang    : bahwa untuk melaksanakan ketentuan Pasal 84
+               Peraturan Pemerintah Nomor 37 Tahun 2007 tentang
+               Pelaksanaan Undang-Undang Nomor 23 Tahun 2006
+               tentang Administrasi Kependudukan, perlu menetapkan
+               Peraturan Menteri Dalam Negeri Republik Indonesia
+               tentang   Tata   Cara    Pelaporan  Penyelenggaraan
+               Administrasi Kependudukan;
+
+Mengingat    : 1. Undang-Undang Nomor 32 Tahun 2004 tentang
+                  Pemerintahan Daerah (Lembaran Negara Republik
+                  Indonesia Tahun 2004 Nomor 125, Tambahan
+                  Lembaran Negara Republik Indonesia Nomor 4437)
+                  sebagaimana telah diubah beberapa kali, terakhir
+                  dengan Undang-Undang Nomor 12 Tahun 2008
+                  tentang Perubahan Kedua Atas Undang-Undang
+                  Nomor 32 Tahun 2004 tentang Pemerintahan Daerah
+                  (Lembaran Negara Republik Indonesia Tahun 2008
+                  Nomor 59, Tambahan Lembaran Negara Republik
+                  Indonesia Nomor 4844);
+
+
+
+
+                                                  www.djpp.depkumham.go.id
+
+<!-- PAGE: 2 -->
+
+2012, No.1028                     2
+
+
+
+                2. Undang-Undang Nomor 23 Tahun 2006 tentang
+                   Administrasi Kependudukan (Lembaran Negara
+                   Republik Indonesia Tahun 2006 Nomor 124,
+                   Tambahan Lembaran Negara Republik Indonesia
+                   Nomor 4674);
+                3. Undang-Undang Nomor 39 Tahun 2008 tentang
+                   Kementerian Negara (Lembaran Negara Republik
+                   Indonesia Tahun 2008 Nomor 166, Tambahan
+                   Lembaran Negara Republik Indonesia Nomor 4916);
+                4. Undang-Undang Nomor 52 Tahun 2009 tentang
+                   Perkembangan Kependudukan dan Pembangunan
+                   Keluarga (Lembaran Negara Republik Indonesia
+                   Tahun 2009 Nomor 161, Tambahan Lembaran
+                   Negara Republik Indonesia Nomor 5080);
+                5. Peraturan Pemerintah Nomor 37 Tahun 2007 tentang
+                   Pelaksanaan Undang-Undang Nomor 23 Tahun 2006
+                   tentang Administrasi Kependudukan (Lembaran
+                   Negara Republik Indonesia Tahun 2007 Nomor 80,
+                   Tambahan Lembaran Negara Republik Indonesia
+                   Nomor 4736);
+                6. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang
+                   Pembagian     Urusan     Pemerintahan     Antara
+                   Pemerintah, Pemerintahan Daerah Provinsi, dan
+                   Pemerintahan Daerah Kabupaten/Kota (Lembaran
+                   Negara Republik Indonesia Tahun 2007 Nomor 82,
+                   Tambahan Lembaran Negara Republik Indonesia
+                   Nomor 4737);
+                7. Peraturan Presiden Nomor 25 Tahun 2008 tentang
+                   Persyaratan dan Tata Cara Pendaftaran Penduduk
+                   dan Pencatatan Sipil;
+                8. Peraturan Menteri Dalam Negeri Nomor 11 Tahun
+                   2010 tentang Pedoman Pendataan dan Penerbitan
+                   Dokumen Kependudukan Bagi penduduk Rentan
+                   Administrasi Kependudukan;
+                9. Peraturan Menteri Dalam Negeri Nomor 18 Tahun
+                   2010    tentang    Pedoman     Pengangkatan    dan
+                   Pemberhentian     Serta   Tugas     Pokok  Pejabat
+                   Pencatatan Sipil dan Petugas Registrasi;
+                10. Peraturan Menteri Dalam Negeri Nomor 19 Tahun
+                    2010 tentang Formulir dan Buku Yang Digunakan
+                    Dalam Pendaftaran Penduduk dan Pencatatan Sipil;
+
+
+
+                                                    www.djpp.depkumham.go.id
+
+<!-- PAGE: 3 -->
+
+                                   3                     2012, No.1028
+
+
+
+                11. Peraturan Menteri Dalam Negeri Nomor 41 Tahun
+                    2010 tentang Organisasi dan Tata Kerja Kementerian
+                    Dalam Negeri (Berita Negara Republik Indonesia
+                    Tahun 2010 Nomor 317), sebagaimana telah diubah
+                    dengan Peraturan Menteri Dalam Negeri Nomor 14
+                    Tahun 2011 tentang Perubahan Atas Peraturan
+                    Menteri Dalam Negeri Nomor 41 Tahun 2010 tentang
+                    Organisasi dan Tata Kerja Kementerian Dalam Negeri
+                    (Berita Negara Republik Indonesia Tahun 2011
+                    Nomor 168);
+                12. Peraturan Bersama Menteri Dalam Negeri dan
+                    Menteri Kesehatan Nomor 162/MENKES/PB/I/2010
+                    Tahun 2010 tentang Pelaporan Kematian dan
+                    Penyebab Kematian;
+                13. Peraturan Menteri Dalam Negeri Nomor 25 Tahun
+                    2011 tentang Pedoman Pengkajian, Pengembangan
+                    dan Pengelolaan Sistem Informasi Administrasi
+                    Kependudukan;
+
+                           MEMUTUSKAN:
+
+Menetapkan : PERATURAN MENTERI DALAM NEGERI TENTANG TATA
+             CARA PELAPORAN PENYELENGGARAAN ADMINISTRASI
+             KEPENDUDUKAN.
+
+                                 BAB I
+                          KETENTUAN UMUM
+                                Pasal 1
+Dalam Peraturan Menteri ini, yang dimaksud dengan:
+1. Administrasi Kependudukan adalah rangkaian kegiatan penataan dan
+   penertiban dalam penerbitan dokumen dan data kependudukan
+   melalui pendaftaran penduduk, pencatatan sipil, pengelolaan informasi
+   Administrasi Kependudukan serta pendayagunaan hasilnya untuk
+   pelayanan publik dan pembangunan sektor lain.
+2. Pelaporan adalah proses penyusunan dan mekanisme penyampaian
+   laporan penyelenggaraan Administrasi Kependudukan.
+3. Laporan adalah himpunan data dan informasi hasil penyelenggaraan
+   administrasi kependudukan agregat hasil pendaftaran penduduk,
+   pencatatan sipil, pengelolaan informasi Administrasi Kependudukan di
+   kabupaten/kota yang disusun berdasarkan jenis, format, dan waktu.
+4. Pendaftaran Penduduk adalah pencatatan biodata penduduk,
+   pencatatan atas pelaporan peristiwa kependudukan dan pendataan
+
+
+                                                     www.djpp.depkumham.go.id
+
+<!-- PAGE: 4 -->
+
+2012, No.1028                      4
+
+
+
+   penduduk rentan administrasi kependudukan serta penerbitan
+   Dokumen Kependudukan berupa Kartu Identitas atau Surat
+   Keterangan Kependudukan.
+5. Pencatatan Sipil adalah pencatatan Peristiwa Penting yang dialami oleh
+   seseorang dalam Register Pencatatan Sipil pada Instansi Pelaksana.
+6. Data kependudukan adalah Data perseorangan dan/atau data agregat
+   yang terstruktur sebagai hasil dari kegiatan Pendaftaran Penduduk dan
+   Pencatatan Sipil.
+7. Pendayagunaan Data Kependudukan adalah pemanfaatan hasil
+   pelayanan pendaftaran penduduk dan pencatatan sipil melalui sistem
+   informasi administrasi kependudukan.
+8. Dokumen Kependudukan adalah dokumen resmi yang diterbitkan oleh
+   Dinas Kependudukan dan Pencatatan Sipil kabupaten/kota yang
+   mempunyai kekuatan hukum sebagai alat bukti autentik yang
+   dihasilkan dari pelayanan Pendaftaran Penduduk dan Pencatatan Sipil.
+9. Penyelenggara Administrasi Kependudukan adalah Pemerintah,
+   pemerintah   provinsi dan  pemerintah  kabupaten/kota yang
+   bertanggung jawab dan berwenang dalam urusan Administrasi
+   Kependudukan.
+10. Penduduk rentan administrasi kependudukan adalah Penduduk yang
+    mengalami hambatan dalam memperoleh dokumen kependudukan
+    yang disebabkan oleh bencana alam dan korban bencana social.
+                                 Pasal 2
+(1) Bupati/Walikota    melaporkan    penyelenggaraan        Administrasi
+    kependudukan di kabupaten/kota kepada Gubernur.
+(2) Gubernur melaporkan penyelenggaraan Administrasi kependudukan di
+    provinsi kepada Menteri.
+                                 Pasal 3
+Tujuan pelaporan penyelenggaraan administrasi kependudukan, meliputi:
+a. Memberikan acuan bagi pemerintah daerah dalam penyelenggaraan
+   pelaporan dibidang administrasi kependudukan;
+b. Meningkatkan pelaksanaan tertib administrasi kependudukan; dan
+c. Memberikan gambaran persoalan dan              penyelesaiannya   atas
+   pelaksanaan administrasi kependudukan.
+
+
+
+
+                                                      www.djpp.depkumham.go.id
+
+<!-- PAGE: 5 -->
+
+                                   5                       2012, No.1028
+
+
+
+                                 BAB II
+                       SASARAN DAN RUANG LINGKUP
+                                 Pasal 4
+Sasaran pelaporan penyelenggaraan administrasi kependudukan meliputi:
+a. terwujudnya pelaporan penyelenggaraan administrasi kependudukan
+   yang berkesinambungan;
+b. terlaksananya evaluasi pelaksanaan kebijakan di bidang administrasi
+   kependudukan;
+c. terwujudnya keseragaman tata        cara   pelaporan   penyelenggaraan
+   administrasi kependudukan; dan
+d. terwujudnya bahan kebijakan pemerintah dengan pemerintah daerah.
+                                 Pasal 5
+Ruang lingkup pelaporan penyelenggaraan administrasi kependudukan
+meliputi:
+a. jenis substansi yang dilaporkan; dan
+b. mekanisme pelaporan.
+                                 BAB III
+                 JENIS SUBSTANSI YANG DILAPORKAN
+                                 Pasal 6
+Jenis substansi pelaporan sebagaimana dimaksud dalam Pasal 5 huruf a,
+meliputi:
+a. Pendaftaran Penduduk;
+b. Pencatatan Sipil;
+c. Pengelolaan Informasi Administrasi Kependudukan;dan
+d. Pendayagunaan Data Kependudukan.
+                                 Pasal 7
+Pelaporan pendaftaran penduduk sebagaimana dimaksud dalam Pasal 6
+huruf a, meliputi:
+a. jumlah penduduk;
+b. jumlah penduduk wajib Kartu Tanda Penduduk;
+c. jumlah kepemilikan Kartu Tanda Penduduk;
+d. jumlah penduduk yang pindah datang antarkabupaten/kota dan
+   antarprovinsi untuk menetap dalam wilayah Negara Kesatuan Republik
+   Indonesia;
+
+
+
+
+                                                      www.djpp.depkumham.go.id
+
+<!-- PAGE: 6 -->
+
+2012, No.1028                     6
+
+
+
+e. jumlah penduduk yang pindah ke luar negeri untuk menetap dan
+   belum memiliki Surat Keterangan Pindah Ke Luar Negeri;
+f.   jumlah penduduk yang datang dari luar negeri untuk menetap dan
+     belum memiliki Surat Keterangan Datang Dari Luar Negeri;
+g. jumlah penduduk orang asing pemegang Kartu Ijin Tinggal Terbatas
+   atau Kartu Ijin Tinggal Tetap;
+h. jumlah penduduk orang asing pemegang Kartu Ijin Tinggal Terbatas /
+   Kartu Ijin Tinggal Tetap yang telah memiliki Dokumen Kependudukan;
+i.   jumlah penduduk orang terlantar      yang   telah   memiliki   Surat
+     Keterangan Orang Terlantar;
+j.   jumlah penduduk pemegang Surat Keterangan Orang Terlantar yang
+     telah mendapatkan dokumen kependudukan;
+k. jumlah penduduk komunitas terpencil yang telah memiliki Surat
+   Keterangan Tanda Komunitas;
+l.   jumlah penduduk pemegang Surat Keterangan Tanda Komunitas yang
+     telah mendapatkan dokumen kependudukan;dan
+m. jumlah penduduk pemegang buku pas lintas batas di perbatasan
+   antarnegara.
+                                Pasal 8
+Pelaporan pencatatan sipil sebagaimana dimaksud dalam Pasal 6 huruf b,
+meliputi:
+a. jumlah kelahiran, lahir mati, perkawinan, pembatalan perkawinan,
+   perceraian, pembatalan perceraian, kematian, pengangkatan anak,
+   pengakuan anak, pengesahan anak, perubahan nama, perubahan
+   status pewarganegaraan, pencatatan peristiwa penting lainnya;
+b. jumlah kepemilikan akta kelahiran, perkawinan Islam dan non Islam,
+   perceraian Islam dan non Islam, kematian, dan pengakuan anak;
+c. jumlah pencatatan peristiwa pengangkatan anak, pengesahan anak,
+   perubahan nama, perubahan status pewarganegaraan, pencatatan
+   peristiwa penting lainnya; dan
+d. jumlah data perkawinan campuran dan anak berkewarganegaraan
+   ganda terbatas.
+                                Pasal 9
+Pelaporan   Pengelolaan   Informasi    Administrasi       Kependudukan
+sebagaimana dimaksud dalam Pasal 6 huruf c, meliputi:
+a. database;
+b. perangkat lunak;
+
+
+
+                                                     www.djpp.depkumham.go.id
+
+<!-- PAGE: 7 -->
+
+                                    7                      2012, No.1028
+
+
+
+c. perangkat keras;
+d. jaringan komunikasi data;
+e. perangkat pendukung;
+f.   jumlah  petugas    pengelola   Sistem    Informasi       Administrasi
+     Kependudukan di tempat-tempat pelayanan;
+g. nama pemegang Hak akses untuk              Penyelenggara   dan   Dinas
+   Kependudukan dan Pencatatan Sipil;
+h. nama pemegang Hak akses untuk pengguna data; dan
+i.   pengelolaan   dokumentasi       sistem    informasi      administrasi
+     kependudukan.
+                                 Pasal 10
+Pelaporan Pendayagunaan Data Kependudukan sebagaimana dimaksud
+dalam Pasal 6 huruf d, meliputi hasil:
+a. penyusunan indikator kependudukan;
+b. penyusunan proyeksi penduduk;
+c. penyusunan analisis dampak kependudukan;
+d. penyusunan tipologi kependudukan;
+e. penyusunan profil perkembangan kependudukan;
+f.   pelaksanaan penyerasian kebijakan kependudukan;
+g. pengembangan kebijakan kependudukan; dan
+h. penyusunan perencanaan kependudukan.
+                                 Pasal 11
+Dalam hal pelaporan pendaftaran penduduk dan pencatatan sipil
+sebagaimana dimaksud dalam Pasal 7 dan Pasal 8 data faktualnya
+berbeda dengan data pada Sistem Informasi Administrasi kependudukan,
+harus disertai analisa sebab akibat terjadinya perbedaan.
+                                 BAB IV
+                        MEKANISME PELAPORAN
+                            Bagian Pertama
+                               Tata Cara
+                                 Pasal 12
+(1) Kepala Dinas Kependudukan dan Pencatatan Sipil kabupaten/kota
+    menyusun pelaporan administrasi kependudukan sesuai jenis dan
+    substansi sebagaimana dimaksud dalam Pasal 6.
+
+
+
+
+                                                       www.djpp.depkumham.go.id
+
+<!-- PAGE: 8 -->
+
+2012, No.1028                     8
+
+
+
+(2) Bupati/walikota menandatangani pelaporan sebagaimana dimaksud
+    pada ayat (1) untuk disampaikan kepada Gubernur dengan tembusan
+    Kepala Satuan Kerja Perangkat Daerah Provinsi yang menangani
+    urusan kependudukan dan pencatatan sipil.
+                                Pasal 13
+(1) Kepala Dinas Kependudukan dan Pencatatan Sipil provinsi menyusun
+    pelaporan berdasarkan pelaporan dari bupati/walikota diwilayahnya.
+(2) Gubernur menandatangani pelaporan sebagaimana dimaksud pada ayat
+    (1) untuk disampaikan kepada Menteri Dalam Negeri melalui Direktur
+    Jenderal Kependudukan dan Pencatatan Sipil.
+                             Bagian Kedua
+                            Waktu Pelaporan
+                                Pasal 14
+(1) Pelaporan sebagaimana dimaksud dalam Pasal 7, Pasal 8, Pasal 9 dan
+    Pasal 10 dilakukan secara berkala setiap 6 (enam) bulan.
+(2) Pelaporan sebagaimana dimaksud pada ayat (1) dilakukan setiap
+    minggu pertama pada bulan Januari dan minggu pertama pada bulan
+    Juli
+                                Pasal 15
+(1) Dalam hal terjadi kerusakan database, perangkat lunak, perangkat
+    keras dan/atau jaringan komunikasi data, pelaporan dapat dilakukan
+    sewaktu-waktu.
+(2) Pelaporan sewaktu-waktu sebagaimana dimaksud pada ayat (1), yang
+    memerlukan perlakuan khusus akan ditindaklanjuti segera.
+                            Bagian Ketiga
+                          Format Pelaporan
+                               Pasal 16
+Format   Laporan    Penyelenggaraan    Administrasi   Kependudukan
+sebagaimana dimaksud dalam Pasal 7, Pasal 8, Pasal 9 dan Pasal 10
+sebagaimana tercantum dalam Lampiran Peraturan Menteri ini.
+                                BAB V
+                       KETENTUAN PERALIHAN
+                               Pasal 17
+Tata cara pelaporan penyelenggaraan administrasi kependudukan yang
+berlaku pada saat Peraturan Menteri ini ditetapkan masih tetap berlaku
+sepanjang tidak bertentangan dengan Peraturan Menteri ini.
+
+
+
+
+                                                   www.djpp.depkumham.go.id
+
+<!-- PAGE: 9 -->
+
+                                     9                           2012, No.1028
+
+
+
+                               BAB VI
+                       KETENTUAN PENUTUP
+                              Pasal 18
+Peraturan Menteri   Dalam   Negeri       ini   mulai   berlaku   pada   tanggal
+diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan
+Peraturan Menteri Dalam Negeri ini dengan penempatannya dalam Berita
+Negara Republik Indonesia.
+
+
+                                         Ditetapkan di Jakarta
+                                         pada tanggal 15 Oktober 2012
+                                         MENTERI DALAM NEGERI
+                                         REPUBLIK INDONESIA,
+
+                                         GAMAWAN FAUZI
+
+Diundangkan di Jakarta
+Pada tanggal 19 Oktober 2012
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+AMIR SYAMSUDIN
+
+
+
+
+                                                           www.djpp.depkumham.go.id
+
+<!-- PAGE: 10 -->
+
+           BERITA NEGARA
+         REPUBLIK INDONESIA
+No.1, 2012              KEMENTERIAN DALAM NEGERI. Rencana Kerja.
+                        Tahun 2012
+
+
+    PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA
+                   NOMOR 68 TAHUN 2011
+                        TENTANG
+    RENCANA KERJA KEMENTERIAN DALAM NEGERI TAHUN 2012
+           DENGAN RAHMAT TUHAN YANG MAHA ESA
+             MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+
+
+Menimbang        : a.   bahwa dalam rangka pencapaian target prioritas
+                        nasional dan prioritas bidang rencana kerja
+                        pemerintah    Tahun    2012,    serta  prioritas
+                        Kementerian Dalam Negeri, perlu disusun rencana
+                        kerja Kementerian Dalam Negeri Tahun 2012 yang
+                        ditetapkan dengan Peraturan Menteri Dalam
+                        Negeri.
+                   b.   bahwa berdasarkan pertimbangan sebagaimana
+                        dimaksud dalam huruf a, perlu menetapkan
+                        Peraturan Menteri Dalam Negeri tentang Rencana
+                        Kerja Kementerian Dalam Negeri Tahun 2012;
+Mengingat        : 1.   Undang-Undang Nomor 17 Tahun 2003 tentang
+                        Keuangan Negara (Lembaran Negara Republik
+                        Indonesia Tahun 2003 Nomor 47, Tambahan
+                        Lembaran Negara Republik Indonesia Nomor
+                        4286);
+                   2.   Undang-Undang Nomor 25 Tahun 2004 tentang
+                        Sistem Perencanaan Pembangunan Nasional
+                        (Lembaran Negara Republik Indonesia Tahun 2004
+                        Nomor 104, Tambahan Lembaran Negara Republik
+                        Indonesia Nomor 4421);
+
+
+
+                                                       www.djpp.depkumham.go.id
+
+<!-- PAGE: 11 -->
+
+2012, No.1                   2
+
+
+
+             3.   Undang-Undang Nomor 32 Tahun 2004 tentang
+                  Pemerintahan Daerah (Lembaran Negara Republik
+                  Indonesia Tahun 2004 Nomor 125, Tambahan
+                  Lembaran Negara Republik Indonesia Nomor
+                  4437) sebagaimana telah diubah beberapa kali,
+                  terakhir dengan Undang-Undang Nomor 12 Tahun
+                  2008 tentang Perubahan Kedua atas Undang-
+                  Undang Nomor 32 Tahun 2004 tentang
+                  Pemerintahan Daerah (Lembaran Negara Republik
+                  Indonesia Tahun 2008 Nomor 59, Tambahan
+                  Lembaran Negara Republik Indonesia Nomor
+                  4844);
+             4.   Undang-Undang Nomor 39 Tahun 2008 tentang
+                  Kementerian Negara (Lembaran Negara Republik
+                  Indonesia Tahun 2008 Nomor 166, Tambahan
+                  Lembaran Negara Republik Indonesia Nomor
+                  4916);
+             5.   Undang-Undang Nomor 22 Tahun 2011 tentang
+                  Anggaran Pendapatan dan Belanja Negara Tahun
+                  Anggaran 2012 (Lembaran Negara Republik
+                  Indonesia Tahun 2011 Nomor 113, Tambahan
+                  Lembaran Negara Republik Indonesia Nomor
+                  5254);
+             6.   Peraturan Pemerintah Nomor 20 Tahun 2004
+                  tentang Rencana Kerja Pemerintah (Lembaran
+                  Negara Republik Indonesia Tahun 2004 Nomor 45
+                  dan Tambahan Lembaran Negara Republik
+                  Indonesia Nomor 4385);
+             7.   Peraturan Pemerintah Nomor 39 Tahun 2006
+                  tentang Tata Cara Pengendalian dan Evaluasi
+                  Pelaksanaan Rencana Pembangunan (Lembaran
+                  Negara Republik Indonesia Tahun 2006 Nomor 96,
+                  Tambahan Lembaran Negara Republik Indonesia
+                  Nomor 4663);
+             8.   Peraturan Pemerintah Nomor 40 Tahun 2006
+                  tentang   Tata  Cara    Penyusunan   Rencana
+                  Pembangunan    Nasional    (Lembaran  Negara
+                  Republik Indonesia Tahun 2006 Nomor 97,
+                  Tambahan Lembaran Negara Republik Indonesia
+                  Nomor 4664);
+             9.   Peraturan Pemerintah Nomor 90 Tahun 2010
+                  tentang tentang Penyusunan Rencana Kerja dan
+
+
+
+                                               www.djpp.depkumham.go.id
+
+<!-- PAGE: 12 -->
+
+                                   3                          2012, No.1
+
+
+
+                       Anggaran     Kementerian       Negara/Lembaga
+                       (Lembaran Negara Republik Indonesia Tahun 2010
+                       Nomor 152, Tambahan Lembaran Negara Republik
+                       Indonesia Nomor 5178);
+                   10. Peraturan Presiden Nomor 29 Tahun 2011 tentang
+                       Rencana Kerja Pemerintah Tahun 2012;
+                   11. Keputusan Presiden Nomor 32 Tahun 2011
+                       tentang Rincian Anggaran Belanja Pemerintah
+                       Pusat Tahun 2012
+                   12. Peraturan Menteri Dalam Negeri Nomor 41 Tahun
+                       2010 tentang Organisasi dan Tata Kerja
+                       Kementerian Dalam Negeri sebagaimana telah
+                       diubah dengan Peraturan Menteri Dalam Negeri
+                       Nomor 14 Tahun 2011 tentang Perubahan atas
+                       Permendagri Nomor 41 Tahun 2010 tentang
+                       Organisasi dan Tata Kerja Kementerian Dalam
+                       Negeri;
+                   13. Peraturan Menteri Dalam Negeri Nomor 16 Tahun
+                       2010 tentang Rencana Strategis Kementerian
+                       Dalam Negeri Tahun 2010-2014 sebagaimana
+                       telah diubah dengan Peraturan Menteri Dalam
+                       Negeri Nomor 46 Tahun 2011 tentang Perubahan
+                       atas Peraturan Menteri Dalam Negeri Nomor 16
+                       Tahun    2010    tentang   Rencana    Strategis
+                       Kementerian Dalam Negeri Tahun 2010-2014;
+                  14. Peraturan Menteri Dalam Negeri Nomor 3 Tahun
+                      2011 tentang Pedoman Pelaksanaan Kegiatan dan
+                      Anggaran di Lingkungan Kementerian Dalam
+                      Negeri.
+                            MEMUTUSKAN:
+Menetapkan      : PERATURAN MENTERI DALAM NEGERI TENTANG
+                  RENCANA KERJA KEMENTERIAN DALAM NEGERI
+                  TAHUN 2012.
+                                Pasal 1
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+1.   Rencana Kerja Kementerian Dalam Negeri Tahun 2012, yang
+     selanjutnya disebut, Renja Kementerian Dalam Negeri Tahun 2012
+     adalah dokumen perencanaan Kementerian Dalam Negeri untuk
+     periode 1 (satu) tahun.
+2.   Kepala Satuan Kerja, yang selanjutnya disebut Kepala Satker, adalah
+     yang bertanggungjawab atas pelaksanaan Program dan/atau Kegiatan
+     yang dibiayai di DIPA Kemendagri.
+
+
+
+                                                       www.djpp.depkumham.go.id
+
+<!-- PAGE: 13 -->
+
+2012, No.1                          4
+
+
+
+3.  Rencana Kerja Pemerintah Tahun 2012, yang selanjutnya disebut RKP
+    Tahun 2012, adalah dokumen perencanaan nasional untuk periode 1
+    (satu) tahun.
+                               Pasal 2
+(1) Renja Kementerian Dalam Negeri disusun sesuai tugas dan fungsi
+    Kementerian Dalam Negeri dengan berpedoman pada RKP Tahun
+    2012.
+(2) Renja Kementerian Dalam Negeri Tahun 2012 sebagaimana dimaksud
+    pada ayat (1) dilaksanakan mulai tanggal 1 Januari 2012 dan berakhir
+    tanggal 31 Desember 2012.
+
+                              Pasal 3
+(1) Renja Kementerian Dalam Negeri sebagaimana dimaksud dalam Pasal
+    2 memuat:
+     a.   Uraian Latar Belakang;
+     b.   Kondisi Umum;
+     c.   Strategi dan Kebijakan Prioritas Tahun 2012;
+     d.   Program dan Anggaran Tahun 2012; dan
+     e.   Penutup.
+(2) Renja Kementerian Dalam Negeri sebagaimana dimaksud pada ayat (1)
+    tercantum dalam lampiran Peraturan Menteri ini.
+                                 Pasal 4
+(1) Renja Kementerian Dalam Negeri Tahun 2012 dilaksanakan oleh
+    Kepala Satker sesuai tugas dan fungsinya.
+(2) Kepala Satker sebagaimana dimaksud pada ayat (1) wajib melakukan:
+     a.   Pengendalian dan evaluasi atas pelaksanaan Renja Kementerian
+          Dalam Negeri Tahun 2012;
+     b.  Penyusunan laporan pengendalian dan evaluasi atas pelaksanaan
+         Renja Kementerian Dalam Negeri Tahun 2012.
+                                Pasal 5
+Tata cara penyusunan, penyampaian laporan serta mekanisme
+pengendalian dan evaluasi atas pelaksanaan Renja Kementerian Dalam
+Negeri Tahun 2012 sebagaimana dimaksud pada Pasal 4 dilaksanakan
+sesuai dengan ketentuan peraturan perundang-undangan.
+                                Pasal 6
+
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+
+
+
+
+                                                         www.djpp.depkumham.go.id
+
+<!-- PAGE: 14 -->
+
+                              5                         2012, No.1
+
+
+
+Agar setiap orang mengetahuinya, memerintahkan pengundangan
+Peraturan Menteri ini dengan penempatannya dalam Berita Negara
+Republik Indonesia.
+
+
+                                  Ditetapkan di Jakarta
+                                  pada tanggal 30 Desember 2011
+                                  MENTERI DALAM NEGERI,
+                                  REPUBLIK INDONESIA
+
+
+                                  GAMAWAN FAUZI
+
+Diundangkan di Jakarta
+pada tanggal 3 Januari 2012
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+AMIR SYAMSUDDIN
+
+
+
+
+                                                 www.djpp.depkumham.go.id

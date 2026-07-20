@@ -1,0 +1,24 @@
+id: permen-2018-014
+judul: Peraturan Menteri Nomor 14 Tahun 2018 tentang Perubahan Atas Peraturan Menteri
+  Perdagangan Nomor 102/M-Dag/Per/12/2015 Tentang Ketentuan Impor Mesin Multifungsi
+  Berwarna, Mesin Fotokopi Berwarna, Dan Mesin Printer Berwarna
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://inatrade.kemendag.go.id
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

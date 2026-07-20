@@ -1,0 +1,25 @@
+id: permen-2012-007
+judul: Peraturan Menteri Nomor 7 Tahun 2012 tentang Perubahan Atas Peraturan Menteri
+  Negara Perencanaan Pembangunan Nasional/ Kepala Badan Perencanaan Pembangunan Nasional
+  Nomor Per. 005/M.Ppn/10/2007 Tentang Organisasi Dan Tata Kerja Kementerian Negara
+  Perencanaan Pembangunan Nasional/ Badan Perencanaan Pembangunan Nasional
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.
