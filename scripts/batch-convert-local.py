@@ -153,7 +153,22 @@ def main() -> int:
 
         # Extract full text
         pages = convert_pdf_to_pages(active_pdf_path)
-        if not pages:
+        total_text_len = sum(len(page.strip()) for page in pages)
+        avg_chars_per_page = total_text_len / len(pages) if pages else 0
+        if (total_text_len < 300 or avg_chars_per_page < 100) and active_pdf_path == pdf_path:
+            ocr_pdf_path = OCR_STAGING / f"{pdf_path.stem}.ocr.pdf"
+            if not ocr_pdf_path.exists():
+                print(f"[{index}/{len(pdf_files)}] pdftotext returned very low text density ({avg_chars_per_page:.1f} chars/page), running fallback OCR: {pdf_path.name}...")
+                success = run_ocr(pdf_path, ocr_pdf_path)
+                if success:
+                    active_pdf_path = ocr_pdf_path
+                    pages = convert_pdf_to_pages(active_pdf_path)
+            else:
+                active_pdf_path = ocr_pdf_path
+                pages = convert_pdf_to_pages(active_pdf_path)
+
+        total_text_len = sum(len(page.strip()) for page in pages)
+        if total_text_len < 50:
             print(f"[{index}/{len(pdf_files)}] ❌ No text extracted from {pdf_path.name}")
             failed_count += 1
             continue
