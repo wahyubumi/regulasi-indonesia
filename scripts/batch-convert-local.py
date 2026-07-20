@@ -107,8 +107,18 @@ def main() -> int:
         staged_rejected = STAGING_REJECTED / target_md_name
 
         # Check if already staged or reviewed
-        if staged_incoming.exists() or staged_reviewed.exists() or staged_rejected.exists():
+        if staged_incoming.exists():
             skipped_staged_count += 1
+            continue
+
+        if staged_reviewed.exists() or staged_rejected.exists():
+            skipped_staged_count += 1
+            # Move PDF to processed archive since it has already been processed (reviewed or rejected)
+            target_archive = PROCESSED_DIR / pdf_path.name
+            if not target_archive.exists():
+                shutil.move(str(pdf_path), str(target_archive))
+            else:
+                pdf_path.unlink() # Delete duplicate if already in processed
             continue
 
         # Extract header text to infer regulation ID
