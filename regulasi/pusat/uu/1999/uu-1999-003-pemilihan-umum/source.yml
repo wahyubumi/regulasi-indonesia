@@ -1,0 +1,22 @@
+id: uu-1999-003
+judul: Undang-Undang Nomor 3 Tahun 1999 tentang PEMILIHAN UMUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fa8ee35905e81ac3f618a62b590e65c452856ac0b3b5847932da021e418049e9
+  file_size_bytes: 201205
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1999.pdf'

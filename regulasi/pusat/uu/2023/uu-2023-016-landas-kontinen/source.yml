@@ -1,0 +1,22 @@
+id: uu-2023-016
+judul: Undang-Undang Nomor 16 Tahun 2023 tentang LANDAS KONTINEN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4b45f69bde5f85757d68029cf01dcf1807effbe5ef4471b352027ab924922c23
+  file_size_bytes: 2493108
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-16-tahun-2023.pdf'

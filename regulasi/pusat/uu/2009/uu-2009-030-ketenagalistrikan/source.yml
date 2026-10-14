@@ -1,0 +1,22 @@
+id: uu-2009-030
+judul: Undang-Undang Nomor 30 Tahun 2009 tentang KETENAGALISTRIKAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5938840fe6d0ef60832e4941583d3ecbf3bbac0df4ac524293081b5ec2cede01
+  file_size_bytes: 141912
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0302009.pdf'

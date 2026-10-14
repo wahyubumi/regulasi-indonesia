@@ -1,0 +1,23 @@
+id: uu-1957-060
+judul: Undang-Undang Nomor 60 Tahun 1957 tentang PENETAPAN BAGIAN IBW XI (PELABUHAN
+  TANJUNG PRIOK) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e1e370d58ed4fd043c766afe90556a900e6a67d07ad3a87eaed188fe118deb89
+  file_size_bytes: 26208
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu60-1957.pdf'

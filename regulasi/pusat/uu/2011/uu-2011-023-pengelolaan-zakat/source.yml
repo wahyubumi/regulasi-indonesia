@@ -1,0 +1,22 @@
+id: uu-2011-023
+judul: Undang-Undang Nomor 23 Tahun 2011 tentang PENGELOLAAN ZAKAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ab8cdba7011b99b06f7e1518816f29e97fcf2b254e66c1bcb696e4e29ff597a9
+  file_size_bytes: 55642
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-2011bt.pdf'

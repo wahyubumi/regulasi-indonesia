@@ -1,0 +1,22 @@
+id: uu-1985-012
+judul: Undang-Undang Nomor 12 Tahun 1985 tentang PAJAK BUMI DAN BANGUNAN ep
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9a68dfc623cb70cca48392ae339ef7d1c60b5e62e98c90928172bdd77731aa1c
+  file_size_bytes: 141638
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1985.pdf'

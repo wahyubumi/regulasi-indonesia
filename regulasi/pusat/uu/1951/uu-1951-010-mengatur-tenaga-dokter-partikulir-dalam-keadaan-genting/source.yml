@@ -1,0 +1,23 @@
+id: uu-1951-010
+judul: Undang-Undang Nomor 10 Tahun 1951 tentang MENGATUR TENAGA DOKTER PARTIKULIR
+  DALAM KEADAAN GENTING
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: eaeaf898c013518a54322abb8cae3b3e6fc6dce56ee96eaffa89e027a24a45af
+  file_size_bytes: 45028
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1951.pdf'

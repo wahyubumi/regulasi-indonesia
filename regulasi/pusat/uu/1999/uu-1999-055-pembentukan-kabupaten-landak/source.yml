@@ -1,0 +1,22 @@
+id: uu-1999-055
+judul: Undang-Undang Nomor 55 Tahun 1999 tentang PEMBENTUKAN KABUPATEN LANDAK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 31e2d1af4c9bcf13f327e5ce612d0e03ec85da36085638af2543cfadb39ed68e
+  file_size_bytes: 72080
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu55-1999.pdf'

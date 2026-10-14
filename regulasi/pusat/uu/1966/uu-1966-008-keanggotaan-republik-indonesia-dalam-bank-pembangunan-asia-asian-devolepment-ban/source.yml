@@ -1,0 +1,23 @@
+id: uu-1966-008
+judul: Undang-Undang Nomor 8 Tahun 1966 tentang KEANGGOTAAN REPUBLIK INDONESIA DALAM
+  BANK PEMBANGUNAN ASIA (ASIAN DEVOLEPMENT BANK)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d4d4971086cdff476f241dacbcd5f752bf5cd066ccbfb7e703a5becc3ab0410a
+  file_size_bytes: 27915
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0081966.pdf'

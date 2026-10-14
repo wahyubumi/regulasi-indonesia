@@ -1,0 +1,22 @@
+id: uu-1999-017
+judul: Undang-Undang Nomor 17 Tahun 1999 tentang PENYELENGGARAAN IBADAH HAJI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3552b49cce3442ae29ba5b3c26c3fbd5674e0a1a37065cc58cd7de1611944a52
+  file_size_bytes: 97054
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-1999.pdf'

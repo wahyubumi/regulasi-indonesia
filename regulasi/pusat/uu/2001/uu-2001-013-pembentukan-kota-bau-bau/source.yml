@@ -1,0 +1,22 @@
+id: uu-2001-013
+judul: Undang-Undang Nomor 13 Tahun 2001 tentang PEMBENTUKAN KOTA BAU-BAU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9d1c306f73718a690d4f37b693a3615ce0139d8d604d087921642a00cd3257c4
+  file_size_bytes: 93242
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-2001.pdf'

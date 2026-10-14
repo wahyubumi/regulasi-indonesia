@@ -1,0 +1,23 @@
+id: uu-1970-014
+judul: Undang-Undang Nomor 14 Tahun 1970 tentang KETENTUAN-KETENTUAN POKOK KEKUASAAN
+  KEHAKIMAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dd333ee42223e3beafa4a6ee58be7e784ea5f2416be19a28a2257435f6bb7216
+  file_size_bytes: 84858
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0141970.pdf'

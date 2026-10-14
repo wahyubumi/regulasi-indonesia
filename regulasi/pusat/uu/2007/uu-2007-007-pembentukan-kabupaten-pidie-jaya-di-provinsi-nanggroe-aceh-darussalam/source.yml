@@ -1,0 +1,23 @@
+id: uu-2007-007
+judul: Undang-Undang Nomor 7 Tahun 2007 tentang PEMBENTUKAN KABUPATEN PIDIE JAYA DI
+  PROVINSI NANGGROE ACEH DARUSSALAM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f04a62c47da7f7a455eaef20243be9a8ca5da783ffa61d032b41faedaa90be3d
+  file_size_bytes: 75651
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-2007.pdf'

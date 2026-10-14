@@ -1,0 +1,22 @@
+id: uu-1962-001
+judul: Undang-Undang Nomor 1 Tahun 1962 tentang KARANTINA LAUT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: df0abd90c5df123d407dbdef56956b7fc2bba6a0bbb55db80454be534e74fd73
+  file_size_bytes: 68976
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0011962.pdf'

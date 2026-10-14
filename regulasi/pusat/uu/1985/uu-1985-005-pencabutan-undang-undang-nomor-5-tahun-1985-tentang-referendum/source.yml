@@ -1,0 +1,23 @@
+id: uu-1985-005
+judul: Undang-Undang Nomor 5 Tahun 1985 tentang PENCABUTAN UNDANG-UNDANG NOMOR 5 TAHUN
+  1985 TENTANG REFERENDUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 76891bf21442d3b59f700f8164cba3596ff7ed9d8994f8726145b81ad0a5061d
+  file_size_bytes: 39471
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1999.pdf'

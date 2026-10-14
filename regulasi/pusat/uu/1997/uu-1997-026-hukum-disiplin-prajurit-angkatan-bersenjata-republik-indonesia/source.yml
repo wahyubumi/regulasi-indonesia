@@ -1,0 +1,23 @@
+id: uu-1997-026
+judul: Undang-Undang Nomor 26 Tahun 1997 tentang HUKUM DISIPLIN PRAJURIT ANGKATAN
+  BERSENJATA REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 91a33a2d9a73c3928dd44ae729cc7757b479d469442de332a67c289e48c56382
+  file_size_bytes: 84862
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu26-1997.pdf'

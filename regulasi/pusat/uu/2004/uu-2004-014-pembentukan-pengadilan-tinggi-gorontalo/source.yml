@@ -1,0 +1,22 @@
+id: uu-2004-014
+judul: Undang-Undang Nomor 14 Tahun 2004 tentang PEMBENTUKAN PENGADILAN TINGGI GORONTALO
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b0cbaa5d663fada9921a7f706f46628f5d9e5538eafdda92aa44a077811a2448
+  file_size_bytes: 41242
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2004.pdf'

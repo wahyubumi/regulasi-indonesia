@@ -1,0 +1,26 @@
+id: uu-2002-016
+judul: Undang-Undang Nomor 16 Tahun 2002 tentang PENGESAHAN TREATY ON PRINCIPLES GOVERNING
+  THE ACTIVITIES OF STATES IN THE EXPLORATION AND USE OF OUTER SPACE, INCLUDING THE
+  MOON AND OTHER CELESTIAL BODIES, 1967 (TRAKTAT MENGENAI PRINSIP-PRINSIP YANG MENGATUR
+  KEGIATAN NEGARA-NEGARA DALAM EKSPLORASI DAN PENGGUNAAN ANTARIKSA, TERMASUK BULAN
+  DAN BENDA-BENDA LANGIT LAINNYA, 1967)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6b087d00e7943d639a5f96566b2fe56a7ce55a7a51169f6512fad5274818391a
+  file_size_bytes: 75150
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-2002.pdf'

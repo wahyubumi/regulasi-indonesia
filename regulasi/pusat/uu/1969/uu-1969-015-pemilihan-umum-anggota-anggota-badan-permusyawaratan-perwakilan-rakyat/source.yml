@@ -1,0 +1,23 @@
+id: uu-1969-015
+judul: Undang-Undang Nomor 15 Tahun 1969 tentang PEMILIHAN UMUM ANGGOTA-ANGGOTA BADAN
+  PERMUSYAWARATAN/ PERWAKILAN RAKYAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b80f4a06bbca7bb331582a0762839383c7d73f69a8f74f898cd498f8b763238b
+  file_size_bytes: 95719
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0151969.pdf'

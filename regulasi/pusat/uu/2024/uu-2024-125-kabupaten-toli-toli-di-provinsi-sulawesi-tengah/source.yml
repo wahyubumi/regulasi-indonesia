@@ -1,0 +1,23 @@
+id: uu-2024-125
+judul: Undang-Undang Nomor 125 Tahun 2024 tentang KABUPATEN TOLI-TOLI DI PROVINSI
+  SULAWESI TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 12f3c91b9a33bb74166f75bf24a552f014465208b41acd8e95776765e4591351
+  file_size_bytes: 339795
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-125-tahun-2024.pdf'

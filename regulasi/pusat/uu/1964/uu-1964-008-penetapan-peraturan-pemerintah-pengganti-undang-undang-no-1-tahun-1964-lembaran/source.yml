@@ -1,0 +1,27 @@
+id: uu-1964-008
+judul: Undang-Undang Nomor 8 Tahun 1964 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 1 TAHUN 1964 (LEMBARAN NEGARA TAHUN 1964 NO. 1) TENTANG PERUBAHAN
+  DAN TAMBAHAN UNDANG-UNDANG NO. 21 TAHUN 1959 (LEMBARAN NEGARA TAHUN 1959 NO. 65)
+  TENTANG PENETAPAN MENJADI UNDANG-UNDANG DARURAT NO. 7 TAHUN 1958 (LEMBARAN NEGARA
+  TAHUN 1958 NO. 154) TENTANG PENGGANTIAN PERATURAN TENTANG BINTANG GERILYA SEBAGAI
+  TERMAKTUB DALAM PERATURAN PEMERINTAH NO. 8 TAHUN 1949, MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7c1eed0bf2cc059f561e39cfd29acc4e492dfc204bc705e27d2f5eb6f9a24588
+  file_size_bytes: 71923
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0081964.pdf'

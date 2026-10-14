@@ -1,0 +1,23 @@
+id: uu-1979-002
+judul: Undang-Undang Nomor 2 Tahun 1979 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 1979/1980
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c1909587f04a778e8b285b1badf7b7da91d1e9136fb4c12b870c969ad6ff284a
+  file_size_bytes: 38656
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0021979.pdf'

@@ -1,0 +1,23 @@
+id: uu-1957-004
+judul: Undang-Undang Nomor 4 Tahun 1957 tentang MENGUBAH DAN MENAMBAH UNDANG-UNDANG
+  PENEMPATAN BAGIAN I DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d5ad429080db1efdb15d4cd140db8a254b13bb842c7fee433023188085398aa5
+  file_size_bytes: 13608
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1957.pdf'

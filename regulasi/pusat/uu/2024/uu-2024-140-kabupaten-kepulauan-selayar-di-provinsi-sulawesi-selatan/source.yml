@@ -1,0 +1,23 @@
+id: uu-2024-140
+judul: Undang-Undang Nomor 140 Tahun 2024 tentang KABUPATEN KEPULAUAN SELAYAR DI PROVINSI
+  SULAWESI SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: afae065810e4d0b1133e8b57bfe270c396513ad7773e7bbde888f1bd6e4ee619
+  file_size_bytes: 320135
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-140-tahun-2024.pdf'

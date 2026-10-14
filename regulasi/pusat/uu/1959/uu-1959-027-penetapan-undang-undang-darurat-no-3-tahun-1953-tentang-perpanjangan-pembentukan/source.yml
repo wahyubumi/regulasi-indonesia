@@ -1,0 +1,24 @@
+id: uu-1959-027
+judul: Undang-Undang Nomor 27 Tahun 1959 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  3 TAHUN 1953 TENTANG PERPANJANGAN PEMBENTUKAN DAERAH TINGKAT II DI KALIMANTAN (LEMBARAN-NEGARA
+  TAHUN 1953 NO. 9), SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 975d599bf3521d96bbcb6668b31c2229fd732f215e97c72f104077d9b24a9c28
+  file_size_bytes: 99453
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0271959.pdf'

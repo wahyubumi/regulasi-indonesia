@@ -1,0 +1,23 @@
+id: uu-1970-012
+judul: Undang-Undang Nomor 12 Tahun 1970 tentang PERUBAHAN DAN TAMBAHAN UNDANG-UNDANG
+  NO. 6 TAHUN 1968 TENTANG PENANAMAN MODAL DALAM NEGERI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ac8b3dd5056d92b83beea56d01b667a278083bb28919f827d53c6bd9f6d36788
+  file_size_bytes: 43755
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0121970.pdf'

@@ -1,0 +1,23 @@
+id: uu-2024-060
+judul: Undang-Undang Nomor 60 Tahun 2024 tentang PERTANGGUNGJAWABAN ATAS PEI.AKSANAAN
+  AN GGARAN PEN DAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2023
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bf94074be46de6490523865b8c8e8dc75ea93a4f6decfd4916bac2ff82124f5f
+  file_size_bytes: 2978954
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-60-tahun-2024.pdf'

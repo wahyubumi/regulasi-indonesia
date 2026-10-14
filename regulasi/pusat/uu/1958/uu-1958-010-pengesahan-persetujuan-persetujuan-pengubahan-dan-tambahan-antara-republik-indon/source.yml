@@ -1,0 +1,24 @@
+id: uu-1958-010
+judul: Undang-Undang Nomor 10 Tahun 1958 tentang PENGESAHAN PERSETUJUAN-PERSETUJUAN
+  PENGUBAHAN DAN TAMBAHAN ANTARA REPUBLIK INDONESIA DAN EXPORT-IMPORT BANK OF WASHINGTON
+  *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8abfef34055eceac5379e354afc864c0281efc0ec2e56a6eb0db146cde1a50a2
+  file_size_bytes: 36841
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1958.pdf'

@@ -1,0 +1,66 @@
+id: uu-1955-004
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '4'
+nomor_lengkap: '4'
+tahun: 1955
+judul: PENETAPAN UNDANG-UNDANG DARURAT NO. 9 TAHUN 1952 (LEMBARAN- NEGARA NO. 59 TAHUN
+  1952) TENTANG PENYELESAIAN HUTANG NEGARA DI ZAMAN REVOLUSI SEBAGAI UNDANG-UNDANG
+judul_lengkap: Undang-Undang Nomor 4 Tahun 1955 tentang PENETAPAN UNDANG-UNDANG DARURAT
+  NO. 9 TAHUN 1952 (LEMBARAN- NEGARA NO. 59 TAHUN 1952) TENTANG PENYELESAIAN HUTANG
+  NEGARA DI ZAMAN REVOLUSI SEBAGAI UNDANG-UNDANG
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari 8fe02eefa9af__uu4-1955__undated__uu-1955-004__penetapan-undang-undang-darurat-no-9-tahun-1952-lembaran-negara-no-59-tahun-1952-tentang-penyelesaia.md

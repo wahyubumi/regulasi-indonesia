@@ -1,0 +1,25 @@
+id: uu-2018-004
+judul: Undang-Undang Nomor 4 Tahun 2018 tentang PENGESAHAN PROTOCOL TO IMPLEMENT THE
+  SIXTH PACKAGE OF COMMITMENTS ON FINANCIAL SERVICES UNDER THE ASEAN FRAMEWORK AGREEMENT
+  ON SERVICES (PROTOKOL UNTUK MELAKSANAKAN PAKET KOMITMEN KEENAM BIDANG JASA KEUANGAN
+  DALAM PERSETUJUAN KERANGKA KERJA ASEAN DI BIDANG JASA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8d55d680470512255d5693f53747b4b07b6302b33189c9bf4c85232a2ea90ebb
+  file_size_bytes: 185822
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2018bt.pdf'

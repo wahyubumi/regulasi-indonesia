@@ -1,0 +1,23 @@
+id: uu-2007-009
+judul: Undang-Undang Nomor 9 Tahun 2007 tentang PEMBENTUKAN KABUPATEN MINAHASA TENGGARA
+  DI PROVINSI SULAWESI UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3aa84e954e981425c4c4e845f9e40554f24ed7d52f8139a35e7c8174548b68ad
+  file_size_bytes: 80925
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-2007.pdf'

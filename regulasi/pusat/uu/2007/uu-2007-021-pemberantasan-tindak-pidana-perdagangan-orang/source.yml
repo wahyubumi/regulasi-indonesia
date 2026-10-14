@@ -1,0 +1,23 @@
+id: uu-2007-021
+judul: Undang-Undang Nomor 21 Tahun 2007 tentang PEMBERANTASAN TINDAK PIDANA PERDAGANGAN
+  ORANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 999abc966f7b335f0212b451f45af13923b0e613d496c892fc83b046cf0ea831
+  file_size_bytes: 93893
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-2007.pdf'

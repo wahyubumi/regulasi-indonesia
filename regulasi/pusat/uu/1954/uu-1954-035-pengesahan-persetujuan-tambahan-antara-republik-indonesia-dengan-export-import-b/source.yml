@@ -1,0 +1,23 @@
+id: uu-1954-035
+judul: Undang-Undang Nomor 35 Tahun 1954 tentang PENGESAHAN PERSETUJUAN TAMBAHAN ANTARA
+  REPUBLIK INDONESIA DENGAN EXPORT IMPORT BANK OF WASHINGTON
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 714d822f241c1f55c50056fc337e7040518a06377f41ab0b339c8e253a77159f
+  file_size_bytes: 79437
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu35-1954.pdf'

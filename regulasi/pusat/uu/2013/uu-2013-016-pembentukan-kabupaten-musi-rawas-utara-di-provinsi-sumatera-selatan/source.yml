@@ -1,0 +1,23 @@
+id: uu-2013-016
+judul: Undang-Undang Nomor 16 Tahun 2013 tentang PEMBENTUKAN KABUPATEN MUSI RAWAS
+  UTARA DI PROVINSI SUMATERA SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6f78a209308da4e8581d687389023a4dabc266d7f884216acee09002f570279e
+  file_size_bytes: 111146
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-2013bt.pdf'

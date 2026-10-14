@@ -1,0 +1,24 @@
+id: uu-1994-005
+judul: Undang-Undang Nomor 5 Tahun 1994 tentang PENGESAHAN UNITED NATIONS CONVENTION
+  ON BIOLOGICAL DIVERSITY (KONVENSI PERSERIKATAN BANGSA-BANGSA MENGENAI KEANEKARAGAMAN
+  HAYATI)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c30f35ac9ca59934736897f00e93d0fb24604dd6d479fc8caa7a2315d2a4b29a
+  file_size_bytes: 53648
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0051994.pdf'

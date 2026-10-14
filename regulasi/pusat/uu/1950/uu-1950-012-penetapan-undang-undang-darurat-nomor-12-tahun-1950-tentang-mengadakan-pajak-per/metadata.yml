@@ -1,0 +1,70 @@
+id: uu-1950-012
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '12'
+nomor_lengkap: '12'
+tahun: 1950
+judul: PENETAPAN "UNDANG-UNDANG DARURAT NOMOR 12 TAHUN 1950, TENTANG MENGADAKAN PAJAK
+  PEREDARAN 1950" (LEMBARAN-NEGARA NOMOR 19 TAHUN 1950) DAN "UNDANG-UNDANG DARURAT
+  NOMOR 38 TAHUN 1950 TENTANG TAMBAHAN DAN PERUBAHAN UNDANG-UNDANG PAJAK PEREDARAN
+  1950" (LEMBARAN- NEGARA NOMOR 80 TAHUN 1950), SEBAGAI UNDANG-UNDANG
+judul_lengkap: Undang-Undang Nomor 12 Tahun 1950 tentang PENETAPAN "UNDANG-UNDANG
+  DARURAT NOMOR 12 TAHUN 1950, TENTANG MENGADAKAN PAJAK PEREDARAN 1950" (LEMBARAN-NEGARA
+  NOMOR 19 TAHUN 1950) DAN "UNDANG-UNDANG DARURAT NOMOR 38 TAHUN 1950 TENTANG TAMBAHAN
+  DAN PERUBAHAN UNDANG-UNDANG PAJAK PEREDARAN 1950" (LEMBARAN- NEGARA NOMOR 80 TAHUN
+  1950), SEBAGAI UNDANG-UNDANG
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari ffa5e25f516f__uu25-1953__undated__uu-1950-012__penetapan-undang-undang-darurat-nomor-12-tahun-1950-tentang-mengadakan-pajak-peredaran-1950-lembaran.md

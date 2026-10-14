@@ -1,0 +1,39 @@
+id: "uu-2009-018"
+status_konversi: "verified"
+
+pemeriksaan:
+  metadata:
+    lengkap: true
+    catatan: "Metadata diisi lengkap dari naskah resmi Lembaran Negara Tahun 2009 No. 84 dan TLN 5015."
+
+  struktur_markdown:
+    heading_konsisten: true
+    pasal_terdeteksi: true
+    ayat_terdeteksi: true
+    lampiran_terpisah: false
+    catatan: "99 pasal lengkap terdeteksi dengan hierarki BAB dan Bagian sesuai standar AGENTS.md."
+
+  tabel:
+    ada_tabel: false
+    tabel_berhasil_dikonversi: null
+    catatan: null
+
+  gambar_bagan:
+    ada_gambar: false
+    ada_bagan: false
+    sudah_dibuat_mermaid: null
+    catatan: null
+
+  halaman:
+    page_marker: true
+    jumlah_halaman_pdf: 59
+    jumlah_page_marker: 59
+    catatan: "Semua 59 penanda halaman PDF terpasang."
+
+  validasi_manual:
+    sudah_diperiksa: true
+    pemeriksa: "Antigravity Agent"
+    tanggal: "2026-10-13"
+    catatan: "Teks diverifikasi terhadap naskah resmi PDF Ditjen PP Kemenkumham."
+
+risiko: []

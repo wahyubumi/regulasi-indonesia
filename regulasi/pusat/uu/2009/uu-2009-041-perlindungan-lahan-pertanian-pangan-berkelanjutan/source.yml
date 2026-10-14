@@ -1,0 +1,23 @@
+id: uu-2009-041
+judul: Undang-Undang Nomor 41 Tahun 2009 tentang PERLINDUNGAN LAHAN PERTANIAN PANGAN
+  BERKELANJUTAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7bccba885e2bd2b1382614abf3d6314c172afd7e5994bd050c298ac08fd545b4
+  file_size_bytes: 95709
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu41-2009.pdf'

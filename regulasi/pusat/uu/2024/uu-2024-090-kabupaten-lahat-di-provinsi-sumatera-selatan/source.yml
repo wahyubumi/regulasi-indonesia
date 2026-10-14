@@ -1,0 +1,23 @@
+id: uu-2024-090
+judul: Undang-Undang Nomor 90 Tahun 2024 tentang KABUPATEN LAHAT DI PROVINSI SUMATERA
+  SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9d1b285a93f7e3f64b501fd45285f7e3b17dd35ce7f631789b9f74361df3746f
+  file_size_bytes: 416850
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-90-tahun-2024.pdf'

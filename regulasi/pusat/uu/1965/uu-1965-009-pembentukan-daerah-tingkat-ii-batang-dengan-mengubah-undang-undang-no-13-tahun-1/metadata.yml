@@ -1,0 +1,67 @@
+id: uu-1965-009
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '9'
+nomor_lengkap: '9'
+tahun: 1965
+judul: PEMBENTUKAN DAERAH TINGKAT II BATANG DENGAN MENGUBAH UNDANG-UNDANG NO.13 TAHUN
+  1950 TENTANG PEMBENTUKAN DAERAH-DAERAH KABUPATEN DALAM LINGKUNGAN PROPINSI JAWA
+  TENGAH
+judul_lengkap: Undang-Undang Nomor 9 Tahun 1965 tentang PEMBENTUKAN DAERAH TINGKAT
+  II BATANG DENGAN MENGUBAH UNDANG-UNDANG NO.13 TAHUN 1950 TENTANG PEMBENTUKAN DAERAH-DAERAH
+  KABUPATEN DALAM LINGKUNGAN PROPINSI JAWA TENGAH
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari fba5af6aaaf7__uu0091965__undated__uu-1965-009__pembentukan-daerah-tingkat-ii-batang-dengan-mengubah-undang-undang-no-13-tahun-1950-tentang-pembentu.md

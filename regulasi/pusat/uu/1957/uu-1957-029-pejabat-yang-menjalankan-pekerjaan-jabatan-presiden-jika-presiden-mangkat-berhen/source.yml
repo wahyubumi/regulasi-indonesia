@@ -1,0 +1,24 @@
+id: uu-1957-029
+judul: Undang-Undang Nomor 29 Tahun 1957 tentang PEJABAT YANG MENJALANKAN PEKERJAAN
+  JABATAN PRESIDEN, JIKA PRESIDEN MANGKAT, BERHENTI ATAU BERHALANGAN, SEDANG WAKIL
+  PRESIDEN TIDAK ADA ATAU BERHALANGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: aa19fac2a1dfbe3a2a81b42c3a5118a62888c1307b70e01a162ada5af555f44b
+  file_size_bytes: 28814
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu29-1957.pdf'

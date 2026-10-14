@@ -1,0 +1,24 @@
+id: uu-2007-047
+judul: Undang-Undang Nomor 47 Tahun 2007 tentang PENGESAHAN PERJANJIAN ANTARA REPUBLIK
+  INDONESIA DAN AUSTRALIA TENTANG KERANGKA KERJA SAMA KEAMANAN (AGREEMENT BETWEEN
+  THE REPUBLIC OF INDONESIA AND AUSTRALIA ON THE FRAMEWORK FOR SECURITY COOPERATION)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 64c0be4b82386f5edf6649b8ede4a2b395e2a85942e37a85d1a2a6b7ae406e5b
+  file_size_bytes: 48256
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu47-2007.pdf'

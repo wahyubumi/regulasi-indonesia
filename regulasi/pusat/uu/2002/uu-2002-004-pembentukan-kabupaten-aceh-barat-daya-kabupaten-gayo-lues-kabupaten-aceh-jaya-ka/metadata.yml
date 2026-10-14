@@ -1,0 +1,67 @@
+id: uu-2002-004
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '4'
+nomor_lengkap: '4'
+tahun: 2002
+judul: PEMBENTUKAN KABUPATEN ACEH BARAT DAYA, KABUPATEN GAYO LUES, KABUPATEN ACEH
+  JAYA, KABUPATEN NAGAN RAYA, DAN KABUPATEN ACEH TAMIANG, DI PROVINSI NANGGROE ACEH
+  DARUSSALAM
+judul_lengkap: Undang-Undang Nomor 4 Tahun 2002 tentang PEMBENTUKAN KABUPATEN ACEH
+  BARAT DAYA, KABUPATEN GAYO LUES, KABUPATEN ACEH JAYA, KABUPATEN NAGAN RAYA, DAN
+  KABUPATEN ACEH TAMIANG, DI PROVINSI NANGGROE ACEH DARUSSALAM
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari 521b84a0443c__uu4-2002__undated__uu-2002-004__pembentukan-kabupaten-aceh-barat-daya-kabupaten-gayo-lues-kabupaten-aceh-jaya-kabupaten-nagan-raya-d.md

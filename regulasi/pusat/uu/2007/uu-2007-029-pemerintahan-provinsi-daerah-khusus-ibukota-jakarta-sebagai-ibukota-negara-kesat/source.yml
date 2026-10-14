@@ -1,0 +1,23 @@
+id: uu-2007-029
+judul: Undang-Undang Nomor 29 Tahun 2007 tentang PEMERINTAHAN PROVINSI DAERAH KHUSUS
+  IBUKOTA JAKARTA SEBAGAI IBUKOTA NEGARA KESATUAN REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4e1bee1dc01855c34f16686d094a2763d40682ffa6fc2674be7c08e0c1890603
+  file_size_bytes: 85955
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu29-2007.pdf'

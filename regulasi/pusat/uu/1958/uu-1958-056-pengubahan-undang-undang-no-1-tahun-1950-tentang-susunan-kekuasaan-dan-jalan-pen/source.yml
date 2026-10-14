@@ -1,0 +1,24 @@
+id: uu-1958-056
+judul: Undang-Undang Nomor 56 Tahun 1958 tentang PENGUBAHAN UNDANG-UNDANG NO. 1 TAHUN
+  1950 TENTANG SUSUNAN, KEKUASAAN DAN JALAN PENGADILAN MAHKAMAH AGUNG INDONESIA (LEMBARAN-NEGARA
+  TAHUN 1950 NO. 30) *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e29a37f57ae3e49bb174bd6c6b77feb75ea7351c8754985517de334fc7e199a6
+  file_size_bytes: 17957
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu56-1958.pdf'

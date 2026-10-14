@@ -1,0 +1,22 @@
+id: uu-2018-009
+judul: Undang-Undang Nomor 9 Tahun 2018 tentang PENERIMAAN NEGARA BUKAN PAJAK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bd4c05985f6dfe571b661649764a0d682c5bcddef70c92fc4729a9664ffb4ef9
+  file_size_bytes: 397766
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-2018bt.pdf'

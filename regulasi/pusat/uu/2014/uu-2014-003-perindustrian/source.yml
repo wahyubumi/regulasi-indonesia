@@ -1,0 +1,22 @@
+id: uu-2014-003
+judul: Undang-Undang Nomor 3 Tahun 2014 tentang PERINDUSTRIAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e0bc286019d8cea27943fd087bcdbb78272f6a27183189b20f406b1c5b26b771
+  file_size_bytes: 196832
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2014bt.pdf'

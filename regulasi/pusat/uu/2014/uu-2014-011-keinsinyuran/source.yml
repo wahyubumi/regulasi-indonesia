@@ -1,0 +1,22 @@
+id: uu-2014-011
+judul: Undang-Undang Nomor 11 Tahun 2014 tentang KEINSINYURAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 00b1c1ec1914f222e86c38762933818533a2cedf376782a32928f9170aa661d8
+  file_size_bytes: 83379
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2014bt.pdf'

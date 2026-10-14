@@ -1,0 +1,25 @@
+id: uu-1972-004
+judul: Undang-Undang Nomor 4 Tahun 1972 tentang PEROBAHAN DAN TAMBAHAN KETENTUAN MENGENAI
+  BEBERAPA JENIS TANDA KEHORMATAN REPUBLIK INDONESIA YANG BERBENTUK BINTANG DAN TENTANG
+  URUTAN DERAJAT/TINGKAT JENIS TANDA KEHORMATAN REPUBLIK INDONESIA YANG BERBENTUK
+  BINTANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a32df32606b24fc789a509df061f2d9325654d4b8edabc3861c8f66b29b1d313
+  file_size_bytes: 56959
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041972.pdf'

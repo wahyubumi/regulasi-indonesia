@@ -1,0 +1,24 @@
+id: uu-1959-008
+judul: Undang-Undang Nomor 8 Tahun 1959 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  12 TAHUN 1955 TENTANG PENGUBAHAN PASAL 4 AYAT 1 UNDANG-UNDANG NO. 12 TAHUN 1953
+  (LEMBARAN-NEGARA TAHUN 1955 NO. 37), SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8d7b80b92eabff24d96d037722b54dff91c7ffe296f9a0fe13b88bc1bea27b5b
+  file_size_bytes: 29283
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0081959.pdf'

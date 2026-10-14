@@ -1,0 +1,26 @@
+id: uu-2019-003
+judul: Undang-Undang Nomor 3 Tahun 2019 tentang PENGESAHAN NOTA KESEPAHAMAN ANTARA
+  PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK SERBIA TENTANG KERJA SAMA
+  DI BIDANG PERTAHANAN (MEMORANDUM OF UNDERSTANDING BETWEEN THE GOVERNMENT OF THE
+  REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE REPUBLIC OF SERBIA ON COOPERATION
+  IN THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3ae9a6f2fe473949886c646a2cd01559fe13da96e819eb4e86da0135df465b49
+  file_size_bytes: 108399
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2019bt.pdf'

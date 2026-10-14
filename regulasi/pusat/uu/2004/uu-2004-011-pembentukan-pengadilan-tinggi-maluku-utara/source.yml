@@ -1,0 +1,23 @@
+id: uu-2004-011
+judul: Undang-Undang Nomor 11 Tahun 2004 tentang PEMBENTUKAN PENGADILAN TINGGI MALUKU
+  UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b47137b76d53ce7f3bdba007c228ddd03071626091c7b478b5472871fb4241c8
+  file_size_bytes: 40535
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2004.pdf'

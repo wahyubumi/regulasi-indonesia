@@ -1,0 +1,25 @@
+id: uu-1956-034
+judul: Undang-Undang Nomor 34 Tahun 1956 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO.15 TAHUN 1955 TENTANG MEMBERHENTIKAN BERLAKUNYA UNDANG-UNDANG DARURAT NO. 5 TAHUN
+  1955 TENTANG MENGADAKAN OPSENTEN ATAS CUKAI BENSIN (LEMBARAN-NEGARA TAHUN 1955 NO.
+  51)" SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5a510aa43321e4f64d167fcb11c6ecff0f383b9a1d88b7d2a0c68b18c5a651d1
+  file_size_bytes: 89865
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu34-1956.pdf'

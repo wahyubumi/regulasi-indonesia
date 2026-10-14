@@ -1,0 +1,23 @@
+id: uu-1976-005
+judul: Undang-Undang Nomor 5 Tahun 1976 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1975/1976
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6943b3e9713eb5b086cbaa0a141889fee8fcd491c7a555acc192f7d9c5ca7f80
+  file_size_bytes: 44076
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1976.pdf'

@@ -1,0 +1,23 @@
+id: uu-1988-005
+judul: Undang-Undang Nomor 5 Tahun 1988 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1987/1988
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9d75957a7202d4258830a999c357745011c668d47f672f01171e658510ec0277
+  file_size_bytes: 19957
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1988.pdf'

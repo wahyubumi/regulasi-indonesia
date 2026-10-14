@@ -1,0 +1,23 @@
+id: uu-1999-004
+judul: Undang-Undang Nomor 4 Tahun 1999 tentang SUSUNAN DAN KEDUDUKAN MAJELIS PERMUSYAWARATAN
+  RAKYAT, DEWAN PERWAKILAN RAKYAT, DAN DEWAN PERWAKILAN RAKYAT DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8e4b25c07b44f3720c80dc5c21c0f57d3496c98ad7d3ca8f1fa4cca5de010fb6
+  file_size_bytes: 99952
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1999.pdf'

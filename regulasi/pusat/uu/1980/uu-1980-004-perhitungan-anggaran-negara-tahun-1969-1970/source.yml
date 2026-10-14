@@ -1,0 +1,23 @@
+id: uu-1980-004
+judul: Undang-Undang Nomor 4 Tahun 1980 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  1969/1970
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: aa36cbb04e922ab2f493bb9205c8f22fda448c12b7882e2acc220fa0eb6d1222
+  file_size_bytes: 14800
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1980.pdf'

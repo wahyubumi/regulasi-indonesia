@@ -1,0 +1,23 @@
+id: uu-1999-016
+judul: Undang-Undang Nomor 16 Tahun 1999 tentang PEMBENTUKAN KOTAMADYA DAERAH TINGKAT
+  II DUMAI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6943177616986dd331a1a2ef8af3becaffa19316306e6c33eed29d36e21b8726
+  file_size_bytes: 75757
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-1999.pdf'

@@ -1,0 +1,23 @@
+id: uu-1999-024
+judul: Undang-Undang Nomor 24 Tahun 1999 tentang LALU LINTAS DEVISA DAN SISTEM NILAI
+  TUKAR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 84f3e7b7ce23fb8859491867d580f5c823bdb3f50a831690f25408eb354c590b
+  file_size_bytes: 56134
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-1999.pdf'

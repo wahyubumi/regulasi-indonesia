@@ -1,0 +1,22 @@
+id: uu-1961-004
+judul: Undang-Undang Nomor 4 Tahun 1961 tentang PERUBAHAN ATAU PENAMBAHAN NAMA KELUARGA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 041538df0f8f5cabda2b3691882d369bace56e877e16dde9b78ed1fcf1c3dee4
+  file_size_bytes: 53441
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041961.pdf'

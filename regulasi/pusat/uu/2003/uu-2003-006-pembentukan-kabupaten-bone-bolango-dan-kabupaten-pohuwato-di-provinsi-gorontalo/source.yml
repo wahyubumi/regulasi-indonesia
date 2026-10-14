@@ -1,0 +1,23 @@
+id: uu-2003-006
+judul: Undang-Undang Nomor 6 Tahun 2003 tentang PEMBENTUKAN KABUPATEN BONE BOLANGO
+  DAN KABUPATEN POHUWATO DI PROVINSI GORONTALO
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b69b2106b668059673e5f72aa99279f10635233ae6c2e6f989f926f948e0e7fc
+  file_size_bytes: 65055
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0062003.pdf'

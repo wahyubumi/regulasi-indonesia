@@ -1,0 +1,22 @@
+id: uu-2007-030
+judul: Undang-Undang Nomor 30 Tahun 2007 tentang ENERGI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6e985835d997ebeb1c35666eb21e884fc1c46c1aa9c654b5f4e250ddd9f40b2c
+  file_size_bytes: 142746
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu30-2007.pdf'

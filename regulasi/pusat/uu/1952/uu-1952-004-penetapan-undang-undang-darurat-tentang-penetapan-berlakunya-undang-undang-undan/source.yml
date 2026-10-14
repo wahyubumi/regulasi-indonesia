@@ -1,0 +1,25 @@
+id: uu-1952-004
+judul: Undang-Undang Nomor 4 Tahun 1952 tentang PENETAPAN UNDANG-UNDANG DARURAT TENTANG
+  PENETAPAN BERLAKUNYA UNDANG-UNDANG, UNDANG-UNDANG DARURAT DAN ORDONANSI-ORDONANSI
+  MENGENAI MASALAH-MASALAH PAJAK, DIKELUARKAN SEBELUM PEMBENTUKAN NEGARA KESATUAN
+  REPUBLIK INDONESIA (UNDANG-UNDANG DARURAT NR 36 TAHUN 1950) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 10aa4064caecbaa94435a1e96c94ff65a4d4b9d1e74418ca59950e31e1117075
+  file_size_bytes: 92629
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1952.pdf'

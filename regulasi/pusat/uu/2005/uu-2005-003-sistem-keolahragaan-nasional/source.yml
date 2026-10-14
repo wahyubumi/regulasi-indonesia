@@ -1,0 +1,22 @@
+id: uu-2005-003
+judul: Undang-Undang Nomor 3 Tahun 2005 tentang SISTEM KEOLAHRAGAAN NASIONAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 335892bfabe9051378bc529db58fd9b2280f7c92061f146065a8aa631ed3a79f
+  file_size_bytes: 324395
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2005.pdf'

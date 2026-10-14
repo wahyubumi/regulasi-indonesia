@@ -1,0 +1,22 @@
+id: uu-2004-031
+judul: Undang-Undang Nomor 31 Tahun 2004 tentang PERIKANAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c4054bce57b2f200cceb6c4abc029d91f2dc4acd3148f2846cc3570a9fd0e6d7
+  file_size_bytes: 401462
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu31-2004.pdf'

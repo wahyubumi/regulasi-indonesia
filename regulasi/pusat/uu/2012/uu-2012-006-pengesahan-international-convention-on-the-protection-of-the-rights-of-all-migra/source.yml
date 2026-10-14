@@ -1,0 +1,25 @@
+id: uu-2012-006
+judul: Undang-Undang Nomor 6 Tahun 2012 tentang PENGESAHAN INTERNATIONAL CONVENTION
+  ON THE PROTECTION OF THE RIGHTS OF ALL MIGRANT WORKERS AND MEMBERS OF THEIR FAMILIES
+  (KONVENSI INTERNASIONAL MENGENAI PERLINDUNGAN HAK-HAK SELURUH PEKERJA MIGRAN DAN
+  ANGGOTA KELUARGANYA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a68865e0524219722944b88da4630d42e95b50cb4f7445e8a2faa56443637d1b
+  file_size_bytes: 25385
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-2012bt.pdf'

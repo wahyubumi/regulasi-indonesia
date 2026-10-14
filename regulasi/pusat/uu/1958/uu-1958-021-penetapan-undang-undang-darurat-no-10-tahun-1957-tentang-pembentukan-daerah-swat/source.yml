@@ -1,0 +1,26 @@
+id: uu-1958-021
+judul: Undang-Undang Nomor 21 Tahun 1958 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  10 TAHUN 1957 TENTANG PEMBENTUKAN DAERAH SWATANTRA TINGKAT I KALIMANTAN TENGAH DAN
+  PERUBAHAN UNDANG-UNDANG NO. 25 TAHUN 1956 TENTANG PEMBENTUKAN DAERAH-DAERAH SWATANTRA
+  TINGKAT I KALIMANTAN BARAT, KALIMANTAN SELATAN DAN KALIMANTAN TIMUR (LEMBARAN-NEGARA
+  TAHUN 1957 NO. 83) SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 57f44f12465cb129bc60663a29f24988ea912d33758345c8bb36ac3282618690
+  file_size_bytes: 36819
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-1958.pdf'

@@ -1,0 +1,22 @@
+id: uu-2002-024
+judul: Undang-Undang Nomor 24 Tahun 2002 tentang SURAT UTANG NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6dcf3014340554f3d47148710c73054efba991fc01cf4635db15caf93c472afb
+  file_size_bytes: 65268
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-2002.pdf'

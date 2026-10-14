@@ -1,0 +1,23 @@
+id: uu-2002-011
+judul: Undang-Undang Nomor 11 Tahun 2002 tentang PEMBENTUKAN KABUPATEN MAMASA DAN
+  KOTA PALOPO DI PROVINSI SULAWESI SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fbb5a2ae475d3fcca4a3004e2c8a9e17cbfe2cbe461b51d38985c6786836bfa1
+  file_size_bytes: 85590
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2002.pdf'

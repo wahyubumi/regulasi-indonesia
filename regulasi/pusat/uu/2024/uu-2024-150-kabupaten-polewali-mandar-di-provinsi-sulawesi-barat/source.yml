@@ -1,0 +1,23 @@
+id: uu-2024-150
+judul: Undang-Undang Nomor 150 Tahun 2024 tentang KABUPATEN POLEWALI MANDAR DI PROVINSI
+  SULAWESI BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b0f1b8384ce1cbe955386851e2c5f6e8bca7c851d7f2fb8c0f89e69a04ba1f2f
+  file_size_bytes: 335914
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-150-tahun-2024.pdf'

@@ -1,0 +1,23 @@
+id: uu-2025-013
+judul: Undang-Undang Nomor 13 Tahun 2025 tentang KOTA MANADO DI PROVINSI SULAWESI
+  UTARA DENGAN RAHMATTUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5dc9d911a46444b76aaf078bd6de582c1fef489441dbbd9b7258c985a88069ff
+  file_size_bytes: 884925
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-13-tahun-2025.pdf'

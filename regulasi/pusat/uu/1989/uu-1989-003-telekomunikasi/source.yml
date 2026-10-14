@@ -1,0 +1,22 @@
+id: uu-1989-003
+judul: Undang-Undang Nomor 3 Tahun 1989 tentang TELEKOMUNIKASI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ebe932aff0d4d3009de7d5d0978572d29b0a1f172c46d1e529acb05b489719ec
+  file_size_bytes: 97445
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1989.pdf'

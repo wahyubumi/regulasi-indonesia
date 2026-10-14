@@ -1,0 +1,23 @@
+id: uu-1992-018
+judul: Undang-Undang Nomor 18 Tahun 1992 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 1989/1990
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a253a1dac227fc9d70e39916a6f7659661672d0d1a3b73a53dedb9d3899fd645
+  file_size_bytes: 26909
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+18+TH+1992.pdf'

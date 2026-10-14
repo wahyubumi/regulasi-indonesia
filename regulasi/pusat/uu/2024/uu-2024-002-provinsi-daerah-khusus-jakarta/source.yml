@@ -1,0 +1,22 @@
+id: uu-2024-002
+judul: Undang-Undang Nomor 2 Tahun 2024 tentang PROVINSI DAERAH KHUSUS JAKARTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a9bc489c5d76abeece80e3724b4c11260b0b3e65cab4db54207e72320deac1d8
+  file_size_bytes: 6244936
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-2-tahun-2024.pdf'

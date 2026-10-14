@@ -1,0 +1,23 @@
+id: uu-2007-015
+judul: Undang-Undang Nomor 15 Tahun 2007 tentang PEMBENTUKAN KABUPATEN KEPULAUAN SIAU
+  TAGULANDANG BIARO DI PROVINSI SULAWESI UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9cbae861d9b4dc02eae8bf8cf9e2cd464a39a4bebf4bbe4a54b4c23c44ab0016
+  file_size_bytes: 76021
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu15-2007.pdf'

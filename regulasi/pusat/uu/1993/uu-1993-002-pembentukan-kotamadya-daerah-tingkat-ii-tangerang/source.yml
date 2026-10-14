@@ -1,0 +1,23 @@
+id: uu-1993-002
+judul: Undang-Undang Nomor 2 Tahun 1993 tentang PEMBENTUKAN KOTAMADYA DAERAH TINGKAT
+  II TANGERANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fa24165aec5975e5d4b39b9ecce79d5f082fb1cca682a75c7472e6916f1d7dfb
+  file_size_bytes: 53813
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0021993.pdf'

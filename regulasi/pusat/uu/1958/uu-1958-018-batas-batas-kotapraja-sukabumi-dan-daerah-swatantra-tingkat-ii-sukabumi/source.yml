@@ -1,0 +1,23 @@
+id: uu-1958-018
+judul: Undang-Undang Nomor 18 Tahun 1958 tentang BATAS-BATAS KOTAPRAJA SUKABUMI DAN
+  DAERAH SWATANTRA TINGKAT II SUKABUMI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f67bde2aa4e360b7ed64fcd99ffa293cc0786a3e669415863b8079acb6bf0e7a
+  file_size_bytes: 39512
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-1958.pdf'

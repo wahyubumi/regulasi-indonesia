@@ -1,0 +1,23 @@
+id: uu-2024-139
+judul: Undang-Undang Nomor 139 Tahun 2024 tentang KOTA PAREPARE DI PROVINSI SULAWESI
+  SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0ba793df7f2317875e09dd582060a6e0d23b85014a300f4977c82030146631af
+  file_size_bytes: 383460
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-139-tahun-2024.pdf'

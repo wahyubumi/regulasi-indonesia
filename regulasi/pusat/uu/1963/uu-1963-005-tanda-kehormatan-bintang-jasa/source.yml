@@ -1,0 +1,22 @@
+id: uu-1963-005
+judul: Undang-Undang Nomor 5 Tahun 1963 tentang TANDA KEHORMATAN BINTANG JASA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fc89f208101822b8e28a0013b262e55a4e78b130b390eec68366dbe75d4657de
+  file_size_bytes: 37501
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0051963.pdf'

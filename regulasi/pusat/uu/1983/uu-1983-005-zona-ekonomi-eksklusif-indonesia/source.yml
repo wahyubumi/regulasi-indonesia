@@ -1,0 +1,22 @@
+id: uu-1983-005
+judul: Undang-Undang Nomor 5 Tahun 1983 tentang ZONA EKONOMI EKSKLUSIF INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7d36c250914c7c3b9c2e92ae6f4ade9a1fe6564bf567438c871c239aab8229e0
+  file_size_bytes: 63181
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1983.pdf'

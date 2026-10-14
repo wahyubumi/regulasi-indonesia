@@ -1,0 +1,25 @@
+id: uu-1954-017
+judul: Undang-Undang Nomor 17 Tahun 1954 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 6 TAHUN 1953 (LEMBARAN- NEGARA NO. 25 TAHUN 1953) UNTUK MEMPERPANJANG WAKTU
+  BERLAKUNYA ATURAN HUKUMAN TERMAKSUD DALAM PASAL 3 AYAT 2 ORDONANSI (STAATSBLAD UNTUK
+  INDONESIA TAHUN 1948 NO. 141)" SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: db7263bca549b11b2d80c8a47d0631c86d50d833a7ff246aac3a1fed998dca3b
+  file_size_bytes: 88743
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-1954.pdf'

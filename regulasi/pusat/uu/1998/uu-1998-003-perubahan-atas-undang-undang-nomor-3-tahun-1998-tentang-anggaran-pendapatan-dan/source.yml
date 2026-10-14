@@ -1,0 +1,24 @@
+id: uu-1998-003
+judul: Undang-Undang Nomor 3 Tahun 1998 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  3 TAHUN 1998 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1998/1999
+  SEBAGAIMANA TELAH DIUBAH DENGAN UNDANG-UNDANG NOMOR 7 TAHUN 1998
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5777cdebea96d3af2d9a3734c132f9c5f4b25232178309218053f7274f74b6f1
+  file_size_bytes: 120682
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu32-1999.pdf'

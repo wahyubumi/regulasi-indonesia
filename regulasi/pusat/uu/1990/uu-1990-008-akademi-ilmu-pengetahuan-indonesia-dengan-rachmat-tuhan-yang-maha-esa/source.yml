@@ -1,0 +1,23 @@
+id: uu-1990-008
+judul: Undang-Undang Nomor 8 Tahun 1990 tentang AKADEMI ILMU PENGETAHUAN INDONESIA
+  DENGAN RACHMAT TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 987fd88e3be8a615a39274439eb38b74c728a816e11dcca21425a3d8c73bcbe2
+  file_size_bytes: 53009
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1990.pdf'

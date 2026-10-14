@@ -1,0 +1,22 @@
+id: uu-1954-033
+judul: Undang-Undang Nomor 33 Tahun 1954 tentang WAKIL NOTARIS DAN WAKIL NOTARIS SEMENTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8eaa1eeb1b84921d096705ea4c9f137e460b561340bf84400b92ad0a254d5fcb
+  file_size_bytes: 98570
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu33-1954.pdf'

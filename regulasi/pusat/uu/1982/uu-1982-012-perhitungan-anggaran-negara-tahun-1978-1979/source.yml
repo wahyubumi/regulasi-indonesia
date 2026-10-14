@@ -1,0 +1,23 @@
+id: uu-1982-012
+judul: Undang-Undang Nomor 12 Tahun 1982 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  1978/1979
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b6f7dbc22f91bf69a783011e7de2c1371a92aa5b96473664bd39fe8b5d0855bb
+  file_size_bytes: 17529
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1982.pdf'

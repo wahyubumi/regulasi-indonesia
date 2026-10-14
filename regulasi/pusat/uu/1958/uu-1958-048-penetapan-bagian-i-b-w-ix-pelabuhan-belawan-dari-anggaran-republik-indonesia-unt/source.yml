@@ -1,0 +1,23 @@
+id: uu-1958-048
+judul: Undang-Undang Nomor 48 Tahun 1958 tentang PENETAPAN BAGIAN I.B.W. IX (PELABUHAN
+  BELAWAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 01a687e8cfd51a2da7f871576aacb70cdde27a025e6664cff66e37aed8651a2e
+  file_size_bytes: 14081
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu48-1958.pdf'

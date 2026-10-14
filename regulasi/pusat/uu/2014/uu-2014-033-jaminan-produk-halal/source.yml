@@ -1,0 +1,22 @@
+id: uu-2014-033
+judul: Undang-Undang Nomor 33 Tahun 2014 tentang JAMINAN PRODUK HALAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0edea3983dd6f23af72132ee5ca0a6ddeeac5fff9d0da430162cb25fbcb63e71
+  file_size_bytes: 115884
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu33-2014bt.pdf'

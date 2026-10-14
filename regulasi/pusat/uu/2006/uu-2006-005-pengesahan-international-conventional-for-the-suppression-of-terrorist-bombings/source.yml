@@ -1,0 +1,24 @@
+id: uu-2006-005
+judul: Undang-Undang Nomor 5 Tahun 2006 tentang PENGESAHAN INTERNATIONAL CONVENTIONAL
+  FOR THE SUPPRESSION OF TERRORIST BOMBINGS, 1997 (KONVENSI INTERNASIONAL PEMBERANTASAN
+  PENGEBOMAN OLEH TERORIS, 1997
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e7e5d8a4eba77624e6b8836be07059b1e87cda0c5580cb8e0539039eb5dd9c28
+  file_size_bytes: 75074
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2006.pdf'

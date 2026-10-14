@@ -1,0 +1,23 @@
+id: uu-2002-009
+judul: Undang-Undang Nomor 9 Tahun 2002 tentang PEMBENTUKAN KABUPATEN ROTE-NDAO DI
+  PROVINSI NUSA TENGGARA TIMUR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bdb1a407977681946ee9580ca0dca220d16c11d2081edc329680904c16275afa
+  file_size_bytes: 80098
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-2002.pdf'

@@ -1,0 +1,26 @@
+id: uu-1954-027
+judul: Undang-Undang Nomor 27 Tahun 1954 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.1
+  TAHUN 1954, TENTANG MEMPERSATUKAN OPSENTEN YANG BERLAKU DALAM TAHUN 1953, ATAS CUKAI
+  DARI BEBERAPA JENIS BARANG DALAM POKOKNYA KENAIKAN JUMLAH CUKAI ATAS ALKOHOL SULINGAN
+  DALAM NEGERI DAN BIR DAN KENAIKAN BEA MASUK ATAS BIR (LEMBARAN-NEGARA NO.1 TAHUN
+  1954) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dde6f5eda410c95b53b5cd2179705a1b56beaeb4570f78db696dc3df50495826
+  file_size_bytes: 106446
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-1954.pdf'

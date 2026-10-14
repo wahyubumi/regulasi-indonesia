@@ -1,0 +1,23 @@
+id: uu-1978-007
+judul: Undang-Undang Nomor 7 Tahun 1978 tentang HAK KEUANGAN/ADMINISTRATIF PRESIDEN
+  DAN WAKIL PRESIDEN SERTA BEKAS PRESIDEN DAN WAKIL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 71c87cac0bd30714b6ec11b9a5303f122ffa5ccc41271cdabac5499eadccad16
+  file_size_bytes: 66680
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1978.pdf'

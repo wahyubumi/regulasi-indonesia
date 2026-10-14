@@ -1,0 +1,23 @@
+id: uu-1985-011
+judul: Undang-Undang Nomor 11 Tahun 1985 tentang ku PENGESAHAN KONVENSI TELEKOMUNIKASI
+  INTERNASIONAL (INTERNATIONAL TELECOMMUNICATION CONVENTION NAIROBI, 1982)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d419ffe21b85dfd91bcb226b2ed8d2a650632d6cc482c911bfaf62b109b5e1ce
+  file_size_bytes: 29212
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-1985.pdf'

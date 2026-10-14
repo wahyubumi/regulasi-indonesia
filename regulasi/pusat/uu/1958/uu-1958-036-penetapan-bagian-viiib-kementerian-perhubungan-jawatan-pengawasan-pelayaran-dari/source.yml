@@ -1,0 +1,24 @@
+id: uu-1958-036
+judul: Undang-Undang Nomor 36 Tahun 1958 tentang PENETAPAN BAGIAN VIIIB (KEMENTERIAN
+  PERHUBUNGAN-JAWATAN PENGAWASAN PELAYARAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK
+  TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7cae12bb35491d69ce73ee9354f5f0b9d8e39bb713e6efeebe9c43158171b300
+  file_size_bytes: 25248
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu36-1958.pdf'

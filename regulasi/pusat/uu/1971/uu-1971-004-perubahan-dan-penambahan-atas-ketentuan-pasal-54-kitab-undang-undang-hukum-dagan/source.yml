@@ -1,0 +1,23 @@
+id: uu-1971-004
+judul: Undang-Undang Nomor 4 Tahun 1971 tentang PERUBAHAN DAN PENAMBAHAN ATAS KETENTUAN
+  PASAL 54 KITAB UNDANG-UNDANG HUKUM DAGANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b89c73bcad72d5c2f94d7bd3162c2cf68afaa3d19a02c75c0a6d637cb2a4def5
+  file_size_bytes: 37844
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041971.pdf'

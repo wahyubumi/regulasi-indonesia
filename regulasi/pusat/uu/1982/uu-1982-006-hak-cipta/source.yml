@@ -1,0 +1,22 @@
+id: uu-1982-006
+judul: Undang-Undang Nomor 6 Tahun 1982 tentang HAK CIPTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8b33de222cb2dd02e6fb53c560b96116353492db1dc00b057061e99d4d97884c
+  file_size_bytes: 91429
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1982.pdf'

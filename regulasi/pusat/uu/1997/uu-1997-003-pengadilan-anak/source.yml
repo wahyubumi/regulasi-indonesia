@@ -1,0 +1,22 @@
+id: uu-1997-003
+judul: Undang-Undang Nomor 3 Tahun 1997 tentang PENGADILAN ANAK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8dd2a5f46c1ec5ebe67c4de00228a4e1bb6fa4abbb5f63132a08c42aa74edaf4
+  file_size_bytes: 103839
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1997.pdf'

@@ -1,0 +1,23 @@
+id: uu-1954-055
+judul: Undang-Undang Nomor 55 Tahun 1954 tentang PENETAPAN BAGIAN XV (KEMENTRIAN URUSAN
+  PEGAWAI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5cd8ee97fc8d97d43e07eb7548eaf72c0226f134ea0a9922baf2f753c717c17d
+  file_size_bytes: 72202
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu55-1954.pdf'

@@ -1,0 +1,22 @@
+id: uu-2009-044
+judul: Undang-Undang Nomor 44 Tahun 2009 tentang RUMAH SAKIT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 779db688a47e83bf4dd07628305513b18ed0d239c1eefdbe32771b5656e3559f
+  file_size_bytes: 181340
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0442009.pdf'

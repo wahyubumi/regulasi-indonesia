@@ -1,0 +1,22 @@
+id: uu-2003-019
+judul: Undang-Undang Nomor 19 Tahun 2003 tentang BADAN USAHA MILIK NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 059362c9e0c01189f81b6f1bb18d1e442537da0e97f1af1af637f7213fd7acd4
+  file_size_bytes: 189989
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0192003.pdf'

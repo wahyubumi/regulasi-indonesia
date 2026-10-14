@@ -1,0 +1,23 @@
+id: uu-2018-008
+judul: Undang-Undang Nomor 8 Tahun 2018 tentang PERTANGGUNGJAWABAN ATAS PELAKSANAAN
+  ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2017
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0e2dee90e21d23174f80c9c024fb96ac64795ac5080c121808728870a09f78f6
+  file_size_bytes: 212339
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-2018bt.pdf'

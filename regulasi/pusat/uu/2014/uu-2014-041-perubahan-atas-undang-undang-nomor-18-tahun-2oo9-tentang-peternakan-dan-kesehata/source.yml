@@ -1,0 +1,23 @@
+id: uu-2014-041
+judul: Undang-Undang Nomor 41 Tahun 2014 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  18 TAHUN 2OO9 TENTANG PETERNAKAN DAN KESEHATAN HEWAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b3399f705167f15d0982867fea910f9b16858ba54ac711ec17094b028eaed413
+  file_size_bytes: 2257809
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uunomor41tahun2014.pdf'

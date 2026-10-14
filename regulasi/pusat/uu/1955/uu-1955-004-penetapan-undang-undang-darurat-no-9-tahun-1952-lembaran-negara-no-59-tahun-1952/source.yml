@@ -1,0 +1,24 @@
+id: uu-1955-004
+judul: Undang-Undang Nomor 4 Tahun 1955 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  9 TAHUN 1952 (LEMBARAN- NEGARA NO. 59 TAHUN 1952) TENTANG PENYELESAIAN HUTANG NEGARA
+  DI ZAMAN REVOLUSI SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8fe02eefa9af234e5d6da2de9ed0ec321593c41f68b3237f7fd0cb3d5b6fc42d
+  file_size_bytes: 103181
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1955.pdf'

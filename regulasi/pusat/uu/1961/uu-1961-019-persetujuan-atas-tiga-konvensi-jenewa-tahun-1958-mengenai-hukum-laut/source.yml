@@ -1,0 +1,23 @@
+id: uu-1961-019
+judul: Undang-Undang Nomor 19 Tahun 1961 tentang PERSETUJUAN ATAS TIGA KONVENSI JENEWA
+  TAHUN 1958 MENGENAI HUKUM LAUT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: da552152b9a5344a8226f4f4a3f25a1de1a38a6b7fb521a485935579bebf4166
+  file_size_bytes: 114810
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-19-1961.pdf'

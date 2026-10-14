@@ -1,0 +1,23 @@
+id: uu-2025-002
+judul: Undang-Undang Nomor 2 Tahun 2025 tentang PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG
+  NOMOR 4 TAHUN 2OO9 TENTANG PERTAMBANGAN MINERAL DAN BATUBARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d028674a86e8ec58de146e80e67d734d79c4a6ce0d0ac2fee4d6bf5e127679f3
+  file_size_bytes: 4694971
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-2-tahun-2025.pdf'

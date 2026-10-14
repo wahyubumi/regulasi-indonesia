@@ -1,0 +1,22 @@
+id: uu-1992-005
+judul: Undang-Undang Nomor 5 Tahun 1992 tentang BENDA CAGAR BUDAYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 902e7c5a039c00b1edff965b68c0171357a6d5d4a6ab92e0cb87efdc1e3ae89e
+  file_size_bytes: 77688
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+5+TH+1992.pdf'

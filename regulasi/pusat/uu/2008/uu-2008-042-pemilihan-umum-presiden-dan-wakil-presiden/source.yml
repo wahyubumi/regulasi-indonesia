@@ -1,0 +1,23 @@
+id: uu-2008-042
+judul: Undang-Undang Nomor 42 Tahun 2008 tentang PEMILIHAN UMUM PRESIDEN DAN WAKIL
+  PRESIDEN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4be2d35b119695a1da323b0f0557e61dea326a2f136a189fc95caedcde224dd1
+  file_size_bytes: 339155
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0422008.pdf'

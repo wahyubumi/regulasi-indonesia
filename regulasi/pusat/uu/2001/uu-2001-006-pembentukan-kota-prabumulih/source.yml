@@ -1,0 +1,22 @@
+id: uu-2001-006
+judul: Undang-Undang Nomor 6 Tahun 2001 tentang PEMBENTUKAN KOTA PRABUMULIH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 494a0de2c442e9aa08536aa1a778882519fe40749c0d8b31d4ac1939ea804e4a
+  file_size_bytes: 93467
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-2001.pdf'

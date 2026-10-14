@@ -1,0 +1,22 @@
+id: uu-2003-027
+judul: Undang-Undang Nomor 27 Tahun 2003 tentang PANAS BUMI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fe4f15a115984dc13a6021b20d893634449724d7f5b42f9e198a40d7003ba202
+  file_size_bytes: 72302
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0272003.pdf'

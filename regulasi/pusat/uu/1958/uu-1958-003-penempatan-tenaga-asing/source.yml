@@ -1,0 +1,22 @@
+id: uu-1958-003
+judul: Undang-Undang Nomor 3 Tahun 1958 tentang PENEMPATAN TENAGA ASING
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 65ac01f2444bd7ad829fe073b749369c694f4a0f429f024b535787ed169c1f50
+  file_size_bytes: 27511
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1958.pdf'

@@ -1,0 +1,22 @@
+id: uu-2025-005
+judul: Undang-Undang Nomor 5 Tahun 2025 tentang KOTA GORONTALO DI PROVINSI GORONTALC)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d9b6a8a0ae0f382dc115570b8c03953e3b6e7a4632f0965acac4e9b2c77fda34
+  file_size_bytes: 406473
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-5-tahun-2025.pdf'

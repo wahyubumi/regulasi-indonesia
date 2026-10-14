@@ -1,0 +1,23 @@
+id: uu-1947-006
+judul: Undang-Undang Nomor 6 Tahun 1947 tentang PERUBAHAN UNDANG-UNDANG NO. 3 TAHUN
+  1946 TENTANG WARGA NEGARA DAN PENDUDUK NEGARA REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 54b5cc7caa646ff9fae0c4908b8ff5519ec6894ea5aa9bfe3ee4b805c65b37bf
+  file_size_bytes: 40284
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1947.pdf'

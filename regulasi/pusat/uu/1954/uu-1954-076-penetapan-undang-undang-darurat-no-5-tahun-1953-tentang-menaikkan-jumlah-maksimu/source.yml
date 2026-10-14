@@ -1,0 +1,24 @@
+id: uu-1954-076
+judul: Undang-Undang Nomor 76 Tahun 1954 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 5 TAHUN 1953 TENTANG MENAIKKAN JUMLAH MAKSIMUM PORTO DAN BEA"(LEMBARAN-NEGARA
+  NO. 22 TAHUN 1953) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0763ebd4607406739e97102915c3951d9a2a2948688ddbbc592df81c33d2001d
+  file_size_bytes: 90346
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu76-1954.pdf'

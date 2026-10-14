@@ -1,0 +1,23 @@
+id: uu-1959-007
+judul: Undang-Undang Nomor 7 Tahun 1959 tentang PENGHAPUSAN "PERATURAN UMUM KORBAN
+  PERANG" DAHULU DISEBUT "ALGEMENE OOROGSONGEVALLEN REGELING"
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 91fd54fa9f76bfb97adbd393b1cb32c57b18b94be0c917226bdcd88514a60980
+  file_size_bytes: 35992
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0071959.pdf'

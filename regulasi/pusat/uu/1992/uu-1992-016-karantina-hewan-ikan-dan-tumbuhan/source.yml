@@ -1,0 +1,22 @@
+id: uu-1992-016
+judul: Undang-Undang Nomor 16 Tahun 1992 tentang KARANTINA HEWAN, IKAN, DAN TUMBUHAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 05fd1c8616a27fd161411e220c3c43c7ea63ee384a278b3fa6ab06ee60b6fb93
+  file_size_bytes: 100241
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+16+TH+1992.pdf'

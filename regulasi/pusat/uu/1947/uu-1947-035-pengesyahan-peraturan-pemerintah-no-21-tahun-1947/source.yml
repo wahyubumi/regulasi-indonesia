@@ -1,0 +1,23 @@
+id: uu-1947-035
+judul: Undang-Undang Nomor 35 Tahun 1947 tentang PENGESYAHAN PERATURAN PEMERINTAH
+  NO. 21, TAHUN 1947
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ae105c3324ff828294cc7fd032b811fd8433093dc1389e53d7ce0a6d9738b693
+  file_size_bytes: 41421
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu35-1947.pdf'

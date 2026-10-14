@@ -1,0 +1,22 @@
+id: uu-2000-023
+judul: Undang-Undang Nomor 23 Tahun 2000 tentang PEMBENTUKAN PROPINSI BANTEN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f8bedbe243b4309d89d0ffdbd83d3c96e6b7f3263841ac58977028d02131ae3c
+  file_size_bytes: 64995
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-2000.pdf'

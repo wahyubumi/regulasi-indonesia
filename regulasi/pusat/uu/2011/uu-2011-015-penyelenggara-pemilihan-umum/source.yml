@@ -1,0 +1,22 @@
+id: uu-2011-015
+judul: Undang-Undang Nomor 15 Tahun 2011 tentang PENYELENGGARA PEMILIHAN UMUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 123f69573e5d7dcf7280964c44d56957031c9cf9dfd57c1a33adef6b71eced95
+  file_size_bytes: 597509
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+15+Tahun+2011.pdf'

@@ -1,0 +1,25 @@
+id: uu-2023-003
+judul: Undang-Undang Nomor 3 Tahun 2023 tentang PENGESAHAN PER.IANJIAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK SINGAPURA TENTANG KERJA SAMA PERTAHANAN
+  IAGREEMENT BETWEEN THE GOWRNMENT OFTHE REPUBLIC OF INDONESIA AND THE GOIr'ERNMENT
+  OF THE REPUBLIC OF SIIVGAPORE oN DEFENCE COOPERATTOTI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2733c14ec11dc2830e6ed3c4857e732526db7afae5432dd5308daf1ebf4271fb
+  file_size_bytes: 501388
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-3-tahun-2023.pdf'

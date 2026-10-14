@@ -1,0 +1,25 @@
+id: uu-2020-004
+judul: Undang-Undang Nomor 4 Tahun 2020 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN KABINET MENTERI UKRAINA TENTANG KERJA SAMA DALAM BIDANG PERTAHANAN
+  (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE CABINET OF
+  MINISTERS OF UKRAINE ON COOPERATION IN THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0a8c89e144480a3f8aeba74af520a82f04d957a4e030805507c76df66d3c8345
+  file_size_bytes: 95301
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2020bt.pdf'

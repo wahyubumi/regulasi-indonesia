@@ -1,0 +1,24 @@
+id: uu-2017-012
+judul: Undang-Undang Nomor 12 Tahun 2017 tentang PENGESAHAN ASEAN CONVENTION AGAINST
+  TRAFFICKING IN PERSONS, ESPECIALLY WOMEN AND CHILDREN (KONVENSI ASEAN MENENTANG
+  PERDAGANGAN ORANG, TERUTAMA PEREMPUAN DAN ANAK)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2393c3959475c3d487bf8702859ae7b5d2b0b6e5821f6c293d46d48f9ee15976
+  file_size_bytes: 182725
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2017bt.pdf'

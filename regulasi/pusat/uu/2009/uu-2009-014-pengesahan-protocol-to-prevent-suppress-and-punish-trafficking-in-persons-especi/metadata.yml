@@ -1,0 +1,72 @@
+id: uu-2009-014
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '14'
+nomor_lengkap: '14'
+tahun: 2009
+judul: PENGESAHAN PROTOCOL TO PREVENT, SUPPRESS AND PUNISH TRAFFICKING IN PERSONS,
+  ESPECIALLY WOMEN AND CHILDREN, SUPPLEMENTING THE UNITED NATIONS CONVENTION AGAINST
+  TRANSNATIONAL ORGANIZED CRIME (PROTOKOL UNTUK MENCEGAH, MENINDAK, DAN MENGHUKUM
+  PERDAGANGAN ORANG, TERUTAMA PEREMPUAN DAN ANAK-ANAK, MELENGKAPI KONVENSI PERSERIKATAN
+  BANGSA-BANGSA MENENTANG TINDAK PIDANA TRANSNASIONAL YANG TERORGANISASI)
+judul_lengkap: Undang-Undang Nomor 14 Tahun 2009 tentang PENGESAHAN PROTOCOL TO PREVENT,
+  SUPPRESS AND PUNISH TRAFFICKING IN PERSONS, ESPECIALLY WOMEN AND CHILDREN, SUPPLEMENTING
+  THE UNITED NATIONS CONVENTION AGAINST TRANSNATIONAL ORGANIZED CRIME (PROTOKOL UNTUK
+  MENCEGAH, MENINDAK, DAN MENGHUKUM PERDAGANGAN ORANG, TERUTAMA PEREMPUAN DAN ANAK-ANAK,
+  MELENGKAPI KONVENSI PERSERIKATAN BANGSA-BANGSA MENENTANG TINDAK PIDANA TRANSNASIONAL
+  YANG TERORGANISASI)
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari 3e7bd0b393fa__uu14-2009bt__undated__uu-2009-014__pengesahan-protocol-to-prevent-suppress-and-punish-trafficking-in-persons-especially-women-and-child.md

@@ -1,0 +1,22 @@
+id: uu-2001-012
+judul: Undang-Undang Nomor 12 Tahun 2001 tentang PEMBENTUKAN KOTA SINGKAWANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3c75f4c022e00cddca9e75149ec67ca8f657f95f43919476568eb8c65e1127a5
+  file_size_bytes: 94782
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2001.pdf'

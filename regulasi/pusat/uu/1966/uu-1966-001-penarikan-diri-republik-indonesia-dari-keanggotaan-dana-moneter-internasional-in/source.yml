@@ -1,0 +1,25 @@
+id: uu-1966-001
+judul: Undang-Undang Nomor 1 Tahun 1966 tentang PENARIKAN DIRI REPUBLIK INDONESIA
+  DARI KEANGGOTAAN DANA MONETER INTERNASIONAL (INTERNATIONAL MONETARY FUND) DAN BANK
+  INTERNASIONAL UNTUK REKONSTRUKSI DAN PEMBANGUNAN (INTERNATIONAL BANK FOR RECONSTRUCTION
+  AND DEVELOPMENT)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bd4178c59d8540985da132241ad559122fe88ccd214c653848ed226d7c2f237c
+  file_size_bytes: 39017
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0011966.pdf'

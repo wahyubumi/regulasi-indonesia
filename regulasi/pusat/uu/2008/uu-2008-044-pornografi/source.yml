@@ -1,0 +1,22 @@
+id: uu-2008-044
+judul: Undang-Undang Nomor 44 Tahun 2008 tentang PORNOGRAFI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e2ce04eea63a6ba2921d0404f77c151b175a7e02d549c84793c72d581eff0da7
+  file_size_bytes: 49807
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu44-2008.pdf'

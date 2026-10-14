@@ -1,0 +1,23 @@
+id: uu-2003-008
+judul: Undang-Undang Nomor 8 Tahun 2003 tentang PEMBENTUKAN KABUPATEN MANGGARAI BARAT
+  DI PROVINSI NUSA TENGGARA TIMUR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3c2f84f7c577a97c690c6c22727010b7899f2ba0b59c0bfaa2a74a1bc907ce1f
+  file_size_bytes: 56175
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0082003.pdf'

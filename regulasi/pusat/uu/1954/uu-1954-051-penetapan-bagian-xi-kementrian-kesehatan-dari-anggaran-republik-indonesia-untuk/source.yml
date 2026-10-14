@@ -1,0 +1,23 @@
+id: uu-1954-051
+judul: Undang-Undang Nomor 51 Tahun 1954 tentang PENETAPAN BAGIAN XI (KEMENTRIAN KESEHATAN)
+  DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 95fb13d08185577fcd27fd96fb03b9e5d70e3f982935223c92440c4dfa758425
+  file_size_bytes: 82853
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu51-1954.pdf'

@@ -1,0 +1,22 @@
+id: uu-1997-010
+judul: Undang-Undang Nomor 10 Tahun 1997 tentang KETENAGANUKLIRAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b21d5540714ae116bff15824e671ef8ad0ec8410211e83552dce39bcf9ec1a5c
+  file_size_bytes: 96050
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1997.pdf'

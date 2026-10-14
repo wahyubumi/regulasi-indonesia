@@ -1,0 +1,23 @@
+id: uu-1964-011
+judul: Undang-Undang Nomor 11 Tahun 1964 tentang PEMBENTUKAN PENGADILAN TINGGI DI
+  PALEMBANG DAN PERUBAHAN DAERAH HUKUM PENGADILAN TINGGI DI MEDAN DAN DI JAKARTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1bf13882c82e18752f06d2b8a45c801c5db9ce866401362a19a9d3265fe39e25
+  file_size_bytes: 64417
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0111964.pdf'

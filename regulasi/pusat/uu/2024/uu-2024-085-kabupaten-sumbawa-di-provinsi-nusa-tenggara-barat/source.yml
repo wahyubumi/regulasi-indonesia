@@ -1,0 +1,23 @@
+id: uu-2024-085
+judul: Undang-Undang Nomor 85 Tahun 2024 tentang KABUPATEN SUMBAWA DI PROVINSI NUSA
+  TENGGARA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 54fe71ec32df7d8adebf700f9bd58ca30462363214fdce59a8f2c14c7dc0b9a0
+  file_size_bytes: 468757
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-85-tahun-2024.pdf'

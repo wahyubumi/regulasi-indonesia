@@ -1,0 +1,23 @@
+id: uu-1998-008
+judul: Undang-Undang Nomor 8 Tahun 1998 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 1997/1998
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b5c6fb69eca752cb07ec4526d547196c79841a59cf19f9db505d7f34e3ca80eb
+  file_size_bytes: 70214
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1998.pdf'

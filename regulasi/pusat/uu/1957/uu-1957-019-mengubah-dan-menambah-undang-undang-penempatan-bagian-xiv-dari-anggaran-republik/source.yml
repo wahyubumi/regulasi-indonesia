@@ -1,0 +1,23 @@
+id: uu-1957-019
+judul: Undang-Undang Nomor 19 Tahun 1957 tentang MENGUBAH DAN MENAMBAH UNDANG-UNDANG
+  PENEMPATAN BAGIAN XIV DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4f1c822c20ee66c2b18d9702eb51faf63f651290b93d27bb432890becf522d51
+  file_size_bytes: 27843
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu19-1957.pdf'

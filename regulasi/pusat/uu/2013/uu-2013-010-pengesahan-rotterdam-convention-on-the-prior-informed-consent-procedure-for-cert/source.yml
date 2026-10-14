@@ -1,0 +1,26 @@
+id: uu-2013-010
+judul: Undang-Undang Nomor 10 Tahun 2013 tentang PENGESAHAN ROTTERDAM CONVENTION ON
+  THE PRIOR INFORMED CONSENT PROCEDURE FOR CERTAIN HAZARDOUS CHEMICALS AND PESTICIDES
+  IN INTERNATIONAL TRADE (KONVENSI ROTTERDAM TENTANG PROSEDUR PERSETUJUAN ATAS DASAR
+  INFORMASI AWAL UNTUK BAHAN KIMIA DAN PESTISIDA BERBAHAYA TERTENTU DALAM PERDAGANGAN
+  INTERNASIONAL)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9adc88f94ebdf74af0b972ff51d6525660379b9a4e527d5ec26ff597419c6bf8
+  file_size_bytes: 158220
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-2013bt.pdf'

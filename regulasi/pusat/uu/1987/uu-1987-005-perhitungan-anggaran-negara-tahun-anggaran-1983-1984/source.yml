@@ -1,0 +1,23 @@
+id: uu-1987-005
+judul: Undang-Undang Nomor 5 Tahun 1987 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 1983/1984
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 25ee322680704216e8af576121c75f839a834ddd075d9b9f7ffe5768ebce41c4
+  file_size_bytes: 18028
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1987.pdf'

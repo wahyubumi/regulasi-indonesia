@@ -1,0 +1,23 @@
+id: uu-2024-057
+judul: Undang-Undang Nomor 57 Tahun 2024 tentang KOTA SAWAHLUNTO DI PROVINSI SUMATERA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a141a72fcced1b8eea2d14061e6d8921b45966dfcaacf221b19e941ec3e7a15e
+  file_size_bytes: 841773
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-57-tahun-2024.pdf'

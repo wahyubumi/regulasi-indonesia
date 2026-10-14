@@ -1,0 +1,22 @@
+id: uu-1965-022
+judul: Undang-Undang Nomor 22 Tahun 1965 tentang ANGGARAN MONETER TAHUN-ANGGARAN 1966
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 503a3547b5d184fec6c97a928d26d33946d20b7ea22bad8481c0b238d60d9f62
+  file_size_bytes: 91280
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0221965.pdf'

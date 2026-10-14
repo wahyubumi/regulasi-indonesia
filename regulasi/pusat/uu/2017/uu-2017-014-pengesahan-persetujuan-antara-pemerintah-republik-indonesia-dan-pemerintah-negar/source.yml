@@ -1,0 +1,26 @@
+id: uu-2017-014
+judul: Undang-Undang Nomor 14 Tahun 2017 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH NEGARA MERDEKA PAPUA NUGINI TENTANG KEGIATAN KERJA
+  SAMA DI BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA
+  AND THE GOVERNMENT OF THE INDEPENDENT STATE OF PAPUA NEW GUINEA CONCERNING COOPERATION
+  ACTIVITIES IN THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b3f74cc527c66b8f3df74f8b97e434337801b9ef84109d08e4ce24d69ce3854b
+  file_size_bytes: 184637
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2017bt.pdf'

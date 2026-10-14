@@ -1,0 +1,23 @@
+id: uu-1956-029
+judul: Undang-Undang Nomor 29 Tahun 1956 tentang PERATURAN-PERATURAN DAN TINDAKAN-TINDAKAN
+  MENGENAI TANAH-TANAH PERKEBUNAN *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 11710a43cd80095899082c3eda4ca13ee8813d4ff102df675ed659626955e26e
+  file_size_bytes: 93529
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu29-1956.pdf'

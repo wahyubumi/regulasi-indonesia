@@ -1,0 +1,22 @@
+id: uu-1954-025
+judul: Undang-Undang Nomor 25 Tahun 1954 tentang PERJANJIAN PERJANJIAN POS SEDUNIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ade998bf83ff499c8146a41a09f230c26c12656b27324c8f3c0a0e30d19ef7a1
+  file_size_bytes: 85228
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-1954.pdf'

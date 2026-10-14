@@ -1,0 +1,23 @@
+id: uu-1980-003
+judul: Undang-Undang Nomor 3 Tahun 1980 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1979/1980
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1fe219c308f5707e5135dda9c7154562203d448283f069a4d58900a1eacdcd21
+  file_size_bytes: 24014
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1980.pdf'

@@ -1,0 +1,23 @@
+id: uu-1947-025
+judul: Undang-Undang Nomor 25 Tahun 1947 tentang NATURALISASI GEORGE WILHELM AUGUST
+  FRIEDRICHS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 617a83e5bcad0cd950507bcbc0cfbfc8727317a0ab0f121b407123231d99fe53
+  file_size_bytes: 42499
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-1947.pdf'

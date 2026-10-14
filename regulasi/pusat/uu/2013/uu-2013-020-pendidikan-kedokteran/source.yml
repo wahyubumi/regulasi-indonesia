@@ -1,0 +1,22 @@
+id: uu-2013-020
+judul: Undang-Undang Nomor 20 Tahun 2013 tentang PENDIDIKAN KEDOKTERAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e0ecec9355a4534a5c3e717423291f9124100207e5182214f2e0dcbd2b77d8be
+  file_size_bytes: 268849
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-2013bt.pdf'

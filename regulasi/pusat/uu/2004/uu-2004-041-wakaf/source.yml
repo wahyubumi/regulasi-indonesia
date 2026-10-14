@@ -1,0 +1,22 @@
+id: uu-2004-041
+judul: Undang-Undang Nomor 41 Tahun 2004 tentang WAKAF
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 94f6f7e6761238264a99a23e8c7d3d44cc554c7055c51125ae9dae600460edbc
+  file_size_bytes: 152275
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu41-2004.pdf'

@@ -1,0 +1,23 @@
+id: uu-1955-009
+judul: Undang-Undang Nomor 9 Tahun 1955 tentang PENGUBAHAN UNDANG-UNDANG NO. 3 JO.
+  NO. 19 TAHUN 1950 TENTANG PEMBENTUKAN DAERAH ISTIMEWA YOGYAKARTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b7650cdc07a54dd5ce2ce1b35dbb9e99b35f0b246a48e3228bb0381ceb4bc8d2
+  file_size_bytes: 94285
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-1955.pdf'

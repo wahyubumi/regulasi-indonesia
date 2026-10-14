@@ -1,0 +1,22 @@
+id: uu-1972-005
+judul: Undang-Undang Nomor 5 Tahun 1972 tentang PERHITUNGAN ANGGARAN TAHUN 1968
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 836d1832a057b6565a689e57a875c9440714dda76e4d78e2c485019730c20a6e
+  file_size_bytes: 28114
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0051972.pdf'

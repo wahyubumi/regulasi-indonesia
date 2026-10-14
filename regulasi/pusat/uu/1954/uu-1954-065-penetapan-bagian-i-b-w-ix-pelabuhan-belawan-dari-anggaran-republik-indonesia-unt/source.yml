@@ -1,0 +1,23 @@
+id: uu-1954-065
+judul: Undang-Undang Nomor 65 Tahun 1954 tentang PENETAPAN BAGIAN I.B.W. IX (PELABUHAN
+  BELAWAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 25a1fccc1e9479e28c567d471d5b8217730ea12c733e0d0c80f117d14d4a2e20
+  file_size_bytes: 69176
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu65-1954.pdf'

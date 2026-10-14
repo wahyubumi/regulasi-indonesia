@@ -1,0 +1,23 @@
+id: uu-1948-003
+judul: Undang-Undang Nomor 3 Tahun 1948 tentang Susunan Kementerian Pertahanan dan
+  Angkatan Perang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7a8e48c064db89a29fb95de4a8dd7a8ad90a44d59e78e36b6031ab55bd87ba92
+  file_size_bytes: 77149
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1948.pdf'

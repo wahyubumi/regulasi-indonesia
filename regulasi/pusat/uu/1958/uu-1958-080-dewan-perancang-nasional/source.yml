@@ -1,0 +1,22 @@
+id: uu-1958-080
+judul: Undang-Undang Nomor 80 Tahun 1958 tentang DEWAN PERANCANG NASIONAL *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d9e5241aee1eb3609b49c47161ea82d990d1f8ec1ad652010e19a5abb3f2650f
+  file_size_bytes: 56694
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu80-1958.pdf'

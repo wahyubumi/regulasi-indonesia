@@ -1,0 +1,23 @@
+id: uu-2024-031
+judul: Undang-Undang Nomor 31 Tahun 2024 tentang KABUPATEN BELITUNG DI PROVINSI KEPULAUAN
+  BANGKA BELITUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e0a13d90a8c0185e7ab5db041cbb97104f85851a780cb99b12709343d1e729a0
+  file_size_bytes: 996253
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-31-tahun-2024.pdf'

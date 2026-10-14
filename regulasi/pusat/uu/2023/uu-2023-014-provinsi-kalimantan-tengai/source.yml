@@ -1,0 +1,22 @@
+id: uu-2023-014
+judul: Undang-Undang Nomor 14 Tahun 2023 tentang PROVINSI KALIMANTAN TENGAI{
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 353901d02f9f04906df603720f81073d10bcad1a4149045fe8b979735b34908b
+  file_size_bytes: 855683
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-14-tahun-2023.pdf'

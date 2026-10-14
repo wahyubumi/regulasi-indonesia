@@ -1,0 +1,23 @@
+id: uu-1956-015
+judul: Undang-Undang Nomor 15 Tahun 1956 tentang PEMBENTUKAN DAERAH OTONOM PROPINSI
+  IRIAN BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f89c08d82dfda3e5433e951e50ce5ea3a23e75d21529127e999b8a4044e54706
+  file_size_bytes: 105392
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu15-1956.pdf'

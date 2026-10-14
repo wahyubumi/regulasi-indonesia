@@ -1,0 +1,22 @@
+id: uu-2006-015
+judul: Undang-Undang Nomor 15 Tahun 2006 tentang BADAN PEMERIKSA KEUANGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 30a2c42056e91e2174e8206779b5b6051fa09bfc2ae3fe5aec7b3efed383014b
+  file_size_bytes: 59613
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu15-2006.pdf'

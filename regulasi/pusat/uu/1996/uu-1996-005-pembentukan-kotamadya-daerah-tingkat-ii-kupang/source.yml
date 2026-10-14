@@ -1,0 +1,23 @@
+id: uu-1996-005
+judul: Undang-Undang Nomor 5 Tahun 1996 tentang PEMBENTUKAN KOTAMADYA DAERAH TINGKAT
+  II KUPANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dcce409691c1c73a7d6a6d772b69100709e9c8ecbaf8b5611d19cb268f1ff9cd
+  file_size_bytes: 58075
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1996.pdf'

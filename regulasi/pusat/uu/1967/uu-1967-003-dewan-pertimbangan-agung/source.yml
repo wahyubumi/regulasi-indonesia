@@ -1,0 +1,22 @@
+id: uu-1967-003
+judul: Undang-Undang Nomor 3 Tahun 1967 tentang DEWAN PERTIMBANGAN AGUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7dbe7b364b42389dcf21d9f13bea4f9997a36e17a685329383e3573ca604f0c3
+  file_size_bytes: 47949
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0031967.pdf'

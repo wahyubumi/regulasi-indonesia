@@ -1,0 +1,67 @@
+id: uu-1958-070
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '70'
+nomor_lengkap: '70'
+tahun: 1958
+judul: PENETAPAN UNDANG-UNDANG DARURAT NO. 2 TAHUN 1958 TENTANG TANDA-TANDA PENGHARGAAN
+  UNTUK ANGGOTA ANGKATAN PERANG (LEMBARAN-NEGARA TAHUN 1958 NO. 41), SEBAGAI UNDANG-UNDANG
+  *)
+judul_lengkap: Undang-Undang Nomor 70 Tahun 1958 tentang PENETAPAN UNDANG-UNDANG DARURAT
+  NO. 2 TAHUN 1958 TENTANG TANDA-TANDA PENGHARGAAN UNTUK ANGGOTA ANGKATAN PERANG (LEMBARAN-NEGARA
+  TAHUN 1958 NO. 41), SEBAGAI UNDANG-UNDANG *)
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari 4e9f95b0e0cc__uu70-1958__undated__uu-1958-070__penetapan-undang-undang-darurat-no-2-tahun-1958-tentang-tanda-tanda-penghargaan-untuk-anggota-angkat.md

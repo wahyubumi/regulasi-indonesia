@@ -1,0 +1,22 @@
+id: uu-2023-009
+judul: Undang-Undang Nomor 9 Tahun 2023 tentang PROVINSI SUMATERA SEI.,ATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f15d2c17a4853b460054bee8d9abd90238d82229f26edd5ee7906f59bf59ef69
+  file_size_bytes: 1130392
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-9-tahun-2023.pdf'

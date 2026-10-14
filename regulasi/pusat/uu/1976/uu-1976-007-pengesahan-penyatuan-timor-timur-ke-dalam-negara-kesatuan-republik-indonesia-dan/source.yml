@@ -1,0 +1,24 @@
+id: uu-1976-007
+judul: Undang-Undang Nomor 7 Tahun 1976 tentang Pengesahan Penyatuan Timor-Timur Ke
+  Dalam Negara Kesatuan Republik Indonesia Dan Pembentukan Propinsi Daerah Tingkat
+  I Timor-Timur
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8780ac18b663bfb0d10d3e5152c3249af7b2d043fee6661ae99b7a0e88e4ceff
+  file_size_bytes: 45305
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1976.pdf'

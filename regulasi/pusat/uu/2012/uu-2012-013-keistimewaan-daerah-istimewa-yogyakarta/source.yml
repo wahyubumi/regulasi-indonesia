@@ -1,0 +1,22 @@
+id: uu-2012-013
+judul: Undang-Undang Nomor 13 Tahun 2012 tentang KEISTIMEWAAN DAERAH ISTIMEWA YOGYAKARTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ca97a027f313e97fc7d326d25b197aad5097c0167f6694c941e6dff451cad235
+  file_size_bytes: 184140
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-2012.pdf'

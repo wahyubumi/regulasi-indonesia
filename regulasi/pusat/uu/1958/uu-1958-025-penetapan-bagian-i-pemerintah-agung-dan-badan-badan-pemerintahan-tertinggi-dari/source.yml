@@ -1,0 +1,24 @@
+id: uu-1958-025
+judul: Undang-Undang Nomor 25 Tahun 1958 tentang PENETAPAN BAGIAN I (PEMERINTAH AGUNG
+  DAN BADAN-BADAN PEMERINTAHAN TERTINGGI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN
+  DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 68278d2548da5ed4623338c200eff32e608866718a6a6214de8d8127b051736e
+  file_size_bytes: 19323
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-1958.pdf'

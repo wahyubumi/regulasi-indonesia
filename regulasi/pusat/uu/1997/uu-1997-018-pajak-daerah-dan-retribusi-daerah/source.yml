@@ -1,0 +1,22 @@
+id: uu-1997-018
+judul: Undang-Undang Nomor 18 Tahun 1997 tentang PAJAK DAERAH DAN RETRIBUSI DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dedbdd4e8d0a7612dba3ac98618f37a1a1855bbe6e42bfa7f3482f5b3ce2c16a
+  file_size_bytes: 157736
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-1997.pdf'

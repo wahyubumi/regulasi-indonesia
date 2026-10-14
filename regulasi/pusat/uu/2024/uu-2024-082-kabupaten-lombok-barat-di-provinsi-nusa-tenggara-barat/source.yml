@@ -1,0 +1,23 @@
+id: uu-2024-082
+judul: Undang-Undang Nomor 82 Tahun 2024 tentang KABUPATEN LOMBOK BARAT DI PROVINSI
+  NUSA TENGGARA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1c1d3f68feed51322ce9eccee4f6383947ccdb58b1d7fc6353badfa763b3c767
+  file_size_bytes: 430123
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-82-tahun-2024.pdf'

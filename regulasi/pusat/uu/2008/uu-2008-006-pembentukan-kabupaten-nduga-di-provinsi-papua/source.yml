@@ -1,0 +1,23 @@
+id: uu-2008-006
+judul: Undang-Undang Nomor 6 Tahun 2008 tentang PEMBENTUKAN KABUPATEN NDUGA DI PROVINSI
+  PAPUA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 87ab15ca40aaa6587a42522369bb4a0d744035425608ad367a4afddcf607a431
+  file_size_bytes: 171766
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+6+TH+2008.pdf'

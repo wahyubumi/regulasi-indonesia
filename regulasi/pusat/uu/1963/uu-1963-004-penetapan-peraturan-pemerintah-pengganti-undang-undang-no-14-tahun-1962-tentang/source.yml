@@ -1,0 +1,25 @@
+id: uu-1963-004
+judul: Undang-Undang Nomor 4 Tahun 1963 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 14 TAHUN 1962 TENTANG PEMUNGUTAN SUMBANGAN WAJIB ISTIMEWA TAHUN
+  1962 TENTANG PEMUNGUTAN SUMBANGAN WAJIB ISTIMEWA ATAS KENDARAAN BERMOTOR YANG DIIMPOR
+  KEDALAM DAERAH PABEAN INDONESIA (LEMBARAN NEGARA TAHUN 1962 NO. 52), MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6a2a90757ee5c4ec63d7790f6573f09e149ceb7720699e0a3453b0fa021c6c5c
+  file_size_bytes: 31810
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041963.pdf'

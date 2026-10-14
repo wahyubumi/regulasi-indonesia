@@ -1,0 +1,23 @@
+id: uu-2024-037
+judul: Undang-Undang Nomor 37 Tahun 2024 tentang KABUPATEN BATANGHARI DI PROVINSI
+  JAMBI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e832de32ac95d9a0680ab2f6dea47a3bb77eb783e41bc8bcf4ca486ad8193206
+  file_size_bytes: 579418
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-37-tahun-2024.pdf'

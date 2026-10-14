@@ -1,0 +1,23 @@
+id: uu-1966-006
+judul: Undang-Undang Nomor 6 Tahun 1966 tentang PEMBERIAN PENSIUN, TUNJANGAN BERSIFAT
+  PENSIUN DAN TUNJANGAN KEPADA MILITER SUKARELA DENGAN RAKHMAT TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d61d96b7e69051e5c5942ca1b7417658950322f822216458219fbcdb35951382
+  file_size_bytes: 70266
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0061966.pdf'

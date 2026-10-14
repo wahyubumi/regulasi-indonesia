@@ -1,0 +1,23 @@
+id: uu-2012-024
+judul: Undang-Undang Nomor 24 Tahun 2012 tentang PEMBENTUKAN KABUPATEN PEGUNUNGAN
+  ARFAK DI PROVINSI PAPUA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: be1de188c11c70965c57a9db11227260adeee44e1a59e44cd08a57ebaf28bcfb
+  file_size_bytes: 159125
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-2012bt.pdf'

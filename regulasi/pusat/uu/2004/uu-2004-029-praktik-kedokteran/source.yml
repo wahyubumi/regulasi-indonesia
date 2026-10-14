@@ -1,0 +1,22 @@
+id: uu-2004-029
+judul: Undang-Undang Nomor 29 Tahun 2004 tentang PRAKTIK KEDOKTERAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 168d0dacf363e612d3e316aaf1de229bf8138f6baa5ee98a5023a92dd88baaa6
+  file_size_bytes: 269306
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu29-2004.pdf'

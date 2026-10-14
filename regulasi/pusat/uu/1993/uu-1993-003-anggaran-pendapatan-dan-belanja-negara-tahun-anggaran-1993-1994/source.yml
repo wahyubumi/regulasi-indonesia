@@ -1,0 +1,23 @@
+id: uu-1993-003
+judul: Undang-Undang Nomor 3 Tahun 1993 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 1993/1994
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fde588d424c2d8fef9ea05090d838d3525b245e7e34eb8b085074bcd98c35b2e
+  file_size_bytes: 45781
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0031993.pdf'

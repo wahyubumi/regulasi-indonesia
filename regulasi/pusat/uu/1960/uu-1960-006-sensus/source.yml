@@ -1,0 +1,22 @@
+id: uu-1960-006
+judul: Undang-Undang Nomor 6 Tahun 1960 tentang SENSUS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e5eeb3ce2f8379f5da1ac98b07b4fb992ddba3bedf5f97f3a28adf5dcb2ea785
+  file_size_bytes: 54119
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0061960.pdf'

@@ -1,0 +1,24 @@
+id: uu-1958-073
+judul: Undang-Undang Nomor 73 Tahun 1958 tentang MENYATAKAN BERLAKUNYA UNDANG-UNDANG
+  NO. 1 TAHUN 1946 REPUBLIK INDONESIA TENTANG PERATURAN HUKUM PIDANA UNTUK SELURUH
+  WILAYAH REPUBLIK INDONESIA DAN MENGUBAH KITAB UNDANG-UNDANG HUKUM PIDANA *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 150bc3e963f0b3bc87bb932cce190b7d87d56a524db27d501af6564e3c38cc84
+  file_size_bytes: 28510
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu73-1958.pdf'

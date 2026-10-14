@@ -1,0 +1,23 @@
+id: uu-1989-007
+judul: Undang-Undang Nomor 7 Tahun 1989 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  7 TAHUN 1989 TENTANG PERADILAN AGAMA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3c1dc51193ad2da97970baea1c80c25f4aebefbd5ab1447373e501fb1dd1348a
+  file_size_bytes: 209160
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2006.pdf'

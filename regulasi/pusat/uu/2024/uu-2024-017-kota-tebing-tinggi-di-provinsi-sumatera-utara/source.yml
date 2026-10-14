@@ -1,0 +1,23 @@
+id: uu-2024-017
+judul: Undang-Undang Nomor 17 Tahun 2024 tentang KOTA TEBING TINGGI DI PROVINSI SUMATERA
+  UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dad455e545658d09359b090f2cca7fe97a17dd95e22c1e37426e0e5695322204
+  file_size_bytes: 723280
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-17-tahun-2024.pdf'

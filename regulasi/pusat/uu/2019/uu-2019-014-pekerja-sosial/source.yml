@@ -1,0 +1,22 @@
+id: uu-2019-014
+judul: Undang-Undang Nomor 14 Tahun 2019 tentang PEKERJA SOSIAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d89432797bde6da00d34f7cd9e204ae3ec9c828eb762a813e798c32b1fd77a08
+  file_size_bytes: 351031
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2019bt.pdf'

@@ -1,0 +1,22 @@
+id: uu-1992-004
+judul: Undang-Undang Nomor 4 Tahun 1992 tentang PERUMAHAN DAN PERMUKIMAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0f05273dbd7649a137524a1b20c5fdc4ba90e8ed8e86248f373217c0ac3c7ab5
+  file_size_bytes: 142601
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+4+TH+1992.pdf'

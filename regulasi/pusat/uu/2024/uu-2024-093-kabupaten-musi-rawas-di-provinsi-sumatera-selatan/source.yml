@@ -1,0 +1,23 @@
+id: uu-2024-093
+judul: Undang-Undang Nomor 93 Tahun 2024 tentang KABUPATEN MUSI RAWAS DI PROVINSI
+  SUMATERA SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7514c63234b0fb4ceee5243d5fe2440d0c5287de8a9c89d9e28eb0e5dc7637a9
+  file_size_bytes: 416265
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-93-tahun-2024.pdf'

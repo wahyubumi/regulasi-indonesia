@@ -1,0 +1,22 @@
+id: uu-1992-009
+judul: Undang-Undang Nomor 9 Tahun 1992 tentang KEIMIGRASIAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f6abab8567344048ef3940f0add3bc6da80fe8fd5aeeb9f69d372ce5fb4b6bd9
+  file_size_bytes: 146605
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+9+TH+1992.pdf'

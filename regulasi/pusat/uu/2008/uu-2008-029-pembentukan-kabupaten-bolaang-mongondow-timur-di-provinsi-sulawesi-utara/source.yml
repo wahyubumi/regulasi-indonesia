@@ -1,0 +1,23 @@
+id: uu-2008-029
+judul: Undang-Undang Nomor 29 Tahun 2008 tentang PEMBENTUKAN KABUPATEN BOLAANG MONGONDOW
+  TIMUR DI PROVINSI SULAWESI UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6badcd5343d7ec13baa38fa280ff8e90067d8c0b4d742151ff642a6b8037d9cd
+  file_size_bytes: 138923
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+29+2008.pdf'

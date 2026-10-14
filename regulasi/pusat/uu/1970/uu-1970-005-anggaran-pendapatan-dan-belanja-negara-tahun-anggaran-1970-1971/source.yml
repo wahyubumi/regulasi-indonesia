@@ -1,0 +1,23 @@
+id: uu-1970-005
+judul: Undang-Undang Nomor 5 Tahun 1970 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 1970/1971
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ba29c38cd52cd650c94e7234c5745430c22db03aad1101a5f910d50fd767ba4a
+  file_size_bytes: 43689
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0051970.pdf'

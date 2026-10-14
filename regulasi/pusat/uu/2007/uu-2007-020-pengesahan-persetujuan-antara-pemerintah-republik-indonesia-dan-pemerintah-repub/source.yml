@@ -1,0 +1,26 @@
+id: uu-2007-020
+judul: Undang-Undang Nomor 20 Tahun 2007 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK FILIPINA TENTANG KEGIATAN KERJASAMA DI
+  BIDANG PERTAHANAN DAN KEAMANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC
+  OF INDONESIA AND THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES ON COOPERATIVE
+  ACTIVITIES IN THE FIELD OF DEFENSE AND SECURITY)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ec42cc60d7c8365443a8f077797ac2114a1fbbbba53003e644535a3d88d5003c
+  file_size_bytes: 49257
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-2007.pdf'

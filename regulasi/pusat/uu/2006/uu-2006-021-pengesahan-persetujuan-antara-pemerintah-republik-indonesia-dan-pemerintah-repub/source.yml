@@ -1,0 +1,26 @@
+id: uu-2006-021
+judul: Undang-Undang Nomor 21 Tahun 2006 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK INDIA TENTANG KEGIATAN KERJA SAMA DI
+  BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA
+  AND THE GOVERNMENT OF THE REPUBLIC OF INDIA ON COOPERATIVE ACTIVlTIES IN THE FIELD
+  OF DEFENCE
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fea54220a1660c770f4b4fa16e8c826ae96fd59b4b285bc36cc984ff338ab0f2
+  file_size_bytes: 21010
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-2006.pdf'

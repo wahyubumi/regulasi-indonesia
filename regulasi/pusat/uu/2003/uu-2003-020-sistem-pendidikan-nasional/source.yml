@@ -1,0 +1,22 @@
+id: uu-2003-020
+judul: Undang-Undang Nomor 20 Tahun 2003 tentang SISTEM PENDIDIKAN NASIONAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 78a12175a94be16b5fdef9786ef1c41cca2ccf7cb756f9a63d4acca8e89929c9
+  file_size_bytes: 114713
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-2003.pdf'

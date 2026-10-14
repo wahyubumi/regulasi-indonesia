@@ -1,0 +1,22 @@
+id: uu-1964-009
+judul: Undang-Undang Nomor 9 Tahun 1964 tentang GERAKAN SUKARELAWAN INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4e1856587a075a2fa12ffd667f4d24e924f95974e622c0da311f04b56c86c395
+  file_size_bytes: 81866
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0091964.pdf'

@@ -1,0 +1,23 @@
+id: uu-2022-002
+judul: Undang-Undang Nomor 2 Tahun 2022 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 590093603e55b1564cc94e016a8d98b453a86fca0db0df49e4579035caaa776f
+  file_size_bytes: 15083288
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-6-tahun-2023.pdf'

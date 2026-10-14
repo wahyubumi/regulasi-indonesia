@@ -1,0 +1,22 @@
+id: uu-2001-009
+judul: Undang-Undang Nomor 9 Tahun 2001 tentang PEMBENTUKAN KOTA CIMAHI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3a04ac2026eb412483ce56f78c14a1ceedd492dde5ca372aa39e9eb5e68766d1
+  file_size_bytes: 59418
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-2001.pdf'

@@ -1,0 +1,23 @@
+id: uu-1985-006
+judul: Undang-Undang Nomor 6 Tahun 1985 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 1981/1982
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3a8090eaa379cd1868f5dc363146993008c1f6cda718a23c3a12d841fe7aba21
+  file_size_bytes: 17897
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1985.pdf'

@@ -1,0 +1,26 @@
+id: uu-2007-018
+judul: Undang-Undang Nomor 18 Tahun 2007 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK SOSIALIS VIETNAM TENTANG PENETAPAN BATAS
+  LANDAS KONTINEN, 2003 (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA
+  AND THE GOVERNMENT OF THE SOCIALIST REPUBLIC OF VIETNAM CONCERNING THE DELIMITATION
+  OF THE CONTINENTAL SHELF BOUNDARY, 2003)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b233b5c0e753a322f8562171b8f1bb899024a61c1a4540895e661d54b1d8e084
+  file_size_bytes: 54048
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-2007.pdf'

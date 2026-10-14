@@ -1,0 +1,23 @@
+id: uu-2024-086
+judul: Undang-Undang Nomor 86 Tahun 2024 tentang KABUPATEN BENGKULU SELATAN DI PROVINSI
+  BENGKULU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ba2d5e6b0c5aa6d64c2e788f9c3a8bd8c95ef1fc3d05068d06984f93e0905a04
+  file_size_bytes: 492437
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-86-tahun-2024.pdf'

@@ -1,0 +1,23 @@
+id: uu-1999-026
+judul: Undang-Undang Nomor 26 Tahun 1999 tentang PENCABUTAN UNDANG-UNDANG NOMOR 11/PNPS/TAHUN
+  1963 TENTANG PEMBERANTASAN KEGIATAN SUBVERSI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9b5ad53ba16e1310396d3ed4675fdc3358c98398b0a2a1bfb5a1ace47cb50010
+  file_size_bytes: 43072
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu26-1999.pdf'

@@ -1,0 +1,23 @@
+id: uu-2023-019
+judul: Undang-Undang Nomor 19 Tahun 2023 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 2024
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1cd22482c19e39b8615521013f833153a6718cf1db0cea4646805fc230c5e817
+  file_size_bytes: 10716750
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-19-tahun-2023.pdf'

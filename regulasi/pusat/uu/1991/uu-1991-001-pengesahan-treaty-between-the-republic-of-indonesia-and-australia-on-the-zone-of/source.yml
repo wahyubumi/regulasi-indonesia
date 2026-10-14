@@ -1,0 +1,26 @@
+id: uu-1991-001
+judul: Undang-Undang Nomor 1 Tahun 1991 tentang PENGESAHAN "TREATY BETWEEN THE REPUBLIC
+  OF INDONESIA AND AUSTRALIA ON THE ZONE OF COOPERATION IN AN AREA BETWEEN THE INDONESIAN
+  PROVINCE OF EAST TIMOR AND NORTHERN AUSTRALIA" (PERJANJIAN ANTARA REPUBLIK INDONESIA
+  DAN AUSTRALIA MENGENAI ZONA KERJASAMA DI DAERAH ANTARA PROPINSI TIMOR TIMUR DAN
+  AUSTRALIA BAGIAN UTARA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6ebd1c27a3abe71d862ade236e4cba105c54dd7c064212cfa35dab3fde101847
+  file_size_bytes: 68127
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+1+TH+1991.pdf'

@@ -1,0 +1,23 @@
+id: uu-2007-037
+judul: Undang-Undang Nomor 37 Tahun 2007 tentang PEMBENTUKAN KABUPATEN PADANG LAWAS
+  UTARA DI PROVINSI SUMATERA UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bf415cd059223ecda0031a11f93dbe8f289d0a4dcc4ed143831c9153e96929e2
+  file_size_bytes: 207862
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu37-2007.pdf'

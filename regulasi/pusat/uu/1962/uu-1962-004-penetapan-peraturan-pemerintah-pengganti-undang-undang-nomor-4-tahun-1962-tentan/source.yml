@@ -1,0 +1,24 @@
+id: uu-1962-004
+judul: Undang-Undang Nomor 4 Tahun 1962 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NOMOR 4 TAHUN 1962 TENTANG PERJANJIAN KARYA ANTARA PERUSAHAAN NEGARA
+  PERTAMINA DAN PAN AMERICAN OIL COMPANY MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 39ea733cfb012f5312e032a4a4841aab9e0fe91166921033bd0af4ce767e457a
+  file_size_bytes: 35413
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0131963.pdf'

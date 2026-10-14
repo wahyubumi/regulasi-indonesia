@@ -1,0 +1,22 @@
+id: uu-2024-040
+judul: Undang-Undang Nomor 40 Tahun 2024 tentang KOTA JAMBI DI PROVINSI JAMBI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 30d8aea2efedebfee021f5f7eaeb88dbd6d81a61e05895082452db7c0faac0fc
+  file_size_bytes: 575347
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-40-tahun-2024.pdf'

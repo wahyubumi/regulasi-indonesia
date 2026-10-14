@@ -1,0 +1,24 @@
+id: uu-1958-071
+judul: Undang-Undang Nomor 71 Tahun 1958 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  4 TAHUN 1958 TENTANG PENGUBAHAN UNDANG-UNDANG MATA UANG TAHUN 1953 (LEMBARAN-NEGARA
+  TAHUN 1958 NO. 46), SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 10eb2ab6a3eff7416f3f16dfc1709842c1957eae1dcc111f67a9a6e3e327d12c
+  file_size_bytes: 22603
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu71-1958.pdf'

@@ -1,0 +1,23 @@
+id: uu-1999-051
+judul: Undang-Undang Nomor 51 Tahun 1999 tentang PEMBENTUKAN KABUPATEN BUOL, KABUPATEN
+  MOROWALI, DAN KABUPATEN BANGGAI KEPULAUAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8feef581ff9f842e2e490c9713299c9b8aabb53f1b7920b55ec58f8433393b5e
+  file_size_bytes: 83890
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu51-1999.pdf'

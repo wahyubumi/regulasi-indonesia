@@ -1,0 +1,23 @@
+id: uu-1954-044
+judul: Undang-Undang Nomor 44 Tahun 1954 tentang PENETAPAN BAGIAN VB (KEMENTRIAN PERKONOMIAN)
+  DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f8f7ae44be3fb73365cd2cb54d4123978707e9441e2d86ebaaca982b6cf9d0e6
+  file_size_bytes: 92557
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu44-1954.pdf'

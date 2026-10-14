@@ -1,0 +1,23 @@
+id: uu-1956-016
+judul: Undang-Undang Nomor 16 Tahun 1956 tentang PENGUBAHAN DAN PENAMBAHAN ORDONANSI
+  CUKAI TEMBAKAU (STAATSBLAD 1932 NO. 517)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d274798f3e1c7da59a9fc46fe0a0f40e74253407e7c9ce966388bb48f321d3c3
+  file_size_bytes: 98732
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-1956.pdf'

@@ -1,0 +1,23 @@
+id: uu-1986-004
+judul: Undang-Undang Nomor 4 Tahun 1986 tentang ku PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 1982/1983
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ff48f38749c159bd9aaf6f8ed2ded87d048bbc1f5d58264d84f4c5ffb6c83ff6
+  file_size_bytes: 29646
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1986.pdf'

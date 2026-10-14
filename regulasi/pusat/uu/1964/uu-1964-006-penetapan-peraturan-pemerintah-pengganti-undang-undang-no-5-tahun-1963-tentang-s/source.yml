@@ -1,0 +1,24 @@
+id: uu-1964-006
+judul: Undang-Undang Nomor 6 Tahun 1964 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 5 TAHUN 1963 TENTANG SURAT HUTANG LANDREFORM (LEMBARAN NEGARA
+  TAHUN 1963 NO. 63) MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b8389f70602b796e93e6231d925c5341b2722cc8cabf5817b16c0cedce82f4ba
+  file_size_bytes: 85924
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0061964.pdf'

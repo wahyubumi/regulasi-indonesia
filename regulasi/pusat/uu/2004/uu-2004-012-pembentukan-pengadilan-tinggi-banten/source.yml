@@ -1,0 +1,22 @@
+id: uu-2004-012
+judul: Undang-Undang Nomor 12 Tahun 2004 tentang PEMBENTUKAN PENGADILAN TINGGI BANTEN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d510ae8253a15243decc87df1a6fc6146e45aab35a85fe12b6ab55aad9f4b0e3
+  file_size_bytes: 41808
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2004.pdf'

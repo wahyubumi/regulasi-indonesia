@@ -1,0 +1,24 @@
+id: uu-1958-019
+judul: Undang-Undang Nomor 19 Tahun 1958 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.26
+  TAHUN 1957 TENTANG ANGGOTA ANGKATAN PERANG BERDASARKAN IKATAN DINAS SUKARELA (MILITER
+  SUKARELA) (LEMBARAN-NEGARA TAHUN 1957 NO. 83) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b896825c4116d0a27d9cb57b8bec639c025d9e91a1e7b69e9033585a92787bf5
+  file_size_bytes: 39856
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu19-1958.pdf'

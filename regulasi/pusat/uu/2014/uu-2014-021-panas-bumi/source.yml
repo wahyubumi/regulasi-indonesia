@@ -1,0 +1,22 @@
+id: uu-2014-021
+judul: Undang-Undang Nomor 21 Tahun 2014 tentang PANAS BUMI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d6971491f00133e9a263412e18599fc7a590f5f261ddb248991de69904edc509
+  file_size_bytes: 122515
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-2014bt.pdf'

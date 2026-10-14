@@ -1,0 +1,23 @@
+id: uu-1957-068
+judul: Undang-Undang Nomor 68 Tahun 1957 tentang PERSETUJUAN PERJANJIAN PERSAHABATAN
+  ANTARA NEGARA REPUBLIK INDONESIA DAN KERAJAAN AFGHANISTAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 63e16f0cd468e745751646c4cdff7203f5815fa1f3f04f8152865feef6c2a8b4
+  file_size_bytes: 28780
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu68-1957.pdf'

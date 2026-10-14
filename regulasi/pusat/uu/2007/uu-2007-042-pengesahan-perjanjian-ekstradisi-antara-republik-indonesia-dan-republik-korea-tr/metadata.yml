@@ -1,0 +1,66 @@
+id: uu-2007-042
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '42'
+nomor_lengkap: '42'
+tahun: 2007
+judul: PENGESAHAN PERJANJIAN EKSTRADISI ANTARA REPUBLIK INDONESIA DAN REPUBLIK KOREA
+  (TREATY ON EXTRADITION BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF KOREA)
+judul_lengkap: Undang-Undang Nomor 42 Tahun 2007 tentang PENGESAHAN PERJANJIAN EKSTRADISI
+  ANTARA REPUBLIK INDONESIA DAN REPUBLIK KOREA (TREATY ON EXTRADITION BETWEEN THE
+  REPUBLIC OF INDONESIA AND THE REPUBLIC OF KOREA)
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari 314dc5211fc2__uu42-2007__undated__uu-2007-042__pengesahan-perjanjian-ekstradisi-antara-republik-indonesia-dan-republik-korea-treaty-on-extradition-.md

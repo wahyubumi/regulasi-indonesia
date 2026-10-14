@@ -1,0 +1,22 @@
+id: uu-1954-028
+judul: Undang-Undang Nomor 28 Tahun 1954 tentang BIAYA LEGALISASI TANDA TANGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 46facd5aa094622b88149169cafb9e94130b2a32e2fe727a301b9db483b2261b
+  file_size_bytes: 88448
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu28-1954.pdf'

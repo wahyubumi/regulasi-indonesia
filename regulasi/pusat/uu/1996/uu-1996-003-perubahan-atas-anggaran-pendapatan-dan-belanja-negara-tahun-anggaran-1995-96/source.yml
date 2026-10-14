@@ -1,0 +1,23 @@
+id: uu-1996-003
+judul: Undang-Undang Nomor 3 Tahun 1996 tentang PERUBAHAN ATAS ANGGARAN PENDAPATAN
+  DAN BELANJA NEGARA TAHUN ANGGARAN 1995/96
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 45ab4978aff934530dcc716c660f72882d6c96db01a64c3f482c5b17fd728b49
+  file_size_bytes: 76441
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1996.pdf'

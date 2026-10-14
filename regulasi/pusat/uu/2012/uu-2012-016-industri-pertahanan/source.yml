@@ -1,0 +1,22 @@
+id: uu-2012-016
+judul: Undang-Undang Nomor 16 Tahun 2012 tentang INDUSTRI PERTAHANAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f360c4cfd06f8ce7e99b2b85b042d045f276680d59c3938ade8bc5750d983b31
+  file_size_bytes: 105676
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-2012bt.pdf'

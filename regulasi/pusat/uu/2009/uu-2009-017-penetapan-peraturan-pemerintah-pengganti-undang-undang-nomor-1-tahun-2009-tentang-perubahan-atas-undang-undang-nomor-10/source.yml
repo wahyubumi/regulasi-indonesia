@@ -1,0 +1,25 @@
+id: uu-2009-017
+judul: Undang-Undang Nomor 17 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti
+  Undang-Undang Nomor 1 Tahun 2009 Tentang Perubahan Atas Undang-Undang Nomor 10 Tahun
+  2008 Tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah,
+  Dan Dewan Perwakilan Rakyat Daerah Menjadi Undang-Undang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,22 @@
+id: uu-2009-039
+judul: Undang-Undang Nomor 39 Tahun 2009 tentang KAWASAN EKONOMI KHUSUS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 648a2878e29c4343e8e087ab7b1cefa5b8bfca6e79aeed0da557718cb14dfabd
+  file_size_bytes: 80179
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu39-2009.pdf'

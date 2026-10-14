@@ -1,0 +1,22 @@
+id: uu-2024-076
+judul: Undang-Undang Nomor 76 Tahun 2024 tentang KABUPATEN JEMBRANA DI PROVINSI BALI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 12f4fdf9c327ae745e00479b32a0b2378f8d25b1c62837d86687296744ac0a70
+  file_size_bytes: 511005
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-76-tahun-2024.pdf'

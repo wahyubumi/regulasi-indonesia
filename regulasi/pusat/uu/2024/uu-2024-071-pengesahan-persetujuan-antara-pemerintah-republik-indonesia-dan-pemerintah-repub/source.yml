@@ -1,0 +1,25 @@
+id: uu-2024-071
+judul: Undang-Undang Nomor 71 Tahun 2024 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK PRANCIS TENTANG KERJA SAMA DI BIDANG
+  rERTAHANAN lAccoRD ENTRE LE a)WERNDMENT DE LA nEeuaugue o'mpox4sre ET LE GowERNEMENT
+  oe ta nb,euaugw FRAN7ATSE RELATIo e te coop4nerrou DANS LE DoMAINE DE te o0ramsq
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1367bfaae87ef1df3fefafb4df58d0bc47d528f408a5bd21b5b03a08188fb8b8
+  file_size_bytes: 391896
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-71-tahun-2024.pdf'

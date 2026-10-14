@@ -1,0 +1,22 @@
+id: uu-2000-038
+judul: Undang-Undang Nomor 38 Tahun 2000 tentang PEMBENTUKAN PROVINSI GORONTALO
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 86dd9709c0af4e79b0a1bd8685dfe4c8a7e5a8c6fee8b869c0c039bb6bf6f0ef
+  file_size_bytes: 77050
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu38-2000.pdf'

@@ -1,0 +1,22 @@
+id: uu-1958-083
+judul: Undang-Undang Nomor 83 Tahun 1958 tentang PENERBANGAN *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f80d33ef9cd6acf68298f5547eb543b7b62e8d24e008325693ffe12bb3c5a465
+  file_size_bytes: 63780
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu83-1958.pdf'

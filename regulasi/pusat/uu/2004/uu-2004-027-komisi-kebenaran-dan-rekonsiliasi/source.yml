@@ -1,0 +1,22 @@
+id: uu-2004-027
+judul: Undang-Undang Nomor 27 Tahun 2004 tentang KOMISI KEBENARAN DAN REKONSILIASI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7a766c78adc324315aa41d0796fc9c808bdabdf5220d0589bac4167287a85c5b
+  file_size_bytes: 122752
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-2004.pdf'

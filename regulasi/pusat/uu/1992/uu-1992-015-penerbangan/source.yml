@@ -1,0 +1,22 @@
+id: uu-1992-015
+judul: Undang-Undang Nomor 15 Tahun 1992 tentang PENERBANGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5968561118df8f64324431a6c5ef488f35cbf8add4ae97021196146dbebd5bad
+  file_size_bytes: 149645
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+15+TH+1992.pdf'

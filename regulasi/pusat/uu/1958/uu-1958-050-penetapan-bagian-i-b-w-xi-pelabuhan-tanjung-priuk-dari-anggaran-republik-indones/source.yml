@@ -1,0 +1,23 @@
+id: uu-1958-050
+judul: Undang-Undang Nomor 50 Tahun 1958 tentang PENETAPAN BAGIAN I.B.W. XI (PELABUHAN
+  TANJUNG PRIUK) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d4684c976f73b16b37b9b43eb973ae49e18d46f0fbb2f2a87f98e978bc7f19b0
+  file_size_bytes: 14109
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu50-1958.pdf'

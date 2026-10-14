@@ -1,0 +1,23 @@
+id: uu-2024-046
+judul: Undang-Undang Nomor 46 Tahun 2024 tentang KABUPATEN AGAM DI PROVINSI SUMATERA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2c730fbb6e2bdb87382924e099875c7a09a1016878192b22663451eb0dc0ca3f
+  file_size_bytes: 804188
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-46-tahun-2024.pdf'

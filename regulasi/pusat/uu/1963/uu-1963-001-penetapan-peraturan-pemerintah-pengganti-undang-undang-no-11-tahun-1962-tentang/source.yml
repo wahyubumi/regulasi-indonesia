@@ -1,0 +1,24 @@
+id: uu-1963-001
+judul: Undang-Undang Nomor 1 Tahun 1963 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 11 TAHUN 1962 TENTANG PEMUNGUTAN SUMBANGAN WAJIB ISTIMEWA ATAS
+  BEBERAPA JENIS BARANG (LEMBARAN NEGARA TAHUN 1962 NO. 49), MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b7209f69ac27171f5825c55b1a25a43767a72f31d5320e6443b54036af058301
+  file_size_bytes: 36821
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0011963.pdf'

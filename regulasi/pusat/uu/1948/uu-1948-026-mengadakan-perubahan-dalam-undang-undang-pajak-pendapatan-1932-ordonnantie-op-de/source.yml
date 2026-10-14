@@ -1,0 +1,23 @@
+id: uu-1948-026
+judul: Undang-Undang Nomor 26 Tahun 1948 tentang MENGADAKAN PERUBAHAN DALAM UNDANG-UNDANG
+  PAJAK PENDAPATAN 1932. (ORDONNANTIE OP DE INKOMSTENBELASTING 1932)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1f78eb41cb45db0cb7865e514aabf703ee5d420195eca96faafb4d9ecd2937f6
+  file_size_bytes: 62329
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu26-1948.pdf'

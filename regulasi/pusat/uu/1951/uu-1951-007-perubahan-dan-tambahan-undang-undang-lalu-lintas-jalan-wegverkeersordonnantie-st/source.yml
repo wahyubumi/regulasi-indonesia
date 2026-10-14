@@ -1,0 +1,23 @@
+id: uu-1951-007
+judul: Undang-Undang Nomor 7 Tahun 1951 tentang PERUBAHAN DAN TAMBAHAN UNDANG-UNDANG
+  LALU-LINTAS JALAN (WEGVERKEERSORDONNANTIE, STAATSBLAD 1933 NO. 86)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0f2c08bf29742e1188f9947180c82bfce08a79da3b52861bc9e46846ad7027ad
+  file_size_bytes: 77845
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1951.pdf'

@@ -1,0 +1,23 @@
+id: uu-1965-001
+judul: Undang-Undang Nomor 1 Tahun 1965 tentang PEMBENTUKAN PENGADILAN TINGGI DI DENPASAR
+  DAN PERUBAHAN DAERAH HUKUM PENGADILAN TINGGI DI MAKASAR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 24e70a0b8fda02545101411339ae2261035d67530a2b70c48b7fb275490dfe7f
+  file_size_bytes: 81314
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0011965.pdf'

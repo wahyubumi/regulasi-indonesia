@@ -1,0 +1,23 @@
+id: uu-2004-022
+judul: Undang-Undang Nomor 22 Tahun 2004 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  22 TAHUN 2004 TENTANG KOMISI YUDISIAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7a5c17028b6cd5b70e5288a8dcdd69a97ed6c507041a27c13202d88014e099b4
+  file_size_bytes: 164211
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+18+Tahun+2011.pdf'

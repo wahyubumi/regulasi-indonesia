@@ -1,0 +1,23 @@
+id: uu-1951-008
+judul: Undang-Undang Nomor 8 Tahun 1951 tentang PENANGGUHAN PEMBERIAN SURAT IDZIN
+  KEPADA DOKTER DAN DOKTER GIGI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 009128a37c0c7e859c26c1b42a1656bbcd9a87906433eda5e56db154429c47bf
+  file_size_bytes: 36951
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1951.pdf'

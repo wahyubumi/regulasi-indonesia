@@ -1,0 +1,22 @@
+id: uu-1946-006
+judul: Undang-Undang Nomor 6 Tahun 1946 tentang KEADAAN BAHAYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 24b3e115a1d3fed72b7be40f94a35faf414cc078729605e857751aa6cf17b783
+  file_size_bytes: 49792
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1946.pdf'

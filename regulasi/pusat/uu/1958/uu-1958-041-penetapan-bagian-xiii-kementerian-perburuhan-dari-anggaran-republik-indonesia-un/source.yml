@@ -1,0 +1,23 @@
+id: uu-1958-041
+judul: Undang-Undang Nomor 41 Tahun 1958 tentang PENETAPAN BAGIAN XIII (KEMENTERIAN
+  PERBURUHAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: de52f7452f4bbaa3dcf2bcef0651754387111dea9425e9e3656715e98ea79c19
+  file_size_bytes: 22425
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu41-1958.pdf'

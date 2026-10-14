@@ -1,0 +1,23 @@
+id: uu-1957-037
+judul: Undang-Undang Nomor 37 Tahun 1957 tentang PENETAPAN BAGIAN VA (KEMENTRIAN PERTANIAN)
+  DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6b89fb6f470de39ba021ad9fa1df76f26e608f68e39fc003948eebf489d2f765
+  file_size_bytes: 44127
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu37-1957.pdf'

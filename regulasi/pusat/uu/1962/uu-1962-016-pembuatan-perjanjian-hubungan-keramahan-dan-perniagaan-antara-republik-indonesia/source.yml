@@ -1,0 +1,23 @@
+id: uu-1962-016
+judul: Undang-Undang Nomor 16 Tahun 1962 tentang PEMBUATAN PERJANJIAN HUBUNGAN KERAMAHAN
+  DAN PERNIAGAAN ANTARA REPUBLIK INDONESIA DENGAN JEPANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 99e1768d6eab62157ae7e20a37883013af60cceaa829aeee52f7ddd57709cc70
+  file_size_bytes: 33083
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0161962.pdf'

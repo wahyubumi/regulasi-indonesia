@@ -1,0 +1,23 @@
+id: uu-2024-083
+judul: Undang-Undang Nomor 83 Tahun 2024 tentang KABUPATEN LOMBOK TENGAH DI PROVINSI
+  NUSA TENGGARA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9055843b08a23d0e8e6e6d14670fddd8ddf4b6713b60d85b04752c6a3b61b4dc
+  file_size_bytes: 460341
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-83-tahun-2024.pdf'

@@ -1,0 +1,22 @@
+id: uu-2000-030
+judul: Undang-Undang Nomor 30 Tahun 2000 tentang RAHASIA DAGANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a4dc3d1bad8695cb1e6a46918235a2a88a02d359b318a4b12bda7d40605fa037
+  file_size_bytes: 75136
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu30-2000.pdf'

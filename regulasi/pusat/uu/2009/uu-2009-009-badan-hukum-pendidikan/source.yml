@@ -1,0 +1,22 @@
+id: uu-2009-009
+judul: Undang-Undang Nomor 9 Tahun 2009 tentang BADAN HUKUM PENDIDIKAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4bfe15288e6b395ba813d49f16682b5b5092478fa96b110c3d1b245d93ee138f
+  file_size_bytes: 98614
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-2009.pdf'

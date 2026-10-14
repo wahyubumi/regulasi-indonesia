@@ -1,0 +1,23 @@
+id: uu-1948-018
+judul: Undang-Undang Nomor 18 Tahun 1948 tentang MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN-PERATURAN
+  DEWAN PERTAHANAN NEGARA NO. 5, 7 JO. 31, 8 JO. 34, 9 JO. 34, 11 DAN 16
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5722f6ac4938ef269783d8e9a6c5463f8e614eeb60287bd38747d9b659870280
+  file_size_bytes: 42703
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-1948.pdf'

@@ -1,0 +1,23 @@
+id: uu-2013-023
+judul: Undang-Undang Nomor 23 Tahun 2013 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 2014
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f28020562df9cd4e548b8ae9099707d57415c1b325253d37b6d8723061199b93
+  file_size_bytes: 146379
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-2013bt.pdf'

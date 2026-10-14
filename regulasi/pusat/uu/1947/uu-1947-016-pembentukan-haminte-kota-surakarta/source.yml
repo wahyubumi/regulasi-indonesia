@@ -1,0 +1,22 @@
+id: uu-1947-016
+judul: Undang-Undang Nomor 16 Tahun 1947 tentang PEMBENTUKAN HAMINTE-KOTA SURAKARTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5e2dca41c0689803b860305993d6b5592ab95d01741c1151df27e9d7c0c29a6a
+  file_size_bytes: 87225
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-1947.pdf'

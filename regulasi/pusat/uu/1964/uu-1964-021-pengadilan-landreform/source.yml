@@ -1,0 +1,22 @@
+id: uu-1964-021
+judul: Undang-Undang Nomor 21 Tahun 1964 tentang PENGADILAN LANDREFORM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b6d41b93e27d93decb286aefb71566b00e1fb7554abcf6b738023dc78d3e9627
+  file_size_bytes: 126385
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0211964.pdf'

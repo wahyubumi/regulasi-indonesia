@@ -1,0 +1,23 @@
+id: uu-2003-030
+judul: Undang-Undang Nomor 30 Tahun 2003 tentang PEMBENTUKAN KABUPATEN SUMBAWA BARAT
+  DI PROVINSI NUSA TENGGARA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e71eb5374658b16ddc5a696e87598a241f5b44cb5aa494158bfe9b7fe2febdab
+  file_size_bytes: 47106
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0302003.pdf'

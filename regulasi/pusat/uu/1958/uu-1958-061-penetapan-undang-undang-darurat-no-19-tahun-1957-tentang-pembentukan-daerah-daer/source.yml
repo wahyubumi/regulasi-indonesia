@@ -1,0 +1,25 @@
+id: uu-1958-061
+judul: Undang-Undang Nomor 61 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 19 TAHUN 1957 TENTANG PEMBENTUKAN DAERAH-DAERAH SWATANTRA TINGKAT I SUMATERA
+  BARAT, JAMBI DAN RIAU" (LEMBARAN-NEGARA TAHUN 1957 NO. 75), SEBAGAI UNDANG-UNDANG
+  *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fbe86dd3fe6c823e5d397b643ed351fae7787e5fa1de982dbd3e3b506772e566
+  file_size_bytes: 71753
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu61-1958.pdf'

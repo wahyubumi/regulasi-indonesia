@@ -1,0 +1,22 @@
+id: uu-1946-019
+judul: Undang-Undang Nomor 19 Tahun 1946 tentang PENGELUARAN UANG REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 791f2173fcf3ab33353fd63dc6d95abdaeb45a9c74a046318811c28bc1451310
+  file_size_bytes: 40866
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu19-1946.pdf'

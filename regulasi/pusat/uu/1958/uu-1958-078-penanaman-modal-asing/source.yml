@@ -1,0 +1,22 @@
+id: uu-1958-078
+judul: Undang-Undang Nomor 78 Tahun 1958 tentang PENANAMAN MODAL ASING *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 33b34f9a9ff1fa57c9b3de4be4718fa05d66564ed0681a73051b5e35897510b3
+  file_size_bytes: 66075
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu78-1958.pdf'

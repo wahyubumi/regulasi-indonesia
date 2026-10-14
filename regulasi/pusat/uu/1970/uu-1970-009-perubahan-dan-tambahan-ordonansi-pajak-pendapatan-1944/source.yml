@@ -1,0 +1,23 @@
+id: uu-1970-009
+judul: Undang-Undang Nomor 9 Tahun 1970 tentang PERUBAHAN DAN TAMBAHAN ORDONANSI PAJAK
+  PENDAPATAN 1944
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2217c80f59c1e844b2d8bdcfd27b9ba059a591a2d341adbb2d8b97ba2ecd085d
+  file_size_bytes: 35671
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0091970.pdf'

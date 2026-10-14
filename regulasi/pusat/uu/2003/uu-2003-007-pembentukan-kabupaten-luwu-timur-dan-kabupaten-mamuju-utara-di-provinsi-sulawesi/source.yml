@@ -1,0 +1,23 @@
+id: uu-2003-007
+judul: Undang-Undang Nomor 7 Tahun 2003 tentang PEMBENTUKAN KABUPATEN LUWU TIMUR DAN
+  KABUPATEN MAMUJU UTARA DI PROVINSI SULAWESI SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f7acca6ba96042c7534affcb3f191a90357c12978073111800ddd2d4c1ceffbb
+  file_size_bytes: 64106
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0072003.pdf'

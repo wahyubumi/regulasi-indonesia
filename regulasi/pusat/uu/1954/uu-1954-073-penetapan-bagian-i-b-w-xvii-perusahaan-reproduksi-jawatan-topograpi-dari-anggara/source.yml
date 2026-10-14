@@ -1,0 +1,24 @@
+id: uu-1954-073
+judul: Undang-Undang Nomor 73 Tahun 1954 tentang PENETAPAN BAGIAN I.B.W. XVII (PERUSAHAAN
+  REPRODUKSI JAWATAN TOPOGRAPI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN
+  DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7facdce4a1013595922e0bd702460983e73ce2165428c2ca04190e4e4be7e2af
+  file_size_bytes: 69468
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu73-1954.pdf'

@@ -1,0 +1,22 @@
+id: uu-2024-078
+judul: Undang-Undang Nomor 78 Tahun 2024 tentang KABUPATEN KLUNGKUNG DI PROVINSI BALI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 75348a99a31b6e21a7cc90aee7b7e2304aae698efe16598a2cefa7ba6b92765f
+  file_size_bytes: 392030
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-78-tahun-2024.pdf'

@@ -1,0 +1,25 @@
+id: uu-2019-007
+judul: Undang-Undang Nomor 7 Tahun 2019 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH FEDERASI RUSIA TENTANG KERJA SAMA DI BIDANG PERTAHANAN
+  (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT
+  OF THE RUSSIAN FEDERATION ON COOPERATION IN THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 99ab2a2c80d1a95bb018e757a6c094f8fb769940e2d8cd8b681b2b8f023f3ebe
+  file_size_bytes: 186675
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-2019bt.pdf'

@@ -1,0 +1,22 @@
+id: uu-1971-007
+judul: Undang-Undang Nomor 7 Tahun 1971 tentang KETENTUAN POKOK KEARSIPAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 286d6b8fdb4b616826cd9f355d9efecdbe7865433547ffc61e2959e0c5d6aff1
+  file_size_bytes: 49064
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0071971.pdf'

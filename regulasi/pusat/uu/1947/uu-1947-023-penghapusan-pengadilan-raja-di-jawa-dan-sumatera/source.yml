@@ -1,0 +1,23 @@
+id: uu-1947-023
+judul: Undang-Undang Nomor 23 Tahun 1947 tentang PENGHAPUSAN PENGADILAN-RAJA DI JAWA
+  DAN SUMATERA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ec64a474e9c808b5bd761482a07fb0d9754d9ddd23ec40ac92d9b42db0ee25e8
+  file_size_bytes: 53134
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-1947.pdf'

@@ -1,0 +1,26 @@
+id: uu-2007-044
+judul: Undang-Undang Nomor 44 Tahun 2007 tentang Penetapan Peraturan Pemerintah Pengganti
+  Undang-Undang Nomor 1 Tahun 2007 Tentang Perubahan Atas Undang-Undang Nomor 36 Tahun
+  2000 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun
+  2000 Tentang Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Menjadi Undang-Undang
+  Menjadi Undang-Undang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

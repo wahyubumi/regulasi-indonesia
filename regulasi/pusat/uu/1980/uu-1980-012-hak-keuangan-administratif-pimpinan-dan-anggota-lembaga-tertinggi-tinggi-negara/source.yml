@@ -1,0 +1,24 @@
+id: uu-1980-012
+judul: Undang-Undang Nomor 12 Tahun 1980 tentang HAK KEUANGAN/ADMINISTRATIF PIMPINAN
+  DAN ANGGOTA LEMBAGA TERTINGGI/TINGGI NEGARA SERTA BEKAS PIMPINAN LEMBAGA TERTINGGI/TINGGI
+  NEGARA DAN BEKAS ANGGOTA LEMBAGA TINGGI NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: daab3b2f8d481b7bacd3c99e690ded698a02d30bff43ffa27b002f39bf553db3
+  file_size_bytes: 61683
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1980.pdf'

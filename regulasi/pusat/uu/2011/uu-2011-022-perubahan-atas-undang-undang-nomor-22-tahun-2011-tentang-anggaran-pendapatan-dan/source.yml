@@ -1,0 +1,23 @@
+id: uu-2011-022
+judul: Undang-Undang Nomor 22 Tahun 2011 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  22 TAHUN 2011 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2012
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6b2fde4f9572c5c134cfbca914ac4efc9393e63e428e49190dede559ab58034f
+  file_size_bytes: 120939
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2012bt.pdf'

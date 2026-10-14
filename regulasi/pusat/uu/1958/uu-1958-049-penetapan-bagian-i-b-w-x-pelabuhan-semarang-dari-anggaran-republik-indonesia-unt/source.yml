@@ -1,0 +1,23 @@
+id: uu-1958-049
+judul: Undang-Undang Nomor 49 Tahun 1958 tentang PENETAPAN BAGIAN I.B.W. X (PELABUHAN
+  SEMARANG) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 938c2d1121b8e8fb237ebdbb3e18f025b84abfdeed508b2560eac969d877fd59
+  file_size_bytes: 14087
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu49-1958.pdf'

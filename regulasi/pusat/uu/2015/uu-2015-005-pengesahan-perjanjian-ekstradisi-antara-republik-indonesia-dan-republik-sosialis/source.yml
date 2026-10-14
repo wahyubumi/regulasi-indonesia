@@ -1,0 +1,24 @@
+id: uu-2015-005
+judul: Undang-Undang Nomor 5 Tahun 2015 tentang PENGESAHAN PERJANJIAN EKSTRADISI ANTARA
+  REPUBLIK INDONESIA DAN REPUBLIK SOSIALIS VIET NAM (EXTRADITION TREATY BETWEEN THE
+  REPUBLIC OF INDONESIA AND THE SOCIALIST REPUBLIC OF VIET NAM)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a41d5254e46e4cdddbdd1bb395471aec10e1d5706a0830a35ccc388d2a7c3c44
+  file_size_bytes: 155095
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2015bt.pdf'

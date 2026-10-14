@@ -1,0 +1,23 @@
+id: uu-2013-009
+judul: Undang-Undang Nomor 9 Tahun 2013 tentang PENCEGAHAN DAN PEMBERANTASAN TINDAK
+  PIDANA PENDANAAN TERORISME
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 436301456319d9948023c7b4835d7c1225c74067b1d98885fa43a4a9d36f38c1
+  file_size_bytes: 269332
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-2013bt.pdf'

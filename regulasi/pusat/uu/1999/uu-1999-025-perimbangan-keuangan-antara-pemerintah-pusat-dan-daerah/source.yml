@@ -1,0 +1,23 @@
+id: uu-1999-025
+judul: Undang-Undang Nomor 25 Tahun 1999 tentang PERIMBANGAN KEUANGAN ANTARA PEMERINTAH
+  PUSAT DAN DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ef63e55b6706c2d04815033b7cada6f217cb0ff7fd63d623718c553893aefe47
+  file_size_bytes: 132765
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-1999.pdf'

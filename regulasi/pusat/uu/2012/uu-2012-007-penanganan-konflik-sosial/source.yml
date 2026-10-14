@@ -1,0 +1,22 @@
+id: uu-2012-007
+judul: Undang-Undang Nomor 7 Tahun 2012 tentang PENANGANAN KONFLIK SOSIAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e7df2191fc0e3ff58cd770a20330ad0e9200aa5778967f515784cfe2538f9e13
+  file_size_bytes: 238928
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-2012bt.pdf'

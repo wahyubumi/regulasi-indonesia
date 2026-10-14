@@ -1,0 +1,22 @@
+id: uu-1962-011
+judul: Undang-Undang Nomor 11 Tahun 1962 tentang HYGIENE UNTUK USAHA-USAHA BAGI UMUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 94330dfb64d350af7f29be54b364dd2d8df4260a0207543deb04b8dba8766710
+  file_size_bytes: 39644
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0111962.pdf'

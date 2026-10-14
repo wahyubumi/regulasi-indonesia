@@ -1,0 +1,22 @@
+id: uu-2014-032
+judul: Undang-Undang Nomor 32 Tahun 2014 tentang KELAUTAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 58d94be61a0b5e120762da68f76f730443904e64ae7932a4ee28e44aaebd308f
+  file_size_bytes: 174852
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu32-2014bt.pdf'

@@ -1,0 +1,23 @@
+id: uu-2024-137
+judul: Undang-Undang Nomor 137 Tahun 2024 tentang KABUPATEN BARRU DI PROVINSI SULAWESI
+  SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b08190d8f3d4179ca86409e474e4da62d48c86cf6034dc9121ffcbb50d72e917
+  file_size_bytes: 263461
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-137-tahun-2024.pdf'

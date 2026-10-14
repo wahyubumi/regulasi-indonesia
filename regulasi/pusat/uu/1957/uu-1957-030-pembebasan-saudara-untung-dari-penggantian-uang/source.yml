@@ -1,0 +1,23 @@
+id: uu-1957-030
+judul: Undang-Undang Nomor 30 Tahun 1957 tentang PEMBEBASAN SAUDARA UNTUNG DARI PENGGANTIAN
+  UANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c8e2ab38ec735f5082cf180d513d20be683db6de1d5e06cb8139653f9c6f5082
+  file_size_bytes: 28492
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu30-1957.pdf'

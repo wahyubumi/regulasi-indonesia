@@ -1,0 +1,22 @@
+id: uu-2002-031
+judul: Undang-Undang Nomor 31 Tahun 2002 tentang PARTAI POLITIK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f3b0f7737cc345edc3e0cb69ec73764f000e60124089de59d0424bc91114bc95
+  file_size_bytes: 74147
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu31-2002.pdf'

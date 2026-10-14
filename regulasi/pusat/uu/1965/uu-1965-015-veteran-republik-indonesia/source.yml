@@ -1,0 +1,22 @@
+id: uu-1965-015
+judul: Undang-Undang Nomor 15 Tahun 1965 tentang VETERAN REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ab86bb541575b088ff6b031b54625dce3321bc0f83c5867a0b2251e58366ed42
+  file_size_bytes: 119019
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0151965.pdf'

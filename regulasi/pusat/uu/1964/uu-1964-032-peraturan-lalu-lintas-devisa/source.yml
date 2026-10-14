@@ -1,0 +1,22 @@
+id: uu-1964-032
+judul: Undang-Undang Nomor 32 Tahun 1964 tentang PERATURAN LALU-LINTAS DEVISA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 83177813d163d410aead02d16b9147ef4bb7503345ffc016df8cedf9c8bc8845
+  file_size_bytes: 151074
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0321964.pdf'

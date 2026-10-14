@@ -1,0 +1,23 @@
+id: uu-1996-009
+judul: Undang-Undang Nomor 9 Tahun 1996 tentang PEMBENTUKAN KOTAMADYA DAERAH TINGKAT
+  II BEKASI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4f7fd4b8b3f505f42f8b762897405c1c8b82b1c0c75fa5983d86cb3b45e07bdf
+  file_size_bytes: 56670
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-1996.pdf'

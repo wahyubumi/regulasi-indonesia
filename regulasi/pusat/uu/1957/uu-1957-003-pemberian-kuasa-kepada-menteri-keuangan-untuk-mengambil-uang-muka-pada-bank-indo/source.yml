@@ -1,0 +1,25 @@
+id: uu-1957-003
+judul: Undang-Undang Nomor 3 Tahun 1957 tentang PEMBERIAN KUASA KEPADA MENTERI KEUANGAN
+  UNTUK MENGAMBIL UANG MUKA PADA BANK INDONESIA LEBIH DARIPADA BATAS YANG DITETAPKAN
+  DALAM PASAL 19 AYAT 2 UNDANG-UNDANG POKOK BANK INDONESIA 1953 (UNDANG-UNDANG NO
+  11 TAHUN 1953); (LEMBARAN-NEGARA TAHUN 1953 NO. 40)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 49a9c0e39fc7b84103a98a0f79ff71556d0180162c1fb2f1a3714f17f8891563
+  file_size_bytes: 32781
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1957.pdf'

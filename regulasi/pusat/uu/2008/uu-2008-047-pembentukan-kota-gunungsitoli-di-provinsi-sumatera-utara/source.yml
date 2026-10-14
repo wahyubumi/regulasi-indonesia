@@ -1,0 +1,23 @@
+id: uu-2008-047
+judul: Undang-Undang Nomor 47 Tahun 2008 tentang PEMBENTUKAN KOTA GUNUNGSITOLI DI
+  PROVINSI SUMATERA UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 08c98d415ae7f319b2088ff79ac1e129fd9ccccdf818858f8bc7d9fcf0e56114
+  file_size_bytes: 133705
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0472008.pdf'

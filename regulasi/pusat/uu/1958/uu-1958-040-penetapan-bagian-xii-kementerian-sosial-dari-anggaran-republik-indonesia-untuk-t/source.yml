@@ -1,0 +1,23 @@
+id: uu-1958-040
+judul: Undang-Undang Nomor 40 Tahun 1958 tentang PENETAPAN BAGIAN XII (KEMENTERIAN
+  SOSIAL) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d4f2184d1cfab6ce6562eff2299784910b4a1e5b3b790352adf139ced1ec0d2c
+  file_size_bytes: 25081
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu40-1958.pdf'

@@ -1,0 +1,23 @@
+id: uu-1958-013
+judul: Undang-Undang Nomor 13 Tahun 1958 tentang PERJANJIAN PERDAMAIAN DAN PERSETUJUAN
+  PAMPASAN ANTARA REPUBLIK INDONESIA DAN JEPANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3828efdc84681c0a8942bf86be38837efaed830d551f8c051c7a3d422a49a7c9
+  file_size_bytes: 25191
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-1958.pdf'

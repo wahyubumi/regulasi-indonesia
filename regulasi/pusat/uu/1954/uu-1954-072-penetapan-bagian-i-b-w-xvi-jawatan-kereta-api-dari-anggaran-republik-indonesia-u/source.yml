@@ -1,0 +1,23 @@
+id: uu-1954-072
+judul: Undang-Undang Nomor 72 Tahun 1954 tentang PENETAPAN BAGIAN I.B.W. XVI (JAWATAN
+  KERETA API) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 754aafe2727dbe33dbbe88de212e87fc2c77a08526823b0276c789eae635de85
+  file_size_bytes: 69347
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu72-1954.pdf'

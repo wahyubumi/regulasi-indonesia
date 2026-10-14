@@ -1,0 +1,70 @@
+id: uu-1955-008
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '8'
+nomor_lengkap: '8'
+tahun: 1955
+judul: PENETAPAN UNDANG-UNDANG DARURAT NO. 10 TAHUN 1951 TENTANG PENCABUTAN PERATURAN
+  GAJI MILITER 1950, SEPERTI YANG TERMUAT DALAM UNDANG-UNDANG DARURAT REPUBLIK INDONESIA
+  SERIKAT NO.5 TAHUN 1950 DAN DIUBAH DENGAN UNDANG-UNDANG DARURAT REPUBLIK INDONESIA
+  SERIKAT NO. 27 TAHUN 195O, SEBAGAI UNDANG- UNDANG
+judul_lengkap: Undang-Undang Nomor 8 Tahun 1955 tentang PENETAPAN UNDANG-UNDANG DARURAT
+  NO. 10 TAHUN 1951 TENTANG PENCABUTAN PERATURAN GAJI MILITER 1950, SEPERTI YANG TERMUAT
+  DALAM UNDANG-UNDANG DARURAT REPUBLIK INDONESIA SERIKAT NO.5 TAHUN 1950 DAN DIUBAH
+  DENGAN UNDANG-UNDANG DARURAT REPUBLIK INDONESIA SERIKAT NO. 27 TAHUN 195O, SEBAGAI
+  UNDANG- UNDANG
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari e4503c74deb3__uu8-1955__undated__uu-1955-008__penetapan-undang-undang-darurat-no-10-tahun-1951-tentang-pencabutan-peraturan-gaji-militer-1950-sepe.md

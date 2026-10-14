@@ -1,0 +1,23 @@
+id: uu-1957-047
+judul: Undang-Undang Nomor 47 Tahun 1957 tentang PENETAPAN BAGIAN XIII (KEMENTRIAN
+  PERBURUHAN) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 836556d10a9f28815581a2d58961e0deb8ca6a2740bca4f971ebc0b64eb86665
+  file_size_bytes: 29711
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu47-1957.pdf'

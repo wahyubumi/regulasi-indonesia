@@ -1,0 +1,22 @@
+id: uu-1999-040
+judul: Undang-Undang Nomor 40 Tahun 1999 tentang PERS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 10614556d6e0aaac9a2318a9f0dfcdccdbfdccf66210246a247e289754f5b8a1
+  file_size_bytes: 80580
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu40-1999.pdf'

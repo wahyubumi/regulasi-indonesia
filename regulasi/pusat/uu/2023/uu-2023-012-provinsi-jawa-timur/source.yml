@@ -1,0 +1,22 @@
+id: uu-2023-012
+judul: Undang-Undang Nomor 12 Tahun 2023 tentang PROVINSI JAWA TIMUR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 64a93637ff8db0f8b04674a40bea1eb8644c1e7054262a716fba58cbd875447d
+  file_size_bytes: 745799
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-12-tahun-2023.pdf'

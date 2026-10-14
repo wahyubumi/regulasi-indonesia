@@ -1,0 +1,22 @@
+id: uu-1981-008
+judul: Undang-Undang Nomor 8 Tahun 1981 tentang HUKUM ACARA PIDANA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b181015ac811f3fcb244bcc844fb0d54f86da8496f894c10ac53e181eb2ae255
+  file_size_bytes: 431399
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1981.pdf'

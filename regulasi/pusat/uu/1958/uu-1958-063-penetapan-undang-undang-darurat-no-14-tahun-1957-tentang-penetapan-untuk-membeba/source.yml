@@ -1,0 +1,27 @@
+id: uu-1958-063
+judul: Undang-Undang Nomor 63 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 14 TAHUN 1957 TENTANG PENETAPAN UNTUK MEMBEBASKAN BANK INDONESIA DARI KEWAJIBAN
+  YANG DIMAKSUDKAN DALAM PASAL 16 AYAT 1 UNDANG-UNDANG POKOK BANK INDONESIA 1953 SELAMA
+  ENAM BULAN SETELAH BERAKHIRNYA KEPUTUSAN DEWAN MONETER TANGGAL 2 PEBRUARI 1957 NO.
+  23 YANG DIADAKAN BERDASARKAN PASAL PASAL 16 AYAT 3 UNDANG-UNDANG POKOK BANK INDONESIA
+  1953" (LEMBARAN-NEGARA TAHUN 1957 NO. 61), SEBGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 821ee496371f45e67746c9f5f123f6d24e745adcd6bba4dfd22ab5c03d556903
+  file_size_bytes: 28287
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu63-1958.pdf'

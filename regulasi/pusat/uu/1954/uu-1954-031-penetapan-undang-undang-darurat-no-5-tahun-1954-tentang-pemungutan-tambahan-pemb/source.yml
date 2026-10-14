@@ -1,0 +1,24 @@
+id: uu-1954-031
+judul: Undang-Undang Nomor 31 Tahun 1954 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  5 TAHUN 1954 TENTANG PEMUNGUTAN TAMBAHAN PEMBAYARAN ATAS PENGIRIMAN UANG KELUAR
+  NEGERI SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e0261eece1cfca2f11ce65b94df87f589237dae4fc6d9dad96599d2312aa3c8f
+  file_size_bytes: 76216
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu31-1954.pdf'

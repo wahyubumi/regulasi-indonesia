@@ -1,0 +1,23 @@
+id: uu-2015-014
+judul: Undang-Undang Nomor 14 Tahun 2015 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  14 TAHUN 2015 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2016
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 81b917b7656d89a08cf694163583fa4bf92a0d216d4727b64939241e33ef6002
+  file_size_bytes: 184627
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2016bt.pdf'

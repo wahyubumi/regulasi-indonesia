@@ -1,0 +1,23 @@
+id: uu-1997-015
+judul: Undang-Undang Nomor 15 Tahun 1997 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  15 TAHUN 1997 TENTANG KETRANSMIGRASIAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9038c596274c3ac9796a6e17839f73c6d9e8608281f0ea2855a546c7d682c9c0
+  file_size_bytes: 127960
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+29+Tahun+2009.pdf'

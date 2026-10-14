@@ -1,0 +1,31 @@
+id: "uu-2009-018"
+judul: "Undang-Undang Nomor 18 Tahun 2009 tentang Peternakan dan Kesehatan Hewan"
+
+pdf:
+  stored_in_git: false
+
+  source_url:
+    - name: "Ditjen Peraturan Perundang-undangan (DJPP)"
+      url: "https://peraturan.go.id"
+    - name: "JDIH BPK RI"
+      url: "https://peraturan.bpk.go.id/Details/38605/uu-no-18-tahun-2009"
+
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+
+  checksum:
+    algorithm: "sha256"
+    value: "b2b7903e69d5e8ba6bbef17f17f65d220376a278f85e39c749dbb1f36bb5be6b"
+
+  file_size_bytes: 142767
+  last_checked: "2026-10-13"
+
+html_source:
+  available: false
+  url: null
+
+catatan:
+  - "PDF bersumber dari naskah resmi Lembaran Negara Republik Indonesia Tahun 2009 Nomor 84, Tambahan Lembaran Negara Nomor 5015."

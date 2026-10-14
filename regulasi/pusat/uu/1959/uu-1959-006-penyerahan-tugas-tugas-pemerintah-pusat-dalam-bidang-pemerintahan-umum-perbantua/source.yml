@@ -1,0 +1,24 @@
+id: uu-1959-006
+judul: Undang-Undang Nomor 6 Tahun 1959 tentang PENYERAHAN TUGAS-TUGAS PEMERINTAH
+  PUSAT DALAM BIDANG PEMERINTAHAN UMUM, PERBANTUAN PEGAWAI NEGERI DAN PENYERAHAN KEUANGANNYA,
+  KEPADA PEMERINTAH DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5f52bf4d0a5e1c5005854dd89dd4cb33d3c79727718e54154a0c1647f829639d
+  file_size_bytes: 62568
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0061959.pdf'

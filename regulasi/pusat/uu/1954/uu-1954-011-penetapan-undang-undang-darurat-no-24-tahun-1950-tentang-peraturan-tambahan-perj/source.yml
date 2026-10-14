@@ -1,0 +1,24 @@
+id: uu-1954-011
+judul: Undang-Undang Nomor 11 Tahun 1954 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  24 TAHUN 1950 TENTANG PERATURAN TAMBAHAN PERJALANAN KE LUAR NEGERI (LEMBARAN- NEGARA
+  NO. 39 TAHUN 1950) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5a82903b2ba3a41f2b7f1e8f37461ab18581944e300e0dbaffb3749c40ccb38e
+  file_size_bytes: 90575
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-1954.pdf'

@@ -1,0 +1,33 @@
+# Undang-Undang Nomor 4 Tahun 1971 tentang PERUBAHAN DAN PENAMBAHAN ATAS KETENTUAN PASAL 54 KITAB UNDANG-UNDANG HUKUM DAGANG
+
+## Ringkasan
+
+Regulasi ini dipromosikan dari arsip konversi teks resmi untuk kebutuhan integrasi basis data perundang-undangan.
+
+## Informasi Utama
+
+| Elemen | Isi |
+|---|---|
+| Jenis | Undang-Undang |
+| Nomor | 4 |
+| Tahun | 1971 |
+| Judul | PERUBAHAN DAN PENAMBAHAN ATAS KETENTUAN PASAL 54 KITAB UNDANG-UNDANG HUKUM DAGANG |
+| Status | perlu_verifikasi |
+| Tingkat | pusat |
+| Sumber | UU0041971.pdf |
+
+## File
+
+- [`dokumen.md`](dokumen.md)
+- [`metadata.yml`](metadata.yml)
+- [`source.yml`](source.yml)
+- [`relasi.yml`](relasi.yml)
+- [`quality-check.yml`](quality-check.yml)
+
+## Catatan Konversi
+
+Status konversi: needs_review.
+
+## Peringatan
+
+Dokumen Markdown ini adalah hasil konversi untuk kebutuhan pencarian, analisis, dan pemrosesan teks. Untuk rujukan hukum resmi, tetap gunakan sumber regulasi resmi.

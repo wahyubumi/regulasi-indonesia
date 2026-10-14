@@ -1,0 +1,22 @@
+id: uu-1984-005
+judul: Undang-Undang Nomor 5 Tahun 1984 tentang PERINDUSTRIAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0a318c485d19fbf53c1b9dfe790c55bd210fc56d7e881fb7a8bb982c55002180
+  file_size_bytes: 98810
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1985.pdf'

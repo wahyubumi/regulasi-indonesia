@@ -1,0 +1,23 @@
+id: uu-2024-051
+judul: Undang-Undang Nomor 51 Tahun 2024 tentang KABUPATEN SOLOK DI PROVINSI SUMATERA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 98f119c997033edcbe91f9c1e64a4727c0c1d42675b78ab3398b05c99d9351ad
+  file_size_bytes: 944724
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-51-tahun-2024.pdf'

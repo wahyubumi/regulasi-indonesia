@@ -1,0 +1,22 @@
+id: uu-1960-009
+judul: Undang-Undang Nomor 9 Tahun 1960 tentang POKOK-POKOK KESEHATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dbd36b6d05145562f337a1a182435ee14701d8b241c80f7b12643306f6b25a99
+  file_size_bytes: 56963
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0091960.pdf'

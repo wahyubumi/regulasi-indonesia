@@ -1,0 +1,23 @@
+id: uu-1954-014
+judul: Undang-Undang Nomor 14 Tahun 1954 tentang PENCABUTAN ORDONANSI "UITVOERVERBOD
+  PLANTENMATERIAAL NEGARA SUMATERA TIMUR 1949" (STAATSBLAD 1949 NR 159)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1f91ee9d8da724303787a4f8df60fa38f4a2071ee6406ef471787b7c28a56d12
+  file_size_bytes: 92269
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-1954.pdf'

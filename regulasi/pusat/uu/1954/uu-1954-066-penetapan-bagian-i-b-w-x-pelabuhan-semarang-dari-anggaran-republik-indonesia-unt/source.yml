@@ -1,0 +1,23 @@
+id: uu-1954-066
+judul: Undang-Undang Nomor 66 Tahun 1954 tentang PENETAPAN BAGIAN I.B.W. X (PELABUHAN
+  SEMARANG) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 30ab8047da9256def0f4a80e1fabed237312107cd61bf463850268c94b5cb503
+  file_size_bytes: 69132
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu66-1954.pdf'

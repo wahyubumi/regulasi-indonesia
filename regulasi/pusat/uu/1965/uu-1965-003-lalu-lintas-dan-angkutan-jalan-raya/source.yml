@@ -1,0 +1,22 @@
+id: uu-1965-003
+judul: Undang-Undang Nomor 3 Tahun 1965 tentang LALU-LINTAS DAN ANGKUTAN JALAN RAYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9cbc630bcf3f05560ff4351c1336c455fa2009e48725470499d40c7ef759bb88
+  file_size_bytes: 215517
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0031965.pdf'

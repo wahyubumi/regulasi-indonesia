@@ -1,0 +1,24 @@
+id: uu-1956-035
+judul: Undang-Undang Nomor 35 Tahun 1956 tentang PENGUBAHAN REDAKSI BAGIAN I BAB A
+  DAN BAGIAN II BAB A DARI POS 173 DARI TARIP BEA MASUK DAN KENAIKAN JUMLAH BEA DALAM
+  BAGIAN POS YANG TERSEBUT TERAKHIR *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7e1846f9be3b28fdf6be571c31eb2c42d27db5e9c9393957baeec32da946c5fd
+  file_size_bytes: 96598
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu35-1956.pdf'

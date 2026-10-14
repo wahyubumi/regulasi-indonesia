@@ -1,0 +1,22 @@
+id: uu-2011-021
+judul: Undang-Undang Nomor 21 Tahun 2011 tentang OTORITAS JASA KEUANGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9083309cbe6c681743eac8349dfba8000806bb45ff7969a5f8996f93faade6e2
+  file_size_bytes: 165584
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-2011bt.pdf'

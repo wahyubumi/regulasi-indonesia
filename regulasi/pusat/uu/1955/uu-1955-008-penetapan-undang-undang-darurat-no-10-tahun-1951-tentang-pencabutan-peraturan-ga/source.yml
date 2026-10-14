@@ -1,0 +1,26 @@
+id: uu-1955-008
+judul: Undang-Undang Nomor 8 Tahun 1955 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  10 TAHUN 1951 TENTANG PENCABUTAN PERATURAN GAJI MILITER 1950, SEPERTI YANG TERMUAT
+  DALAM UNDANG-UNDANG DARURAT REPUBLIK INDONESIA SERIKAT NO.5 TAHUN 1950 DAN DIUBAH
+  DENGAN UNDANG-UNDANG DARURAT REPUBLIK INDONESIA SERIKAT NO. 27 TAHUN 195O, SEBAGAI
+  UNDANG- UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e4503c74deb3bae2b27a3da899772b9ac362efd9de910b8aadcd67ba89b3de26
+  file_size_bytes: 93200
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1955.pdf'

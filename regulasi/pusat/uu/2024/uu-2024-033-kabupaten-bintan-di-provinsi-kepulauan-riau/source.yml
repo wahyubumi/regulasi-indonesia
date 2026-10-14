@@ -1,0 +1,23 @@
+id: uu-2024-033
+judul: Undang-Undang Nomor 33 Tahun 2024 tentang KABUPATEN BINTAN DI PROVINSI KEPULAUAN
+  RIAU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: db85aa562d6553aa3a7e2164996d7a8e701638467e82887a32d5223388f4b4a4
+  file_size_bytes: 614965
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-33-tahun-2024.pdf'

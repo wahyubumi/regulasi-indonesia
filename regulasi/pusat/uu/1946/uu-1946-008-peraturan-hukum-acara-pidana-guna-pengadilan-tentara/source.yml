@@ -1,0 +1,23 @@
+id: uu-1946-008
+judul: Undang-Undang Nomor 8 Tahun 1946 tentang PERATURAN HUKUM ACARA PIDANA GUNA
+  PENGADILAN TENTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bd601f5225fd05f5259372925419186e08f6f03f1b4e0fe7a624c8293893eff2
+  file_size_bytes: 42643
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1946.pdf'

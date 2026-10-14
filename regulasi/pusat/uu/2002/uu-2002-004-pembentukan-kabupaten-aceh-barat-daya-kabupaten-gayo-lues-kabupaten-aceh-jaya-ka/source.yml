@@ -1,0 +1,24 @@
+id: uu-2002-004
+judul: Undang-Undang Nomor 4 Tahun 2002 tentang PEMBENTUKAN KABUPATEN ACEH BARAT DAYA,
+  KABUPATEN GAYO LUES, KABUPATEN ACEH JAYA, KABUPATEN NAGAN RAYA, DAN KABUPATEN ACEH
+  TAMIANG, DI PROVINSI NANGGROE ACEH DARUSSALAM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 521b84a0443c41ed91d8f15ce8ef26debef51f08708f2b163000092e20d98c2c
+  file_size_bytes: 143650
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2002.pdf'

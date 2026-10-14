@@ -1,0 +1,23 @@
+id: uu-1968-015
+judul: Undang-Undang Nomor 15 Tahun 1968 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  PERALIHAN TRIWULAN I TAHUN 1969 DENGAN RAKHMAT TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c5dc5bdf00935b4325a5ff6170deaaa20197e45e05129ab22283be25b3a5ba73
+  file_size_bytes: 20257
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+15+Tahun+1968.pdf'

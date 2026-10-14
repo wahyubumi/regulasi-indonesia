@@ -1,0 +1,25 @@
+id: uu-2012-010
+judul: Undang-Undang Nomor 10 Tahun 2012 tentang PENGESAHAN OPTIONAL PROTOCOL TO THE
+  CONVENTION ON THE RIGHTS OF THE CHILD ON THE SALE OF CHILDREN, CHILD PROSTITUTION
+  AND CHILD PORNOGRAPHY (PROTOKOL OPSIONAL KONVENSI HAK-HAK ANAK MENGENAI PENJUALAN
+  ANAK, PROSTITUSI ANAK, DAN PORNOGRAFI ANAK)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f6d679c39dcdfba3195e5450d6884782fe87671853b20c6459e9432c5cff9f23
+  file_size_bytes: 25171
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-2012bt.pdf'

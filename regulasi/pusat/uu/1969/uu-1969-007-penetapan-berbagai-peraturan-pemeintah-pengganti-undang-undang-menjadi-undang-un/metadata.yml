@@ -1,0 +1,64 @@
+id: uu-1969-007
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '7'
+nomor_lengkap: '7'
+tahun: 1969
+judul: PENETAPAN BERBAGAI PERATURAN PEMEINTAH PENGGANTI UNDANG- UNDANG MENJADI UNDANG-UNDANG
+judul_lengkap: Undang-Undang Nomor 7 Tahun 1969 tentang PENETAPAN BERBAGAI PERATURAN
+  PEMEINTAH PENGGANTI UNDANG- UNDANG MENJADI UNDANG-UNDANG
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari 3f2b9f8cd74e__uu0071969__undated__uu-1969-007__penetapan-berbagai-peraturan-pemeintah-pengganti-undang-undang-menjadi-undang-undang.md

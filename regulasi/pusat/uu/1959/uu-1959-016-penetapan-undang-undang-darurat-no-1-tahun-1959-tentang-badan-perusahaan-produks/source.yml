@@ -1,0 +1,24 @@
+id: uu-1959-016
+judul: Undang-Undang Nomor 16 Tahun 1959 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 1 TAHUN 1959 TENTANG BADAN PERUSAHAAN PRODUKSI BAHAN MAKANAN DAN PEMBUKAAN TANAH"
+  (LEMBARAN-NEGARA TAHUN 1959 NO. 1), SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: de5729f75fa70eceee67af0dc50a9a0c32cfac081242c41ac784482b15a0d21d
+  file_size_bytes: 48647
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0161959.pdf'

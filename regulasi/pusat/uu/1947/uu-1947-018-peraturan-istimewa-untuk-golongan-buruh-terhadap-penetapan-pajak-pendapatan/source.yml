@@ -1,0 +1,23 @@
+id: uu-1947-018
+judul: Undang-Undang Nomor 18 Tahun 1947 tentang PERATURAN ISTIMEWA UNTUK GOLONGAN
+  BURUH TERHADAP PENETAPAN PAJAK PENDAPATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: aaece5b3dc18f8900f2b322c260689f1c4ae97ae60fd91f11863daaa98e39316
+  file_size_bytes: 44808
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-1947.pdf'

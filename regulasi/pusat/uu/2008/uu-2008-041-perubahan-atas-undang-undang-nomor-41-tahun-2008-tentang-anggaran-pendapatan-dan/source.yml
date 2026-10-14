@@ -1,0 +1,23 @@
+id: uu-2008-041
+judul: Undang-Undang Nomor 41 Tahun 2008 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  41 TAHUN 2008 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2009
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2997f218ed6b9c4b87f9a925d8f4e36b2c53fce383e8a7711d5a4a54814117a0
+  file_size_bytes: 499591
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu26-2009bt.pdf'

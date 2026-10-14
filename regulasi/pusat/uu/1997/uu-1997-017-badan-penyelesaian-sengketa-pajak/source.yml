@@ -1,0 +1,22 @@
+id: uu-1997-017
+judul: Undang-Undang Nomor 17 Tahun 1997 tentang BADAN PENYELESAIAN SENGKETA PAJAK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b7eea561bebbd4ffee7c03aee05fa00227a8e48b8c46b0f66d5ffff8208ccc04
+  file_size_bytes: 148647
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-1997.pdf'

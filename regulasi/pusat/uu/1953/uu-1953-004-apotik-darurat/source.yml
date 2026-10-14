@@ -1,0 +1,22 @@
+id: uu-1953-004
+judul: Undang-Undang Nomor 4 Tahun 1953 tentang APOTIK DARURAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8c06cf564af4f61d6eae746cfe610ca1d18cdcf9528d7b979491d2e08bc4e62c
+  file_size_bytes: 26322
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1953.pdf'

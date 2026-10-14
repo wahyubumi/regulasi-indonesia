@@ -1,0 +1,22 @@
+id: uu-1967-014
+judul: Undang-Undang Nomor 14 Tahun 1967 tentang POKOK-POKOK PERBANKAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ecbd8da8b2dee192c5f283ea8ca741f64d1084dde551ce5b143c1eda526ce515
+  file_size_bytes: 97877
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0141967.pdf'

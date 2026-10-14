@@ -1,0 +1,24 @@
+id: uu-1965-009
+judul: Undang-Undang Nomor 9 Tahun 1965 tentang PEMBENTUKAN DAERAH TINGKAT II BATANG
+  DENGAN MENGUBAH UNDANG-UNDANG NO.13 TAHUN 1950 TENTANG PEMBENTUKAN DAERAH-DAERAH
+  KABUPATEN DALAM LINGKUNGAN PROPINSI JAWA TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fba5af6aaaf72132d68807a306d273f50c5e7be309130d0e562c385cbbb639d1
+  file_size_bytes: 101737
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0091965.pdf'

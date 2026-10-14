@@ -1,0 +1,22 @@
+id: uu-1984-004
+judul: Undang-Undang Nomor 4 Tahun 1984 tentang WABAH PENYAKIT MENULAR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 92e60e41add09051797bd9bf4511e177a74ad5559106264e20fa0758b73938ce
+  file_size_bytes: 66573
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1984.pdf'

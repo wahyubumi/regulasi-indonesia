@@ -1,0 +1,22 @@
+id: uu-2016-020
+judul: Undang-Undang Nomor 20 Tahun 2016 tentang MEREK DAN INDIKASI GEOGRAFIS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9a635b2a7d61c00b6661b3cd25588ab81d3306654f5f7dca61d51d7db80d0c08
+  file_size_bytes: 129620
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-2016bt.pdf'

@@ -1,0 +1,23 @@
+id: uu-2024-138
+judul: Undang-Undang Nomor 138 Tahun 2024 tentang KABUPATEN SOPPENG DI PROVINSI SULAWESI
+  SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 523ef046eb77be8506b9b75954114cb4fdb273d6d9ae5e3d81b0a2d99ae39f8a
+  file_size_bytes: 289256
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-138-tahun-2024.pdf'

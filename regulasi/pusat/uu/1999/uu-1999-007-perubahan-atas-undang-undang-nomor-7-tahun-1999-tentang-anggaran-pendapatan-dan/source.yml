@@ -1,0 +1,23 @@
+id: uu-1999-007
+judul: Undang-Undang Nomor 7 Tahun 1999 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  7 TAHUN 1999 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1999/2000
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3f376e3342cc7c6742d44744559111df42920885edbf723305c7c7f352f92e64
+  file_size_bytes: 62638
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2000.pdf'

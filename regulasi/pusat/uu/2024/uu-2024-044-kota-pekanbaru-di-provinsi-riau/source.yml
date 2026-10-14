@@ -1,0 +1,22 @@
+id: uu-2024-044
+judul: Undang-Undang Nomor 44 Tahun 2024 tentang KOTA PEKANBARU DI PROVINSI RIAU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c1b02a9e274b8aeb07f00b21b621884e82f1e37ba93799093f8e81db40952c16
+  file_size_bytes: 806671
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-44-tahun-2024.pdf'

@@ -1,0 +1,260 @@
+---
+id: "uu-1972-002"
+jenis: "uu"
+nomor: "2"
+tahun: 1972
+judul: "Undang-Undang Nomor 2 Tahun 1972 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1971/1972"
+status: "perlu_verifikasi"
+sumber: "Ditjen Peraturan Perundang-undangan / JDIH"
+---
+
+# Undang-Undang Nomor 2 Tahun 1972 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1971/1972
+
+## Catatan Konversi
+
+Dokumen ini merupakan hasil konversi dari format PDF ke Markdown. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+<!-- Konversi lokal pdftotext; verifikasi struktur dan substansi sebelum dipromosikan. -->
+
+<!-- PAGE: 1 -->
+
+                                 PRESIDEN
+                             REPUBLIK INDONESIA
+
+
+
+              UNDANG-UNDANG REPUBLIK INDONESIA
+                            NOMOR 2 TAHUN 1972
+                                  TENTANG
+ TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN PENDAPATAN DAN
+            BELANJA NEGARA TAHUN ANGGARAN 1971/1972
+
+
+             DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+                    PRESIDEN REPUBLIK INDONESIA,
+
+
+Menimbang    : a.    bahwa untuk lebih menyesuaikan dan menyempurnakan
+                     pelaksanaan program Pemerintah dalam tahun anggaran
+                     1971/1972 diperlukan tambahan-tambahan dan perubahan-
+                     perubahan atas Anggaran Pendapatan dan Belanja Negara
+                     Tahun Anggaran 1971/1972 termaksud dalam Undang-undang
+                     Nomor 5 Tahun 1971
+               b.    bahwa    untuk   lebih   menjaga   kelangsungan    jalannya
+                     pembangunan perlu saldo-anggaran-lebih dan sisa kredit
+                     anggaran proyek-proyek pada Anggaran Pembangunan tahun
+                     1971/1972 ditambahkan kepada kredit anggaran tahun
+                     1972/1973;
+               c.    bahwa tambahan dan perubahan dimaksud perlu diatur dengan
+                     Undang-undang.
+
+
+Mengingat    : 1.    Undang-Undang Dasar 1945 Pasal 5 ayat (1) jo. Pasal 23 ayat
+                     (1);
+               2.    Undang-undang    Nomor 5 Tahun 1971 tentang Anggaran
+                     Pendapatan dan Belanja Negara Tahun Anggaran 1971/1972
+                     (Lembaran Negara Republik Indonesia Tahun 1971 Nomor
+                     21).
+                                                                       Dengan …
+
+<!-- PAGE: 2 -->
+
+                                   PRESIDEN
+                               REPUBLIK INDONESIA
+                                       -2-
+
+Dengan persetujuan Dewan Perwakilan Rakyat Republik Indonesia.
+
+
+                                 MEMUTUSKAN :
+
+
+Menetapkan    : UNDANG-UNDANG                    TENTANG      TAMBAHAN            DAN
+                 PERUBAHAN             ATAS      ANGGARAN     PENDAPATAN          DAN
+                 BELANJA NEGARA TAHUN ANGGARAN 1971/1972.
+
+
+                                       Pasal 1
+                 (1). Anggaran Pendapatan Negara Tahun Anggaran 1971/1972
+                      diperkirakan berkurang dengan Rp. 26.087.000.000,00 yang
+                      terdiri dari :
+                      a. Pendapatan              Rutin   bertambah      dengan     Rp.
+                          12.061.000.000,00
+                      b. Pendapatan         Pembangunan     berkurang    dengan    Rp.
+                          38.148.000.000,00
+                 (2). Perincian Pendapatan tambahan dan perubahan dimaksud pada
+                      ayat (1) sub a dan sub b masing-masing dimuat dalam
+                      Lampiran I dan II Undang-undang ini.
+
+
+                                       Pasal 2
+                 (1). Anggaran Belanja Negara Tahun Anggaran 1971/1972
+                      diperkirakan berkurang dengan Rp. 44.640.000.000,00 yang
+                      terdiri dari :
+                      a. Belanja Rutin bertambah dengan Rp. 5.752.000.000,00
+                      b. Belanja         Pembangunan       berkurang    dengan     Rp.
+                          50.392.000.000,00 Perincian pengeluaran tambahan dan
+                          perubahan dimaksud pada ayat (1) sub a dan sub b
+                          masing-masing dimuat dalam Lampiran III dan IV
+                          Undang-undang ini.
+                                                                            Pasal 3 …
+
+<!-- PAGE: 3 -->
+
+                 PRESIDEN
+             REPUBLIK INDONESIA
+                     -3-
+
+                      Pasal 3
+(1). Kredit anggaran proyek-proyek pada Anggaran Pembangunan
+      tahun 1971/1972 yang telah disahkan dalam Undang-undang
+      Nomor 5 Tahun 1971 tentang Anggaran Pendapatan dan
+      Belanja Negara Tahun Anggaran 1971/1972 yang pada akhir
+      tahun anggaran 1971/1972 menunjukkan          sisa, dengan
+      Peraturan Pemerintah dipindahkan kepada tahun anggaran
+      1972/1973 dengan menambahkannya kepada kredit anggaran
+      1972/1973.
+(2)   Saldo-anggaran-lebih tahun 1971/1972 ditambahkan kepada
+      dan dipergunakan untuk membiayai Anggaran Pembangunan
+      tahun 1972/1973.
+
+
+                      Pasal 4
+Ketentuan-ketentuan      dalam   Undang-undang    Perbendaharaan
+(Indusche Comptabiliteitswet) yang bertentangan dengan bentuk,
+susunan dan isi Undang-undang ini, dinyatakan tidak berlaku.
+
+
+                   Pasal 5
+Undang-undang ini mulai berlaku pada hari diundangkan dan
+mempunyai daya surut sampai dengan tanggal 1 April 1971.
+Agar supaya setiap orang dapat mengetahuinya, memerintahkan
+pengundangan Undang-undang ini dengan penempatannya dalam
+Lembaran Negara Republik Indonesia.
+
+<!-- PAGE: 4 -->
+
+                                 PRESIDEN
+                             REPUBLIK INDONESIA
+                                     -4-
+
+                                         Disahkan di Jakarta
+                                         pada tanggal 13 Juni 1972
+                                         PRESIDEN REPUBLIK INDONESIA
+
+
+                                         SOEHARTO
+                                         JENDERAL - TNI
+
+
+Diundangkan di Jakarta
+pada tanggal 13 Juni 1972.
+SEKRETARIS NEGARA REPUBLIK INDONESIA
+
+
+SUDHARMONO SH
+MAYOR JENDERAL - TNI.
+
+<!-- PAGE: 5 -->
+
+                                   PRESIDEN
+                               REPUBLIK INDONESIA
+                                       -5-
+
+                                    PENJELASAN
+                                      ATAS
+                  UNDANG-UNDANG REPUBLIK INDONESIA
+                             NOMOR 2 TAHUN 1972
+                                     TENTANG
+             TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+                    PENDAPATAN DAN BELANJA NEGARA
+                         TAHUN ANGGARAN 1971/1972
+
+
+UMUM.
+
+
+      Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 1971/1972 adalah
+Anggaran Pendapatan dan Belanja Negara Tahun ketiga dalam rangka pelaksanaan
+Pelita I dimana Anggaran Pembangunan sejauh mungkin disusun berdasarkan sistim
+Planning-Programming-Budgeting (PPB). Disamping semakin mantapnya keadaan
+ekonomi yang mengiringi pelaksanaannya, Anggaran Pendapatan dan Belanja Negara
+Tahun Anggaran 1971/1972 ini masih menghadapi hal-hal yang mengharuskan adanya
+tambahan dan perubahan. Bertambah baiknya aparatur penerimaan Negara telah
+meningkatkan pendapatan rutin, sedangkan pendapatan pembangunan berkurang
+karena dana pembangunan yang bersumber pada bantuan luar negeri sedikit banyaknya
+tergantung pada keadaan ekonomi pada umumnya, situasi impor dan keadaan produksi
+bahan makanan. Produksi bahan makanan yang terus meningkat telah menyebabkan
+berkurangnya impor bahan makanan dan dengan itu berkurang pulalah penerimaan
+pembangunan dari sektor tersebut.
+      Dalam pada itu, bertambahnya belanja rutin antara lain disebabkan oleh
+tunjangan hari raya dan bertambahnya pembayaran hutang luar negeri sebagai akibat
+diselesaikannya perjanjian bilateral dengan beberapa negara yang dalam penyusunan
+APBN Induk 1971/1972 belum diperhitungkan.
+      Kenyataan menunjukkan bahwa proyek-proyek pada anggaran pembangunan
+sebagaimana yang disahkan di dalam Undang-undang Nomor 5 Tahun 1971 tidak
+seluruhnya dapat diselesaikan, namun dengan adanya ketentuan dalam Pasal 3
+
+<!-- PAGE: 6 -->
+
+                                  PRESIDEN
+                              REPUBLIK INDONESIA
+                                      -6-
+
+Undang-undang ini, sisa kredit dari proyek-proyek yang belum dapat diselesaikan itu
+akan dipergunakan dalam tahun anggaran 1972/1973.
+      Adapun     mengenai    saldo-anggaran-lebih    yang   diperkirakan    sebesar
+Rp.18.553.000.000,00 ditambahkan kepada dan dipergunakan untuk membiayai
+anggaran pembangunan.
+      Dengan demikian, maka Anggaran Pendapatan dan Belanja Negara Tahun
+Anggaran 1971/1972 yang dalam Undang-undang Nomor 5 Tahun 1971 berimbang
+pada tingkat Rp 555.210.385.500,00 kini berubah sehingga Anggaran Pendapatan
+Negara diperkirakan menjadi Rp. 559.123.000.000,00 dan Anggaran Belanja Negara
+diperkirakan menjadi Rp. 540.570.000.000,00.
+      Oleh sebab itu, sesuai dengan ketentuan Undang-undang Nomor 5 Tahun 1971,
+tambahan dan perubahan atas Anggaran Pendapatan dan Belanja Negara Tahun
+Anggaran 1971/1972 perlu diatur dengan Undang-undang.
+
+
+PASAL DEMI PASAL.
+
+
+Pasal 1
+      Cukup jelas.
+
+
+Pasal 2
+      Cukup jelas.
+
+
+Pasal 3
+      Cukup jelas.
+
+
+Pasal 4
+      Cukup jelas.
+
+
+Pasal 5
+      Cukup jelas.
+
+<!-- PAGE: 7 -->
+
+                            PRESIDEN
+                        REPUBLIK INDONESIA
+                                -7-
+
+                      --------------------------------
+
+
+                              CATATAN
+
+
+Kutipan:   LEMBARAN NEGARA DAN TAMBAHAN LEMBARAN NEGARA
+           TAHUN 1972 YANG TELAH DICETAK ULANG

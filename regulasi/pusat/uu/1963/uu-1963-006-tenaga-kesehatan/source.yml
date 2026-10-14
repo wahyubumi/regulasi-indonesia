@@ -1,0 +1,22 @@
+id: uu-1963-006
+judul: Undang-Undang Nomor 6 Tahun 1963 tentang TENAGA KESEHATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 21f27166f749b8450a3ef5bb316600c2f1706858eb2039390a9494dbd38d18f7
+  file_size_bytes: 44165
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1963.pdf'

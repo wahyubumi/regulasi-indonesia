@@ -1,0 +1,22 @@
+id: uu-1970-007
+judul: Undang-Undang Nomor 7 Tahun 1970 tentang PENGHAPUSAN PENGADILAN LANDREFORM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 584ef8e4ca90ba0e70e06d841b0a811543ce8cb614d5414a5d561799c8bc96df
+  file_size_bytes: 39476
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0071970.pdf'

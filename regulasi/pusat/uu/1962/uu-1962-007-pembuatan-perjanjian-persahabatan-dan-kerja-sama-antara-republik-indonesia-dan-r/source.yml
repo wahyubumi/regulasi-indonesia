@@ -1,0 +1,23 @@
+id: uu-1962-007
+judul: Undang-Undang Nomor 7 Tahun 1962 tentang PEMBUATAN PERJANJIAN PERSAHABATAN
+  DAN KERJA-SAMA ANTARA REPUBLIK INDONESIA DAN REPUBLIK SOSIALIS CEKOSLOVAKIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 91fbddfb03aeeb74c7fc77c570f8f87b5667cfd3831ace97b8f019a16418a1af
+  file_size_bytes: 29188
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0071962.pdf'

@@ -1,0 +1,23 @@
+id: uu-1964-027
+judul: Undang-Undang Nomor 27 Tahun 1964 tentang PEMBERIAN PEMBEBASAN PAJAK PERSEROAN/PAJAK
+  PENDAPATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 542ef75eb1adf6fe9571581cc0dc802cf72e7c95254734943be815dda14dc595
+  file_size_bytes: 69101
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0271964.pdf'

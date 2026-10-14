@@ -1,0 +1,22 @@
+id: uu-2011-005
+judul: Undang-Undang Nomor 5 Tahun 2011 tentang Akuntan Publik;
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d9f58e0a4bee69b842f23e8b3929d624e96b731dbce2f3d4a04cf865dd39ceda
+  file_size_bytes: 155432
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2011bt.pdf'

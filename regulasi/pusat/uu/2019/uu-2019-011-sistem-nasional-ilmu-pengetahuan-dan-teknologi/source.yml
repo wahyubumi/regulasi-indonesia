@@ -1,0 +1,23 @@
+id: uu-2019-011
+judul: Undang-Undang Nomor 11 Tahun 2019 tentang SISTEM NASIONAL ILMU PENGETAHUAN
+  DAN TEKNOLOGI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b7538d1dfca08d5bdcaf3f9d953a0ee99aac1c3ceee42f1640f886fe3a55756b
+  file_size_bytes: 475267
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2019bt.pdf'

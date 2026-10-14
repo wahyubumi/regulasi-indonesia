@@ -1,0 +1,23 @@
+id: uu-2024-080
+judul: Undang-Undang Nomor 80 Tahun 2024 tentang KABUPATEN BTMA DI PROVINSI NUSA TENGGARA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 63c2a877c5295333e3b75c6c4130502335b8e274fb5d6f7887e2555dacc7d2b3
+  file_size_bytes: 515291
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-80-tahun-2024.pdf'

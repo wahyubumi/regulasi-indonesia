@@ -1,0 +1,23 @@
+id: uu-2003-029
+judul: Undang-Undang Nomor 29 Tahun 2003 tentang PEMBENTUKAN KABUPATEN BOMBANA, KABUPATEN
+  WAKATOBI, DAN KABUPATEN KOLAKA UTARA DI PROVINSI SULAWESI TENGGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 428fc64b2abe514ef515f20b1e1e1dfff260630fdbd1affcf496d3c88635a17a
+  file_size_bytes: 55782
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0292003.pdf'

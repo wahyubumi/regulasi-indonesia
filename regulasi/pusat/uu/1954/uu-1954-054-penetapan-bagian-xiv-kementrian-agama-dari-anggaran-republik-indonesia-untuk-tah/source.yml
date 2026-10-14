@@ -1,0 +1,23 @@
+id: uu-1954-054
+judul: Undang-Undang Nomor 54 Tahun 1954 tentang PENETAPAN BAGIAN XIV (KEMENTRIAN
+  AGAMA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: af5a598ae3815e91f0f1793ef36d7efa629af8fba3bad7b474387da86f2623c3
+  file_size_bytes: 78079
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu54-1954.pdf'

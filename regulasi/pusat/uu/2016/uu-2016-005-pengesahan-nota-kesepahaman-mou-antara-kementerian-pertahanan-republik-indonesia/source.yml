@@ -1,0 +1,27 @@
+id: uu-2016-005
+judul: Undang-Undang Nomor 5 Tahun 2016 tentang PENGESAHAN NOTA KESEPAHAMAN (MOU)
+  ANTARA KEMENTERIAN PERTAHANAN REPUBLIK INDONESIA DAN KEMENTERIAN PERTAHANAN REPUBLIK
+  FEDERASI JERMAN MENGENAI KERJA SAMA DI BIDANG PERTAHANAN (MEMORANDUM OF UNDERSTANDING
+  (MOU) BETWEEN THE MINISTRY OF DEFENCE OF THE REPUBLIC OF INDONESIA AND THE FEDERAL
+  MINISTRY OF DEFENCE OF THE FEDERAL REPUBLIC OF GERMANY CONCERNING COOPERATION IN
+  THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f786650cbaf69d1f29421f707e8e4bff0e3298acdc27244ca8a8a526e2c6607a
+  file_size_bytes: 25503
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2016bt.pdf'

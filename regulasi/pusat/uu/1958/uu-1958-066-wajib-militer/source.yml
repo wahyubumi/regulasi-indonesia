@@ -1,0 +1,22 @@
+id: uu-1958-066
+judul: Undang-Undang Nomor 66 Tahun 1958 tentang WAJIB-MILITER *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a186e75a0d689a29e985383f53f8a4e28d8a41a685a1e7351c00212593075624
+  file_size_bytes: 168374
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu66-1958.pdf'

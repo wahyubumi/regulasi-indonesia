@@ -1,0 +1,25 @@
+id: uu-1954-015
+judul: Undang-Undang Nomor 15 Tahun 1954 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 7 TAHUN 1951 (LEMBARAN NEGARA NO 26 TAHUN 1951) UNTUK MEMPERPANJANG WAKTU BERLAKUNYA
+  ATURAN HUKUM TERMAKSUD DALAM PASAL 3 AYAT 2 ORDONANSI (STAATSBLAD UNTUK INDONESIA
+  TAHUN 1948 NO 141)" SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 03abd07d8b1c7f976c0140bcc939c439277216152f11cf24187611314f9ffda5
+  file_size_bytes: 90144
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu15-1954.pdf'

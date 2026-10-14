@@ -1,0 +1,23 @@
+id: uu-1964-012
+judul: Undang-Undang Nomor 12 Tahun 1964 tentang PEMUTUSAN HUBUNGAN KERJA DI PERUSAHAAN
+  SWASTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9484850a3d043546123ad9e9f6bd15f6d9ca3f72f2bbee81b0d6066633bedbc1
+  file_size_bytes: 76684
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0121964.pdf'

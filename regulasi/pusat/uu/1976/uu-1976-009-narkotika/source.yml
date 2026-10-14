@@ -1,0 +1,22 @@
+id: uu-1976-009
+judul: Undang-Undang Nomor 9 Tahun 1976 tentang NARKOTIKA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d02a3c442c61f6d42a14db169d5c0328ec8a3fa400266b75a1bedcee91561b28
+  file_size_bytes: 120790
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-1976.pdf'

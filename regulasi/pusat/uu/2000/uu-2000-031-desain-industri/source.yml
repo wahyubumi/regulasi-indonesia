@@ -1,0 +1,22 @@
+id: uu-2000-031
+judul: Undang-Undang Nomor 31 Tahun 2000 tentang DESAIN INDUSTRI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b522431e9ba1ec8c7558c480798b03c4ef4e525604d539cf01de9723af42414b
+  file_size_bytes: 118520
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu31-2000.pdf'

@@ -1,0 +1,23 @@
+id: uu-1958-085
+judul: Undang-Undang Nomor 85 Tahun 1958 tentang RENCANA PEMBANGUNAN LIMA TAHUN 1956-1960
+  *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fca4f4989300f5907e4132ac9daa39b5039f68027809963ebd0743aa7562e7a9
+  file_size_bytes: 719563
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu85-1958.pdf'

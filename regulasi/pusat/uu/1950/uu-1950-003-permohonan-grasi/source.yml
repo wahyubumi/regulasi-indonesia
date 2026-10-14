@@ -1,0 +1,22 @@
+id: uu-1950-003
+judul: Undang-Undang Nomor 3 Tahun 1950 tentang PERMOHONAN GRASI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d83cc1371a1188df1793849d553736d3f32afad070bd0e558bfc6426a63ffb84
+  file_size_bytes: 34990
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1950.pdf'

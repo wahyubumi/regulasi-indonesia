@@ -1,0 +1,23 @@
+id: uu-1990-004
+judul: Undang-Undang Nomor 4 Tahun 1990 tentang SERAH-SIMPAN KARYA CETAK DAN KARYA
+  REKAM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4f2bd5d7c107ae999c735cd94a396095a386fb8b4f2c1d023598827257fd3563
+  file_size_bytes: 37895
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1990.pdf'

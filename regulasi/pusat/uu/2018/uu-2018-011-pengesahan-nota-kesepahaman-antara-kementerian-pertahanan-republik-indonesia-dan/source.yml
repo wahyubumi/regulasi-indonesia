@@ -1,0 +1,26 @@
+id: uu-2018-011
+judul: Undang-Undang Nomor 11 Tahun 2018 tentang PENGESAHAN NOTA KESEPAHAMAN ANTARA
+  KEMENTERIAN PERTAHANAN REPUBLIK INDONESIA DAN KEMENTERIAN PERTAHANAN KERAJAAN BELANDA
+  TENTANG KERJA SAMA TERKAIT PERTAHANAN (MEMORANDUM OF UNDERSTANDING BETWEEN THE MINISTRY
+  OF DEFENCE OF THE REPUBLIC OF INDONESIA AND THE MINISTRY OF DEFENCE OF THE KINGDOM
+  OF THE NETHERLANDS ON DEFENCE-RELATED COOPERATION)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 20831b87e4a15a49313367f3a2a8d5a19bae0b148e7df6c5801fdae768b8e28a
+  file_size_bytes: 192375
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2018bt.pdf'

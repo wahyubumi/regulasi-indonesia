@@ -1,0 +1,22 @@
+id: uu-2011-004
+judul: Undang-Undang Nomor 4 Tahun 2011 tentang INFORMASI GEOSPASIAL pk
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0b8a62f5aec1fe86012a94793ca84e95fa9c486add4ddff3c01cfc1fbe76d305
+  file_size_bytes: 112917
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2011.pdf'

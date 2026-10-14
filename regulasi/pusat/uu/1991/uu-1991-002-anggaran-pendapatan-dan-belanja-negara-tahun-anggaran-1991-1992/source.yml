@@ -1,0 +1,23 @@
+id: uu-1991-002
+judul: Undang-Undang Nomor 2 Tahun 1991 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 1991/1992
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 42845e9288d267f3cbf6d45bfa989d96c0caf0a2caff05e5bd3fb9f156d59510
+  file_size_bytes: 47653
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+2+TH+1991.pdf'

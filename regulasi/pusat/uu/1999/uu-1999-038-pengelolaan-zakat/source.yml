@@ -1,0 +1,22 @@
+id: uu-1999-038
+judul: Undang-Undang Nomor 38 Tahun 1999 tentang PENGELOLAAN ZAKAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b41104f819472912e8aca72e70464370972bc5771179057b90b8a3a18aafbbde
+  file_size_bytes: 78219
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu38-1999.pdf'

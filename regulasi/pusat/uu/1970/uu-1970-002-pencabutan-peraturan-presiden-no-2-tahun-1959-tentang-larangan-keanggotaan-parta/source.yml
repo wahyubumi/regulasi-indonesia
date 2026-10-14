@@ -1,0 +1,24 @@
+id: uu-1970-002
+judul: Undang-Undang Nomor 2 Tahun 1970 tentang PENCABUTAN PERATURAN PRESIDEN NO.
+  2 TAHUN 1959 TENTANG LARANGAN KEANGGOTAAN PARTAI POLITIK BAGI PEJABAT NEGERI WARGA
+  NEGARA REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8da2c9c26ec3af1fcc1d54f99ca0e73585fcb38835a369d716ed8f634fd602b2
+  file_size_bytes: 28984
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0021970.pdf'

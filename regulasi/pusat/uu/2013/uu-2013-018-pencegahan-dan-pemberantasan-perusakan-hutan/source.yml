@@ -1,0 +1,23 @@
+id: uu-2013-018
+judul: Undang-Undang Nomor 18 Tahun 2013 tentang PENCEGAHAN DAN PEMBERANTASAN PERUSAKAN
+  HUTAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 22ffe26e0b0a20a443f62d438e01bd2597a30c16296175f7dc2a13024421f9d0
+  file_size_bytes: 372618
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-2013bt.pdf'

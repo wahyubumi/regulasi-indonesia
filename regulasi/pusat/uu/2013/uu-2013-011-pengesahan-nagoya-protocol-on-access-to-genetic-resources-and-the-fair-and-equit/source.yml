@@ -1,0 +1,26 @@
+id: uu-2013-011
+judul: Undang-Undang Nomor 11 Tahun 2013 tentang PENGESAHAN NAGOYA PROTOCOL ON ACCESS
+  TO GENETIC RESOURCES AND THE FAIR AND EQUITABLE SHARING OF BENEFITS ARISING FROM
+  THEIR UTILIZATION TO THE CONVENTION ON BIOLOGICAL DIVERSITY (PROTOKOL NAGOYA TENTANG
+  AKSES PADA SUMBER DAYA GENETIK DAN PEMBAGIAN KEUNTUNGAN YANG ADIL DAN SEIMBANG YANG
+  TIMBUL DARI PEMANFAATANNYA ATAS KONVENSI KEANEKARAGAMAN HAYATI)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7ecffd189bf5cdeb609228b48b5623fdae82c00ab3dc5d32ef1243781f5c0593
+  file_size_bytes: 29035
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2013bt.pdf'

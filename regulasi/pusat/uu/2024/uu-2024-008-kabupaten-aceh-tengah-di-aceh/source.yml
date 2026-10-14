@@ -1,0 +1,22 @@
+id: uu-2024-008
+judul: Undang-Undang Nomor 8 Tahun 2024 tentang KABUPATEN ACEH TENGAH DI ACEH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b34adfade92a2327f7c2517bd20fa33083fd89f27960169e6dcdddc4fc4c66c1
+  file_size_bytes: 695282
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-8-tahun-2024.pdf'

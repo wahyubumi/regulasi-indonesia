@@ -1,0 +1,22 @@
+id: uu-1997-023
+judul: Undang-Undang Nomor 23 Tahun 1997 tentang PENGELOLAAN LINGKUNGAN HIDUP
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d0f3bac20420160be9486b076abca9873c476283c9b037a41034c493c92db837
+  file_size_bytes: 133167
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-1997.pdf'

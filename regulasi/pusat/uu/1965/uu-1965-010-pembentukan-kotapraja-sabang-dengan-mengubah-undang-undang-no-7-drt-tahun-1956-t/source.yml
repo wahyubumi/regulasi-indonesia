@@ -1,0 +1,24 @@
+id: uu-1965-010
+judul: Undang-Undang Nomor 10 Tahun 1965 tentang PEMBENTUKAN KOTAPRAJA SABANG DENGAN
+  MENGUBAH UNDANG-UNDANG NO.7 DRT TAHUN 1956, TENTANG PEMBENTUKAN DAERAH OTONOM KABUPATEN
+  DI PROPINSI SUMATERA UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0a159c8d279b40c547927f0b0addaf6d8c77cf1a1459d3aa3e0bd4668ddeb531
+  file_size_bytes: 99812
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0101965.pdf'

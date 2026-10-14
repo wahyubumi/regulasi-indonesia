@@ -1,0 +1,23 @@
+id: uu-1980-007
+judul: Undang-Undang Nomor 7 Tahun 1980 tentang PEMBENTUKAN PENGADILAN TINGGI YOGYAKARTA
+  DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI SEMARANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 149174b1aae40acba8690f26e38a63a45921793a0f04c05248dd6c4f1bbc901c
+  file_size_bytes: 17885
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1980.pdf'

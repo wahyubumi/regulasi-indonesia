@@ -1,0 +1,23 @@
+id: uu-1967-013
+judul: Undang-Undang Nomor 13 Tahun 1967 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN 1968
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ebd766d2d1848911ebf508437dee85100f36e460cec7c47fafb4f86b1ca10e4e
+  file_size_bytes: 37464
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0131967.pdf'

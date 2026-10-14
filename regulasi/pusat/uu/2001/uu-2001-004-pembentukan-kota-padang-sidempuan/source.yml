@@ -1,0 +1,22 @@
+id: uu-2001-004
+judul: Undang-Undang Nomor 4 Tahun 2001 tentang PEMBENTUKAN KOTA PADANG SIDEMPUAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7e4d8ba69fb7f837eb182dada97fb97128df6e8abd6ed4da8451b62fee019632
+  file_size_bytes: 92774
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2001.pdf'

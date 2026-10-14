@@ -1,0 +1,23 @@
+id: uu-1957-054
+judul: Undang-Undang Nomor 54 Tahun 1957 tentang PENETAPAN BAGIAN IBW V (JAWATAN POS,
+  TELEGRAP DAN TELEPON) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6524d9fffd50b16756bc360e69ea5fcb436640d1c7f9799c05e1d42e1b932c0f
+  file_size_bytes: 26197
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu54-1957.pdf'

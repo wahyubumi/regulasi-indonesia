@@ -1,0 +1,24 @@
+id: uu-1954-024
+judul: Undang-Undang Nomor 24 Tahun 1954 tentang PENETAPAN UNDANG-UNDANG DARURAT TENTANG
+  PEMINDAHAN HAK TANAH-TANAH DAN BARANG-BARANG TETAP YANG LAINNYA YANG BERTAKLUK KEPADA
+  HUKUM EROPAH (UNDANG-UNDANG DARURAT NO. 1 TAHUN 1952) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2ed33515a313482bfe5088053634a4685c5e92831d2a75b5dfceb1af7d910b49
+  file_size_bytes: 96938
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-1954.pdf'

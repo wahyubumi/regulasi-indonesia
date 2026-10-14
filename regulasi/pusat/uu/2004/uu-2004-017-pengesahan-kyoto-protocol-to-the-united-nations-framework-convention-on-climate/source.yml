@@ -1,0 +1,24 @@
+id: uu-2004-017
+judul: Undang-Undang Nomor 17 Tahun 2004 tentang PENGESAHAN KYOTO PROTOCOL TO THE
+  UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE (PROTOKOL KYOTO ATAS KONVENSI
+  KERANGKA KERJA PERSERIKATAN BANGSA-BANGSA TENTANG PERUBAHAN IKLIM)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 054382c75b7aa605c0aa461613b56886a21709f53fd6eed6c47d6a8679cf97dd
+  file_size_bytes: 56459
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-2004.pdf'

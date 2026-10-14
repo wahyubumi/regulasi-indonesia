@@ -1,0 +1,25 @@
+id: uu-2021-005
+judul: Undang-Undang Nomor 5 Tahun 2021 tentang PENGESAHAN PERJANJIAN ANTARA REPUBLIK
+  INDONESIA DAN FEDERASI RUSIA TENTANG BANTUAN HUKUM TIMBAL BALIK DALAM MASALAH PIDANA
+  (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE RUSSIAN FEDERATION ON MUTUAL LEGAL
+  ASSISTANCE IN CRIMINAL MATTERS)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ad0c85f15586492df0eeb51b8933444b6a4d5a340c5c960f5d2b343280c00be6
+  file_size_bytes: 113440
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2021bt.pdf'

@@ -1,0 +1,22 @@
+id: uu-2022-005
+judul: Undang-Undang Nomor 5 Tahun 2022 tentang PROVINSI SULAWESI UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 59511cb96ab3c0706789de197ed520fc31fb3c4ede8dbc3d1d218306cc8655bb
+  file_size_bytes: 105839
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2022bt.pdf'

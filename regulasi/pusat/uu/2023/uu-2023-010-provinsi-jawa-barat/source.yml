@@ -1,0 +1,22 @@
+id: uu-2023-010
+judul: Undang-Undang Nomor 10 Tahun 2023 tentang PROVINSI JAWA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e2a8faa79c9167f9276e892a80cc39775341e35c707959dc6261acfe4d1b919e
+  file_size_bytes: 659772
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-10-tahun-2023.pdf'

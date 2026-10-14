@@ -1,0 +1,22 @@
+id: uu-2002-020
+judul: Undang-Undang Nomor 20 Tahun 2002 tentang KETENAGALISTRIKAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2a887f6e32bf3c25b13a0523a01eed1cea70c43d745da6f38d9beaf2c4ae662f
+  file_size_bytes: 216649
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-2002.pdf'

@@ -1,0 +1,24 @@
+id: uu-2017-013
+judul: Undang-Undang Nomor 13 Tahun 2017 tentang PENGESAHAN PERSETUJUAN ANTARA REPUBLIK
+  INDONESIA DAN REPUBLIK RAKYAT CHINA TENTANG EKSTRADISI (TREATY BETWEEN THE REPUBLIC
+  OF INDONESIA AND THE PEOPLE’S REPUBLIC OF CHINA ON EXTRADITION)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0041ad224811ae0da05fa1d77174ea4e176fb95db7f055524ba453d2212e04ac
+  file_size_bytes: 185679
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-2017bt.pdf'

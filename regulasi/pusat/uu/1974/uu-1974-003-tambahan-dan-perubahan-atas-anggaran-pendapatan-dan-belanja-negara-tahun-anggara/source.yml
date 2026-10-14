@@ -1,0 +1,24 @@
+id: uu-1974-003
+judul: Undang-Undang Nomor 3 Tahun 1974 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1973/1974 DENGAN RAKHMAT TUHAN YANG
+  MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e148425741e735be915e7511e61174b4c0696887ae545e7bae1cd8146e04c290
+  file_size_bytes: 34980
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0031974.pdf'

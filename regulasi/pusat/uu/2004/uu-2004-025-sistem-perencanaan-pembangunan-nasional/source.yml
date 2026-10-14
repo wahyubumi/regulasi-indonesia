@@ -1,0 +1,22 @@
+id: uu-2004-025
+judul: Undang-Undang Nomor 25 Tahun 2004 tentang SISTEM PERENCANAAN PEMBANGUNAN NASIONAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d74ae2c7536fa71b5a8fc180e4c1c8fb1ec6a1a87c98a21f2334f7108d574776
+  file_size_bytes: 168422
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-2004.pdf'

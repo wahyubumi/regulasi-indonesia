@@ -1,0 +1,24 @@
+id: uu-1958-053
+judul: Undang-Undang Nomor 53 Tahun 1958 tentang PENETAPAN BAGIAN I.B.W. XIII (PERUSAHAAN
+  NEGARA TAMBANG TIMAH BANGKA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS
+  1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b734256e25091ed134de7e3ca4ffcfe5c82d08d3fdfc894c4340a5ed8dbef946
+  file_size_bytes: 14202
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu53-1958.pdf'

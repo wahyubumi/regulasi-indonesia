@@ -1,0 +1,24 @@
+id: uu-1958-016
+judul: Undang-Undang Nomor 16 Tahun 1958 tentang PENGUBAHAN DAN PENAMBAHAN UNDANG-
+  UNDANG NO. 2 TAHUN 1954 (LEMBARAN-NEGARA NO. 9 TAHUN 1954) TENTANG KEDUDUKAN KEUANGAN
+  KETUA, WAKIL KETUA DAN ANGGOTA DEWAN PERWAKILAN RAKYAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 892c35e729c07256789249a56ca35d777dc98960973db0273d4755833e534a7e
+  file_size_bytes: 21523
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-1958.pdf'

@@ -1,0 +1,25 @@
+id: uu-2006-020
+judul: Undang-Undang Nomor 20 Tahun 2006 tentang PENGESAHAN CONVENTION ON THE PROHIBITION
+  OF THE USE, STOCKPILING, PRODUCTION AND TRANSFER OF ANTI-PERSONNEL MINES AND ON
+  THEIR DESTRUCTION (KONVENSI TENTANG PELARANGAN PENGGUNAAN, PENIMBUNAN, PRODUKSI
+  DAN TRANSFER RANJAU DARAT ANTI PERSONEL DAN PEMUSNAHANNYA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c6c423952c4d8b88152791aecaf1b566f34d9f32ccc1d59140a1a7dad8ac296c
+  file_size_bytes: 17797
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-2006.pdf'

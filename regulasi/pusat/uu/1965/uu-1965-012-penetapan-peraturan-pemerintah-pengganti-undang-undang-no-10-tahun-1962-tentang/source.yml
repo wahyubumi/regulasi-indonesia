@@ -1,0 +1,24 @@
+id: uu-1965-012
+judul: Undang-Undang Nomor 12 Tahun 1965 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 10 TAHUN 1962, TENTANG PENCABUTAN UNDANG-UNDANG KRISIS IMPOR 1933
+  (LEMBARAN-NEGARA TAHUN 1962 NO. 44) MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d17c15ff1ccf7327955b92093d8998106771b2dfe8b82eb7bc49e03a45592198
+  file_size_bytes: 78970
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0121965.pdf'

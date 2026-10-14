@@ -1,0 +1,23 @@
+id: uu-1956-027
+judul: Undang-Undang Nomor 27 Tahun 1956 tentang MENGADAKAN SUATU TARIP MINIMUM DAN
+  MAKSIMUM DALAM TARIP BEA-MASUK *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 180cef2f6e5675356f06f892204f3e2a736158faecb04ad0f6fb33843e6660a5
+  file_size_bytes: 112885
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-1956.pdf'

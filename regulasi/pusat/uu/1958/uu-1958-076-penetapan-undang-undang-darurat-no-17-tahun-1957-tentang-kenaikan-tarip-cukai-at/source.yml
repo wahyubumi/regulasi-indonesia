@@ -1,0 +1,25 @@
+id: uu-1958-076
+judul: Undang-Undang Nomor 76 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 17 TAHUN 1957 TENTANG KENAIKAN TARIP CUKAI ATAS BIR, GULA, SACCHARIN DAN SEBAGAINYA
+  DAN KENAIKAN BEA MASUK ATAS BIR (LEMBARAN- NEGARA TAHUN 1957 NO. 64)" SEBAGAI UNDANG-UNDANG
+  *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 181666b424e94b0945b5199d6730b7d16fb302b555306fa10dd2761115f4bc85
+  file_size_bytes: 23548
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu76-1958.pdf'

@@ -1,0 +1,23 @@
+id: uu-2002-029
+judul: Undang-Undang Nomor 29 Tahun 2002 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 2003
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8e3d3d1db0281703184bc6102456ce25d2a2cc842cbef17555fb6ac6de4854d1
+  file_size_bytes: 102093
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu29-2002.pdf'

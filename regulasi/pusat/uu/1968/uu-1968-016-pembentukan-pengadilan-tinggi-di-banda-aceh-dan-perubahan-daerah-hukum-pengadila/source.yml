@@ -1,0 +1,24 @@
+id: uu-1968-016
+judul: Undang-Undang Nomor 16 Tahun 1968 tentang PEMBENTUKAN PENGADILAN TINGGI DI
+  BANDA ACEH DAN PERUBAHAN DAERAH HUKUM PENGADILAN TINGGI DI MEDAN DENGAN RAKHMAT
+  TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c5f4f39ac7f77f72ad88716170eeeec8073147050bb308545b76c6d4d1fac598
+  file_size_bytes: 14976
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+16+Tahun+1968.pdf'

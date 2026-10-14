@@ -1,0 +1,23 @@
+id: uu-1950-007
+judul: Undang-Undang Nomor 7 Tahun 1950 tentang PERUBAHAN KONSTITUSI SEMENTARA REPUBLIK
+  INDONESIA SERIKAT MENJADI UNDANG-UNDANG DASAR SEMENTARA REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bd9ba0fc2a626869711d71ae7986987d4bec909bdd96f001e7dab70244cf5603
+  file_size_bytes: 168535
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1950.pdf'

@@ -1,0 +1,26 @@
+id: uu-2017-004
+judul: Undang-Undang Nomor 4 Tahun 2017 tentang PENGESAHAN ANTARA PEMERINTAH REPUBLIK
+  INDONESIA DAN PEMERINTAH REPUBLIK FILIPINA MENGENAI PENETAPAN BATAS ZONA EKONOMI
+  EKSKLUSIF, 2014 (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND
+  THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES CONCERNING THE DELIMITATION OF
+  THE EXCLUSIVE ECONOMIC ZONE BOUNDARY, 2014)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fd16115c71917a980cf480f63af6197ea39b48956731c1f2929e5e037b5f1805
+  file_size_bytes: 188185
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2017bt.pdf'

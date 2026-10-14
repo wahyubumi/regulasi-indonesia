@@ -1,0 +1,22 @@
+id: uu-1999-042
+judul: Undang-Undang Nomor 42 Tahun 1999 tentang JAMINAN FIDUSIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dc14d2ef3c7df8c29ff0a9e852604d0e1cc56eb8faf4c2f304cb65858b85fe0b
+  file_size_bytes: 105002
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu42-1999.pdf'

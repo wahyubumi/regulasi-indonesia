@@ -1,0 +1,25 @@
+id: uu-2015-013
+judul: Undang-Undang Nomor 13 Tahun 2015 tentang Pengesahan Perjanjian Bantuan Timbal
+  Balik Dalam Masalah Pidana Antara Republik Indonesia Dan Republik Sosialis Viet
+  Nam (Treaty On Mutual Legal Assistance In Criminal Matters Between The Republic
+  Of Indonesia And The Socialist Republic Of Viet Nam)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3481632f1c88cbb370449172eafa5f9a0956bf6183710858450e044761f03582
+  file_size_bytes: 22792
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-2015bt.pdf'

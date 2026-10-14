@@ -1,0 +1,23 @@
+id: uu-1958-051
+judul: Undang-Undang Nomor 51 Tahun 1958 tentang PENETAPAN BAGIAN I.B.W. XII (PELABUHAN
+  SURABAYA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955*)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 798950178a81527d1c4344462f2213dc48243f83f1e84874048d1a788781f791
+  file_size_bytes: 15410
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu51-1958.pdf'

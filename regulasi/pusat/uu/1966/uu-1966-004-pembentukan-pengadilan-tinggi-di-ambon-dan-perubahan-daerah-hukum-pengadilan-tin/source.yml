@@ -1,0 +1,23 @@
+id: uu-1966-004
+judul: Undang-Undang Nomor 4 Tahun 1966 tentang PEMBENTUKAN PENGADILAN TINGGI DI AMBON
+  DAN PERUBAHAN DAERAH HUKUM PENGADILAN TINGGI DI MAKASAR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8590bd0e61252e8c49ef1d1a329c736fb4c0ba4685c7e31fd85d5f65f03e920f
+  file_size_bytes: 30262
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041966.pdf'

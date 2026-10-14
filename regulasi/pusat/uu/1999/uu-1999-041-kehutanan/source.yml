@@ -1,0 +1,22 @@
+id: uu-1999-041
+judul: Undang-Undang Nomor 41 Tahun 1999 tentang KEHUTANAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 19e79b8612fd9f0e6797cb2153ff3f35594b5e1924bbb7b5a61782e319815719
+  file_size_bytes: 251620
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu41-1999.pdf'

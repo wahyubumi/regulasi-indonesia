@@ -1,0 +1,23 @@
+id: uu-1947-012
+judul: Undang-Undang Nomor 12 Tahun 1947 tentang MENAMBAH DAN MENGUBAH UNDANG - UNDANG
+  NOMOR 12 TAHUN 1947 TENTANG PAJAK RADIO
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3ad790226b2cc48aaf7f0fb5498033249c2faf221112b30fa7a97b9985c3d9db
+  file_size_bytes: 54728
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-1948.pdf'

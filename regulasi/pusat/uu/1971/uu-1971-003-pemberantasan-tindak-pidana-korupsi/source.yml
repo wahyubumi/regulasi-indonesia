@@ -1,0 +1,22 @@
+id: uu-1971-003
+judul: Undang-Undang Nomor 3 Tahun 1971 tentang PEMBERANTASAN TINDAK PIDANA KORUPSI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9506827bfa2ebb60d44ad61093c063d74998d67013e5b22a5c2325ae1b15381b
+  file_size_bytes: 99777
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0031971.pdf'

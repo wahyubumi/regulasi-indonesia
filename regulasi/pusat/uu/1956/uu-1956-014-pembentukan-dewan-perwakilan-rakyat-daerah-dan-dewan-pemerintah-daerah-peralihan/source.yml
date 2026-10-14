@@ -1,0 +1,23 @@
+id: uu-1956-014
+judul: Undang-Undang Nomor 14 Tahun 1956 tentang PEMBENTUKAN DEWAN PERWAKILAN RAKYAT
+  DAERAH DAN DEWAN PEMERINTAH DAERAH PERALIHAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 66ffbb460860e5ab738938178f28b0439e8296e15f8c4221ca12d3e7d15124f5
+  file_size_bytes: 101614
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-1956.pdf'

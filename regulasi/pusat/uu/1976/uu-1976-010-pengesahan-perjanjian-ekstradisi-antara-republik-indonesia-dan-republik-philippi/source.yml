@@ -1,0 +1,23 @@
+id: uu-1976-010
+judul: Undang-Undang Nomor 10 Tahun 1976 tentang PENGESAHAN PERJANJIAN EKSTRADISI
+  ANTARA REPUBLIK INDONESIA DAN REPUBLIK PHILIPPINA SERTA PROTOKOL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e81b5a8d581d03a19ece5169e88664b50682f0e707608fde688e655c2ab153ff
+  file_size_bytes: 41793
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1976.pdf'

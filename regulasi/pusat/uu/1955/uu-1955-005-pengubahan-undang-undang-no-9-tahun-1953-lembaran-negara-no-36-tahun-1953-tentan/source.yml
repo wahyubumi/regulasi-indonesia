@@ -1,0 +1,24 @@
+id: uu-1955-005
+judul: Undang-Undang Nomor 5 Tahun 1955 tentang PENGUBAHAN UNDANG-UNDANG NO. 9 TAHUN
+  1953 (LEMBARAN-NEGARA NO. 36 TAHUN 1953 ), TENTANG PEMBERIAN TUNJANGAN YANG BERSIFAT
+  PENSIUN KEPADA BEKAS KETUA DAN BEKAS ANGGOTA DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 33251df1d8b6fc7b20d348269b3fba94bac781f7a9293f48835a531a88961d42
+  file_size_bytes: 91533
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1955.pdf'

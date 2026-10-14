@@ -1,0 +1,22 @@
+id: uu-1997-005
+judul: Undang-Undang Nomor 5 Tahun 1997 tentang PSIKOTROPIKA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8de159766363c18db596ee83caa4bbc3d56d4434d07b5e094d91065046f5962e
+  file_size_bytes: 105716
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1997.pdf'

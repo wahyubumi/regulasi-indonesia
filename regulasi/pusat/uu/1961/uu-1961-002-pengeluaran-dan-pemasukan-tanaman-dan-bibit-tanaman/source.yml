@@ -1,0 +1,23 @@
+id: uu-1961-002
+judul: Undang-Undang Nomor 2 Tahun 1961 tentang PENGELUARAN DAN PEMASUKAN TANAMAN
+  DAN BIBIT TANAMAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d133d33f61b1caf811c47d70c77dd4f14c8eae0884c6b6fb507df97e31c48ebf
+  file_size_bytes: 62808
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0021961.pdf'

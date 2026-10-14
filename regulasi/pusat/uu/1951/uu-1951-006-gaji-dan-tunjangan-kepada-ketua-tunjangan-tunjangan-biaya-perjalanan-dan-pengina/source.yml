@@ -1,0 +1,24 @@
+id: uu-1951-006
+judul: Undang-Undang Nomor 6 Tahun 1951 tentang GAJI DAN TUNJANGAN KEPADA KETUA, TUNJANGAN-TUNJANGAN,
+  BIAYA PERJALANAN DAN PENGINAPAN KEPADA ANGGAUTA-ANGGAUTA DEWAN PERWAKILAN RAKYAT
+  REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0986998ef661ac41aa4ccf18d3c8c6a184fa1ab8a84f3757171d881ea0760c32
+  file_size_bytes: 52027
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1951.pdf'

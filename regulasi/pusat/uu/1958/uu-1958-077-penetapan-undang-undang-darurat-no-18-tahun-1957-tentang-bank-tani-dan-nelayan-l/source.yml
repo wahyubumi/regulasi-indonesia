@@ -1,0 +1,24 @@
+id: uu-1958-077
+judul: Undang-Undang Nomor 77 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 18 TAHUN 1957 TENTANG BANK TANI DAN NELAYAN (LEMBARAN-NEGARA TAHUN 1957 NO.
+  70)" SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8162cbef2aaac3bb8fd6c94f058bc68f9a32e27028f22783a84db3ff99206eda
+  file_size_bytes: 43146
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu77-1958.pdf'

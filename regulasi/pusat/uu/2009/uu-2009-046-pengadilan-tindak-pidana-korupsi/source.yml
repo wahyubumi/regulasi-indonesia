@@ -1,0 +1,22 @@
+id: uu-2009-046
+judul: Undang-Undang Nomor 46 Tahun 2009 tentang PENGADILAN TINDAK PIDANA KORUPSI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6be4f0dbded78a7f0da3af9f389ca5312b6f70b71e2f8263f9485356fadb3ca6
+  file_size_bytes: 69491
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu46-2009.pdf'

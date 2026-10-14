@@ -1,0 +1,24 @@
+id: uu-1958-020
+judul: Undang-Undang Nomor 20 Tahun 1958 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  22 TAHUN 1957 TENTANG PEMBENTUKAN DAERAH SWATANTRA TINGKAT I MALUKU (LEMBARAN-NEGARA
+  TAHUN 1957 NO. 79) SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f9b2deb1cef4df7f2177b9a74c078b71f35f6aa62bb6ba19d0aae69d9746d878
+  file_size_bytes: 33950
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-1958.pdf'

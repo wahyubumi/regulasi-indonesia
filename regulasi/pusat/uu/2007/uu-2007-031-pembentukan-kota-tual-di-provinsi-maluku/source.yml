@@ -1,0 +1,23 @@
+id: uu-2007-031
+judul: Undang-Undang Nomor 31 Tahun 2007 tentang PEMBENTUKAN KOTA TUAL DI PROVINSI
+  MALUKU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0c2157b5848a9c5e256d8904b74652e1ce417a2c4171de0201c549faa2efa329
+  file_size_bytes: 157189
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu31-2007.pdf'

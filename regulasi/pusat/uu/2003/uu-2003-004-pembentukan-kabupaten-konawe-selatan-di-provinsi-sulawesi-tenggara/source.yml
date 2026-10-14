@@ -1,0 +1,23 @@
+id: uu-2003-004
+judul: Undang-Undang Nomor 4 Tahun 2003 tentang PEMBENTUKAN KABUPATEN KONAWE SELATAN
+  DI PROVINSI SULAWESI TENGGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 03ea138f373473824496df1796732c19c6f8d2d3a95e5d3de70a631072c70f0a
+  file_size_bytes: 58071
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0042003.pdf'

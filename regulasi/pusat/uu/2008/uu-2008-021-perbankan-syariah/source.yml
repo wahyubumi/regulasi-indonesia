@@ -1,0 +1,22 @@
+id: uu-2008-021
+judul: Undang-Undang Nomor 21 Tahun 2008 tentang PERBANKAN SYARIAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d106a1645d4fdc5ce3c3f639b1a83d0733751335e84c8a6f971053550507a415
+  file_size_bytes: 254456
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+21+2008.pdf'

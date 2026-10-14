@@ -1,0 +1,23 @@
+id: uu-2024-129
+judul: Undang-Undang Nomor 129 Tahun 2024 tentang KABUPATEN BULUKUMBA DI PROVINSI
+  SULAWESI SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 956eb921484bd5d6c092c6df22f81a0adef36f488c966768b7ebfafdc6da3ccd
+  file_size_bytes: 320009
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-129-tahun-2024.pdf'

@@ -1,0 +1,23 @@
+id: uu-1958-035
+judul: Undang-Undang Nomor 35 Tahun 1958 tentang PENETAPAN BAGIAN VIIIA (KEMENTERIAN
+  PERHUBUNGAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 99411d8e61d7c2c4e9e817076ad2863b8e3bfaf349aa6ac080d98e04255b20a3
+  file_size_bytes: 28065
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu35-1958.pdf'

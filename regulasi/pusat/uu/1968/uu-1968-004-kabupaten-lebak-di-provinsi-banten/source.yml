@@ -1,0 +1,22 @@
+id: uu-1968-004
+judul: Undang-Undang Nomor 4 Tahun 1968 tentang KABUPATEN LEBAK DI PROVINSI BANTEN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e105f4bb5cc870be774932317d110f032a3ebc6d6d80452c7dc49ec88bc75aaf
+  file_size_bytes: 752042
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-115-tahun-2024.pdf'

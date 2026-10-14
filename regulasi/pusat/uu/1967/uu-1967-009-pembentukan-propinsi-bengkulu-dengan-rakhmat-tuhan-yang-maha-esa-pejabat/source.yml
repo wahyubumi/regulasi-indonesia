@@ -1,0 +1,23 @@
+id: uu-1967-009
+judul: Undang-Undang Nomor 9 Tahun 1967 tentang PEMBENTUKAN PROPINSI BENGKULU DENGAN
+  RAKHMAT TUHAN YANG MAHA ESA PEJABAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 97c8178e0099129a2f8add9cfd3b0736f175613c4d71fbf1a0c7bfd6c2a83a92
+  file_size_bytes: 42380
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0091967.pdf'

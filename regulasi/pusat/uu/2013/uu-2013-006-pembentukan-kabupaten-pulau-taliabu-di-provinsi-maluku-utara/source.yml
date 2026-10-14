@@ -1,0 +1,23 @@
+id: uu-2013-006
+judul: Undang-Undang Nomor 6 Tahun 2013 tentang PEMBENTUKAN KABUPATEN PULAU TALIABU
+  DI PROVINSI MALUKU UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a93edd3d96b06bcb504802e6ea3c4b84441126f0c64fa00367759afcf220c97f
+  file_size_bytes: 2170313
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-2013bt.pdf'

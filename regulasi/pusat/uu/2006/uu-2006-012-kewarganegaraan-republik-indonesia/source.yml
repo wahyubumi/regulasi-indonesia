@@ -1,0 +1,22 @@
+id: uu-2006-012
+judul: Undang-Undang Nomor 12 Tahun 2006 tentang KEWARGANEGARAAN REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7412f8a52b03acb206666984c98717b250664a217ec5e77ded3fbbb2dbbca2b5
+  file_size_bytes: 93715
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2006.pdf'

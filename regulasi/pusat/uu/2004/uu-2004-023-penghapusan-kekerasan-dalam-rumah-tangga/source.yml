@@ -1,0 +1,23 @@
+id: uu-2004-023
+judul: Undang-Undang Nomor 23 Tahun 2004 tentang PENGHAPUSAN KEKERASAN DALAM RUMAH
+  TANGGA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 68eb318ab655682f7c2d78d73ec59419feba9534ff91627ebe669168c7393bdf
+  file_size_bytes: 57078
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-2004.pdf'

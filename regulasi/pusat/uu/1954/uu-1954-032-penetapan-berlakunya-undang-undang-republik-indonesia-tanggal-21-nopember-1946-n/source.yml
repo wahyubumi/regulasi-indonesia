@@ -1,0 +1,24 @@
+id: uu-1954-032
+judul: Undang-Undang Nomor 32 Tahun 1954 tentang PENETAPAN BERLAKUNYA UNDANG-UNDANG
+  REPUBLIK INDONESIA TANGGAL 21 NOPEMBER 1946 NO.22 TAHUN 1946 TENTANG PENCATATAN
+  NIKAH, TALAK DAN RUJUK DI SELURUH DAERAH LUAR JAWA DAN MADURA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5d2047ef235574765fef97c7ed16c34103fd122f0c6a6640274855f73d050d97
+  file_size_bytes: 99638
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu32-1954.pdf'

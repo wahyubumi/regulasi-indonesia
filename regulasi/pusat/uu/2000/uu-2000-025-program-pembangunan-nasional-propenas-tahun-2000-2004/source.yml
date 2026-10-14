@@ -1,0 +1,23 @@
+id: uu-2000-025
+judul: Undang-Undang Nomor 25 Tahun 2000 tentang PROGRAM PEMBANGUNAN NASIONAL (PROPENAS)
+  TAHUN 2000-2004
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ea5d7d6018edaee727a8ebb565780577d38e1878e4ce7192a1ec5ae8d07bb360
+  file_size_bytes: 54348
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-2000.pdf'

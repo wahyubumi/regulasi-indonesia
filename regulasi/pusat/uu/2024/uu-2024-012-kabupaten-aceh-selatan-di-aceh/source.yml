@@ -1,0 +1,22 @@
+id: uu-2024-012
+judul: Undang-Undang Nomor 12 Tahun 2024 tentang KABUPATEN ACEH SELATAN DI ACEH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: db69a0c386a61af7f8cc9ccfc93e14f67e68205dccb68b7cee343b1aa325ca01
+  file_size_bytes: 823571
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-12-tahun-2024.pdf'

@@ -1,0 +1,23 @@
+id: uu-2007-014
+judul: Undang-Undang Nomor 14 Tahun 2007 tentang PEMBENTUKAN KABUPATEN BUTON UTARA
+  DI PROVINSI SULAWESI TENGGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a9aedc227029587f6e3a7e4e4132a2d0009cb0d941134a758d8b1afc7c1c2b07
+  file_size_bytes: 74909
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2007.pdf'

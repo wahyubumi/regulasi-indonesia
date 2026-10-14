@@ -1,0 +1,22 @@
+id: uu-2001-010
+judul: Undang-Undang Nomor 10 Tahun 2001 tentang PEMBENTUKAN KOTA TASIKMALAYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a39f0d385d2c4b248a2d5ff99d1f37b33408519af1ad824118080bf24aa483cc
+  file_size_bytes: 91917
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-2001.pdf'

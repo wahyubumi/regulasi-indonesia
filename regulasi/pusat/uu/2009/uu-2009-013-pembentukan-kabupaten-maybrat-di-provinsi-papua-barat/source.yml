@@ -1,0 +1,23 @@
+id: uu-2009-013
+judul: Undang-Undang Nomor 13 Tahun 2009 tentang PEMBENTUKAN KABUPATEN MAYBRAT DI
+  PROVINSI PAPUA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f2493fe155382820b8ba4e7dbd645e638a77ea014885b5f166331ccbd3ea7e3f
+  file_size_bytes: 64849
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-2009.pdf'

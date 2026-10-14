@@ -1,0 +1,22 @@
+id: uu-1948-012
+judul: Undang-Undang Nomor 12 Tahun 1948 tentang UNDANG-UNDANG KERJA TAHUN 1948
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8197394df59054f9b4eee287b54cb7e300d3a3acece29457c5caa1170236ac13
+  file_size_bytes: 80019
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1948.pdf'

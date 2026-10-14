@@ -1,0 +1,22 @@
+id: uu-2000-032
+judul: Undang-Undang Nomor 32 Tahun 2000 tentang DESAIN TATA LETAK SIRKUIT TERPADU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8fa53f900ad2fdbeb804dfbdae1629838e882fbe0f4252732c658be0e12d98b3
+  file_size_bytes: 85308
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU-32-2000.pdf'

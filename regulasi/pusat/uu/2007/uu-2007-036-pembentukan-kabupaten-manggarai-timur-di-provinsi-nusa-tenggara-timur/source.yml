@@ -1,0 +1,23 @@
+id: uu-2007-036
+judul: Undang-Undang Nomor 36 Tahun 2007 tentang PEMBENTUKAN KABUPATEN MANGGARAI TIMUR
+  DI PROVINSI NUSA TENGGARA TIMUR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ca155f437d7dc9713c027c2fe5ad09c727d91cc06c2650a01831b87b4e34bf43
+  file_size_bytes: 211949
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu36-2007.pdf'

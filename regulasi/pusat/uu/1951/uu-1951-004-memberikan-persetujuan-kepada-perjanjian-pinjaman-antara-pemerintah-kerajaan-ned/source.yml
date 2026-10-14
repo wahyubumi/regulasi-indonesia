@@ -1,0 +1,24 @@
+id: uu-1951-004
+judul: Undang-Undang Nomor 4 Tahun 1951 tentang MEMBERIKAN PERSETUJUAN KEPADA PERJANJIAN
+  PINJAMAN ANTARA PEMERINTAH KERAJAAN NEDERLAND DAN PEMERINTAH REPUBLIK INDONESIA
+  SERIKAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 629c4610ec680e3cd6d8deb93cd777db345d4402c65a2773b27c05599ee2762e
+  file_size_bytes: 51771
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1951.pdf'

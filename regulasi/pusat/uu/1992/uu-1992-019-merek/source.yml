@@ -1,0 +1,22 @@
+id: uu-1992-019
+judul: Undang-Undang Nomor 19 Tahun 1992 tentang MEREK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4b1d98a3491900ba7338be85e9f3c681ba5dda275f8b9f2e28ac66cb29469882
+  file_size_bytes: 185890
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+19+TH+1992.pdf'

@@ -1,0 +1,26 @@
+id: uu-2023-002
+judul: Undang-Undang Nomor 2 Tahun 2023 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK FIJI TENTANG KER.IA SAMA BIDANG PERTAHANAN
+  (AGREEMENT BETWEEN THE GOWRNMENT OF THE REPUBUC OF IIVDOIVESIA AND THE GOVERNMENT
+  OFTHE REPUBUC OF FIJI CONCERNING COOPERATION IN THE FIELD OF DEFE,NC4 DENGAN RAHMATTUHAN
+  YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2e9dbd9eb7e03046526a1322afbafeb4e1828adea4afab498ca815e28ba9c190
+  file_size_bytes: 369311
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-2-tahun-2023.pdf'

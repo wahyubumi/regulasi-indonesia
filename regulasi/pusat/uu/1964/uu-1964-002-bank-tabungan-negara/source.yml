@@ -1,0 +1,22 @@
+id: uu-1964-002
+judul: Undang-Undang Nomor 2 Tahun 1964 tentang BANK TABUNGAN NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5949bd0000079058e7f8dd5be9f9c1388d92ae3379450568fec22ccbb8f66d71
+  file_size_bytes: 87233
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0021964.pdf'

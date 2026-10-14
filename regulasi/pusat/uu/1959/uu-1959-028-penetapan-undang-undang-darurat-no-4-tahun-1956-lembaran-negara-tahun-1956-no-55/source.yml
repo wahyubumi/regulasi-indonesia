@@ -1,0 +1,26 @@
+id: uu-1959-028
+judul: Undang-Undang Nomor 28 Tahun 1959 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  4 TAHUN 1956 (LEMBARAN-NEGARA TAHUN 1956 NO. 55), UNDANG-UNDANG DARURAT NO. 5 TAHUN
+  1956 (LEMBARAN-NEGARA TAHUN 1956 NO. 56) DAN UNDANG-UNDANG DARURAT NO. 6 TAHUN 1956
+  (LEMBARAN-NEGARA TAHUN 1956 NO. 57) TENTANG PEMBENTUKAN DAERAH TINGKAT II TERMASUK
+  KOTAPRAJA, DALAM LINGKUNGAN DAERAH TINGKAT I SUMATERA SELATAN, SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 78107cf0214929a4033ba34c6507ec5cc3acd420fd1b7eee38f9a4db8cb4c7d9
+  file_size_bytes: 102572
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0281959.pdf'

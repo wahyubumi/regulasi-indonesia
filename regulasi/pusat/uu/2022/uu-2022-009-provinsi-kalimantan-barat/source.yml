@@ -1,0 +1,22 @@
+id: uu-2022-009
+judul: Undang-Undang Nomor 9 Tahun 2022 tentang PROVINSI KALIMANTAN BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 61d929ce8a9796dc3335a02e6565ec949f0b411edc851a3bb8fa77ac3f6101f4
+  file_size_bytes: 93129
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-2022bt.pdf'

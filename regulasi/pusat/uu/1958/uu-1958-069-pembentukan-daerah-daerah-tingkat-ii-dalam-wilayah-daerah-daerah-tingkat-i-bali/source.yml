@@ -1,0 +1,24 @@
+id: uu-1958-069
+judul: Undang-Undang Nomor 69 Tahun 1958 tentang PEMBENTUKAN DAERAH-DAERAH TINGKAT
+  II DALAM WILAYAH DAERAH- DAERAH TINGKAT I BALI, NUSA TENGGARA BARAT DAN NUSA TENGGGARA
+  TIMUR *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 47c4346f4ac651604fba0cd7e8e7b0c7e5f11f32741ef054dc364919ee05a69c
+  file_size_bytes: 64996
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu69-1958.pdf'

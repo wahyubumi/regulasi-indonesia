@@ -1,0 +1,23 @@
+id: uu-2024-094
+judul: Undang-Undang Nomor 94 Tahun 2024 tentang KABUPATEN OGAN KOMERING ILIR DI PROVINSI
+  SUMATERA SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fe212948dce7ae5926b3c3dabe68c50c030f23c7a1f7054346cfaecf93396bc0
+  file_size_bytes: 425941
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-94-tahun-2024.pdf'

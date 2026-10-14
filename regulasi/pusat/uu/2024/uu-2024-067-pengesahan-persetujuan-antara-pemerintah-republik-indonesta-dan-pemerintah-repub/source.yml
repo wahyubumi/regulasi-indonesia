@@ -1,0 +1,25 @@
+id: uu-2024-067
+judul: Undang-Undang Nomor 67 Tahun 2024 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESTA DAN PEMERINTAH REPUBLIK INDIA MENGENAI KERJA SAMA DALAM BIDANG
+  PERTAHANAN (AGREEMENT BETWEEN THE GOWRNMENTOFTHE REPUBLIC OF INDONESIA AND THE GOIrERNMENT
+  OF THE REPT]BLIC OF INDIA coNcERNTNG COO?ERATION rN THE FIELD OF DEFENCq
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: da8d43f60c2cc159d690f17fb5faefff332852839432105956c254c9e114d4ef
+  file_size_bytes: 642897
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-67-tahun-2024.pdf'

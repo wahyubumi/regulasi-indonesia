@@ -1,0 +1,25 @@
+id: uu-1954-042
+judul: Undang-Undang Nomor 42 Tahun 1954 tentang PENETAPAN BAGIAN IVA (URUSAN PENYELENGGARAAN
+  KEUANGAN DAN PERHITUNGAN-PERHITUNGANNYA MENGENAI PERUSAHAAN-PERUSAHAAN DAN JAWANTAN-JAWATAN
+  (PEMERINTAH), YANG MEMPUNYAI PENGURUS SENDIRI) DARI ANGGARAN REPUBLIK INDONESIA
+  UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9ca160b6b157a19267fb8d4484fe6d602c3bc4025de322352560893fd96a0cf3
+  file_size_bytes: 96406
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu42-1954.pdf'

@@ -1,0 +1,23 @@
+id: uu-1982-014
+judul: Undang-Undang Nomor 14 Tahun 1982 tentang PEMBENTUKAN PENGADILAN TINGGI JAMBI
+  DI JAMBI DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI PALEMBANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: eadfe2af4cb3b8a1b6a9f8484577a329c2570659c7b7ebd7abf5698777da0b5b
+  file_size_bytes: 23121
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-1982.pdf'

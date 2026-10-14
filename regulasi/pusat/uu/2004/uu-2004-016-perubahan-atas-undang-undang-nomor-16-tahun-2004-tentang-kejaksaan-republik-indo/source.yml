@@ -1,0 +1,23 @@
+id: uu-2004-016
+judul: Undang-Undang Nomor 16 Tahun 2004 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  16 TAHUN 2004 TENTANG KEJAKSAAN REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b5b1cfaffeaf64c86d3be1b40984a511929fe2eb154d79c6f10fdd0edf191301
+  file_size_bytes: 214972
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2021bt.pdf'

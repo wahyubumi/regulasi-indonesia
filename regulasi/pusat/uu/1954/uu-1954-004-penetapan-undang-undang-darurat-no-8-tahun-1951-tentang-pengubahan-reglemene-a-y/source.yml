@@ -1,0 +1,24 @@
+id: uu-1954-004
+judul: Undang-Undang Nomor 4 Tahun 1954 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  8 TAHUN 1951 TENTANG PENGUBAHAN REGLEMENE A YANG DILAMPIRKAN PADA RECHTORDONNANTIE,
+  STAATSBLAD 1931 NO. 471 (LEMBARAN NEGARA NO. 39 TAHUN 1951) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 97d1886ac0cf72ac1131376a3ea8f5f6a54a07ae109bc325610a65e86426a101
+  file_size_bytes: 107150
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1954.pdf'

@@ -1,0 +1,22 @@
+id: uu-2004-026
+judul: Undang-Undang Nomor 26 Tahun 2004 tentang PEMBENTUKAN PROVINSI SULAWESI BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fd2c370fca797ae3fc04c0fc211319e70ad708e273cd2ceba4f5fce984992577
+  file_size_bytes: 85245
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu26-2004.pdf'

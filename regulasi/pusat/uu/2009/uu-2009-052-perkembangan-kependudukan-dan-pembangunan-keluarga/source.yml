@@ -1,0 +1,23 @@
+id: uu-2009-052
+judul: Undang-Undang Nomor 52 Tahun 2009 tentang PERKEMBANGAN KEPENDUDUKAN DAN PEMBANGUNAN
+  KELUARGA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3afd6d1f7775f8cc7d71e2f7e19f7efbf8535940087dd070e8a07c573feb2908
+  file_size_bytes: 83753
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu52-2009.pdf'

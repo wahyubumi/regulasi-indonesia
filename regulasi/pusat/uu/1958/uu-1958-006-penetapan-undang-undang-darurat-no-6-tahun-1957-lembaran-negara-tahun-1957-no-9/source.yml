@@ -1,0 +1,24 @@
+id: uu-1958-006
+judul: Undang-Undang Nomor 6 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT NO.
+  6 TAHUN 1957 (LEMBARAN-NEGARA TAHUN 1957 NO. 9) TENTANG PERUBAHAN UNDANG-UNDANG
+  TENTANG POKOK-POKOK PEMERINTAHAN DAERAH 1956" SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8216f2e6dfcca80ac94c671756d5c6375f79ace1a998ad72fc5d181efe1a4320
+  file_size_bytes: 25857
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1958.pdf'

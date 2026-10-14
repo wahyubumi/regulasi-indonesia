@@ -1,0 +1,24 @@
+id: uu-1954-012
+judul: Undang-Undang Nomor 12 Tahun 1954 tentang PERNYATAAN BERLAKUNYA UNDANG-UNDANG
+  NR 4 TAHUN 1950 DARI REPUBLIK INDONESIA DAHULU TENTANG DASAR-DASAR PENDIDIKAN DAN
+  PENGAJARAN DI SEKOLAH UNTUK SELURUH INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2ef606dabbf87d0d8a7bfbafcbee789b1e7875460d37c476081839931bb233db
+  file_size_bytes: 146131
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1954.pdf'

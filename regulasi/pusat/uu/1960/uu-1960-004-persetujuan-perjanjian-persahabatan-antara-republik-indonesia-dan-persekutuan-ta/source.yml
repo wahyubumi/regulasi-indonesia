@@ -1,0 +1,23 @@
+id: uu-1960-004
+judul: Undang-Undang Nomor 4 Tahun 1960 tentang PERSETUJUAN PERJANJIAN PERSAHABATAN
+  ANTARA REPUBLIK INDONESIA DAN PERSEKUTUAN TANAH MELAYU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 47f66aba2e7217499eacca025e445e10137f11bbd06b7ffabc21d302f97999b4
+  file_size_bytes: 36465
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041960.pdf'

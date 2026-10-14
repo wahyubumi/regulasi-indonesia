@@ -1,0 +1,22 @@
+id: uu-2007-024
+judul: Undang-Undang Nomor 24 Tahun 2007 tentang PENANGGULANGAN BENCANA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 88fb823b6403b458bf1ab6e7da9acf5a4be825dc9239182d48d937a8452782b9
+  file_size_bytes: 108102
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-2007.pdf'

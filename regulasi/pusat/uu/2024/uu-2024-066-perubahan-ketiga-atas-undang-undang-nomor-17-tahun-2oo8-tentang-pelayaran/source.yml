@@ -1,0 +1,23 @@
+id: uu-2024-066
+judul: Undang-Undang Nomor 66 Tahun 2024 tentang PERUBAHAN KETIGA ATAS UNDANG-UNDANG
+  NOMOR 17 TAHUN 2OO8 TENTANG PELAYARAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 269fe18899c3f35c791a7b2b4624328a59ededdb0650fc9cf31845640a00c207
+  file_size_bytes: 78074535
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-66-tahun-2024.pdf'

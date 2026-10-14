@@ -1,0 +1,67 @@
+id: uu-1965-017
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '17'
+nomor_lengkap: '17'
+tahun: 1965
+judul: PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NO. 6 TAHUN 1964, TENTANG
+  PEMBENTUKAN BADAN PEMERIKSA KEUANGAN (LEMBARAN-NEGARA TAHUN 1964 NO. 41) MENJADI
+  UNDANG-UNDANG
+judul_lengkap: Undang-Undang Nomor 17 Tahun 1965 tentang PENETAPAN PERATURAN PEMERINTAH
+  PENGGANTI UNDANG-UNDANG NO. 6 TAHUN 1964, TENTANG PEMBENTUKAN BADAN PEMERIKSA KEUANGAN
+  (LEMBARAN-NEGARA TAHUN 1964 NO. 41) MENJADI UNDANG-UNDANG
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari 7323f40e124f__uu0171965__undated__uu-1965-017__penetapan-peraturan-pemerintah-pengganti-undang-undang-no-6-tahun-1964-tentang-pembentukan-badan-pem.md

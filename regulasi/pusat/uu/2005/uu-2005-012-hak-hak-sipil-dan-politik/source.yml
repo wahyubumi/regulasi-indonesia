@@ -1,0 +1,22 @@
+id: uu-2005-012
+judul: Undang-Undang Nomor 12 Tahun 2005 tentang HAK-HAK SIPIL DAN POLITIK)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: de82e382dc09b846f397377ff31883f4243c6dfdce12bfe761fd5c5afb9cca05
+  file_size_bytes: 106675
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2005.pdf'

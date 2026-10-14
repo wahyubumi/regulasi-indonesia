@@ -1,0 +1,23 @@
+id: uu-2002-010
+judul: Undang-Undang Nomor 10 Tahun 2002 tentang PEMBENTUKAN KABUPATEN PARIGI MOUTONG
+  DI PROVINSI SULAWESI TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e27245a0ef69e83159133c5c325af5c4009827cf65e1a744f9a4268c883edf77
+  file_size_bytes: 78756
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-2002.pdf'

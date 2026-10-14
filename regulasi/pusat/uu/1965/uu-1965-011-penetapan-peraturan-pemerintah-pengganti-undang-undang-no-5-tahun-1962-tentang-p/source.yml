@@ -1,0 +1,24 @@
+id: uu-1965-011
+judul: Undang-Undang Nomor 11 Tahun 1965 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 5 TAHUN 1962 TENTANG PERUBAHAN UNDANG-UNDANG NO. 2 PRP TAHUN 1960
+  TENTANG PERGUDANGAN (LEMBARAN-NEGARA TAHUN 1962 NO. 31) MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: cbb5ab05c97c30291ec11f6a6f1a0f8303e53c3454e6cdfef2c6d62e6ad16c06
+  file_size_bytes: 92203
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0111965.pdf'

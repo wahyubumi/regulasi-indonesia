@@ -1,0 +1,26 @@
+id: uu-2002-026
+judul: Undang-Undang Nomor 26 Tahun 2002 tentang PEMBENTUKAN KABUPATEN SARMI, KABUPATEN
+  KEEROM, KABUPATEN SORONG SELATAN, KABUPATEN RAJA AMPAT, KABUPATEN PEGUNUNGAN BINTANG,
+  KABUPATEN YAHUKIMO, KABUPATEN TOLIKARA, KABUPATEN WAROPEN, KABUPATEN KAIMANA, KABUPATEN
+  BOVEN DIGOEL, KABUPATEN MAPPI, KABUPATEN ASMAT, KABUPATEN TELUK BINTUNI, DAN KABUPATEN
+  TELUK WONDAMA DI PROVINSI PAPUA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a3053955ec999616ec958cc3f5f5dd65a1265a6cc62c887fa0e2b05136acc17d
+  file_size_bytes: 108152
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu26-2002.pdf'

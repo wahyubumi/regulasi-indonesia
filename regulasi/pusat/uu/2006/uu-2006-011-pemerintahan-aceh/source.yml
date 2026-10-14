@@ -1,0 +1,22 @@
+id: uu-2006-011
+judul: Undang-Undang Nomor 11 Tahun 2006 tentang PEMERINTAHAN ACEH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 510759c72f7c29859dabd4dfea4abaeacd79066d4d5485022630ffb5aa821191
+  file_size_bytes: 280104
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2006.pdf'

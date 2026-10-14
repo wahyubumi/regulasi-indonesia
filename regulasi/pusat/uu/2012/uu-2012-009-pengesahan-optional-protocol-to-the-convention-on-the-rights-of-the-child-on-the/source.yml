@@ -1,0 +1,25 @@
+id: uu-2012-009
+judul: Undang-Undang Nomor 9 Tahun 2012 tentang PENGESAHAN OPTIONAL PROTOCOL TO THE
+  CONVENTION ON THE RIGHTS OF THE CHILD ON THE INVOLVEMENT OF CHILDREN IN ARMED CONFLICT
+  (PROTOKOL OPSIONAL KONVENSI HAK-HAK ANAK MENGENAI KETERLIBATAN ANAK DALAM KONFLIK
+  BERSENJATA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 21cc5d50b2d6efd749d0e3ee226b87a14aa42b7db07abda75fb1bc042a046b0f
+  file_size_bytes: 32113946
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-2012bt.pdf'

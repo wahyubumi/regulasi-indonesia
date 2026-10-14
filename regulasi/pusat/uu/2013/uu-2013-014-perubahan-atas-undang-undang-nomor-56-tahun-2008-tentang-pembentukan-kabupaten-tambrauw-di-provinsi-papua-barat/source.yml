@@ -1,0 +1,23 @@
+id: uu-2013-014
+judul: Undang-Undang Nomor 14 Tahun 2013 tentang Perubahan Atas Undang-Undang Nomor
+  56 Tahun 2008 Tentang Pembentukan Kabupaten Tambrauw Di Provinsi Papua Barat
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

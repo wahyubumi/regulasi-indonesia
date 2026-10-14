@@ -1,0 +1,23 @@
+id: uu-2024-081
+judul: Undang-Undang Nomor 81 Tahun 2024 tentang KABUPATEN DOMPU DI PROVINSI NUSA
+  TENGGARA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2d3ee871c5663eececebd9205c32f752728c5a8ba7f25537f94b9d4cfcdfe286
+  file_size_bytes: 586098
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-81-tahun-2024.pdf'

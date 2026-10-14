@@ -1,0 +1,22 @@
+id: uu-1997-016
+judul: Undang-Undang Nomor 16 Tahun 1997 tentang STATISTIK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d7464f76819e671ec922e86f0873d898f930d5c44023ed56295c4a69e0fe6b84
+  file_size_bytes: 80477
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-1997.pdf'

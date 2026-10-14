@@ -1,0 +1,23 @@
+id: uu-2018-012
+judul: Undang-Undang Nomor 12 Tahun 2018 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 2019
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fc2f59f67a85e4e6c39045575aa25761dfa3dab32699e678e86cb124f133e6c4
+  file_size_bytes: 265613
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2018bt.pdf'

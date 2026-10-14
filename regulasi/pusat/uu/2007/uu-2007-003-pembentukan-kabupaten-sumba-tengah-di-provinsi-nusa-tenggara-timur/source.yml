@@ -1,0 +1,23 @@
+id: uu-2007-003
+judul: Undang-Undang Nomor 3 Tahun 2007 tentang PEMBENTUKAN KABUPATEN SUMBA TENGAH
+  DI PROVINSI NUSA TENGGARA TIMUR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5ab7803d853b3634ead3659b2647615ab151fc08fec6a51b3be7d28d15f7afe2
+  file_size_bytes: 76617
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2007.pdf'

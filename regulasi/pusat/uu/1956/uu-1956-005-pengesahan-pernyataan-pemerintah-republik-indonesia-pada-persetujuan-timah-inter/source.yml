@@ -1,0 +1,23 @@
+id: uu-1956-005
+judul: Undang-Undang Nomor 5 Tahun 1956 tentang PENGESAHAN PERNYATAAN PEMERINTAH REPUBLIK
+  INDONESIA PADA PERSETUJUAN TIMAH INTERNASIONAL 1953 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6f7d87da1786918e1de06d5a781e1d617e96c297ed84b7223c711a969aa53ff6
+  file_size_bytes: 88643
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1956.pdf'

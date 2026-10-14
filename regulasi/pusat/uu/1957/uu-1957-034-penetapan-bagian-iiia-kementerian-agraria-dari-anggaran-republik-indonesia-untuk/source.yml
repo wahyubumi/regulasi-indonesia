@@ -1,0 +1,23 @@
+id: uu-1957-034
+judul: Undang-Undang Nomor 34 Tahun 1957 tentang PENETAPAN BAGIAN IIIA (KEMENTERIAN
+  AGRARIA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9e9a9dc1031919883799767f569c364791cf462085c7cc0eb30c8b962508af96
+  file_size_bytes: 28913
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu34-1957.pdf'

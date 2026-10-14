@@ -1,0 +1,23 @@
+id: uu-1970-006
+judul: Undang-Undang Nomor 6 Tahun 1970 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN 1969/1970
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a1f6c5d0f44b16aa3f4d1420acd5e658e53d25b9dac17d1060db803d5bd5099c
+  file_size_bytes: 31914
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0061970.pdf'

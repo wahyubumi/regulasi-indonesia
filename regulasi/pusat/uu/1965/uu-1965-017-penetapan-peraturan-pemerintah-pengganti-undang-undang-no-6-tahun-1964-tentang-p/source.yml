@@ -1,0 +1,24 @@
+id: uu-1965-017
+judul: Undang-Undang Nomor 17 Tahun 1965 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 6 TAHUN 1964, TENTANG PEMBENTUKAN BADAN PEMERIKSA KEUANGAN (LEMBARAN-NEGARA
+  TAHUN 1964 NO. 41) MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7323f40e124fec3042ea7f44f04cc1c06d79ef9b0bc855d08ebed5937b2e66c3
+  file_size_bytes: 155726
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0171965.pdf'

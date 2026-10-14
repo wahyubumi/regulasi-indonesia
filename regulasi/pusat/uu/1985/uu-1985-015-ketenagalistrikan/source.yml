@@ -1,0 +1,22 @@
+id: uu-1985-015
+judul: Undang-Undang Nomor 15 Tahun 1985 tentang KETENAGALISTRIKAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 100275b85782c6cd25f3b59d85a15b8c56fe6c308a27be838c63e2386fe6ec88
+  file_size_bytes: 77292
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+15+TH+1985.pdf'

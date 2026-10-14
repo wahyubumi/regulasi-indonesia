@@ -1,0 +1,22 @@
+id: uu-2008-020
+judul: Undang-Undang Nomor 20 Tahun 2008 tentang USAHA MIKRO, KECIL, DAN MENENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c4d43a174787cf8c582e2377e86c049c193724136f7430fdf524de516427aa80
+  file_size_bytes: 164869
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+20+2008.pdf'

@@ -1,0 +1,23 @@
+id: uu-2003-002
+judul: Undang-Undang Nomor 2 Tahun 2003 tentang PEMBENTUKAN KABUPATEN TANAH BUMBU
+  DAN KABUPATEN BALANGAN DI PROVINSI KALIMANTAN SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d5e2fbb7575797c94b01e6c36a711ae02a66628ae8bb25ec87ba552cf133a110
+  file_size_bytes: 65682
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0022003.pdf'

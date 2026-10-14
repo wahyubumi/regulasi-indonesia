@@ -1,0 +1,23 @@
+id: uu-1992-017
+judul: Undang-Undang Nomor 17 Tahun 1992 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 1991/1992
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6f98f6db671db96b72bccf78e8d3753e340b4b4215c201b0a0cc305bfd1a1b3f
+  file_size_bytes: 34328
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+17+TH+1992.pdf'

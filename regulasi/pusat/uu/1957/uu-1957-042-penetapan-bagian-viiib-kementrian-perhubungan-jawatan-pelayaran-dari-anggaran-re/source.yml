@@ -1,0 +1,23 @@
+id: uu-1957-042
+judul: Undang-Undang Nomor 42 Tahun 1957 tentang PENETAPAN BAGIAN VIIIB (KEMENTRIAN
+  PERHUBUNGAN JAWATAN PELAYARAN) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 245a0bdaee6799e5afc40726b808051361c6fa195d9317204e3eb33fd3c5d731
+  file_size_bytes: 34576
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu42-1957.pdf'

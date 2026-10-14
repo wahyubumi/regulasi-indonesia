@@ -1,0 +1,22 @@
+id: uu-1946-022
+judul: Undang-Undang Nomor 22 Tahun 1946 tentang PENCATATAN NIKAH, TALAK DAN RUJUK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 70d02d19a8fbfc7a5fafcca0d5acb3920c8a5d4754558eb9df86d4d703ac2270
+  file_size_bytes: 53886
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-1946.pdf'

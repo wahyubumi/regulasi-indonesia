@@ -1,0 +1,23 @@
+id: uu-1963-011
+judul: Undang-Undang Nomor 11 Tahun 1963 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN 1964
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bbfcfa63f9d811c2e2d5e515431eb73954c598cfb3ae07849e78a0ee3ede8331
+  file_size_bytes: 25193
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0111963.pdf'

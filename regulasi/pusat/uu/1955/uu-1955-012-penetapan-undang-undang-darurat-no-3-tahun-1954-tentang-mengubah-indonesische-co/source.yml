@@ -1,0 +1,24 @@
+id: uu-1955-012
+judul: Undang-Undang Nomor 12 Tahun 1955 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  3 TAHUN 1954 (TENTANG MENGUBAH "INDONESISCHE COMPTABILTEITSWET" (STAATSBLAD 1925
+  NO. 448) DAN "INDONESISCHE BEDRIJVENWET" (STAATSBLAD 1927 NO. 419) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 84ed31f46af1c5943d89e80676e8484463d99e565a21ed1266fd1d88d322e934
+  file_size_bytes: 140442
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1955.pdf'

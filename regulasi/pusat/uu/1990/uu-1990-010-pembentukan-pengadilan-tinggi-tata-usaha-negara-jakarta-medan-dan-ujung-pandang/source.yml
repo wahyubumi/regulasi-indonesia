@@ -1,0 +1,23 @@
+id: uu-1990-010
+judul: Undang-Undang Nomor 10 Tahun 1990 tentang PEMBENTUKAN PENGADILAN TINGGI TATA
+  USAHA NEGARA JAKARTA, MEDAN, DAN UJUNG PANDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 58a731b845e3d57d6c053cd1098d692f8b66e8432dcf7a526677191f77a5d41f
+  file_size_bytes: 28743
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1990.pdf'

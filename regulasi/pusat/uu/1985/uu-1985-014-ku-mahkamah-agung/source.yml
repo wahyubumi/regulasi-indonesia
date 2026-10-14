@@ -1,0 +1,22 @@
+id: uu-1985-014
+judul: Undang-Undang Nomor 14 Tahun 1985 tentang ku MAHKAMAH AGUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 21e97ec08b59648d3f34adb173284219716e03b68ecfb2bcf1fbffdd268f73c3
+  file_size_bytes: 136583
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-1985.pdf'

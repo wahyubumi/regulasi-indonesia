@@ -1,0 +1,24 @@
+id: uu-2015-006
+judul: Undang-Undang Nomor 6 Tahun 2015 tentang PENGESAHAN PERJANJIAN EKSTRADISI ANTARA
+  REPUBLIK INDONESIA DAN PAPUA NUGINI (EXTRADITION TREATY BETWEEN THE REPUBLIC OF
+  INDONESIA AND THE INDEPENDENT STATE OF PAPUA NEW GUINEA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0eb2e7150367d522ae0088b3052e779c97322822987bce10c8bb4571bcf4de81
+  file_size_bytes: 154067
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-2015bt.pdf'

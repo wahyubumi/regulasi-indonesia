@@ -1,0 +1,25 @@
+id: uu-1957-023
+judul: Undang-Undang Nomor 23 Tahun 1957 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  14 TAHUN 1955 (LEMBARAN-NEGARA NO. 42 TAHUN 1955) TENTANG PENUNJUKAN BAGIAN PEMBIKINAN
+  SERA DAN VAKSIN DARI PDA LEMBAGA PASTEUR DI BANDUNG MENJADI PERUSAHAAN NEGARA DALAM
+  ARTI "INDISCHE BEDRIJVEN WET" (STAATSBLAD 1927 NO. 419) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 444a31b531458d7971a1d3160984a3908e72b2ac00bcc68f4db6c5283fcd493e
+  file_size_bytes: 36366
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-1957.pdf'

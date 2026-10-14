@@ -1,0 +1,24 @@
+id: uu-2005-011
+judul: Undang-Undang Nomor 11 Tahun 2005 tentang PENGESAHAN INTERNATIONAL COVENANT
+  ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS (KOVENAN INTERNASIONAL TENTANG HAK-HAK EKONOMI,
+  SOSIAL DAN BUDAYA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c2b4d6bb742e583bdd01c2407858896dbbdf5e56a912cf74ee46a5916940c175
+  file_size_bytes: 103540
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2005.pdf'

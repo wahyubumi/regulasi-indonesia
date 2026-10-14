@@ -1,0 +1,23 @@
+id: uu-1947-011
+judul: Undang-Undang Nomor 11 Tahun 1947 tentang MENGUBAH ORDONANSI PAJAK POTONG 1936
+  STBL. 1936, NO. 671
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 70687ac730409a2cbae959971e85fe43ffc481e4f93d8759c8a8ac388b56d405
+  file_size_bytes: 40976
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-1947.pdf'

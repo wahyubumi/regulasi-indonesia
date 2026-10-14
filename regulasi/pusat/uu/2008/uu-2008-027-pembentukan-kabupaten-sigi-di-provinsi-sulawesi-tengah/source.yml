@@ -1,0 +1,23 @@
+id: uu-2008-027
+judul: Undang-Undang Nomor 27 Tahun 2008 tentang PEMBENTUKAN KABUPATEN SIGI DI PROVINSI
+  SULAWESI TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5df58c0ef82a0b49fc9cfaf0139392133e23c760497b1056644bcdaf5d3a3f07
+  file_size_bytes: 131275
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+27+2008.pdf'

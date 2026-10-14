@@ -1,0 +1,23 @@
+id: uu-1958-065
+judul: Undang-Undang Nomor 65 Tahun 1958 tentang PEMBERIAN TANDA-TANDA KEHORMATAN
+  BINTANG SAKTI DAN BINTANG DARMA *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b2fe7be2a5c3b6604d191d5c9f9e445671cc65cce6f05942f1571d2bc0f34c88
+  file_size_bytes: 56967
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu65-1958.pdf'

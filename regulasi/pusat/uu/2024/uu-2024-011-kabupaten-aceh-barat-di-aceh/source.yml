@@ -1,0 +1,22 @@
+id: uu-2024-011
+judul: Undang-Undang Nomor 11 Tahun 2024 tentang KABUPATEN ACEH BARAT DI ACEH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e931cac5a4116964d8f556fbe4a70f9ed62698667f218ba85fd5231eb1aebbc3
+  file_size_bytes: 821049
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-11-tahun-2024.pdf'

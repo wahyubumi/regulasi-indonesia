@@ -1,0 +1,23 @@
+id: uu-1955-003
+judul: Undang-Undang Nomor 3 Tahun 1955 tentang PENGUBAHAN DAN TAMBAHAN ORDONANSI
+  BEA-KELUAR-UMUM 1949
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 245eec8df82cf36ab4099e3efd79b1616d71753154769f05eb654d2042d8e109
+  file_size_bytes: 43581
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1955.pdf'

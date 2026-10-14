@@ -1,0 +1,22 @@
+id: uu-2024-043
+judul: Undang-Undang Nomor 43 Tahun 2024 tentang KABUPATEN KAMPAR DI PROVINSI RIAU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 21250b0d19cd0e5e78a2c5e39f22a9b60bf97893da2acf0f043ef5c2a292c10d
+  file_size_bytes: 603049
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-43-tahun-2024.pdf'

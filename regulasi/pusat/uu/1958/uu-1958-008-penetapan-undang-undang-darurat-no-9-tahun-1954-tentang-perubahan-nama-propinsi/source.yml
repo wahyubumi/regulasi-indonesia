@@ -1,0 +1,24 @@
+id: uu-1958-008
+judul: Undang-Undang Nomor 8 Tahun 1958 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  9 TAHUN 1954 TENTANG PERUBAHAN NAMA PROPINSI SUNDA KECIL MENJADI PROPINSI NUSA TENGGARA
+  (LEMBARAN-NEGARA TAHUN 1954 NO. 66) SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2586916d2aa19938f2370139a7a9b86153d23c85c97ee8f5f18e7e18c133b399
+  file_size_bytes: 25186
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1958.pdf'

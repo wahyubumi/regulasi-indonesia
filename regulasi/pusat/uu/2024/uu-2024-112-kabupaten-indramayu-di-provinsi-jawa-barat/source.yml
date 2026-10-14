@@ -1,0 +1,23 @@
+id: uu-2024-112
+judul: Undang-Undang Nomor 112 Tahun 2024 tentang KABUPATEN INDRAMAYU DI PROVINSI
+  JAWA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2d2091cd1a3ff4d8f5fd2e44b9a7cbadd963c41e32089766474b07ec12d65d00
+  file_size_bytes: 518098
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-112-tahun-2024.pdf'

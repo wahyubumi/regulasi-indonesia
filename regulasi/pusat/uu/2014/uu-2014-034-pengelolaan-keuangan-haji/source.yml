@@ -1,0 +1,22 @@
+id: uu-2014-034
+judul: Undang-Undang Nomor 34 Tahun 2014 tentang PENGELOLAAN KEUANGAN HAJI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 55c3ae6217e64db270e7ca3f9ee8b2d450c31f8da08e034265eeffc21539a15d
+  file_size_bytes: 139545
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu34-2014bt.pdf'

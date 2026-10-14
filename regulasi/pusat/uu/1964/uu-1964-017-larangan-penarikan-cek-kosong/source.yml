@@ -1,0 +1,22 @@
+id: uu-1964-017
+judul: Undang-Undang Nomor 17 Tahun 1964 tentang LARANGAN PENARIKAN CEK KOSONG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a36b24d65487625c2077f876a458156c67d046b071049a17760eadc786b3715a
+  file_size_bytes: 78126
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0171964.pdf'

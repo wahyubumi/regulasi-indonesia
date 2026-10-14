@@ -1,0 +1,25 @@
+id: uu-2016-002
+judul: Undang-Undang Nomor 2 Tahun 2016 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK POLANDIA TENTANG KERJA SAMA DI BIDANG
+  PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE
+  GOVERNMENT OF THE REPUBLIC OF POLAND CONCERNING CO- OPERATION IN THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e08dd548fcdfa3ee11c9d35ef66b0c21bc9c713b211cfd600a6013c91a4ee324
+  file_size_bytes: 24507
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu2-2016bt.pdf'

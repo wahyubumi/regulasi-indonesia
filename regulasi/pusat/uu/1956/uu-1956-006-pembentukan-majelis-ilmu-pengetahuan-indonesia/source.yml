@@ -1,0 +1,23 @@
+id: uu-1956-006
+judul: Undang-Undang Nomor 6 Tahun 1956 tentang PEMBENTUKAN MAJELIS ILMU PENGETAHUAN
+  INDONESIA *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 294a4cba92a3f5670aa445013bdc17aeb3b7a10dcdb4dd8ba44c8191eb509840
+  file_size_bytes: 122747
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1956.pdf'

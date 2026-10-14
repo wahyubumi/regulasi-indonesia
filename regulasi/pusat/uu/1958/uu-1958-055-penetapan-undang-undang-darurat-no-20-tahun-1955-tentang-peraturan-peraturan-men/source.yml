@@ -1,0 +1,25 @@
+id: uu-1958-055
+judul: Undang-Undang Nomor 55 Tahun 1958 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  20 TAHUN 1955 TENTANG PERATURAN-PERATURAN MENGENAI KEDUDUKAN ANGGOTA ANGKATAN PERANG
+  DALAM DINAS KETENTARAAN SESUDAH AKHIR TAHUN 1955 (LEMBARAN-NEGARA TAHUN 1955 NO.
+  78) SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 318f3117ec02479d59ffc71c2b9034945dd6001354b59493c78c0d4a702c46e5
+  file_size_bytes: 18740
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu55-1958.pdf'

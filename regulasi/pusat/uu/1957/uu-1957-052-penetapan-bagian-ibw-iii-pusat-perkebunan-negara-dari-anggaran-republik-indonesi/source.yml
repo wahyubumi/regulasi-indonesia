@@ -1,0 +1,23 @@
+id: uu-1957-052
+judul: Undang-Undang Nomor 52 Tahun 1957 tentang PENETAPAN BAGIAN IBW III (PUSAT PERKEBUNAN
+  NEGARA) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 437ddab56a553a929cd606a5d732b1edf9415b21c598dc51bda015bca9ada000
+  file_size_bytes: 26167
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu52-1957.pdf'

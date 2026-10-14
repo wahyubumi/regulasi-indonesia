@@ -1,0 +1,22 @@
+id: uu-2003-017
+judul: Undang-Undang Nomor 17 Tahun 2003 tentang KEUANGAN NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 95dbbfa55cde3799d3c8ab537d2d6c5f8807a2edc2f35a79c37792d99efc1c5f
+  file_size_bytes: 128073
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0172003.pdf'

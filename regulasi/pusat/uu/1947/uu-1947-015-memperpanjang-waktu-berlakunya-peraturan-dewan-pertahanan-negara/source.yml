@@ -1,0 +1,23 @@
+id: uu-1947-015
+judul: Undang-Undang Nomor 15 Tahun 1947 tentang MEMPERPANJANG WAKTU BERLAKUNYA PERATURAN
+  DEWAN PERTAHANAN NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1a740061f5aae48d2c2f85f6c95f7344c76b5a0b4bbf60289785e2e4b92b8699
+  file_size_bytes: 33860
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu15-1947.pdf'

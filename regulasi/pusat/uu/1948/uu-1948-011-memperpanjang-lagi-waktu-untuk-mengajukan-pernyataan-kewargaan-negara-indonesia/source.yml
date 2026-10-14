@@ -1,0 +1,23 @@
+id: uu-1948-011
+judul: Undang-Undang Nomor 11 Tahun 1948 tentang MEMPERPANJANG LAGI WAKTU UNTUK MENGAJUKAN
+  PERNYATAAN KEWARGAAN NEGARA INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 97e43bdd30cfd96aae6b22749275e45ddd5bb56ecb7292bec48303c414e82f49
+  file_size_bytes: 41986
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-1948.pdf'

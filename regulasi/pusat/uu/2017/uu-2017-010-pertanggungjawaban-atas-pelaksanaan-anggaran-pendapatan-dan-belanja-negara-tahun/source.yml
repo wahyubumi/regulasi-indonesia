@@ -1,0 +1,23 @@
+id: uu-2017-010
+judul: Undang-Undang Nomor 10 Tahun 2017 tentang PERTANGGUNGJAWABAN ATAS PELAKSANAAN
+  ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2016
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a7525050a540aa6ee22d73363a6b66b6f712083806a754c617a5fb3b0e81c22e
+  file_size_bytes: 221105
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-2017bt.pdf'

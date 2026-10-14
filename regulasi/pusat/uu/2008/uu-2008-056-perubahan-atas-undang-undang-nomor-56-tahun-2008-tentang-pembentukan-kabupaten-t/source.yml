@@ -1,0 +1,23 @@
+id: uu-2008-056
+judul: Undang-Undang Nomor 56 Tahun 2008 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  56 TAHUN 2008 TENTANG PEMBENTUKAN KABUPATEN TAMBRAUW DI PROVINSI PAPUA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 522c5f6c2fda0f8ad1bf0d592dedc965dabc46ae16e34112b60670473e3fa26c
+  file_size_bytes: 2339468
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2013bt.pdf'

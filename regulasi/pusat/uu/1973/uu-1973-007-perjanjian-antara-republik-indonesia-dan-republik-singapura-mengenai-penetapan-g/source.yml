@@ -1,0 +1,24 @@
+id: uu-1973-007
+judul: Undang-Undang Nomor 7 Tahun 1973 tentang PERJANJIAN ANTARA REPUBLIK INDONESIA
+  DAN REPUBLIK SINGAPURA MENGENAI PENETAPAN GARIS BATAS LAUT WILAYAH KEDUA NEGARA
+  DI SELAT SINGAPURA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d170f39c74a9bff051ef70db05ccb940146265f116f4e6f4f95dab1ab039246a
+  file_size_bytes: 32853
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0071973.pdf'

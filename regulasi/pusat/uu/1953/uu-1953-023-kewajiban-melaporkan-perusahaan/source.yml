@@ -1,0 +1,22 @@
+id: uu-1953-023
+judul: Undang-Undang Nomor 23 Tahun 1953 tentang KEWAJIBAN MELAPORKAN PERUSAHAAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 246e7a9bd5a10f9cf5a3ecd3b91b78d85dc895ef9a3d0630b2023d54645e465d
+  file_size_bytes: 29997
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-1953.pdf'

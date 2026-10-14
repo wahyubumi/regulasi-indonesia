@@ -1,0 +1,23 @@
+id: uu-1953-021
+judul: Undang-Undang Nomor 21 Tahun 1953 tentang PERSETUDJUAN PERDJANDJIAN PERSAHABATAN
+  ANTARA REPUBLIK INDONESIA DAN REPUBLIK SURIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 42535e3b14f120a862d2e3db57e902047642be9c7fb4feec5af3625ce6fc20b8
+  file_size_bytes: 16649
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-1953.pdf'

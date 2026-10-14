@@ -1,0 +1,23 @@
+id: uu-2019-020
+judul: Undang-Undang Nomor 20 Tahun 2019 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 2020
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: aa0727380fa3798bd858c623c2bdc8d0d8739f9e449941951a6078591a4b5f7c
+  file_size_bytes: 565964
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-2019bt.pdf'

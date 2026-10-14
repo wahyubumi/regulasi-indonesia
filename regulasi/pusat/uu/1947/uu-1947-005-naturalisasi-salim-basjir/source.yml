@@ -1,0 +1,22 @@
+id: uu-1947-005
+judul: Undang-Undang Nomor 5 Tahun 1947 tentang NATURALISASI SALIM BASJIR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d17bfe4a6340406a78ae31982006172e412e06205c3cd299bec0b8037775158f
+  file_size_bytes: 34129
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1947.pdf'

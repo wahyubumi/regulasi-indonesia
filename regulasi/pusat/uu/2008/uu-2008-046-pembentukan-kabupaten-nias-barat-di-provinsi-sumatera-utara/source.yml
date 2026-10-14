@@ -1,0 +1,23 @@
+id: uu-2008-046
+judul: Undang-Undang Nomor 46 Tahun 2008 tentang PEMBENTUKAN KABUPATEN NIAS BARAT
+  DI PROVINSI SUMATERA UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e2836db2a09f1621ddb0d2ba0c9b9f9818f0789fb5ac80d5637c400808dedca6
+  file_size_bytes: 119346
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0462008.pdf'

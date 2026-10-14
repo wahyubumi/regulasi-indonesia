@@ -1,0 +1,23 @@
+id: uu-2003-036
+judul: Undang-Undang Nomor 36 Tahun 2003 tentang PEMBENTUKAN KABUPATEN SAMOSIR DAN
+  KABUPATEN SERDANG BEDAGAI DI PROVINSI SUMATERA UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ef9dc058afcfd5e9c88504b0a58988a817a91c2725a2d9a79f2b781ec5afd452
+  file_size_bytes: 68672
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0362003.pdf'

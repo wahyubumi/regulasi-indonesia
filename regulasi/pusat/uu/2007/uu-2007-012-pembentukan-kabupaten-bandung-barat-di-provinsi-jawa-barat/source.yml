@@ -1,0 +1,23 @@
+id: uu-2007-012
+judul: Undang-Undang Nomor 12 Tahun 2007 tentang PEMBENTUKAN KABUPATEN BANDUNG BARAT
+  DI PROVINSI JAWA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 73722a81aa5cc8a7f3fea19079e769e6e8541e3988591948ee6cf90c579ce215
+  file_size_bytes: 77783
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2007.pdf'

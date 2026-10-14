@@ -1,0 +1,23 @@
+id: uu-1980-006
+judul: Undang-Undang Nomor 6 Tahun 1980 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  1971/1972
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1a67bc65c59807030aef64ccbc8ce3abd20354e16465f2bb92b04737b0b41950
+  file_size_bytes: 14776
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1980.pdf'

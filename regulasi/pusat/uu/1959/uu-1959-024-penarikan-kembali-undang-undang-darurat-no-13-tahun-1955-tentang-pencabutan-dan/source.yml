@@ -1,0 +1,24 @@
+id: uu-1959-024
+judul: Undang-Undang Nomor 24 Tahun 1959 tentang PENARIKAN KEMBALI UNDANG-UNDANG DARURAT
+  NO. 13 TAHUN 1955 TENTANG PENCABUTAN DAN PENGGANTIAN UNDANG-UNDANG NO. 14 TAHUN
+  1953 (LEMBARAN-NEGARA TAHUN 1955 NO. 38)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e3a0056b796c3dbddb02406c12aaef1a3d2ecc4dd251d8423b705a6ffb1f9b6f
+  file_size_bytes: 32362
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0241959.pdf'

@@ -1,0 +1,23 @@
+id: uu-1964-036
+judul: Undang-Undang Nomor 36 Tahun 1964 tentang PUNGUTAN ISTIMEWA ATAS IMPOR UNTUK
+  PEMBIAYAAN PEMBANGUNAN JALAN RAYA LINTAS SUMATERA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4efa96b695092e96fbf885391d2784316b2c1e2a32f932425a4c0f5a829531ca
+  file_size_bytes: 67957
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0361964.pdf'

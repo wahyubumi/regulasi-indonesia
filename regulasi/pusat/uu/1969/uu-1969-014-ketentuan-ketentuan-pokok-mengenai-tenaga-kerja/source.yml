@@ -1,0 +1,23 @@
+id: uu-1969-014
+judul: Undang-Undang Nomor 14 Tahun 1969 tentang KETENTUAN-KETENTUAN POKOK MENGENAI
+  TENAGA KERJA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: baaa894b77f0dc5ffd76e28bcfbe253cf706057466f23e34d6f389668e4398b3
+  file_size_bytes: 49398
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0141969.pdf'

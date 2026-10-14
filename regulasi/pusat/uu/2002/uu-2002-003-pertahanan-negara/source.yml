@@ -1,0 +1,22 @@
+id: uu-2002-003
+judul: Undang-Undang Nomor 3 Tahun 2002 tentang PERTAHANAN NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 98190bf9b13b453cfa7419f77ecbdb0d97749a8f2550650e837a49ce16ab756f
+  file_size_bytes: 148082
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0032002.pdf'

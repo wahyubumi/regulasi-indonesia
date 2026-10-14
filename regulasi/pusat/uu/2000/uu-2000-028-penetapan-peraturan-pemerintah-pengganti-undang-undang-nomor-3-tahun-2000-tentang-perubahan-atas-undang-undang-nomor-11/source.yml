@@ -1,0 +1,25 @@
+id: uu-2000-028
+judul: Undang-Undang Nomor 28 Tahun 2000 tentang Penetapan Peraturan Pemerintah Pengganti
+  Undang-Undang Nomor 3 Tahun 2000 Tentang Perubahan Atas Undang-Undang Nomor 11 Tahun
+  1998 Tentang Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 Tentang Ketenagakerjaan
+  Menjadi Undang-Undang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

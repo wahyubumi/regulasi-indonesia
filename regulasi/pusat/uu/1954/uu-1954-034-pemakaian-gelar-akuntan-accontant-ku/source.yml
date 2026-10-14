@@ -1,0 +1,23 @@
+id: uu-1954-034
+judul: Undang-Undang Nomor 34 Tahun 1954 tentang PEMAKAIAN GELAR "AKUNTAN" ("ACCONTANT")
+  ku
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c52a08677607006a447c1628f9b355185c91d82311534988c9d2397c5bef7a1c
+  file_size_bytes: 33573
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu34-1954.pdf'

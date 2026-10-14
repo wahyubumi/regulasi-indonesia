@@ -1,0 +1,22 @@
+id: uu-1954-036
+judul: Undang-Undang Nomor 36 Tahun 1954 tentang PENETAPAN TARIP PAJAK PERSEROAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e890752761f71bdfb398be4c5055dd25d1c300656003d42d9abe0eba3d8f7d4f
+  file_size_bytes: 105289
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu36-1954.pdf'

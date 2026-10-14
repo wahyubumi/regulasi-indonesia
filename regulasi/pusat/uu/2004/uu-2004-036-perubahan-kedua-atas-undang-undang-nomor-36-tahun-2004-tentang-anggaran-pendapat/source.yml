@@ -1,0 +1,24 @@
+id: uu-2004-036
+judul: Undang-Undang Nomor 36 Tahun 2004 tentang PERUBAHAN KEDUA ATAS UNDANG-UNDANG
+  NOMOR 36 TAHUN 2004 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN
+  2005
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6bfd6052251ed34c1e1075cdb915c11b200b090398d3e18b507a6d5b669e53cd
+  file_size_bytes: 197890
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-2005.pdf'

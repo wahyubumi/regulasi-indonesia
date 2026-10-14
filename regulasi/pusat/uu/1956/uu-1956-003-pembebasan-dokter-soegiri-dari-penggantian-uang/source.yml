@@ -1,0 +1,23 @@
+id: uu-1956-003
+judul: Undang-Undang Nomor 3 Tahun 1956 tentang PEMBEBASAN DOKTER SOEGIRI DARI PENGGANTIAN
+  UANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 961e29e44fc6349b3d0955ea817f70b1f0ead0f06a42eb1ebbce68a4555a00b3
+  file_size_bytes: 94401
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1956.pdf'

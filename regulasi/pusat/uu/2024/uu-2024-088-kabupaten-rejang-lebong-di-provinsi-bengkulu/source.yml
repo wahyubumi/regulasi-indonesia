@@ -1,0 +1,23 @@
+id: uu-2024-088
+judul: Undang-Undang Nomor 88 Tahun 2024 tentang KABUPATEN REJANG LEBONG DI PROVINSI
+  BENGKULU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8a829a60f31f97062422b61774ea991cb993046cd387db42af214507173cc84b
+  file_size_bytes: 588487
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-88-tahun-2024.pdf'

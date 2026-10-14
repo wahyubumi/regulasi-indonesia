@@ -1,0 +1,23 @@
+id: uu-1957-033
+judul: Undang-Undang Nomor 33 Tahun 1957 tentang PENETAPAN BAGIAN III (KEMENTERIAN
+  DALAM NEGERI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1ca409ab105ae1c0b67bf41e130c43f01d273c57d192395a3fb37611e0efddb7
+  file_size_bytes: 31309
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu33-1957.pdf'

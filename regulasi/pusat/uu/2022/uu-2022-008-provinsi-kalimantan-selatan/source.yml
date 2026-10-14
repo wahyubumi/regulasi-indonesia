@@ -1,0 +1,22 @@
+id: uu-2022-008
+judul: Undang-Undang Nomor 8 Tahun 2022 tentang PROVINSI KALIMANTAN SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4888735fe6f958b0e9e6ad3bc44a24c60c242eb1458572653ece7b3c97a70d5b
+  file_size_bytes: 106081
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-2022bt.pdf'

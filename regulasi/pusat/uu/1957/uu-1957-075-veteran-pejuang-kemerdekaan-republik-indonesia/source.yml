@@ -1,0 +1,23 @@
+id: uu-1957-075
+judul: Undang-Undang Nomor 75 Tahun 1957 tentang VETERAN PEJUANG KEMERDEKAAN REPUBLIK
+  INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9e011f9436f79106266bb545efc7eaee1f203aa16ef46c3433c258fd3f0c97d0
+  file_size_bytes: 38540
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu75-1957.pdf'

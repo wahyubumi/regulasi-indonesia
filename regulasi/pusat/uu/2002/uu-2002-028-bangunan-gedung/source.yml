@@ -1,0 +1,22 @@
+id: uu-2002-028
+judul: Undang-Undang Nomor 28 Tahun 2002 tentang BANGUNAN GEDUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 401d1fcfb126029cc41144beed1a317a13192ab7bcd62878941f575bfd80815c
+  file_size_bytes: 137898
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu28-2002.pdf'

@@ -1,0 +1,24 @@
+id: uu-1958-022
+judul: Undang-Undang Nomor 22 Tahun 1958 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  12 TAHUN 1954 (LEMBARAN-NEGARA TAHUN 1954 NO. 147) TENTANG PERUBAHAN "KROSOK ORDONNANTIE
+  1937" (STAATSBLAD TAHUN 1937 NO. 604) SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f7ab59ef5d527037e0989e892e17818a4fc300b199fd23d138e9d38c03ac78ca
+  file_size_bytes: 22254
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-1958.pdf'

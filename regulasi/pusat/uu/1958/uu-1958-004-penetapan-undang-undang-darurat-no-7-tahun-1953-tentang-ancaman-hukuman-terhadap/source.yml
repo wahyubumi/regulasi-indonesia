@@ -1,0 +1,26 @@
+id: uu-1958-004
+judul: Undang-Undang Nomor 4 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT NO.
+  7 TAHUN 1953 TENTANG ANCAMAN HUKUMAN TERHADAP PEMBELIAN, PENYERAHAN DAN PENGUASAAN,
+  KEPUNYAAN PERSEDIAAN ATAU DALAM MILIK, PENYIMPANAN, PENGANGKUTAN ATAU PEMBAWAAN
+  KAWAT-TEMBAGA DENGAN TIDAK MEMPUNYAI IDZIN" (LEMBARAN-NEGARA TAHUN 1953 NO. 51)
+  SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a9b4ce7218c77be7955db522bfb0520afacbf97b8dc9bf6c9c94c90091c7ae95
+  file_size_bytes: 40141
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1958.pdf'

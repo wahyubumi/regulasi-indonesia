@@ -1,0 +1,23 @@
+id: uu-1955-010
+judul: Undang-Undang Nomor 10 Tahun 1955 tentang PENGUBAHAN NAMA UNIVERSITEIT, UNIVERSITET,
+  UNIVERSITIT, FACULTEIT, FACULTET DAN FACULTIT MENJADI UNIVERSITAS DAN FAKULTAS )
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 228df279a20dfc42223f59d96ce12ab722ca0eeedb58af9a03bcdc13ee5656ca
+  file_size_bytes: 94460
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1955.pdf'

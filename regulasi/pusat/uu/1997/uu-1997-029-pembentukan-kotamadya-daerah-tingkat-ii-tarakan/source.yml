@@ -1,0 +1,23 @@
+id: uu-1997-029
+judul: Undang-Undang Nomor 29 Tahun 1997 tentang PEMBENTUKAN KOTAMADYA DAERAH TINGKAT
+  II TARAKAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0a0ba54534d487186ea3eab14b2d1b0d38db236763c48dbb94abc50c3a1e3765
+  file_size_bytes: 74418
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu29-1997.pdf'

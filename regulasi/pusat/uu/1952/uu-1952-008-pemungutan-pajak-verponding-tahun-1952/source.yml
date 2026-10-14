@@ -1,0 +1,23 @@
+id: uu-1952-008
+judul: Undang-Undang Nomor 8 Tahun 1952 tentang PEMUNGUTAN PAJAK VERPONDING TAHUN
+  1952
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 62d8199d0bd41093819d46f0cfcac71a0bd8a06c405ec69d174944f2b057ab5c
+  file_size_bytes: 84951
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1952.pdf'

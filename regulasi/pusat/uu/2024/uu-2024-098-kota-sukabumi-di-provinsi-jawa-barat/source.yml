@@ -1,0 +1,22 @@
+id: uu-2024-098
+judul: Undang-Undang Nomor 98 Tahun 2024 tentang KOTA SUKABUMI DI PROVINSI JAWA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9e37295e52bbbb404b747fe96276c8800e436dfb2cb690aadfed4ef64ebd1242
+  file_size_bytes: 521898
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-98-tahun-2024.pdf'

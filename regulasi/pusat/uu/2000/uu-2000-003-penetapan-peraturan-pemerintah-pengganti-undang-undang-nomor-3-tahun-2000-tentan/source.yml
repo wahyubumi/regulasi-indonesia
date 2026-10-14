@@ -1,0 +1,25 @@
+id: uu-2000-003
+judul: Undang-Undang Nomor 3 Tahun 2000 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NOMOR 3 TAHUN 2000 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 11 TAHUN
+  1998 TENTANG PERUBAHAN BERLAKUNYA UNDANG-UNDANG NOMOR 25 TAHUN 1997 TENTANG KETENAGAKERJAAN
+  MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 424890662eb96a71cfdee1533c446779158c405307282d5bc83ef0fdeb16dffe
+  file_size_bytes: 59768
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu28-2000.pdf'

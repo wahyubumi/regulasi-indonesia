@@ -1,0 +1,66 @@
+id: uu-1956-018
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '18'
+nomor_lengkap: '18'
+tahun: 1956
+judul: PERSETUJUAN KONPENSI ORGANISASI PERBURUHAN INTERNASIONAL NO. 98 MENGENAI BERLAKUNYA
+  DASAR-DASAR DARIPADA HAK UNTUK BERORGANISASI DAN BERUNDING BERSAMA *)
+judul_lengkap: Undang-Undang Nomor 18 Tahun 1956 tentang PERSETUJUAN KONPENSI ORGANISASI
+  PERBURUHAN INTERNASIONAL NO. 98 MENGENAI BERLAKUNYA DASAR-DASAR DARIPADA HAK UNTUK
+  BERORGANISASI DAN BERUNDING BERSAMA *)
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari bbbfea2e312f__uu18-1956__undated__uu-1956-018__persetujuan-konpensi-organisasi-perburuhan-internasional-no-98-mengenai-berlakunya-dasar-dasar-darip.md

@@ -1,0 +1,23 @@
+id: uu-1971-001
+judul: Undang-Undang Nomor 1 Tahun 1971 tentang PERJANJIAN PERSAHABATAN ANTARA REPUBLIK
+  INDONESIA DAN MALAYSIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 09d8be9094572fc2c9785bb9e0f05b1c7a9a42af9ef5742a583579fc8258a3fd
+  file_size_bytes: 35526
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0011971.pdf'

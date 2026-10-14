@@ -1,0 +1,23 @@
+id: uu-2012-021
+judul: Undang-Undang Nomor 21 Tahun 2012 tentang PEMBENTUKAN KABUPATEN PANGANDARAN
+  DI PROVINSI JAWA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 885c2afe52241f90e7eb753b1943f8427674b7f9b431ccb6561b2e47e5f38142
+  file_size_bytes: 1271436
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-2012bt.pdf'

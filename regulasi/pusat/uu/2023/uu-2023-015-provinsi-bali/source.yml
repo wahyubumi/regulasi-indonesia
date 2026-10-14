@@ -1,0 +1,22 @@
+id: uu-2023-015
+judul: Undang-Undang Nomor 15 Tahun 2023 tentang PROVINSI BALI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 55cefc4203f13ac308105529ddfec3f9bf9151f8ab5e17b5e642586804f8eeee
+  file_size_bytes: 850718
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-15-tahun-2023.pdf'

@@ -1,0 +1,23 @@
+id: uu-1952-007
+judul: Undang-Undang Nomor 7 Tahun 1952 tentang MENETAPKAN UNDANG-UNDANG DARURAT NR
+  14 TAHUN 1951 TENTANG PEMUNGUTAN PAJAK VERPONDING ATAS TAHUN 1951 SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 627289925b2f156c92de2edf2c571d90dd7777914dccb147c536dd6d5d103f09
+  file_size_bytes: 93538
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1952.pdf'

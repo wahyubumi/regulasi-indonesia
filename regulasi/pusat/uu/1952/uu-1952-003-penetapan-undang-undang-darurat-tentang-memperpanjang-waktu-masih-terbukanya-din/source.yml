@@ -1,0 +1,23 @@
+id: uu-1952-003
+judul: Undang-Undang Nomor 3 Tahun 1952 tentang PENETAPAN "UNDANG-UNDANG DARURAT TENTANG
+  MEMPERPANJANG WAKTU MASIH TERBUKANYA DINAS TAHUN-ANGGARAN 1950" SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1d66b040e1a6e4bd18a4a0797bf07d80652ed84e2a111a7ec348a8a8735320e6
+  file_size_bytes: 87876
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1952.pdf'

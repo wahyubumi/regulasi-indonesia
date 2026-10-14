@@ -1,0 +1,23 @@
+id: uu-2012-014
+judul: Undang-Undang Nomor 14 Tahun 2012 tentang PERTANGGUNGJAWABAN ATAS PELAKSANAAN
+  ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2011
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ff6a35ed48ba3247484577e02de4f67294f25c97c7d37fc4ed86eb7650022533
+  file_size_bytes: 46668
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2012bt.pdf'

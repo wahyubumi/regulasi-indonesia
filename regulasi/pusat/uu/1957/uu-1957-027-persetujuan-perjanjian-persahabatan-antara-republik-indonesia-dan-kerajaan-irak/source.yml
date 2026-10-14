@@ -1,0 +1,23 @@
+id: uu-1957-027
+judul: Undang-Undang Nomor 27 Tahun 1957 tentang PERSETUJUAN PERJANJIAN PERSAHABATAN
+  ANTARA REPUBLIK INDONESIA DAN KERAJAAN IRAK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fc6801537e471895edbf32203c804a89718d9e6b863eddd27411ed476fe5d28b
+  file_size_bytes: 11411
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-1957.pdf'

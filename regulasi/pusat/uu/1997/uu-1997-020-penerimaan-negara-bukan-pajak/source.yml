@@ -1,0 +1,22 @@
+id: uu-1997-020
+judul: Undang-Undang Nomor 20 Tahun 1997 tentang PENERIMAAN NEGARA BUKAN PAJAK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 22519548f3c31ec0789242c12880a883722c52f37b2291043a490706bf85dda0
+  file_size_bytes: 82217
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-1997.pdf'

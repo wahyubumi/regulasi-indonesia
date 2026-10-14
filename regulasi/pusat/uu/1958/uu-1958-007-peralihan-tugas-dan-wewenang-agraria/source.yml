@@ -1,0 +1,23 @@
+id: uu-1958-007
+judul: Undang-Undang Nomor 7 Tahun 1958 tentang PERALIHAN TUGAS DAN WEWENANG AGRARIA
+  *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 97643e5f4fbd6d526cc4527cb1eb3bd6c657947bec9d36d09ab657f8a8bce97b
+  file_size_bytes: 26352
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1958.pdf'

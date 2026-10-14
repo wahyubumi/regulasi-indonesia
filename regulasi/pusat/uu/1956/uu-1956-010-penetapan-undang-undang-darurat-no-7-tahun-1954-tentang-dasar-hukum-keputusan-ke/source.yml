@@ -1,0 +1,27 @@
+id: uu-1956-010
+judul: Undang-Undang Nomor 10 Tahun 1956 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 7 TAHUN 1954 TENTANG DASAR HUKUM KEPUTUSAN KEPALA DAERAH OTONOM DALAM KEADAAN
+  DEWAN PERWAKILAN RAKYAT DAERAH/DEWAN PEMERINTAH DAERAH TIDAK ADA ATAU TIDAK DAPAT
+  MENJALANKAN TUGAS KEWAJIBANNYA" SEBAGAI UNDANG-UNDANG DAN TENTANG PERATURAN PEMBAGIAN
+  KEKUASAAN DALAM KEADAAN DEWAN PERWAKILAN RAKYAT DAERAH/DEWAN PEMERINTAH DAERAH TIDAK
+  ADA ATAU TIDAK DAPAT MENJALANKAN TUGAS KEWAJIBANNYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 339c4a039a8f6c27ea12242aa2ee00252d7893838820632b1bdac854b58ef329
+  file_size_bytes: 100909
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1956.pdf'

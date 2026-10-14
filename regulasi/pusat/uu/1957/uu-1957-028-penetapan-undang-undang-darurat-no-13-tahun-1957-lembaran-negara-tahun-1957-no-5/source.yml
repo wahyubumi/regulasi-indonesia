@@ -1,0 +1,27 @@
+id: uu-1957-028
+judul: Undang-Undang Nomor 28 Tahun 1957 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  13 TAHUN 1957 (LEMBARAN-NEGARA TAHUN 1957 NO. 58) TENTANG MENAMBAH UNDANG-UNDANG
+  NO. 21 TAHUN 1952 (LEMBARAN-NEGARA TAHUN 1952 NO. 78) TENTANG "MENETAPKAN UNDANG-UNDANG
+  DARURAT TENTANG HAK PENGANGKATAN DAN PEMBERHENTIAN PEGAWAI-PEGAWAI REPUBLIK INDONESIA
+  SERIKAT (UNDANG-UNDANG DARURAT NO. 25 DAN 34 TAHUN 1950) SEBAGAI UNDANG-UNDANG REPUBLIK
+  INDONESIA", SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5dde1e76e5bbf82e69bab60ecec899c9aaa327f12494bd33d58e3ec532a71a3a
+  file_size_bytes: 30572
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu28-1957.pdf'

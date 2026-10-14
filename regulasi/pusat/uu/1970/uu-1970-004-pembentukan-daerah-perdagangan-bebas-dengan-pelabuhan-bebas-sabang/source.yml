@@ -1,0 +1,23 @@
+id: uu-1970-004
+judul: Undang-Undang Nomor 4 Tahun 1970 tentang PEMBENTUKAN DAERAH PERDAGANGAN BEBAS
+  DENGAN PELABUHAN BEBAS SABANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: efb7c979dbdb825f2f60f760717de454e8acf758a7104d89271f75c17e11b01d
+  file_size_bytes: 46308
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041970.pdf'

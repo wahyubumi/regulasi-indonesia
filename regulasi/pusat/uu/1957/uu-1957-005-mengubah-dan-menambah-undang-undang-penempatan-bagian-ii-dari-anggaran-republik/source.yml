@@ -1,0 +1,23 @@
+id: uu-1957-005
+judul: Undang-Undang Nomor 5 Tahun 1957 tentang MENGUBAH DAN MENAMBAH UNDANG-UNDANG
+  PENEMPATAN BAGIAN II DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1a1432c24ebe9bdb19486c1e6461b1532fbb4a36f020f1e0562cb8370708317d
+  file_size_bytes: 12990
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1957.pdf'

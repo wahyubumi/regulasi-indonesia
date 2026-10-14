@@ -1,0 +1,22 @@
+id: uu-2013-021
+judul: Undang-Undang Nomor 21 Tahun 2013 tentang KEANTARIKSAAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: adef60142b8f36318b6f6527189b9459c9ce09ffe37f94bea7107629889bd125
+  file_size_bytes: 286051
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-2013bt.pdf'

@@ -1,0 +1,23 @@
+id: uu-1964-034
+judul: Undang-Undang Nomor 34 Tahun 1964 tentang DANA PERTANGGUNGAN WAJIB KECELAKAAN
+  LALU-LINTAS JALAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3910853841a7dfa4acf9b0ce446d4389cf430dbde1cff12790f1862c96f78227
+  file_size_bytes: 74775
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0341964.pdf'

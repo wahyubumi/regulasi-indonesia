@@ -1,0 +1,22 @@
+id: uu-2022-023
+judul: Undang-Undang Nomor 23 Tahun 2022 tentang PENDIDIKAN DAN LAYANAN PSIKOLOGI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 306edf4e00933cd11e57622b3126bb57bc1329de47810c67e59e8fb8b80c9f98
+  file_size_bytes: 1729576
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-2022.pdf'

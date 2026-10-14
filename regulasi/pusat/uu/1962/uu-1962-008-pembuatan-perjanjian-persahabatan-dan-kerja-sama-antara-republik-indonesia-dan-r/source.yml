@@ -1,0 +1,23 @@
+id: uu-1962-008
+judul: Undang-Undang Nomor 8 Tahun 1962 tentang PEMBUATAN PERJANJIAN PERSAHABATAN
+  DAN KERJA-SAMA ANTARA REPUBLIK INDONESIA DAN REPUBLIK RAKYAT HONGARIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fb0886809700f5da6590d800a371e2004d8d6cd34038d2b039980d512e63f153
+  file_size_bytes: 28626
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0081962.pdf'

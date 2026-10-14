@@ -1,0 +1,25 @@
+id: uu-1954-018
+judul: Undang-Undang Nomor 18 Tahun 1954 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 4 TAHUN 1954 (LEMBARAN- NEGARA NO. 12 TAHUN 1954) GUNA MENETAPKAN WAKTU BERLAKUNYA
+  ATURAN HUKUMAN TERMAKSUD DALAM PASAL 3 AYAT 2 ORDONANSI (STAATSBLAD UNTUK INDONESIA
+  TAHUN 1948 NO. 141)" SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 22f81985dd53aaba9aba7f073020088d68a1cdcad57edce60c0c8c8e1d659001
+  file_size_bytes: 90464
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-1954.pdf'

@@ -1,0 +1,23 @@
+id: uu-2024-035
+judul: Undang-Undang Nomor 35 Tahun 2024 tentang KABUPATEN LAMPUNG TENGAH DI PROVINSI
+  LAMPUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8b7e5caadaa83458e464eb51cc926c9c5ea0a8b8450840264d22b0e808736e9e
+  file_size_bytes: 1079295
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-35-tahun-2024.pdf'

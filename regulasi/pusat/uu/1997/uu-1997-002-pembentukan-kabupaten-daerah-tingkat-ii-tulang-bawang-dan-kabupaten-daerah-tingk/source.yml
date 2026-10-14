@@ -1,0 +1,23 @@
+id: uu-1997-002
+judul: Undang-Undang Nomor 2 Tahun 1997 tentang PEMBENTUKAN KABUPATEN DAERAH TINGKAT
+  II TULANG BAWANG DAN KABUPATEN DAERAH TINGKAT II TANGGAMUS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b7473fb695387bba1449f6480fc2d0b10d7ef6eb31fac1dfe0f572c5f673f80e
+  file_size_bytes: 86784
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu2-1997.pdf'

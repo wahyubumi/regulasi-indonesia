@@ -1,0 +1,23 @@
+id: uu-1976-006
+judul: Undang-Undang Nomor 6 Tahun 1976 tentang PENGESAHAN PERJANJIAN PERSAHABATAN
+  DAN KERJASAMA DI ASIA TENGGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3616f457515f504dd7e0b3af50dcd89554e59d0e6e8e5b4e52bf51b44d54dca0
+  file_size_bytes: 42190
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1976.pdf'

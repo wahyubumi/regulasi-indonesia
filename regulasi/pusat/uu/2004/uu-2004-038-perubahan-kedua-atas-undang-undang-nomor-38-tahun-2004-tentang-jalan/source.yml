@@ -1,0 +1,23 @@
+id: uu-2004-038
+judul: Undang-Undang Nomor 38 Tahun 2004 tentang PERUBAHAN KEDUA ATAS UNDANG-UNDANG
+  NOMOR 38 TAHUN 2004 TENTANG JALAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c56572331c12436b394929b31f6b38b81f760167f1f87230f557320df4745620
+  file_size_bytes: 703176
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu2-2022.pdf'

@@ -1,0 +1,23 @@
+id: uu-2004-033
+judul: Undang-Undang Nomor 33 Tahun 2004 tentang PERIMBANGAN KEUANGAN ANTARA PEMERINTAH
+  PUSAT DAN PEMERINTAHAN DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 797f08b895fc8ccc9d24ac552e444b6c479927ab94a643817a57b80ad98d5dd8
+  file_size_bytes: 406472
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu33-2004.pdf'

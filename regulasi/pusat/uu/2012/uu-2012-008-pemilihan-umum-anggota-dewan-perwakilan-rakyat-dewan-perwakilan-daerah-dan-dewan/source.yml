@@ -1,0 +1,23 @@
+id: uu-2012-008
+judul: Undang-Undang Nomor 8 Tahun 2012 tentang PEMILIHAN UMUM ANGGOTA DEWAN PERWAKILAN
+  RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2a74ead73044d4fb44048b8f46634992a2b474d9f9cf4a15e4e9151878715c76
+  file_size_bytes: 4585091
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-2012bt.pdf'

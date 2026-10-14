@@ -1,0 +1,25 @@
+id: uu-1967-002
+judul: Undang-Undang Nomor 2 Tahun 1967 tentang PERUBAHAN UNDANG-UNDANG NO. 9 TAHUN
+  1966, TENTANG KEANGGOTAAN KEMBALI REPUBLIK INDONESIA DALAM INTERNATIONAL MONETARY
+  FUND DAN BANK FOR RECONSTRUCTION AND DEVELOPMENT (LEMBARAN-NEGARA TAHUN 1966 NO.
+  36)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5585402a58182281e325dafdd882e670664e633841b136eda772c68c66982d94
+  file_size_bytes: 30191
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0021967.pdf'

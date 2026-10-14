@@ -1,0 +1,23 @@
+id: uu-1958-084
+judul: Undang-Undang Nomor 84 Tahun 1958 tentang PENGUBAHAN PASAL-PASAL 16 DAN 19
+  UNDANG-UNDANG POKOK BANK INDONESIA (UNDANG-UNDANG NO. 11 TAHUN 1953) *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f01d048e99bdbf3a0b37a739e1294d302d5db408e143328555bd906923ae57f3
+  file_size_bytes: 38996
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu84-1958.pdf'

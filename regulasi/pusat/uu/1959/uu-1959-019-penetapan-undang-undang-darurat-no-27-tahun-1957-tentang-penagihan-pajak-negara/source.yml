@@ -1,0 +1,24 @@
+id: uu-1959-019
+judul: Undang-Undang Nomor 19 Tahun 1959 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 27 TAHUN 1957 TENTANG PENAGIHAN PAJAK NEGARA DENGAN SURAT PAKSA (LEMBARAN-NEGARA
+  TAHUN 1957 NO. 84)" SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bf33fac90ec477e656a193febcb527822def9e388497a00dad7a036344230cf6
+  file_size_bytes: 62951
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0191959.pdf'

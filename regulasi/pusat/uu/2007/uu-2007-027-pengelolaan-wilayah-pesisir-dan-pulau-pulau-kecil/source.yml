@@ -1,0 +1,23 @@
+id: uu-2007-027
+judul: Undang-Undang Nomor 27 Tahun 2007 tentang PENGELOLAAN WILAYAH PESISIR DAN PULAU-PULAU
+  KECIL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 290a2fb1dc243ddb7cf9643ed31af7047f9aa8947d1d15db8db535815e84a438
+  file_size_bytes: 142609
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-2007.pdf'

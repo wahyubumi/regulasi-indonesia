@@ -1,0 +1,23 @@
+id: uu-1996-004
+judul: Undang-Undang Nomor 4 Tahun 1996 tentang HAK TANGGUNGAN ATAS TANAH BESERTA
+  BENDA-BENDA YANG BERKAITAN DENGAN TANAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a50d9ee2f39bd2e59386e8b52dfc415b4bfaf425c75561bb1346dd29b9d37241
+  file_size_bytes: 150936
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1996.pdf'

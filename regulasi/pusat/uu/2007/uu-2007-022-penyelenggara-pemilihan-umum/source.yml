@@ -1,0 +1,22 @@
+id: uu-2007-022
+judul: Undang-Undang Nomor 22 Tahun 2007 tentang PENYELENGGARA PEMILIHAN UMUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 319530ce175d14b511d7f6eb158ff2ae7f14f4d55fa73d4a1e5bdfc3b269f53a
+  file_size_bytes: 387002
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU-22-2007.pdf'

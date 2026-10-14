@@ -1,0 +1,23 @@
+id: uu-2024-055
+judul: Undang-Undang Nomor 55 Tahun 2024 tentang KOTA PADANG DI PROVINSI SUMATERA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2d189ef498c2d10c4b34e3f42b0f3e0dbcaf57f4a18b4e2a7ec8144123fb0b63
+  file_size_bytes: 861728
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-55-tahun-2024.pdf'

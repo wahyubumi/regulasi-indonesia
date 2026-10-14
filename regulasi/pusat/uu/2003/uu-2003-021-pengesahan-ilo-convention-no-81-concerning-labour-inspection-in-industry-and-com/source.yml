@@ -1,0 +1,24 @@
+id: uu-2003-021
+judul: Undang-Undang Nomor 21 Tahun 2003 tentang PENGESAHAN ILO CONVENTION NO. 81
+  CONCERNING LABOUR INSPECTION IN INDUSTRY AND COMMERCE (KONVENSI ILO NO. 81 MENGENAI
+  PENGAWASAN KETENAGAKERJAAN DALAM INDUSTRI DAN PERDAGANGAN)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7937254a885b8172c6620fea8f48ed799b32cda2393dcceaf0324f12fedbb0b7
+  file_size_bytes: 89848
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0212003.pdf'

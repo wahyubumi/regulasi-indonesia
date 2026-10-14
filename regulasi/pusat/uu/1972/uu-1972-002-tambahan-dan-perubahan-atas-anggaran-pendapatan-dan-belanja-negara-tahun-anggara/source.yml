@@ -1,0 +1,23 @@
+id: uu-1972-002
+judul: Undang-Undang Nomor 2 Tahun 1972 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1971/1972
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 98526148e1906b062881bbd226979f70241cf95704ad382d451e50410a844913
+  file_size_bytes: 34727
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0021972.pdf'

@@ -1,0 +1,23 @@
+id: uu-1948-027
+judul: Undang-Undang Nomor 27 Tahun 1948 tentang DEWAN PERWAKILAN RAKYAT DAN PEMILIHAN
+  ANGGAUTA-ANGGAUTANYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 07cc10fd57653bf1aedd4223b7c2257de7f6425a3a7a40a4218fec157ec3f31c
+  file_size_bytes: 110673
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-1948.pdf'

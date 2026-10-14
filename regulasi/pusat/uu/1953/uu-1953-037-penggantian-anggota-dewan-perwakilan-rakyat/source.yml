@@ -1,0 +1,23 @@
+id: uu-1953-037
+judul: Undang-Undang Nomor 37 Tahun 1953 tentang PENGGANTIAN ANGGOTA DEWAN PERWAKILAN
+  RAKYAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9b2fbb7a28c857372cdd5fba88eb1086422d1b263d3964597290bf89121a9324
+  file_size_bytes: 21213
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu37-1953.pdf'

@@ -1,0 +1,23 @@
+id: uu-2008-032
+judul: Undang-Undang Nomor 32 Tahun 2008 tentang PEMBENTUKAN KABUPATEN BURU SELATAN
+  DI PROVINSI MALUKU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6ed3d49f54a40e4b5e57ade3741c36b2bbb4e766f716882e349feed4e8dd1298
+  file_size_bytes: 130936
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+32+2008.pdf'

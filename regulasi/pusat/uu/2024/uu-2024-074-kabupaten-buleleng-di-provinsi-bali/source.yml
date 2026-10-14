@@ -1,0 +1,22 @@
+id: uu-2024-074
+judul: Undang-Undang Nomor 74 Tahun 2024 tentang KABUPATEN BULELENG DI PROVINSI BALI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1b2003328c2468fa3ffa6dde695c2028f0024204e1dc04872cd381f3f37ed580
+  file_size_bytes: 369946
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-74-tahun-2024.pdf'

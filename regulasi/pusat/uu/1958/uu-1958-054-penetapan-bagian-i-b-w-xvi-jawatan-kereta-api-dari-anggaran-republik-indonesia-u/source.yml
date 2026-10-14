@@ -1,0 +1,23 @@
+id: uu-1958-054
+judul: Undang-Undang Nomor 54 Tahun 1958 tentang PENETAPAN BAGIAN I.B.W. XVI (JAWATAN
+  KERETA API) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 750452639a3aebc83415be89ae48ad5fd38783e5f5a7bb8296741a246d8cda19
+  file_size_bytes: 14128
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu54-1958.pdf'

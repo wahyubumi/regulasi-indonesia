@@ -1,0 +1,22 @@
+id: uu-2012-017
+judul: Undang-Undang Nomor 17 Tahun 2012 tentang PERKOPERASIAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 912851c3414c4d395b07a47ec45ca95bd00d219c050abc97487a253adf7b926b
+  file_size_bytes: 174937
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-2012bt.pdf'

@@ -1,0 +1,22 @@
+id: uu-2025-004
+judul: Undang-Undang Nomor 4 Tahun 2025 tentang I(ABUPATEN GORONTALO DI PROVINSI GORONTALO
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8eea3b78d04cefb0785eb1a6d17d5a70b1014bac5511000e6ef32b2683a3f7f8
+  file_size_bytes: 431835
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-4-tahun-2025.pdf'

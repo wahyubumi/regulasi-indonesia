@@ -1,0 +1,23 @@
+id: uu-2003-038
+judul: Undang-Undang Nomor 38 Tahun 2003 tentang PEMBENTUKAN KABUPATEN DHARMASRAYA,
+  KABUPATEN SOLOK SELATAN, DAN KABUPATEN PASAMAN BARAT DI PROVINSI SUMATERA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9b8540b629878ad6af9be5ff0532468e17adfe461a52e479cd8602e63dc3cfcc
+  file_size_bytes: 74305
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0382003.pdf'

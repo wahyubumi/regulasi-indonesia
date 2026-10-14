@@ -1,0 +1,23 @@
+id: uu-1957-077
+judul: Undang-Undang Nomor 77 Tahun 1957 tentang PESETUJUAN MENGENAI WARGA NEGARA
+  YANG BERADA SECARA TIDAK SAH DIDAERAH REPUBLIK INDONESIA DAN REPUBLIK PILIPINA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d714348c20f0214963abc0d4bb54f0d76a62f5c30817f1de88c9c10901b2a91d
+  file_size_bytes: 46406
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu77-1957.pdf'

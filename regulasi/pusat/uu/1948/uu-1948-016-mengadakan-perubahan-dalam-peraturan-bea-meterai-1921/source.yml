@@ -1,0 +1,23 @@
+id: uu-1948-016
+judul: Undang-Undang Nomor 16 Tahun 1948 tentang MENGADAKAN PERUBAHAN DALAM PERATURAN
+  BEA METERAI 1921
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1d7efa878233b1707691f19a03b0cb8eec63d4c0ca0435e2b713d042e33eda1a
+  file_size_bytes: 52209
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-1948.pdf'

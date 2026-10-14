@@ -1,0 +1,22 @@
+id: uu-1954-029
+judul: Undang-Undang Nomor 29 Tahun 1954 tentang PERTAHANAN NEGARA REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a89850ba4845074096ad47734e42a129af3047a0c12507b07a6803ec31593743
+  file_size_bytes: 245253
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu29-1954.pdf'

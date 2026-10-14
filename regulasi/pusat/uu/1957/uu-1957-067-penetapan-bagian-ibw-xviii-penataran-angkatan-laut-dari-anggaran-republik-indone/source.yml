@@ -1,0 +1,23 @@
+id: uu-1957-067
+judul: Undang-Undang Nomor 67 Tahun 1957 tentang PENETAPAN BAGIAN IBW XVIII (PENATARAN
+  ANGKATAN LAUT) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: be0d1905ed9614a3674c82ce867f7a6c9cd65294e0207ecdb9216675c8b0ccc8
+  file_size_bytes: 26205
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu67-1957.pdf'

@@ -1,0 +1,22 @@
+id: uu-2007-025
+judul: Undang-Undang Nomor 25 Tahun 2007 tentang PENANAMAN MODAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 17697b246d0745082fa133eeed554a45dd1c28fa84fa9d8501b4fff5fff19b61
+  file_size_bytes: 101698
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-2007.pdf'

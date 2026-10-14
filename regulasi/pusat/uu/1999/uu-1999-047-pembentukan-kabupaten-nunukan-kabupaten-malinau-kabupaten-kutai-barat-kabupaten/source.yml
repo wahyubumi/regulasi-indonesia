@@ -1,0 +1,23 @@
+id: uu-1999-047
+judul: Undang-Undang Nomor 47 Tahun 1999 tentang PEMBENTUKAN KABUPATEN NUNUKAN, KABUPATEN
+  MALINAU, KABUPATEN KUTAI BARAT, KABUPATEN KUTAI TIMUR, DAN KOTA BONTANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 167233e534a0cf7362d37b5c87dc1efd5bebc74cc0269d8be326079d3d58fc58
+  file_size_bytes: 94622
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu47-1999.pdf'

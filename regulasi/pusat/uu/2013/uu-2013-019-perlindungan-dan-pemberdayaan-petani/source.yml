@@ -1,0 +1,22 @@
+id: uu-2013-019
+judul: Undang-Undang Nomor 19 Tahun 2013 tentang PERLINDUNGAN DAN PEMBERDAYAAN PETANI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9022896002d4370f5a3e18eca9b82a1efc612004d39f8d54eaea25010c576219
+  file_size_bytes: 268000
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu19-2013bt.pdf'

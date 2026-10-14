@@ -1,0 +1,22 @@
+id: uu-1995-009
+judul: Undang-Undang Nomor 9 Tahun 1995 tentang USAHA KECIL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 782842480ce68c1713d26d1b8b2ab7c089bfa4f6afb9fa3c2f6e0adbfc47e1d4
+  file_size_bytes: 85492
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-1995.pdf'

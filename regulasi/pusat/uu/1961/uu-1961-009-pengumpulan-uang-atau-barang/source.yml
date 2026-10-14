@@ -1,0 +1,22 @@
+id: uu-1961-009
+judul: Undang-Undang Nomor 9 Tahun 1961 tentang PENGUMPULAN UANG ATAU BARANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 383a9bb03aeb4eb78e9d1ca97a5000aea1b5b8fd5a5ef9e65d77863f38a72cbd
+  file_size_bytes: 55411
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0091961.pdf'

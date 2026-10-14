@@ -1,0 +1,2151 @@
+---
+id: "uu-2012-011"
+jenis: "uu"
+nomor: "11"
+tahun: 2012
+judul: "Undang-Undang Nomor 11 Tahun 2012 tentang SISTEM PERADILAN PIDANA ANAK"
+status: "perlu_verifikasi"
+sumber: "Ditjen Peraturan Perundang-undangan / JDIH"
+---
+
+# Undang-Undang Nomor 11 Tahun 2012 tentang SISTEM PERADILAN PIDANA ANAK
+
+## Catatan Konversi
+
+Dokumen ini merupakan hasil konversi dari format PDF ke Markdown. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+<!-- Konversi lokal pdftotext; verifikasi struktur dan substansi sebelum dipromosikan. -->
+
+<!-- PAGE: 1 -->
+
+       LEMBARAN NEGARA
+      REPUBLIK INDONESIA
+No.153, 2012
+
+               UNDANG-UNDANG REPUBLIK INDONESIA
+                       NOMOR 11 TAHUN 2012
+                              TENTANG
+                  SISTEM PERADILAN PIDANA ANAK
+
+
+               DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+                  PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang:     a. bahwa anak merupakan amanah dan karunia Tuhan
+                  Yang Maha Esa yang memiliki harkat dan martabat
+                  sebagai manusia seutuhnya;
+               b. bahwa untuk menjaga harkat dan martabatnya, anak
+                  berhak mendapatkan pelindungan khusus, terutama
+                  pelindungan hukum dalam sistem peradilan;
+               c. bahwa Indonesia sebagai Negara Pihak dalam Konvensi
+                  Hak-Hak Anak (Convention on the Rights of the Child)
+                  yang mengatur prinsip pelindungan hukum terhadap
+                  anak mempunyai kewajiban untuk memberikan
+                  pelindungan khusus terhadap anak yang berhadapan
+                  dengan hukum;
+               d. bahwa Undang-Undang Nomor 3 Tahun 1997 tentang
+                  Pengadilan Anak sudah tidak sesuai lagi dengan
+                  perkembangan dan kebutuhan hukum masyarakat
+                  karena belum secara komprehensif memberikan
+                  pelindungan kepada anak yang berhadapan dengan
+                  hukum sehingga perlu diganti dengan undang-undang
+                  baru;
+               e. bahwa     berdasarkan  pertimbangan    sebagaimana
+                  dimaksud dalam huruf a, huruf b, huruf c, dan huruf
+                  d, perlu membentuk Undang-Undang tentang Sistem
+                  Peradilan Pidana Anak;
+
+
+
+
+                                                        www.djpp.depkumham.go.id
+
+<!-- PAGE: 2 -->
+
+2012,No.153                      2
+
+
+
+Mengingat:    1. Pasal 5 ayat (1), Pasal 20, Pasal 28B ayat (2), Pasal
+                 28G, dan Pasal 28I Undang-Undang Dasar Negara
+                 Republik Indonesia Tahun 1945;
+              2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak
+                 Asasi Manusia (Lembaran Negara Republik Indonesia
+                 Tahun 1999 Nomor 165, Tambahan Lembaran Negara
+                 Republik Indonesia Nomor 3886);
+              3. Undang-Undang Nomor 23 Tahun 2002 tentang
+                 Perlindungan Anak (Lembaran Negara Republik
+                 Indonesia Tahun 2002 Nomor 109, Tambahan
+                 Lembaran Negara Republik Indonesia Nomor 4235);
+              4. Undang-Undang Nomor 13 Tahun 2006 tentang
+                 Perlindungan Saksi dan Korban (Lembaran Negara
+                 Republik Indonesia Tahun 2006 Nomor 64, Tambahan
+                 Lembaran Negara Republik Indonesia Nomor 4635);
+              5. Undang-Undang Nomor 16 Tahun 2011 tentang
+                 Bantuan    Hukum      (Lembaran    Negara   Republik
+                 Indonesia Tahun 2011 Nomor 104, Tambahan
+                 Lembaran Negara Republik Indonesia Nomor 5248);
+
+                  Dengan Persetujuan Bersama
+         DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+                             dan
+                PRESIDEN REPUBLIK INDONESIA
+
+                           MEMUTUSKAN:
+
+Menetapkan:   UNDANG-UNDANG          TENTANG   SISTEM     PERADILAN
+              PIDANA ANAK.
+
+                             BAB I
+                        KETENTUAN UMUM
+
+                               Pasal 1
+              Dalam Undang-Undang ini yang dimaksud dengan:
+              1.   Sistem Peradilan Pidana Anak adalah keseluruhan
+                   proses penyelesaian perkara Anak yang berhadapan
+                   dengan hukum, mulai tahap penyelidikan sampai
+                   dengan tahap pembimbingan setelah menjalani
+                   pidana.
+              2.   Anak yang Berhadapan dengan Hukum adalah anak
+                   yang berkonflik dengan hukum, anak yang menjadi
+                   korban tindak pidana, dan anak yang menjadi saksi
+                   tindak pidana.
+              3.   Anak yang Berkonflik dengan Hukum yang
+                   selanjutnya disebut Anak adalah anak yang telah
+
+
+
+                                                        www.djpp.depkumham.go.id
+
+<!-- PAGE: 3 -->
+
+                    3                       2012,No.153
+
+
+
+      berumur 12 (dua belas) tahun, tetapi belum berumur
+      18 (delapan belas) tahun yang diduga melakukan
+      tindak pidana.
+4.    Anak yang Menjadi Korban Tindak Pidana yang
+      selanjutnya disebut Anak Korban adalah anak yang
+      belum berumur 18 (delapan belas) tahun yang
+      mengalami penderitaan fisik, mental, dan/atau
+      kerugian ekonomi yang disebabkan oleh tindak
+      pidana.
+5.    Anak yang Menjadi Saksi Tindak Pidana yang
+      selanjutnya disebut Anak Saksi adalah anak yang
+      belum berumur 18 (delapan belas) tahun yang dapat
+      memberikan       keterangan     guna     kepentingan
+      penyidikan, penuntutan, dan pemeriksaan di sidang
+      pengadilan tentang suatu perkara pidana yang
+      didengar, dilihat, dan/atau dialaminya sendiri.
+6.    Keadilan Restoratif adalah penyelesaian perkara
+      tindak pidana dengan melibatkan pelaku, korban,
+      keluarga pelaku/korban, dan pihak lain yang terkait
+      untuk bersama-sama mencari penyelesaian yang adil
+      dengan menekankan pemulihan kembali pada
+      keadaan semula, dan bukan pembalasan.
+7.    Diversi adalah pengalihan penyelesaian perkara
+      Anak dari proses peradilan pidana ke proses di luar
+      peradilan pidana.
+8.    Penyidik adalah penyidik Anak.
+9.    Penuntut Umum adalah penuntut umum Anak.
+10.   Hakim adalah hakim Anak.
+11.   Hakim Banding adalah hakim banding Anak.
+12.   Hakim Kasasi adalah hakim kasasi Anak.
+13.   Pembimbing     Kemasyarakatan      adalah    pejabat
+      fungsional penegak hukum yang melaksanakan
+      penelitian     kemasyarakatan,       pembimbingan,
+      pengawasan, dan pendampingan terhadap Anak di
+      dalam dan di luar proses peradilan pidana.
+14.   Pekerja Sosial Profesional adalah seseorang yang
+      bekerja, baik di lembaga pemerintah maupun
+      swasta, yang memiliki kompetensi dan profesi
+      pekerjaan sosial serta kepedulian dalam pekerjaan
+      sosial yang diperoleh melalui pendidikan, pelatihan,
+      dan/atau pengalaman praktik pekerjaan sosial
+      untuk     melaksanakan     tugas   pelayanan     dan
+      penanganan masalah sosial Anak.
+15.   Tenaga Kesejahteraan Sosial adalah seseorang yang
+
+
+
+                                           www.djpp.depkumham.go.id
+
+<!-- PAGE: 4 -->
+
+2012,No.153                       4
+
+
+
+                    dididik dan dilatih secara profesional untuk
+                    melaksanakan tugas pelayanan dan penanganan
+                    masalah sosial dan/atau seseorang yang bekerja,
+                    baik di lembaga pemerintah maupun swasta, yang
+                    ruang lingkup kegiatannya di bidang kesejahteraan
+                    sosial Anak.
+              16.   Keluarga adalah orang tua yang terdiri atas ayah,
+                    ibu, dan/atau anggota keluarga lain yang dipercaya
+                    oleh Anak.
+              17.   Wali adalah orang atau badan yang dalam
+                    kenyataannya menjalankan kekuasaan asuh sebagai
+                    orang tua terhadap anak.
+              18.   Pendamping adalah orang yang dipercaya oleh Anak
+                    untuk mendampinginya selama proses peradilan
+                    pidana berlangsung.
+              19.   Advokat atau pemberi bantuan hukum lainnya
+                    adalah orang yang berprofesi memberi jasa hukum,
+                    baik di dalam maupun di luar pengadilan, yang
+                    memenuhi persyaratan berdasarkan ketentuan
+                    peraturan perundang-undangan.
+              20.   Lembaga Pembinaan Khusus Anak yang selanjutnya
+                    disingkat LPKA adalah lembaga atau tempat Anak
+                    menjalani masa pidananya.
+              21.   Lembaga Penempatan Anak Sementara yang
+                    selanjutnya disingkat LPAS adalah tempat sementara
+                    bagi Anak selama proses peradilan berlangsung.
+              22.   Lembaga Penyelenggaraan Kesejahteraan Sosial yang
+                    selanjutnya disingkat LPKS adalah lembaga atau
+                    tempat pelayanan sosial yang melaksanakan
+                    penyelenggaraan kesejahteraan sosial bagi Anak.
+              23.   Klien Anak adalah Anak yang berada di dalam
+                    pelayanan,    pembimbingan,     pengawasan,     dan
+                    pendampingan Pembimbing Kemasyarakatan.
+              24.   Balai Pemasyarakatan yang selanjutnya disebut
+                    Bapas adalah unit pelaksana teknis pemasyarakatan
+                    yang melaksanakan tugas dan fungsi penelitian
+                    kemasyarakatan, pembimbingan, pengawasan, dan
+                    pendampingan.
+
+                               Pasal 2
+              Sistem Peradilan Pidana Anak dilaksanakan berdasarkan
+              asas:
+              a. pelindungan;
+              b. keadilan;
+
+
+
+                                                         www.djpp.depkumham.go.id
+
+<!-- PAGE: 5 -->
+
+                     5                     2012,No.153
+
+
+
+c.    nondiskriminasi;
+d.    kepentingan terbaik bagi Anak;
+e.    penghargaan terhadap pendapat Anak;
+f.    kelangsungan hidup dan tumbuh kembang Anak;
+g.    pembinaan dan pembimbingan Anak;
+h.    proporsional;
+i.    perampasan kemerdekaan dan pemidanaan sebagai
+      upaya terakhir; dan
+j.    penghindaran pembalasan.
+
+                  Pasal 3
+Setiap Anak dalam proses peradilan pidana berhak:
+a. diperlakukan         secara      manusiawi     dengan
+     memperhatikan kebutuhan sesuai dengan umurnya;
+b. dipisahkan dari orang dewasa;
+c.   memperoleh bantuan hukum dan bantuan lain secara
+     efektif;
+d. melakukan kegiatan rekreasional;
+e.   bebas dari penyiksaan, penghukuman atau perlakuan
+     lain yang kejam, tidak manusiawi, serta merendahkan
+     derajat dan martabatnya;
+f.   tidak dijatuhi pidana mati atau pidana seumur hidup;
+g.   tidak ditangkap, ditahan, atau dipenjara, kecuali
+     sebagai upaya terakhir dan dalam waktu yang paling
+     singkat;
+h. memperoleh keadilan di muka pengadilan Anak yang
+     objektif, tidak memihak, dan dalam sidang yang
+     tertutup untuk umum;
+i.   tidak dipublikasikan identitasnya;
+j.   memperoleh pendampingan orang tua/Wali dan orang
+     yang dipercaya oleh Anak;
+k. memperoleh advokasi sosial;
+l.   memperoleh kehidupan pribadi;
+m. memperoleh aksesibilitas, terutama bagi anak cacat;
+n. memperoleh pendidikan;
+o. memperoleh pelayananan kesehatan; dan
+p. memperoleh hak lain sesuai dengan ketentuan
+     peraturan perundang-undangan.
+
+                  Pasal 4
+(1)   Anak yang sedang menjalani masa pidana berhak:
+      a. mendapat pengurangan masa pidana;
+      b. memperoleh asimilasi;
+      c. memperoleh cuti mengunjungi keluarga;
+
+
+                                           www.djpp.depkumham.go.id
+
+<!-- PAGE: 6 -->
+
+2012,No.153                          6
+
+
+
+                    d. memperoleh pembebasan bersyarat;
+                    e. memperoleh cuti menjelang bebas;
+                    f.   memperoleh cuti bersyarat; dan
+                    g. memperoleh hak lain sesuai dengan ketentuan
+                       peraturan perundang-undangan.
+              (2)   Hak sebagaimana dimaksud pada ayat (1) diberikan
+                    kepada   Anak   yang   memenuhi     persyaratan
+                    sebagaimana diatur dalam ketentuan peraturan
+                    perundang-undangan.
+
+
+                                   Pasal 5
+              (1)   Sistem Peradilan Pidana Anak wajib mengutamakan
+                    pendekatan Keadilan Restoratif.
+              (2)   Sistem Peradilan Pidana Anak sebagaimana dimaksud
+                    pada ayat (1) meliputi:
+                    a. penyidikan dan penuntutan pidana Anak yang
+                       dilaksanakan sesuai dengan ketentuan peraturan
+                       perundang-undangan, kecuali ditentukan lain
+                       dalam Undang-Undang ini;
+                    b. persidangan Anak yang dilakukan oleh pengadilan
+                       di lingkungan peradilan umum; dan
+                    c. pembinaan,      pembimbingan,        pengawasan,
+                       dan/atau     pendampingan       selama    proses
+                       pelaksanaan pidana atau tindakan dan setelah
+                       menjalani pidana atau tindakan.
+              (3)   Dalam Sistem Peradilan Pidana Anak sebagaimana
+                    dimaksud pada ayat (2) huruf a dan huruf b wajib
+                    diupayakan Diversi.
+
+
+                                  BAB II
+                                 DIVERSI
+
+                                   Pasal 6
+              Diversi bertujuan:
+              a.    mencapai perdamaian antara korban dan Anak;
+              b.    menyelesaikan perkara Anak di luar proses peradilan;
+              c.    menghindarkan Anak dari perampasan kemerdekaan;
+              d.    mendorong masyarakat untuk berpartisipasi; dan
+              e.    menanamkan rasa tanggung jawab kepada Anak.
+
+
+
+
+                                                          www.djpp.depkumham.go.id
+
+<!-- PAGE: 7 -->
+
+                       7                      2012,No.153
+
+
+
+                    Pasal 7
+(1)   Pada   tingkat    penyidikan,  penuntutan,     dan
+      pemeriksaan perkara Anak di pengadilan negeri wajib
+      diupayakan Diversi.
+(2)   Diversi sebagaimana      dimaksud pada ayat (1)
+      dilaksanakan dalam       hal tindak pidana yang
+      dilakukan:
+      a. diancam dengan pidana penjara di bawah 7
+         (tujuh) tahun; dan
+      b. bukan merupakan pengulangan tindak pidana.
+
+                    Pasal 8
+(1)   Proses Diversi dilakukan melalui musyawarah dengan
+      melibatkan Anak dan orang tua/Walinya, korban
+      dan/atau      orang     tua/Walinya,   Pembimbing
+      Kemasyarakatan, dan Pekerja Sosial Profesional
+      berdasarkan pendekatan Keadilan Restoratif.
+(2)   Dalam hal diperlukan, musyawarah sebagaimana
+      dimaksud pada ayat (1) dapat melibatkan Tenaga
+      Kesejahteraan Sosial, dan/atau masyarakat.
+(3)   Proses Diversi wajib memperhatikan:
+      a.   kepentingan korban;
+      b.   kesejahteraan dan tanggung jawab Anak;
+      c.   penghindaran stigma negatif;
+      d.   penghindaran pembalasan;
+      e.   keharmonisan masyarakat; dan
+      f.   kepatutan, kesusilaan, dan ketertiban umum.
+
+                    Pasal 9
+(1)   Penyidik, Penuntut Umum, dan Hakim dalam
+      melakukan Diversi harus mempertimbangkan:
+      a. kategori tindak pidana;
+      b. umur Anak;
+      c. hasil penelitian kemasyarakatan dari Bapas; dan
+      d. dukungan lingkungan keluarga dan masyarakat.
+(2)   Kesepakatan Diversi harus mendapatkan persetujuan
+      korban dan/atau keluarga Anak Korban serta
+      kesediaan Anak dan keluarganya, kecuali untuk:
+      a.   tindak pidana yang berupa pelanggaran;
+      b.   tindak pidana ringan;
+      c.   tindak pidana tanpa korban; atau
+      d.   nilai kerugian korban tidak lebih dari nilai upah
+           minimum provinsi setempat.
+
+
+
+
+                                              www.djpp.depkumham.go.id
+
+<!-- PAGE: 8 -->
+
+2012,No.153                        8
+
+
+
+                               Pasal 10
+              (1)   Kesepakatan Diversi untuk menyelesaikan tindak
+                    pidana yang berupa pelanggaran, tindak pidana
+                    ringan, tindak pidana tanpa korban, atau nilai
+                    kerugian korban tidak lebih dari nilai upah minimum
+                    provinsi setempat sebagaimana dimaksud dalam
+                    Pasal 9 ayat (2) dapat dilakukan oleh penyidik
+                    bersama pelaku dan/atau keluarganya, Pembimbing
+                    Kemasyarakatan, serta dapat melibatkan tokoh
+                    masyarakat.
+              (2)   Kesepakatan Diversi sebagaimana dimaksud pada
+                    ayat (1) dilakukan oleh Penyidik atas rekomendasi
+                    Pembimbing Kemasyarakatan dapat berbentuk:
+                    a. pengembalian kerugian dalam hal ada korban;
+                    b. rehabilitasi medis dan psikososial;
+                    c. penyerahan kembali kepada orang tua/Wali;
+                    d. keikutsertaan dalam pendidikan atau pelatihan di
+                       lembaga pendidikan atau LPKS paling lama 3
+                       (tiga) bulan; atau
+                    e. pelayanan masyarakat paling lama 3 (tiga) bulan.
+
+                               Pasal 11
+              Hasil kesepakatan Diversi dapat berbentuk, antara lain:
+              a. perdamaian dengan atau tanpa ganti kerugian;
+              b. penyerahan kembali kepada orang tua/Wali;
+              c.   keikutsertaan dalam pendidikan atau pelatihan di
+                   lembaga pendidikan atau LPKS paling lama 3 (tiga)
+                   bulan; atau
+              d. pelayanan masyarakat.
+
+                               Pasal 12
+              (1)   Hasil kesepakatan sebagaimana dimaksud dalam
+                    Pasal 11 dituangkan dalam bentuk kesepakatan
+                    Diversi.
+              (2)   Hasil kesepakatan Diversi sebagaimana dimaksud
+                    pada ayat (1) disampaikan oleh atasan langsung
+                    pejabat yang bertanggung jawab di setiap tingkat
+                    pemeriksaan ke pengadilan negeri sesuai dengan
+                    daerah hukumnya dalam waktu paling lama 3 (tiga)
+                    hari sejak kesepakatan dicapai untuk memperoleh
+                    penetapan.
+
+
+
+
+                                                         www.djpp.depkumham.go.id
+
+<!-- PAGE: 9 -->
+
+                     9                       2012,No.153
+
+
+
+(3)   Penetapan sebagaimana dimaksud pada ayat (2)
+      dilakukan dalam waktu paling lama 3 (tiga) hari
+      terhitung sejak diterimanya kesepakatan Diversi.
+(4)   Penetapan sebagaimana dimaksud pada ayat (3)
+      disampaikan kepada Pembimbing Kemasyarakatan,
+      Penyidik, Penuntut Umum, atau Hakim dalam waktu
+      paling lama 3 (tiga) hari sejak ditetapkan.
+(5)   Setelah menerima penetapan sebagaimana dimaksud
+      pada ayat (4), Penyidik menerbitkan penetapan
+      penghentian penyidikan atau Penuntut Umum
+      menerbitkan penetapan penghentian penuntutan.
+
+
+                  Pasal 13
+Proses peradilan pidana Anak dilanjutkan dalam hal:
+a.    proses Diversi tidak menghasilkan kesepakatan; atau
+b.    kesepakatan Diversi tidak dilaksanakan.
+
+
+                  Pasal 14
+(1)   Pengawasan atas proses Diversi dan pelaksanaan
+      kesepakatan yang dihasilkan berada pada atasan
+      langsung pejabat yang bertanggung jawab di setiap
+      tingkat pemeriksaan.
+(2)   Selama proses Diversi berlangsung sampai dengan
+      kesepakatan Diversi dilaksanakan, Pembimbing
+      Kemasyarakatan wajib melakukan pendampingan,
+      pembimbingan, dan pengawasan.
+(3)   Dalam hal kesepakatan Diversi tidak dilaksanakan
+      dalam   waktu    yang   ditentukan,  Pembimbing
+      Kemasyarakatan segera melaporkannya kepada
+      pejabat yang bertanggung jawab sebagaimana
+      dimaksud pada ayat (1).
+(4)   Pejabat yang bertanggung jawab sebagaimana
+      dimaksud pada ayat (3) wajib menindaklanjuti
+      laporan dalam waktu paling lama 7 (tujuh) hari.
+
+                  Pasal 15
+Ketentuan mengenai pedoman pelaksanaan proses Diversi,
+tata cara, dan koordinasi pelaksanaan Diversi diatur
+dengan Peraturan Pemerintah.
+
+
+
+
+                                            www.djpp.depkumham.go.id
+
+<!-- PAGE: 10 -->
+
+2012,No.153                       10
+
+
+
+                              BAB III
+                    ACARA PERADILAN PIDANA ANAK
+
+                             Bagian Kesatu
+                                Umum
+
+                               Pasal 16
+              Ketentuan beracara dalam Hukum Acara Pidana berlaku
+              juga dalam acara peradilan pidana anak, kecuali
+              ditentukan lain dalam Undang-Undang ini.
+
+                               Pasal 17
+              (1)   Penyidik, Penuntut Umum, dan Hakim wajib
+                    memberikan pelindungan khusus bagi Anak yang
+                    diperiksa karena tindak pidana yang dilakukannya
+                    dalam situasi darurat.
+              (2)   Pelindungan khusus sebagaimana dimaksud pada
+                    ayat (1) dilaksanakan melalui penjatuhan sanksi
+                    tanpa pemberatan.
+
+                               Pasal 18
+              Dalam menangani perkara Anak, Anak Korban, dan/atau
+              Anak Saksi, Pembimbing Kemasyarakatan, Pekerja Sosial
+              Profesional dan Tenaga Kesejahteraan Sosial, Penyidik,
+              Penuntut Umum, Hakim, dan Advokat atau pemberi
+              bantuan     hukum    lainnya     wajib  memperhatikan
+              kepentingan terbaik bagi Anak dan mengusahakan
+              suasana kekeluargaan tetap terpelihara.
+
+                               Pasal 19
+              (1)   Identitas Anak, Anak Korban, dan/atau Anak Saksi
+                    wajib dirahasiakan dalam pemberitaan di media cetak
+                    ataupun elektronik.
+              (2)   Identitas sebagaimana dimaksud pada ayat (1)
+                    meliputi nama Anak, nama Anak Korban, nama Anak
+                    Saksi, nama orang tua, alamat, wajah, dan hal lain
+                    yang dapat mengungkapkan jati diri Anak, Anak
+                    Korban, dan/atau Anak Saksi.
+
+                               Pasal 20
+              Dalam hal tindak pidana dilakukan oleh Anak sebelum
+              genap berumur 18 (delapan belas) tahun dan diajukan ke
+              sidang pengadilan setelah Anak yang bersangkutan
+              melampaui batas umur 18 (delapan belas) tahun, tetapi
+              belum mencapai umur 21 (dua puluh satu) tahun, Anak
+              tetap diajukan ke sidang Anak.
+
+
+
+
+                                                         www.djpp.depkumham.go.id
+
+<!-- PAGE: 11 -->
+
+                     11                     2012,No.153
+
+
+
+                  Pasal 21
+(1)   Dalam hal Anak belum berumur 12 (dua belas) tahun
+      melakukan atau diduga melakukan tindak pidana,
+      Penyidik, Pembimbing Kemasyarakatan, dan Pekerja
+      Sosial Profesional mengambil keputusan untuk:
+      a.   menyerahkannya      kembali   kepada     orang
+           tua/Wali; atau
+      b.   mengikutsertakannya       dalam       program
+           pendidikan, pembinaan, dan pembimbingan di
+           instansi pemerintah atau LPKS di instansi yang
+           menangani bidang kesejahteraan sosial, baik di
+           tingkat pusat maupun daerah, paling lama 6
+           (enam) bulan.
+(2)   Keputusan sebagaimana dimaksud pada ayat (1)
+      diserahkan ke pengadilan untuk ditetapkan dalam
+      waktu paling lama 3 (tiga) hari.
+(3)   Bapas    wajib    melakukan  evaluasi  terhadap
+      pelaksanaan program pendidikan, pembinaan, dan
+      pembimbingan kepada Anak sebagaimana dimaksud
+      pada ayat (1) huruf b.
+(4)   Dalam hal hasil evaluasi sebagaimana dimaksud pada
+      ayat (3) Anak dinilai masih memerlukan pendidikan,
+      pembinaan, dan pembimbingan lanjutan, masa
+      pendidikan, pembinaan, dan pembimbingan dapat
+      diperpanjang paling lama 6 (enam) bulan.
+(5)   Instansi   pemerintah   dan    LPKS   sebagaimana
+      dimaksud pada ayat (1) huruf b wajib menyampaikan
+      laporan perkembangan anak kepada Bapas secara
+      berkala setiap bulan.
+(6)   Ketentuan lebih lanjut mengenai syarat dan tata cara
+      pengambilan keputusan serta program pendidikan,
+      pembinaan,     dan    pembimbingan     sebagaimana
+      dimaksud pada ayat (1) diatur dengan Peraturan
+      Pemerintah.
+
+                  Pasal 22
+Penyidik,    Penuntut    Umum,    Hakim,    Pembimbing
+Kemasyarakatan, Advokat atau pemberi bantuan hukum
+lainnya, dan petugas lain dalam memeriksa perkara Anak,
+Anak Korban, dan/atau Anak Saksi tidak memakai toga
+atau atribut kedinasan.
+
+
+
+
+                                            www.djpp.depkumham.go.id
+
+<!-- PAGE: 12 -->
+
+2012,No.153                       12
+
+
+
+                               Pasal 23
+              (1)   Dalam setiap tingkat pemeriksaan, Anak wajib
+                    diberikan bantuan hukum dan didampingi oleh
+                    Pembimbing Kemasyarakatan atau pendamping lain
+                    sesuai dengan ketentuan peraturan perundang-
+                    undangan.
+              (2)   Dalam setiap tingkat pemeriksaan, Anak Korban atau
+                    Anak Saksi wajib didampingi oleh orang tua dan/atau
+                    orang yang dipercaya oleh Anak Korban dan/atau
+                    Anak Saksi, atau Pekerja Sosial.
+              (3)   Dalam hal orang tua sebagai tersangka atau terdakwa
+                    perkara    yang    sedang     diperiksa,  ketentuan
+                    sebagaimana dimaksud pada ayat (2) tidak berlaku
+                    bagi orang tua.
+
+
+                               Pasal 24
+              Anak yang melakukan tindak pidana bersama-sama
+              dengan orang dewasa atau anggota Tentara Nasional
+              Indonesia diajukan ke pengadilan Anak, sedangkan orang
+              dewasa atau anggota Tentara Nasional Indonesia diajukan
+              ke pengadilan yang berwenang.
+
+
+                               Pasal 25
+              (1)   Register perkara Anak dan Anak Korban wajib dibuat
+                    secara khusus oleh lembaga yang menangani perkara
+                    Anak.
+              (2)   Ketentuan lebih lanjut mengenai pedoman register
+                    perkara anak sebagaimana dimaksud pada ayat (1)
+                    diatur dengan Peraturan Pemerintah.
+
+                             Bagian Kedua
+                              Penyidikan
+
+                               Pasal 26
+              (1)   Penyidikan terhadap perkara Anak dilakukan oleh
+                    Penyidik yang ditetapkan berdasarkan Keputusan
+                    Kepala Kepolisian Negara Republik Indonesia atau
+                    pejabat lain yang ditunjuk oleh Kepala Kepolisian
+                    Negara Republik Indonesia.
+              (2)   Pemeriksaan terhadap Anak Korban atau Anak Saksi
+                    dilakukan oleh Penyidik sebagaimana dimaksud pada
+                    ayat (1).
+              (3)   Syarat untuk dapat ditetapkan sebagai Penyidik
+                    sebagaimana dimaksud pada ayat (1) meliputi:
+
+
+
+
+                                                         www.djpp.depkumham.go.id
+
+<!-- PAGE: 13 -->
+
+                      13                      2012,No.153
+
+
+
+      a. telah berpengalaman sebagai penyidik;
+      b. mempunyai minat, perhatian, dedikasi, dan
+         memahami masalah Anak; dan
+      c. telah mengikuti pelatihan teknis tentang peradilan
+         Anak.
+(4)   Dalam hal belum terdapat Penyidik yang memenuhi
+      persyaratan sebagaimana dimaksud pada ayat (3),
+      tugas penyidikan dilaksanakan oleh penyidik yang
+      melakukan tugas penyidikan tindak pidana yang
+      dilakukan oleh orang dewasa.
+
+                  Pasal 27
+(1)   Dalam melakukan penyidikan terhadap perkara Anak,
+      Penyidik wajib meminta pertimbangan atau saran dari
+      Pembimbing Kemasyarakatan setelah tindak pidana
+      dilaporkan atau diadukan.
+(2)   Dalam hal dianggap perlu, Penyidik dapat meminta
+      pertimbangan atau saran dari ahli pendidikan,
+      psikolog, psikiater, tokoh agama, Pekerja Sosial
+      Profesional atau Tenaga Kesejahteraan Sosial, dan
+      tenaga ahli lainnya.
+(3)   Dalam hal melakukan pemeriksaan terhadap Anak
+      Korban dan Anak Saksi, Penyidik wajib meminta
+      laporan sosial dari Pekerja Sosial Profesional atau
+      Tenaga Kesejahteraan Sosial setelah tindak pidana
+      dilaporkan atau diadukan.
+
+                  Pasal 28
+Hasil Penelitian Kemasyarakatan wajib diserahkan oleh
+Bapas kepada Penyidik dalam waktu paling lama 3 x 24
+(tiga kali dua puluh empat) jam setelah permintaan
+penyidik diterima.
+
+                  Pasal 29
+(1)   Penyidik wajib mengupayakan Diversi dalam waktu
+      paling lama 7 (tujuh) hari setelah penyidikan dimulai.
+(2)   Proses Diversi sebagaimana dimaksud pada ayat (1)
+      dilaksanakan paling lama 30 (tiga puluh) hari setelah
+      dimulainya Diversi.
+(3)   Dalam hal proses Diversi berhasil mencapai
+      kesepakatan, Penyidik menyampaikan berita acara
+      Diversi beserta Kesepakatan Diversi kepada ketua
+      pengadilan negeri untuk dibuat penetapan.
+(4)   Dalam hal Diversi gagal, Penyidik wajib melanjutkan
+      penyidikan dan melimpahkan perkara ke Penuntut
+
+
+
+                                             www.djpp.depkumham.go.id
+
+<!-- PAGE: 14 -->
+
+2012,No.153                       14
+
+
+
+                    Umum dengan melampirkan berita acara Diversi dan
+                    laporan penelitian kemasyarakatan.
+
+                            Bagian Ketiga
+                     Penangkapan dan Penahanan
+
+                               Pasal 30
+              (1)   Penangkapan terhadap Anak dilakukan guna
+                    kepentingan penyidikan paling lama 24 (dua puluh
+                    empat) jam.
+              (2)   Anak yang ditangkap wajib ditempatkan dalam ruang
+                    pelayanan khusus Anak.
+              (3)   Dalam hal ruang pelayanan khusus Anak belum ada
+                    di wilayah yang bersangkutan, Anak dititipkan di
+                    LPKS.
+              (4)   Penangkapan terhadap Anak wajib dilakukan secara
+                    manusiawi dengan memperhatikan kebutuhan sesuai
+                    dengan umurnya.
+              (5)   Biaya bagi setiap Anak yang ditempatkan di LPKS
+                    dibebankan pada anggaran kementerian yang
+                    menyelenggarakan urusan pemerintahan di bidang
+                    sosial.
+
+                               Pasal 31
+              (1)   Dalam     melaksanakan      penyidikan,    Penyidik
+                    berkoordinasi dengan Penuntut Umum.
+              (2)   Koordinasi sebagaimana dimaksud pada ayat (1)
+                    dilakukan dalam waktu paling lama 1 X 24 (satu kali
+                    dua puluh empat) jam sejak dimulai penyidikan.
+
+                               Pasal 32
+              (1)   Penahanan terhadap Anak tidak boleh dilakukan
+                    dalam hal Anak memperoleh jaminan dari orang
+                    tua/Wali dan/atau lembaga bahwa Anak tidak akan
+                    melarikan diri, tidak akan menghilangkan atau
+                    merusak barang bukti, dan/atau tidak akan
+                    mengulangi tindak pidana.
+              (2)   Penahanan terhadap Anak hanya dapat dilakukan
+                    dengan syarat sebagai berikut:
+                    a. Anak telah berumur 14 (empat belas) tahun atau
+                       lebih; dan
+                    b. diduga    melakukan  tindak   pidana    dengan
+                       ancaman pidana penjara 7 (tujuh) tahun atau
+                       lebih.
+
+
+
+
+                                                         www.djpp.depkumham.go.id
+
+<!-- PAGE: 15 -->
+
+                     15                     2012,No.153
+
+
+
+(3)   Syarat penahanan sebagaimana dimaksud pada ayat
+      (2) harus dinyatakan secara tegas dalam surat
+      perintah penahanan.
+(4)   Selama Anak ditahan, kebutuhan jasmani, rohani,
+      dan sosial Anak harus tetap dipenuhi.
+(5)   Untuk melindungi keamanan Anak, dapat dilakukan
+      penempatan Anak di LPKS.
+
+                  Pasal 33
+(1)   Penahanan sebagaimana dimaksud dalam Pasal 32
+      untuk kepentingan penyidikan dilakukan paling lama
+      7 (tujuh) hari.
+(2)   Jangka waktu penahanan sebagaimana dimaksud
+      pada ayat (1) atas permintaan Penyidik dapat
+      diperpanjang oleh Penuntut Umum paling lama 8
+      (delapan) hari.
+(3)   Dalam hal jangka waktu sebagaimana dimaksud pada
+      ayat (2) telah berakhir, Anak wajib dikeluarkan demi
+      hukum.
+(4)   Penahanan terhadap Anak dilaksanakan di LPAS.
+(5)   Dalam hal tidak terdapat LPAS, penahanan dapat
+      dilakukan di LPKS setempat.
+
+                  Pasal 34
+(1)   Dalam hal penahanan dilakukan untuk kepentingan
+      penuntutan, Penuntut Umum dapat melakukan
+      penahanan paling lama 5 (lima) hari.
+(2)   Jangka waktu penahanan sebagaimana dimaksud
+      pada ayat (1) atas permintaan Penuntut Umum dapat
+      diperpanjang oleh Hakim pengadilan negeri paling
+      lama 5 (lima) hari.
+(3)   Dalam hal jangka waktu sebagaimana dimaksud pada
+      ayat (2) telah berakhir, Anak wajib dikeluarkan demi
+      hukum.
+
+                  Pasal 35
+(1)   Dalam hal penahanan dilakukan untuk kepentingan
+      pemeriksaan di sidang pengadilan, Hakim dapat
+      melakukan penahanan paling lama 10 (sepuluh) hari.
+(2)   Jangka waktu sebagaimana dimaksud pada ayat (1)
+      atas permintaan Hakim dapat diperpanjang oleh
+      ketua pengadilan negeri paling lama 15 (lima belas)
+      hari.
+
+
+
+                                            www.djpp.depkumham.go.id
+
+<!-- PAGE: 16 -->
+
+2012,No.153                        16
+
+
+
+              (3)   Dalam hal jangka waktu sebagaimana dimaksud pada
+                    ayat (2) telah berakhir dan Hakim belum memberikan
+                    putusan, Anak wajib dikeluarkan demi hukum.
+
+                                Pasal 36
+              Penetapan pengadilan mengenai penyitaan barang bukti
+              dalam perkara Anak harus ditetapkan paling lama 2 (dua)
+              hari.
+
+                                Pasal 37
+              (1)   Dalam hal penahanan dilakukan untuk kepentingan
+                    pemeriksaan di tingkat banding, Hakim Banding
+                    dapat melakukan penahanan paling lama 10
+                    (sepuluh) hari.
+              (2)   Jangka waktu sebagaimana dimaksud pada ayat (1)
+                    atas permintaan Hakim Banding dapat diperpanjang
+                    oleh ketua pengadilan tinggi paling lama 15 (lima
+                    belas) hari.
+              (3)   Dalam hal jangka waktu sebagaimana dimaksud pada
+                    ayat (1) dan ayat (2) telah berakhir dan Hakim
+                    Banding belum memberikan putusan, Anak wajib
+                    dikeluarkan demi hukum.
+
+                                Pasal 38
+              (1)   Dalam hal penahanan terpaksa dilakukan untuk
+                    kepentingan pemeriksaan di tingkat kasasi, Hakim
+                    Kasasi dapat melakukan penahanan paling lama 15
+                    (lima belas) hari.
+              (2)   Jangka waktu sebagaimana dimaksud pada ayat (1)
+                    atas permintaan Hakim Kasasi dapat diperpanjang
+                    oleh Ketua Mahkamah Agung paling lama 20 (dua
+                    puluh) hari.
+              (3)   Dalam hal jangka waktu sebagaimana dimaksud pada
+                    ayat (1) dan ayat (2) telah berakhir dan Hakim Kasasi
+                    belum memberikan putusan, Anak wajib dikeluarkan
+                    demi hukum.
+
+                                Pasal 39
+              Dalam hal jangka waktu penahanan sebagaimana
+              dimaksud dalam Pasal 33 ayat (3), Pasal 34 ayat (3), Pasal
+              35 ayat (3), Pasal 37 ayat (3), dan Pasal 38 ayat (3) telah
+              berakhir, petugas tempat Anak ditahan harus segera
+              mengeluarkan Anak demi hukum.
+
+
+                                                          www.djpp.depkumham.go.id
+
+<!-- PAGE: 17 -->
+
+                     17                      2012,No.153
+
+
+
+                  Pasal 40
+(1)   Pejabat  yang   melakukan   penangkapan   atau
+      penahanan wajib memberitahukan kepada Anak dan
+      orang tua/Wali mengenai hak memperoleh bantuan
+      hukum.
+(2)   Dalam hal pejabat tidak melaksanakan ketentuan
+      sebagaimana dimaksud pada ayat (1), penangkapan
+      atau penahanan terhadap Anak batal demi hukum.
+
+
+              Bagian Keempat
+                Penuntutan
+
+                  Pasal 41
+(1)   Penuntutan terhadap perkara Anak dilakukan oleh
+      Penuntut Umum yang ditetapkan berdasarkan
+      Keputusan Jaksa Agung atau pejabat lain yang
+      ditunjuk oleh Jaksa Agung.
+(2)   Syarat untuk dapat ditetapkan sebagai Penuntut
+      Umum sebagaimana dimaksud pada ayat (1) meliputi:
+      a. telah berpengalaman sebagai penuntut umum;
+      b. mempunyai minat, perhatian,        dedikasi,   dan
+         memahami masalah Anak; dan
+      c. telah mengikuti pelatihan teknis tentang peradilan
+         Anak.
+(3)   Dalam hal belum terdapat Penuntut Umum yang
+      memenuhi persyaratan sebagaimana dimaksud pada
+      ayat (2), tugas penuntutan dilaksanakan oleh
+      penuntut umum yang melakukan tugas penuntutan
+      bagi tindak pidana yang dilakukan oleh orang
+      dewasa.
+
+
+                  Pasal 42
+(1)   Penuntut Umum wajib mengupayakan Diversi paling
+      lama 7 (tujuh) hari setelah menerima berkas perkara
+      dari Penyidik.
+(2)   Diversi sebagaimana dimaksud pada ayat             (1)
+      dilaksanakan paling lama 30 (tiga puluh) hari.
+(3)   Dalam hal proses Diversi berhasil mencapai
+      kesepakatan, Penuntut Umum menyampaikan berita
+      acara Diversi beserta kesepakatan Diversi kepada
+      ketua pengadilan negeri untuk dibuat penetapan.
+
+
+
+                                            www.djpp.depkumham.go.id
+
+<!-- PAGE: 18 -->
+
+2012,No.153                        18
+
+
+
+              (4)   Dalam hal Diversi gagal, Penuntut Umum wajib
+                    menyampaikan berita acara Diversi dan melimpahkan
+                    perkara ke pengadilan dengan melampirkan laporan
+                    hasil penelitian kemasyarakatan.
+
+
+                            Bagian Kelima
+                        Hakim Pengadilan Anak
+
+                              Paragraf 1
+                         Hakim Tingkat Pertama
+
+                                Pasal 43
+              (1)   Pemeriksaan di sidang pengadilan terhadap perkara
+                    Anak dilakukan oleh Hakim yang ditetapkan
+                    berdasarkan Keputusan Ketua Mahkamah Agung
+                    atau pejabat lain yang ditunjuk oleh Ketua
+                    Mahkamah Agung atas usul ketua pengadilan negeri
+                    yang bersangkutan melalui ketua pengadilan tinggi.
+              (2)   Syarat untuk dapat ditetapkan sebagai Hakim
+                    sebagaimana dimaksud pada ayat (1) meliputi:
+                    a. telah berpengalaman sebagai        hakim    dalam
+                       lingkungan peradilan umum;
+                    b. mempunyai minat, perhatian,        dedikasi,   dan
+                       memahami masalah Anak; dan
+                    c. telah mengikuti pelatihan teknis tentang peradilan
+                       Anak.
+              (3)   Dalam hal belum terdapat Hakim yang memenuhi
+                    persyaratan sebagaimana dimaksud pada ayat (2),
+                    tugas pemeriksaan di sidang Anak dilaksanakan oleh
+                    hakim yang melakukan tugas pemeriksaan bagi
+                    tindak pidana yang dilakukan oleh orang dewasa.
+
+                                Pasal 44
+              (1)   Hakim memeriksa dan memutus perkara Anak dalam
+                    tingkat pertama dengan hakim tunggal.
+              (2)   Ketua   pengadilan    negeri    dapat  menetapkan
+                    pemeriksaan perkara Anak dengan hakim majelis
+                    dalam hal tindak pidana yang diancam dengan pidana
+                    penjara 7 (tujuh) tahun atau lebih atau sulit
+                    pembuktiannya.
+              (3)   Dalam setiap persidangan Hakim dibantu            oleh
+                    seorang panitera atau panitera pengganti.
+
+
+
+
+                                                           www.djpp.depkumham.go.id
+
+<!-- PAGE: 19 -->
+
+                     19                     2012,No.153
+
+
+
+                Paragraf 2
+              Hakim Banding
+
+                 Pasal 45
+Hakim Banding ditetapkan berdasarkan Keputusan Ketua
+Mahkamah Agung atas usul ketua pengadilan tinggi yang
+bersangkutan.
+
+                 Pasal 46
+Untuk dapat ditetapkan sebagai Hakim Banding, berlaku
+syarat sebagaimana dimaksud dalam Pasal 43 ayat (2).
+
+                 Pasal 47
+(1)   Hakim Banding memeriksa dan memutus perkara
+      Anak dalam tingkat banding dengan hakim tunggal.
+(2)   Ketua   pengadilan    tinggi   dapat   menetapkan
+      pemeriksaan perkara Anak dengan hakim majelis
+      dalam hal tindak pidana yang diancam dengan pidana
+      penjara 7 (tujuh) tahun atau lebih atau sulit
+      pembuktiannya.
+(3)   Dalam menjalankan tugasnya, Hakim Banding
+      dibantu oleh seorang panitera atau seorang panitera
+      pengganti.
+
+
+                Paragraf 3
+               Hakim Kasasi
+
+                 Pasal 48
+Hakim Kasasi ditetapkan berdasarkan Keputusan Ketua
+Mahkamah Agung.
+
+                 Pasal 49
+Untuk dapat ditetapkan sebagai Hakim Kasasi, berlaku
+syarat sebagaimana dimaksud dalam Pasal 43 ayat (2).
+
+                 Pasal 50
+(1)   Hakim Kasasi memeriksa dan memutus perkara Anak
+      dalam tingkat kasasi dengan hakim tunggal.
+(2)   Ketua    Mahkamah      Agung    dapat  menetapkan
+      pemeriksaan perkara Anak dengan hakim majelis
+      dalam hal tindak pidana yang diancam dengan pidana
+      penjara 7 (tujuh) tahun atau lebih atau sulit
+      pembuktiannya.
+
+
+
+
+                                           www.djpp.depkumham.go.id
+
+<!-- PAGE: 20 -->
+
+2012,No.153                        20
+
+
+
+              (3)   Dalam menjalankan tugasnya, Hakim Kasasi dibantu
+                    oleh seorang panitera atau seorang panitera
+                    pengganti.
+
+                              Paragraf 4
+                          Peninjauan Kembali
+
+                                Pasal 51
+              Terhadap putusan pengadilan mengenai perkara Anak
+              yang telah memperoleh kekuatan hukum tetap, dapat
+              dimohonkan peninjauan kembali oleh Anak, orang
+              tua/Wali, dan/atau Advokat atau pemberi bantuan
+              hukum lainnya kepada Ketua Mahkamah Agung sesuai
+              dengan ketentuan peraturan perundang-undangan.
+
+                            Bagian Keenam
+                    Pemeriksaan di Sidang Pengadilan
+
+                                Pasal 52
+              (1)   Ketua pengadilan wajib menetapkan Hakim atau
+                    majelis hakim untuk menangani perkara Anak paling
+                    lama 3 (tiga) hari setelah menerima berkas perkara
+                    dari Penuntut Umum.
+              (2)   Hakim wajib mengupayakan Diversi paling lama 7
+                    (tujuh) hari setelah ditetapkan oleh ketua pengadilan
+                    negeri sebagai Hakim.
+              (3)   Diversi sebagaimana dimaksud pada ayat            (2)
+                    dilaksanakan paling lama 30 (tiga puluh) hari.
+              (4)   Proses Diversi dapat dilaksanakan di ruang mediasi
+                    pengadilan negeri.
+              (5)   Dalam hal proses Diversi berhasil mencapai
+                    kesepakatan, Hakim menyampaikan berita acara
+                    Diversi beserta kesepakatan Diversi kepada ketua
+                    pengadilan negeri untuk dibuat penetapan.
+              (6)   Dalam hal Diversi tidak berhasil dilaksanakan,
+                    perkara dilanjutkan ke tahap persidangan.
+
+                                Pasal 53
+              (1)   Anak disidangkan dalam ruang sidang khusus Anak.
+              (2)   Ruang tunggu sidang Anak dipisahkan dari ruang
+                    tunggu sidang orang dewasa.
+              (3)   Waktu sidang Anak didahulukan dari waktu sidang
+                    orang dewasa.
+
+
+
+
+                                                          www.djpp.depkumham.go.id
+
+<!-- PAGE: 21 -->
+
+                      21                    2012,No.153
+
+
+
+                  Pasal 54
+Hakim memeriksa perkara Anak dalam sidang yang
+dinyatakan tertutup untuk umum, kecuali pembacaan
+putusan.
+
+                  Pasal 55
+(1)   Dalam sidang Anak, Hakim wajib memerintahkan
+      orang tua/Wali atau pendamping, Advokat atau
+      pemberi bantuan hukum lainnya, dan Pembimbing
+      Kemasyarakatan untuk mendampingi Anak.
+(2)   Dalam hal orang tua/Wali dan/atau pendamping
+      tidak hadir, sidang tetap dilanjutkan dengan
+      didampingi Advokat atau pemberi bantuan hukum
+      lainnya dan/atau Pembimbing Kemasyarakatan.
+(3)   Dalam hal Hakim tidak melaksanakan ketentuan
+      sebagaimana dimaksud pada ayat (2), sidang Anak
+      batal demi hukum.
+
+                  Pasal 56
+Setelah Hakim membuka persidangan dan menyatakan
+sidang tertutup untuk umum, Anak dipanggil masuk
+beserta orang tua/Wali, Advokat atau pemberi bantuan
+hukum lainnya, dan Pembimbing Kemasyarakatan.
+
+
+                  Pasal 57
+(1)   Setelah  surat    dakwaan    dibacakan,    Hakim
+      memerintahkan     Pembimbing      Kemasyarakatan
+      membacakan       laporan      hasil     penelitian
+      kemasyarakatan mengenai Anak yang bersangkutan
+      tanpa kehadiran Anak, kecuali Hakim berpendapat
+      lain.
+(2)   Laporan sebagaimana dimaksud pada ayat (1) berisi:
+      a. data pribadi Anak, keluarga, pendidikan, dan
+         kehidupan sosial;
+      b. latar belakang dilakukannya tindak pidana;
+      c. keadaan korban dalam hal ada korban dalam
+         tindak pidana terhadap tubuh atau nyawa;
+      d. hal lain yang dianggap perlu;
+      e. berita acara Diversi; dan
+      f.   kesimpulan dan rekomendasi dari Pembimbing
+           Kemasyarakatan.
+
+
+
+
+                                           www.djpp.depkumham.go.id
+
+<!-- PAGE: 22 -->
+
+2012,No.153                      22
+
+
+
+                               Pasal 58
+              (1)   Pada saat memeriksa Anak Korban dan/atau Anak
+                    Saksi, Hakim dapat memerintahkan agar Anak
+                    dibawa keluar ruang sidang.
+              (2)   Pada saat pemeriksaan Anak Korban dan/atau Anak
+                    Saksi sebagaimana dimaksud pada ayat (1), orang
+                    tua/Wali, Advokat atau pemberi bantuan hukum
+                    lainnya, dan Pembimbing Kemasyarakatan tetap
+                    hadir.
+              (3)   Dalam hal Anak Korban dan/atau Anak Saksi tidak
+                    dapat hadir untuk memberikan keterangan di depan
+                    sidang pengadilan, Hakim dapat memerintahkan
+                    Anak Korban dan/atau Anak Saksi didengar
+                    keterangannya:
+                    a. di luar sidang pengadilan melalui perekaman
+                       elektronik yang dilakukan oleh Pembimbing
+                       Kemasyarakatan di daerah hukum setempat
+                       dengan dihadiri oleh Penyidik atau Penuntut
+                       Umum dan Advokat atau pemberi bantuan hukum
+                       lainnya; atau
+                    b. melalui pemeriksaan langsung jarak jauh dengan
+                       alat komunikasi audiovisual dengan didampingi
+                       oleh       orang     tua/Wali,      Pembimbing
+                       Kemasyarakatan atau pendamping lainnya.
+
+                               Pasal 59
+              Sidang Anak dilanjutkan setelah Anak diberitahukan
+              mengenai keterangan yang telah diberikan oleh Anak
+              Korban dan/atau Anak Saksi pada saat Anak berada di
+              luar ruang sidang pengadilan.
+
+                               Pasal 60
+              (1)   Sebelum menjatuhkan putusan, Hakim memberikan
+                    kesempatan kepada orang tua/Wali dan/atau
+                    pendamping    untuk   mengemukakan     hal  yang
+                    bermanfaat bagi Anak.
+              (2)   Dalam hal tertentu Anak Korban diberi kesempatan
+                    oleh Hakim untuk menyampaikan pendapat tentang
+                    perkara yang bersangkutan.
+              (3)   Hakim wajib mempertimbangkan laporan penelitian
+                    kemasyarakatan dari Pembimbing Kemasyarakatan
+                    sebelum menjatuhkan putusan perkara.
+              (4)   Dalam hal laporan penelitian kemasyarakatan
+                    sebagaimana dimaksud pada ayat (3) tidak
+                    dipertimbangkan dalam putusan Hakim, putusan
+                    batal demi hukum.
+
+
+
+
+                                                       www.djpp.depkumham.go.id
+
+<!-- PAGE: 23 -->
+
+                     23                     2012,No.153
+
+
+
+                  Pasal 61
+(1)   Pembacaan putusan pengadilan dilakukan dalam
+      sidang yang terbuka untuk umum dan dapat tidak
+      dihadiri oleh Anak.
+(2)   Identitas Anak, Anak Korban, dan/atau Anak Saksi
+      tetap harus dirahasiakan oleh media massa
+      sebagaimana dimaksud dalam Pasal 19 dengan hanya
+      menggunakan inisial tanpa gambar.
+
+
+                  Pasal 62
+(1)   Pengadilan wajib memberikan petikan putusan pada
+      hari putusan diucapkan kepada Anak atau Advokat
+      atau pemberi bantuan hukum lainnya, Pembimbing
+      Kemasyarakatan, dan Penuntut Umum.
+(2)   Pengadilan wajib memberikan salinan putusan paling
+      lama 5 (lima) hari sejak putusan diucapkan kepada
+      Anak atau Advokat atau pemberi bantuan hukum
+      lainnya, Pembimbing Kemasyarakatan, dan Penuntut
+      Umum.
+
+                BAB IV
+       PETUGAS KEMASYARAKATAN
+
+               Bagian Kesatu
+                  Umum
+
+                  Pasal 63
+Petugas kemasyarakatan terdiri atas:
+a. Pembimbing Kemasyarakatan;
+b. Pekerja Sosial Profesional; dan
+c. Tenaga Kesejahteraan Sosial.
+
+              Bagian Kedua
+        Pembimbing Kemasyarakatan
+
+                  Pasal 64
+(1)   Penelitian     kemasyarakatan,     pendampingan,
+      pembimbingan, dan pengawasan terhadap Anak
+      dilakukan oleh Pembimbing Kemasyarakatan.
+(2)   Syarat untuk dapat diangkat sebagai Pembimbing
+      Kemasyarakatan sebagai berikut:
+      a. berijazah paling rendah diploma tiga (D-3) bidang
+         ilmu sosial atau yang setara atau telah
+
+
+                                            www.djpp.depkumham.go.id
+
+<!-- PAGE: 24 -->
+
+2012,No.153                         24
+
+
+
+                         berpengalaman      bekerja   sebagai    pembantu
+                         Pembimbing Kemasyarakatan bagi lulusan:
+                         1) sekolah menengah kejuruan bidang pekerjaan
+                             sosial berpengalaman paling singkat 1 (satu)
+                             tahun; atau
+                         2) sekolah menengah atas dan berpengalaman di
+                             bidang pekerjaan sosial paling singkat 3 (tiga)
+                             tahun.
+                    b.   sehat jasmani dan rohani;
+                    c.   pangkat/golongan ruang paling rendah Pengatur
+                         Muda Tingkat I/ II/b;
+                    d.   mempunyai minat, perhatian, dan dedikasi di
+                         bidang      pelayanan      dan      pembimbingan
+                         pemasyarakatan serta pelindungan anak; dan
+                    e.   telah mengikuti pelatihan teknis Pembimbing
+                         Kemasyarakatan dan memiliki sertifikat.
+              (3)   Dalam     hal   belum    terdapat    Pembimbing
+                    Kemasyarakatan   yang    memenuhi    persyaratan
+                    sebagaimana dimaksud pada ayat (2), tugas dan
+                    fungsi Pembimbing Kemasyarakatan dilaksanakan
+                    oleh petugas LPKA atau LPAS atau belum
+                    terbentuknya LPKA atau LPAS dilaksanakan oleh
+                    petugas    rumah     tahanan     dan    lembaga
+                    pemasyarakatan.
+
+                                  Pasal 65
+              Pembimbing Kemasyarakatan bertugas:
+              a. membuat laporan penelitian kemasyarakatan untuk
+                 kepentingan     Diversi,  melakukan    pendampingan,
+                 pembimbingan, dan pengawasan terhadap Anak
+                 selama proses Diversi dan pelaksanaan kesepakatan,
+                 termasuk melaporkannya kepada pengadilan apabila
+                 Diversi tidak dilaksanakan;
+              b. membuat laporan penelitian kemasyarakatan untuk
+                 kepentingan          penyidikan,   penuntutan,     dan
+                 persidangan dalam perkara Anak, baik di dalam
+                 maupun di luar sidang, termasuk di dalam LPAS dan
+                 LPKA;
+              c. menentukan program perawatan Anak di LPAS dan
+                 pembinaan Anak di LPKA bersama dengan petugas
+                 pemasyarakatan lainnya;
+              d. melakukan      pendampingan,     pembimbingan,     dan
+                 pengawasan terhadap Anak yang berdasarkan putusan
+                 pengadilan dijatuhi pidana atau dikenai tindakan; dan
+
+
+
+                                                             www.djpp.depkumham.go.id
+
+<!-- PAGE: 25 -->
+
+                            25                      2012,No.153
+
+
+
+       e. melakukan     pendampingan,     pembimbingan, dan
+          pengawasan     terhadap    Anak   yang  memperoleh
+          asimilasi, pembebasan bersyarat, cuti menjelang
+          bebas, dan cuti bersyarat.
+
+                       Bagian Ketiga
+Pekerja Sosial Profesional dan Tenaga Kesejahteraan Sosial
+
+                         Pasal 66
+       Syarat untuk dapat diangkat sebagai Pekerja Sosial
+       Profesional sebagai berikut:
+       a. berijazah paling rendah strata satu (S-1) atau diploma
+            empat (D-4) di bidang pekerjaan sosial atau
+            kesejahteraan sosial;
+       b. berpengalaman kerja paling singkat 2 (dua) tahun di
+            bidang praktik pekerjaan sosial dan penyelenggaraan
+            kesejahteraan sosial;
+       c.   mempunyai keahlian atau keterampilan khusus
+            dalam bidang pekerjaan sosial dan minat untuk
+            membina, membimbing, dan membantu Anak demi
+            kelangsungan hidup, perkembangan fisik, mental,
+            sosial, dan pelindungan terhadap Anak; dan
+       d. lulus uji kompetensi sertifikasi Pekerja Sosial
+            Profesional oleh organisasi profesi di bidang
+            kesejahteraan sosial.
+
+
+                         Pasal 67
+       Syarat   untuk      dapat   diangkat    sebagai   Tenaga
+       Kesejahteraan Sosial sebagai berikut:
+       a. berijazah paling rendah sekolah menengah atas
+           pekerjaan sosial atau kesejahteraan sosial atau
+           sarjana nonpekerja sosial atau kesejahteraan sosial;
+       b. mendapatkan pelatihan bidang pekerjaan sosial;
+       c.  berpengalaman kerja paling singkat 3 (tiga) tahun di
+           bidang praktik pekerjaan sosial dan penyelenggaraan
+           kesejahteraan sosial; dan
+       d. mempunyai keahlian atau keterampilan khusus
+           dalam bidang pekerjaan sosial dan minat untuk
+           membina, membimbing, dan membantu Anak demi
+           kelangsungan hidup, perkembangan fisik, mental,
+           sosial, dan pelindungan terhadap Anak.
+
+
+                           Pasal 68
+       (1)   Pekerja Sosial Profesional dan Tenaga Kesejahteraan
+             Sosial bertugas:
+
+
+                                                   www.djpp.depkumham.go.id
+
+<!-- PAGE: 26 -->
+
+2012,No.153                        26
+
+
+
+                    a. membimbing,      membantu,      melindungi,   dan
+                       mendampingi Anak dengan melakukan konsultasi
+                       sosial dan mengembalikan kepercayaan diri Anak;
+                    b. memberikan pendampingan dan advokasi sosial;
+                    c. menjadi sahabat Anak dengan mendengarkan
+                       pendapat Anak dan menciptakan suasana
+                       kondusif;
+                    d. membantu proses pemulihan dan perubahan
+                       perilaku Anak;
+                    e. membuat dan menyampaikan laporan kepada
+                       Pembimbing Kemasyarakatan mengenaie. membuat hasil
+                                                                     ...
+                       bimbingan, bantuan, dan pembinaan terhadap
+                       Anak yang berdasarkan putusan pengadilan
+                       dijatuhi pidana atau tindakan;
+                    f. memberikan      pertimbangan      kepada    aparat
+                       penegak hukum untuk penanganan rehabilitasi
+                       sosial Anak;
+                    g. mendampingi penyerahan Anak kepada orang tua,
+                       lembaga pemerintah, atau lembaga masyarakat;
+                       dan
+                    h. melakukan pendekatan kepada masyarakat agar
+                       bersedia menerima kembali Anak di lingkungan
+                       sosialnya.
+              (2)   Dalam melaksanakan tugas sebagaimana dimaksud
+                    pada ayat (1), Pekerja Sosial Profesional dan Tenaga
+                    Kesejahteraan Sosial mengadakan koordinasi dengan
+                    Pembimbing Kemasyarakatan.
+
+                               BAB V
+                        PIDANA DAN TINDAKAN
+
+                             Bagian Kesatu
+                                Umum
+
+                                Pasal 69
+              (1)   Anak hanya dapat dijatuhi pidana atau dikenai
+                    tindakan berdasarkan ketentuan dalam Undang-
+                    Undang ini.
+              (2)   Anak yang belum berusia 14 (empat belas) tahun
+                    hanya dapat dikenai tindakan.
+
+                                Pasal 70
+              Ringannya perbuatan, keadaan pribadi Anak, atau
+              keadaan pada waktu dilakukan perbuatan atau yang
+              terjadi kemudian dapat dijadikan dasar pertimbangan
+              hakim untuk tidak menjatuhkan pidana atau mengenakan
+              tindakan dengan mempertimbangkan segi keadilan dan
+              kemanusiaan.
+
+
+                                                          www.djpp.depkumham.go.id
+
+<!-- PAGE: 27 -->
+
+                      27                       2012,No.153
+
+
+
+                Bagian Kedua
+                   Pidana
+
+                   Pasal 71
+(1)   Pidana pokok bagi Anak terdiri atas:
+      a. pidana peringatan;
+      b. pidana dengan syarat:
+          1) pembinaan di luar lembaga;
+          2) pelayanan masyarakat; atau
+          3) pengawasan.
+      c. pelatihan kerja;
+      d. pembinaan dalam lembaga; dan
+      e. penjara.
+(2)   Pidana tambahan terdiri atas:
+      a. perampasan keuntungan yang diperoleh dari
+          tindak pidana; atau
+      b. pemenuhan kewajiban adat.
+(3)   Apabila dalam hukum materiil diancam pidana
+      kumulatif berupa penjara dan denda, pidana denda
+      diganti dengan pelatihan kerja.
+(4)   Pidana yang dijatuhkan kepada Anak dilarang
+      melanggar harkat dan martabat Anak.
+(5)   Ketentuan lebih lanjut mengenai bentuk dan tata cara
+      pelaksanaan pidana sebagaimana dimaksud pada
+      ayat (1), ayat (2), dan ayat (3) diatur dengan Peraturan
+      Pemerintah.
+
+                   Pasal 72
+Pidana peringatan merupakan pidana ringan yang tidak
+mengakibatkan pembatasan kebebasan anak.
+
+                   Pasal 73
+(1)   Pidana dengan syarat dapat dijatuhkan oleh Hakim
+      dalam hal pidana penjara yang dijatuhkan paling
+      lama 2 (dua) tahun.
+(2)   Dalam putusan pengadilan mengenai pidana dengan
+      syarat sebagaimana dimaksud pada ayat (1)
+      ditentukan syarat umum dan syarat khusus.
+(3)   Syarat umum sebagaimana dimaksud pada ayat (2)
+      adalah Anak tidak akan melakukan tindak pidana lagi
+      selama menjalani masa pidana dengan syarat.
+(4)   Syarat khusus sebagaimana dimaksud pada ayat (2)
+      adalah untuk melakukan atau tidak melakukan hal
+      tertentu yang ditetapkan dalam putusan hakim
+      dengan tetap memperhatikan kebebasan Anak.
+
+
+
+
+                                               www.djpp.depkumham.go.id
+
+<!-- PAGE: 28 -->
+
+2012,No.153                        28
+
+
+
+              (5)   Masa pidana dengan syarat khusus lebih lama
+                    daripada masa pidana dengan syarat umum.
+              (6)   Jangka     waktu masa  pidana    dengan    syarat
+                    sebagaimana dimaksud pada ayat (1) paling lama 3
+                    (tiga) tahun.
+              (7)   Selama menjalani masa pidana dengan syarat,
+                    Penuntut Umum melakukan pengawasan dan
+                    Pembimbing         Kemasyarakatan melakukan
+                    pembimbingan agar Anak menempati persyaratan
+                    yang telah ditetapkan.
+              (8)   Selama Anak menjalani pidana dengan syarat
+                    sebagaimana dimaksud pada ayat (7), Anak harus
+                    mengikuti wajib belajar 9 (sembilan) tahun.
+
+
+                                Pasal 74
+              Dalam hal Hakim memutuskan bahwa Anak dibina di luar
+              lembaga sebagaimana dimaksud dalam Pasal 71 ayat (1)
+              huruf b angka 1, lembaga tempat pendidikan dan
+              pembinaan ditentukan dalam putusannya.
+
+
+                                Pasal 75
+              (1)   Pidana pembinaan di luar lembaga dapat berupa
+                    keharusan:
+                    a. mengikuti      program     pembimbingan          dan
+                       penyuluhan yang dilakukan oleh               pejabat
+                       pembina;
+                    b. mengikuti terapi di rumah sakit jiwa; atau
+                    c. mengikuti terapi akibat penyalahgunaan alkohol,
+                       narkotika, psikotropika, dan zat adiktif lainnya.
+              (2)   Jika selama pembinaan anak melanggar syarat
+                    khusus sebagaimana dimaksud dalam Pasal 73 ayat
+                    (4), pejabat pembina dapat mengusulkan kepada
+                    hakim pengawas untuk memperpanjang masa
+                    pembinaan     yang  lamanya   tidak   melampaui
+                    maksimum 2 (dua) kali masa pembinaan yang belum
+                    dilaksanakan.
+
+                                Pasal 76
+              (1)   Pidana pelayanan masyarakat merupakan pidana
+                    yang dimaksudkan untuk mendidik Anak dengan
+                    meningkatkan    kepeduliannya pada   kegiatan
+                    kemasyarakatan yang positif.
+
+
+
+
+                                                            www.djpp.depkumham.go.id
+
+<!-- PAGE: 29 -->
+
+                     29                     2012,No.153
+
+
+
+(2)   Jika Anak tidak memenuhi seluruh atau sebagian
+      kewajiban dalam menjalankan pidana pelayanan
+      masyarakat tanpa alasan yang sah, pejabat pembina
+      dapat mengusulkan kepada hakim pengawas untuk
+      memerintahkan Anak tersebut mengulangi seluruh
+      atau sebagian pidana pelayanan masyarakat yang
+      dikenakan terhadapnya.
+(3)   Pidana pelayanan masyarakat untuk Anak dijatuhkan
+      paling singkat 7 (tujuh) jam dan paling lama 120
+      (seratus dua puluh) jam.
+
+                  Pasal 77
+(1)   Pidana pengawasan yang dapat dijatuhkan kepada
+      Anak sebagaimana dimaksud dalam Pasal 71 ayat (1)
+      huruf b angka 3 paling singkat 3 (tiga) bulan dan
+      paling lama 2 (dua) tahun.
+(2)   Dalam hal Anak dijatuhi pidana pengawasan
+      sebagaimana dimaksud pada ayat (1), Anak
+      ditempatkan di bawah pengawasan Penuntut Umum
+      dan dibimbing oleh Pembimbing Kemasyarakatan.
+
+                  Pasal 78
+(1)   Pidana pelatihan kerja sebagaimana dimaksud dalam
+      Pasal 71 ayat (1) huruf c dilaksanakan di lembaga
+      yang melaksanakan pelatihan kerja yang sesuai
+      dengan usia Anak.
+(2)   Pidana pelatihan kerja sebagaimana dimaksud pada
+      ayat (1) dikenakan paling singkat 3 (tiga) bulan dan
+      paling lama 1 (satu) tahun.
+
+                  Pasal 79
+(1)   Pidana pembatasan kebebasan diberlakukan dalam
+      hal Anak melakukan tindak pidana berat atau tindak
+      pidana yang disertai dengan kekerasan.
+(2)   Pidana pembatasan kebebasan yang dijatuhkan
+      terhadap Anak paling lama 1/2 (satu perdua) dari
+      maksimum pidana penjara yang diancamkan
+      terhadap orang dewasa.
+(3)   Minimum khusus pidana penjara tidak berlaku
+      terhadap Anak.
+(4)   Ketentuan mengenai pidana penjara dalam KUHP
+      berlaku juga terhadap Anak sepanjang tidak
+      bertentangan dengan Undang-Undang ini.
+
+
+
+                                            www.djpp.depkumham.go.id
+
+<!-- PAGE: 30 -->
+
+2012,No.153                          30
+
+
+
+                                  Pasal 80
+              (1)   Pidana pembinaan di dalam lembaga dilakukan di
+                    tempat pelatihan kerja atau lembaga pembinaan yang
+                    diselenggarakan, baik oleh pemerintah maupun
+                    swasta.
+              (2)   Pidana pembinaan di dalam lembaga dijatuhkan
+                    apabila keadaan dan perbuatan Anak tidak
+                    membahayakan masyarakat.
+              (3)   Pembinaan dalam lembaga dilaksanakan paling
+                    singkat 3 (tiga) bulan dan paling lama 24 (dua puluh
+                    empat) bulan.
+              (4)   Anak yang telah menjalani 1/2 (satu perdua) dari
+                    lamanya pembinaan di dalam lembaga dan tidak
+                    kurang dari 3 (tiga) bulan berkelakuan baik berhak
+                    mendapatkan pembebasan bersyarat.
+
+                                  Pasal 81
+              (1)   Anak dijatuhi pidana penjara di LPKA apabila
+                    keadaan dan perbuatan Anak akan membahayakan
+                    masyarakat.
+              (2)   Pidana penjara yang dapat dijatuhkan kepada Anak
+                    paling lama 1/2 (satu perdua) dari maksimum
+                    ancaman pidana penjara bagi orang dewasa.
+              (3)   Pembinaan di LPKA dilaksanakan            sampai   Anak
+                    berumur 18 (delapan belas) tahun.
+              (4)   Anak yang telah menjalani 1/2 (satu perdua) dari
+                    lamanya pembinaan di LPKA dan berkelakuan baik
+                    berhak mendapatkan pembebasan bersyarat.
+              (5)   Pidana penjara terhadap Anak hanya digunakan
+                    sebagai upaya terakhir.
+              (6)   Jika tindak pidana yang dilakukan Anak merupakan
+                    tindak pidana yang diancam dengan pidana mati atau
+                    pidana penjara seumur hidup, pidana yang
+                    dijatuhkan adalah pidana penjara paling lama 10
+                    (sepuluh) tahun.
+
+                                Bagian Ketiga
+                                  Tindakan
+
+                                  Pasal 82
+              (1)   Tindakan     yang     dapat   dikenakan   kepada   Anak
+                    meliputi:
+                    a.   pengembalian kepada orang tua/Wali;
+                    b.   penyerahan kepada seseorang;
+
+
+
+                                                              www.djpp.depkumham.go.id
+
+<!-- PAGE: 31 -->
+
+                        31                     2012,No.153
+
+
+
+          c. perawatan di rumah sakit jiwa;
+          d. perawatan di LPKS;
+          e. kewajiban mengikuti pendidikan formal dan/atau
+              pelatihan yang diadakan oleh pemerintah atau
+              badan swasta;
+          f. pencabutan surat izin mengemudi; dan/atau
+          g. perbaikan akibat tindak pidana.
+    (2)   Tindakan sebagaimana dimaksud pada ayat (1) huruf
+          d, huruf e, dan huruf f dikenakan paling lama 1
+          (satu) tahun.
+    (3)   Tindakan sebagaimana dimaksud pada ayat (1) dapat
+          diajukan oleh Penuntut Umum dalam tuntutannya,
+          kecuali tindak pidana diancam dengan pidana
+          penjara paling singkat 7 (tujuh) tahun.
+    (4)   Ketentuan     lebih    lanjut    mengenai tindakan
+          sebagaimana dimaksud pada ayat (1) diatur dengan
+          Peraturan Pemerintah.
+
+                     Pasal 83
+    (1)   Tindakan penyerahan Anak kepada seseorang
+          dilakukan   untuk   kepentingan  Anak   yang
+          bersangkutan.
+    (2)   Tindakan perawatan terhadap Anak dimaksudkan
+          untuk membantu orang tua/Wali dalam mendidik
+          dan memberikan pembimbingan kepada Anak yang
+          bersangkutan.
+
+                   BAB VI
+     PELAYANAN, PERAWATAN, PENDIDIKAN,
+PEMBINAAN ANAK, DAN PEMBIMBINGAN KLIEN ANAK
+
+                     Pasal 84
+    (1)   Anak yang ditahan ditempatkan di LPAS.
+    (2)   Anak sebagaimana dimaksud pada ayat (1) berhak
+          memperoleh pelayanan, perawatan, pendidikan dan
+          pelatihan, pembimbingan dan pendampingan, serta
+          hak lain sesuai dengan ketentuan peraturan
+          perundang-undangan.
+    (3)   LPAS wajib menyelenggarakan pendidikan, pelatihan
+          keterampilan, dan pemenuhan hak lain sesuai
+          dengan ketentuan peraturan perundang-undangan.
+    (4)   Pembimbing Kemasyarakatan melakukan penelitian
+          kemasyarakatan untuk menentukan penyelenggaraan
+          program pendidikan sebagaimana dimaksud pada
+          ayat (3).
+
+
+
+
+                                              www.djpp.depkumham.go.id
+
+<!-- PAGE: 32 -->
+
+2012,No.153                       32
+
+
+
+              (5)   Bapas wajib melakukan pengawasan terhadap
+                    pelaksanaan program sebagaimana dimaksud pada
+                    ayat (4).
+
+                               Pasal 85
+              (1)   Anak yang dijatuhi pidana penjara ditempatkan di
+                    LPKA.
+              (2)   Anak sebagaimana dimaksud pada ayat (1) berhak
+                    memperoleh pembinaan, pembimbingan, pengawasan,
+                    pendampingan, pendidikan dan pelatihan, serta hak
+                    lain sesuai dengan ketentuan peraturan perundang-
+                    undangan.
+              (3)   LPKA wajib menyelenggarakan pendidikan, pelatihan
+                    keterampilan, pembinaan, dan pemenuhan hak lain
+                    sesuai dengan ketentuan peraturan perundang-
+                    undangan.
+              (4)   Pembimbing Kemasyarakatan melakukan penelitian
+                    kemasyarakatan untuk menentukan penyelenggaraan
+                    program pendidikan dan pembinaan sebagaimana
+                    dimaksud pada ayat (3).
+              (5)   Bapas wajib melakukan pengawasan terhadap
+                    pelaksanaan program sebagaimana dimaksud pada
+                    ayat (4).
+
+                               Pasal 86
+              (1)   Anak yang belum selesai menjalani pidana di LPKA
+                    dan telah mencapai umur 18 (delapan belas) tahun
+                    dipindahkan ke lembaga pemasyarakatan pemuda.
+              (2)   Dalam hal Anak telah mencapai umur 21 (dua puluh
+                    satu) tahun, tetapi belum selesai menjalani pidana,
+                    Anak dipindahkan ke lembaga pemasyarakatan
+                    dewasa dengan memperhatikan kesinambungan
+                    pembinaan Anak.
+              (3)   Dalam hal tidak terdapat lembaga pemasyarakatan
+                    pemuda, Kepala LPKA dapat memindahkan Anak
+                    sebagaimana dimaksud pada ayat (1) dan ayat (2) ke
+                    lembaga   pemasyarakatan    dewasa   berdasarkan
+                    rekomendasi dari Pembimbing Kemasyarakatan.
+
+                               Pasal 87
+              (1)   Anak yang berstatus Klien Anak menjadi tanggung
+                    jawab Bapas.
+
+
+
+
+                                                         www.djpp.depkumham.go.id
+
+<!-- PAGE: 33 -->
+
+                     33                      2012,No.153
+
+
+
+(2)   Klien Anak sebagaimana dimaksud pada ayat (1)
+      berhak mendapatkan pembimbingan, pengawasan
+      dan pendampingan, serta pemenuhan hak lain sesuai
+      dengan ketentuan peraturan perundang-undangan.
+(3)   Bapas wajib menyelenggarakan pembimbingan,
+      pengawasan dan pendampingan, serta pemenuhan
+      hak lain sesuai dengan ketentuan peraturan
+      perundang-undangan.
+(4)   Bapas wajib melakukan evaluasi pelaksanaan
+      pembimbingan, pengawasan dan pendampingan,
+      serta pemenuhan hak lain sebagaimana dimaksud
+      pada ayat (3).
+
+
+               Pasal 88
+Pelaksanaan tugas dan fungsi Bapas, LPAS, dan LPKA
+dilaksanakan sesuai dengan ketentuan peraturan
+perundang-undangan.
+
+               BAB VII
+      ANAK KORBAN DAN ANAK SAKSI
+
+                  Pasal 89
+Anak Korban dan/atau Anak Saksi berhak atas semua
+pelindungan dan hak yang diatur dalam ketentuan
+peraturan perundang-undangan.
+
+                  Pasal 90
+(1)   Selain hak yang telah diatur dalam ketentuan
+      peraturan     perundang-undangan   sebagaimana
+      dimaksud dalam Pasal 89, Anak Korban dan Anak
+      Saksi berhak atas:
+      a. upaya rehabilitasi medis dan rehabilitasi sosial,
+         baik di dalam lembaga maupun di luar lembaga;
+      b. jaminan keselamatan, baik fisik, mental, maupun
+         sosial; dan
+      c. kemudahan       dalam    mendapatkan     informasi
+         mengenai perkembangan perkara.
+(2)   Ketentuan lebih lanjut mengenai pelaksanaan hak
+      Anak Korban dan Anak Saksi sebagaimana dimaksud
+      pada ayat (1) diatur dengan Peraturan Presiden.
+
+                  Pasal 91
+(1)   Berdasarkan pertimbangan atau saran Pembimbing
+      Kemasyarakatan, Pekerja Sosial Profesional atau
+      Tenaga Kesejahteraan Sosial atau Penyidik dapat
+      merujuk Anak, Anak Korban, atau Anak Saksi ke
+
+
+                                            www.djpp.depkumham.go.id
+
+<!-- PAGE: 34 -->
+
+2012,No.153                       34
+
+
+
+                    instansi atau lembaga yang menangani pelindungan
+                    anak atau lembaga kesejahteraan sosial anak.
+              (2)   Dalam hal Anak Korban memerlukan tindakan
+                    pertolongan segera, Penyidik, tanpa laporan sosial
+                    dari Pekerja Sosial Profesional, dapat langsung
+                    merujuk Anak Korban ke rumah sakit atau lembaga
+                    yang menangani pelindungan anak sesuai dengan
+                    kondisi Anak Korban.
+              (3)   Berdasarkan hasil Penelitian Kemasyarakatan dari
+                    Pembimbing Kemasyarakatan dan laporan sosial dari
+                    Pekerja Sosial Profesional atau Tenaga Kesejahteraan
+                    Sosial, Anak, Anak Korban, dan/atau Anak Saksi
+                    berhak memperoleh rehabilitasi medis, rehabilitasi
+                    sosial, dan reintegrasi sosial dari lembaga atau
+                    instansi yang menangani pelindungan anak.
+              (4)   Anak Korban dan/atau Anak Saksi yang memerlukan
+                    pelindungan dapat memperoleh pelindungan dari
+                    lembaga yang menangani pelindungan saksi dan
+                    korban atau rumah perlindungan sosial sesuai
+                    dengan ketentuan peraturan perundang-undangan.
+
+                              BAB VIII
+                     PENDIDIKAN DAN PELATIHAN
+
+                                Pasal 92
+              (1)   Pemerintah wajib menyelenggarakan pendidikan dan
+                    pelatihan bagi penegak hukum dan pihak terkait
+                    secara terpadu.
+              (2)   Pendidikan dan pelatihan sebagaimana dimaksud
+                    pada ayat (1) dilakukan paling singkat 120 (seratus
+                    dua puluh) jam.
+              (3)   Pelaksanaan pendidikan dan pelatihan sebagaimana
+                    dimaksud pada ayat (1) dikoordinasikan oleh
+                    kementerian      yang    menyelenggarakan     urusan
+                    pemerintahan di bidang hukum.
+              (4)   Ketentuan lebih lanjut mengenai penyelenggaraan
+                    pendidikan dan pelatihan sebagaimana dimaksud
+                    pada ayat (3) diatur dengan Peraturan Presiden.
+
+                              BAB IX
+                      PERAN SERTA MASYARAKAT
+
+                                Pasal 93
+              Masyarakat dapat berperan serta dalam pelindungan Anak
+              mulai dari pencegahan sampai dengan reintegrasi sosial
+              Anak dengan cara:
+
+
+
+
+                                                          www.djpp.depkumham.go.id
+
+<!-- PAGE: 35 -->
+
+                      35                     2012,No.153
+
+
+
+ a. menyampaikan laporan terjadinya pelanggaran hak
+    Anak kepada pihak yang berwenang;
+ b. mengajukan usulan mengenai perumusan               dan
+    kebijakan yang berkaitan dengan Anak;
+ c. melakukan penelitian dan pendidikan mengenai Anak;
+ d. berpartisipasi dalam penyelesaian perkara Anak
+    melalui Diversi dan pendekatan Keadilan Restoratif;
+ e. berkontribusi dalam rehabilitasi dan reintegrasi sosial
+    Anak, Anak Korban dan/atau Anak Saksi melalui
+    organisasi kemasyarakatan;
+ f.    melakukan pemantauan terhadap kinerja aparat
+       penegak hukum dalam penanganan perkara Anak;
+       atau
+ g. melakukan sosialisasi mengenai       hak Anak serta
+    peraturan  perundang-undangan         yang berkaitan
+    dengan Anak.
+
+
+               BAB X
+KOORDINASI, PEMANTAUAN, DAN EVALUASI
+
+                   Pasal 94
+ (1)   Kementerian yang menyelenggarakan urusan di
+       bidang perlindungan anak melakukan koordinasi
+       lintas sektoral dengan lembaga terkait.
+ (2)   Koordinasi sebagaimana dimaksud pada ayat (1)
+       dilakukan dalam rangka sinkronisasi perumusan
+       kebijakan      mengenai    langkah     pencegahan,
+       penyelesaian administrasi perkara, rehabilitasi, dan
+       reintegrasi sosial.
+ (3)   Pemantauan, evaluasi, dan pelaporan pelaksanaan
+       Sistem Peradilan Pidana Anak dilakukan oleh
+       kementerian dan komisi yang menyelenggarakan
+       urusan di bidang perlindungan anak sesuai dengan
+       ketentuan peraturan perundang-undangan.
+ (4)   Ketentuan    lebih   lanjut  mengenai   tata  cara
+       pelaksanaan koordinasi, pemantauan, evaluasi, dan
+       pelaporan diatur dalam Peraturan Pemerintah.
+
+
+
+
+                                             www.djpp.depkumham.go.id
+
+<!-- PAGE: 36 -->
+
+2012,No.153                       36
+
+
+
+                              BAB XI
+                       SANKSI ADMINISTRATIF
+
+
+                               Pasal 95
+              Pejabat atau petugas yang melanggar ketentuan
+              sebagaimana dimaksud dalam Pasal 7 ayat (1), Pasal 14
+              ayat (2), Pasal 17, Pasal 18, Pasal 21 ayat (3), Pasal 27
+              ayat (1) dan ayat (3), Pasal 29 ayat (1), Pasal 39, Pasal 42
+              ayat (1) dan ayat (4), Pasal 55 ayat (1), serta Pasal 62
+              dikenai sanksi administratif sesuai dengan ketentuan
+              peraturan perundang-undangan.
+
+                              BAB XII
+                         KETENTUAN PIDANA
+
+                               Pasal 96
+              Penyidik, Penuntut Umum, dan Hakim yang dengan
+              sengaja tidak melaksanakan kewajiban sebagaimana
+              dimaksud dalam Pasal 7 ayat (1) dipidana dengan pidana
+              penjara paling lama 2 (dua) tahun atau denda paling
+              banyak Rp200.000.000,00 (dua ratus juta rupiah).
+
+                               Pasal 97
+              Setiap orang yang melanggar kewajiban sebagaimana
+              dimaksud dalam Pasal 19 ayat (1) dipidana dengan pidana
+              penjara paling lama 5 (lima) tahun dan denda paling
+              banyak Rp500.000.000,00 (lima ratus juta rupiah).
+
+                               Pasal 98
+              Penyidik yang dengan sengaja tidak melaksanakan
+              kewajiban sebagaimana dimaksud dalam Pasal 33 ayat (3)
+              dipidana dengan pidana penjara paling lama 2 (dua)
+              tahun.
+
+                               Pasal 99
+              Penuntut Umum yang dengan sengaja tidak melaksanakan
+              kewajiban sebagaimana dimaksud dalam Pasal 34 ayat (3)
+              dipidana dengan pidana penjara paling lama 2 (dua)
+              tahun.
+
+                               Pasal 100
+              Hakim yang dengan sengaja tidak melaksanakan
+              kewajiban sebagaimana dimaksud dalam Pasal 35 ayat (3),
+
+
+                                                           www.djpp.depkumham.go.id
+
+<!-- PAGE: 37 -->
+
+                    37                    2012,No.153
+
+
+
+Pasal 37 ayat (3), dan Pasal 38 ayat (3) dipidana dengan
+pidana penjara paling lama 2 (dua) tahun.
+
+                Pasal 101
+Pejabat   pengadilan  yang   dengan    sengaja   tidak
+melaksanakan kewajiban sebagaimana dimaksud dalam
+Pasal 62 dipidana dengan pidana penjara paling lama 2
+(dua) tahun.
+
+               BAB XIII
+         KETENTUAN PERALIHAN
+
+                Pasal 102
+Pada saat Undang-Undang ini mulai berlaku, perkara
+anak yang:
+a. masih dalam proses penyidikan dan penuntutan atau
+   yang sudah dilimpahkan ke pengadilan negeri, tetapi
+   belum disidang harus dilaksanakan berdasarkan
+   hukum acara Undang-Undang ini; dan
+b. sedang dalam proses pemeriksaan di sidang pengadilan
+   dilaksanakan berdasarkan hukum acara yang diatur
+   dalam Undang-Undang tentang Pengadilan Anak.
+
+                Pasal 103
+(1)   Pada saat Undang-Undang ini mulai berlaku, anak
+      negara dan/atau anak sipil yang masih berada di
+      lembaga pemasyarakatan anak diserahkan kepada:
+      a. orang tua/Wali;
+      b. LPKS/keagamaan; atau
+      c. kementerian atau dinas yang menyelenggarakan
+         urusan pemerintahan di bidang sosial.
+(2)   Pelaksanaan ketentuan sebagaimana dimaksud pada
+      ayat    (1)  ditetapkan   oleh   menteri   yang
+      menyelenggarakan urusan pemerintahan di bidang
+      hukum.
+
+                Pasal 104
+Setiap lembaga pemasyarakatan anak harus melakukan
+perubahan sistem menjadi LPKA sesuai dengan Undang-
+Undang ini paling lama 3 (tiga) tahun.
+
+
+
+
+                                          www.djpp.depkumham.go.id
+
+<!-- PAGE: 38 -->
+
+2012,No.153                        38
+
+
+
+                              BAB XIV
+                         KETENTUAN PENUTUP
+
+                               Pasal 105
+              (1)   Dalam waktu paling lama 5 (lima) tahun setelah
+                    diberlakukannya Undang-Undang ini:
+                    a. setiap kantor kepolisian wajib memiliki Penyidik;
+                    b. setiap kejaksaan wajib memiliki Penuntut Umum;
+                    c. setiap pengadilan wajib memiliki Hakim;
+                    d. kementerian yang menyelenggarakan urusan
+                       pemerintahan di bidang hukumd.  wajib membangun
+                                                         kementerian  ...
+                       Bapas di kabupaten/kota;
+                    e. kementerian yang menyelenggarakan urusan
+                       pemerintahan di bidang hukum wajib membangun
+                       LPKA dan LPAS di provinsi; dan
+                    f. kementerian yang menyelenggarakan urusan
+                       pemerintahan di bidang sosial wajib membangun
+                       LPKS.
+              (2)   Ketentuan mengenai pembentukan kantor Bapas dan
+                    LPKS sebagaimana dimaksud pada ayat (1) huruf d
+                    dan huruf f dikecualikan dalam hal letak provinsi dan
+                    kabupaten/kota berdekatan.
+              (3)   Dalam hal kementerian yang menyelenggarakan
+                    urusan pemerintahan di bidang hukum tidak
+                    memiliki    lahan    untuk     membangun       kantor
+                    sebagaimana dimaksud pada ayat (1) huruf d dan
+                    huruf e, pemerintah daerah setempat menyiapkan
+                    lahan yang dibutuhkan.
+
+                               Pasal 106
+              Pada saat Undang-Undang ini mulai berlaku, Undang-
+              Undang Nomor 3 Tahun 1997 tentang Pengadilan Anak
+              (Lembaran Negara Republik Indonesia Tahun 1997 Nomor
+              3, Tambahan Lembaran Negara Republik Indonesia Nomor
+              3668), dicabut dan dinyatakan tidak berlaku.
+
+
+                               Pasal 107
+              Peraturan pelaksanaan Undang-Undang ini harus
+              ditetapkan paling lambat 1 (satu) tahun sejak Undang-
+              Undang ini diberlakukan.
+
+                               Pasal 108
+              Undang-Undang ini mulai berlaku setelah 2 (dua) tahun
+              terhitung sejak tanggal diundangkan.
+
+
+
+
+                                                          www.djpp.depkumham.go.id
+
+<!-- PAGE: 39 -->
+
+                                 39                       2012,No.153
+
+
+
+              Agar setiap orang mengetahuinya, memerintahkan
+              pengundangan    Undang-Undang    ini    dengan
+              penempatannya dalam Lembaran Negara Republik
+              Indonesia.
+
+
+
+                              Disahkan di Jakarta
+                              pada tanggal 30 Juli 2012
+                              PRESIDEN REPUBLIK INDONESIA,
+
+
+
+                              SUSILO BAMBANG YUDHOYONO
+
+
+
+Diundangkan di Jakarta
+pada tanggal 30 Juli 2012
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+
+
+
+AMIR SYAMSUDIN
+
+
+
+
+*belum dalam bentuk lembaran lepas
+
+
+
+
+                                                          www.djpp.depkumham.go.id

@@ -1,0 +1,23 @@
+id: uu-2004-006
+judul: Undang-Undang Nomor 6 Tahun 2004 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 2002
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3b1d5dd61e230b26ed3bfa25c3ace6f199dc49781c23007d649c50e898bfea8d
+  file_size_bytes: 164486
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-2004.pdf'

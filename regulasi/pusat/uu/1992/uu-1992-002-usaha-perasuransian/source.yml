@@ -1,0 +1,22 @@
+id: uu-1992-002
+judul: Undang-Undang Nomor 2 Tahun 1992 tentang USAHA PERASURANSIAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 13f491043f4456b35c088926c4a82e4e3fe7d38ecdc22f33c9744e97ad5dcdda
+  file_size_bytes: 97801
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+2+TH+1992.pdf'

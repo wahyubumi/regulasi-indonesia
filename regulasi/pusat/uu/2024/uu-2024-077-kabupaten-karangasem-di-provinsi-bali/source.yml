@@ -1,0 +1,23 @@
+id: uu-2024-077
+judul: Undang-Undang Nomor 77 Tahun 2024 tentang KABUPATEN KARANGASEM DI PROVINSI
+  BALI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a528d3307ae60d76f9bf4f604a50d0460b1edd0142bc8406b817fd17ca75e5c1
+  file_size_bytes: 607444
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-77-tahun-2024.pdf'

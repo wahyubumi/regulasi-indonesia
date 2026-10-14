@@ -1,0 +1,23 @@
+id: uu-1982-010
+judul: Undang-Undang Nomor 10 Tahun 1982 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  1976/1977
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 46672f06e87ba9cb4e80376f7dedcc5ef18292ddce95b47bb56e3deec58e9863
+  file_size_bytes: 17489
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1982.pdf'

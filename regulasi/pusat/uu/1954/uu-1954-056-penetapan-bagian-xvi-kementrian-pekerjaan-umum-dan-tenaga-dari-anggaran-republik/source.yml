@@ -1,0 +1,24 @@
+id: uu-1954-056
+judul: Undang-Undang Nomor 56 Tahun 1954 tentang PENETAPAN BAGIAN XVI (KEMENTRIAN
+  PEKERJAAN UMUM DAN TENAGA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS
+  1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dd4ad210718a8337d7597ec383db0b23d6c0de0294df4a8e0b4ff183c23fddc9
+  file_size_bytes: 96426
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu56-1954.pdf'

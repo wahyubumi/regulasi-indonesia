@@ -1,0 +1,25 @@
+id: uu-2014-008
+judul: Undang-Undang Nomor 8 Tahun 2014 tentang PENGESAHAN PERJANJIAN ANTARA REPUBLIK
+  INDONESIA DAN REPUBLIK KOREA TENTANG BANTUAN HUKUM TIMBAL BALIK DALAM MASALAH PIDANA
+  (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF KOREA ON MUTUAL LEGAL
+  ASSISTANCE IN CRIMINAL MATTERS)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f8d7e4bc0a2a3ae132c381063c8ba01a610cf1fec34b391130a44c8e3ca01514
+  file_size_bytes: 25672
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-2014bt.pdf'

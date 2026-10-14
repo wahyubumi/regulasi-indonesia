@@ -1,0 +1,23 @@
+id: uu-1963-010
+judul: Undang-Undang Nomor 10 Tahun 1963 tentang PENETAPAN BAGIAN ANGGARAN PERUSAHAAN
+  NEGARA I.B.W. DARI ANGGARAN NEGARA REPUBLIK INDONESIA UNTUK TAHUN 1963
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4a37afb9b4477bd5f107e18805af72b8106adb2bad9eddde7e9df714762d4feb
+  file_size_bytes: 23974
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0101963.pdf'

@@ -1,0 +1,22 @@
+id: uu-2008-019
+judul: Undang-Undang Nomor 19 Tahun 2008 tentang SURAT BERHARGA SYARIAH NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2f6a7d48f73f945c61e94e5b2787ce568859a5f03621235f2832ee8a5a16f9ba
+  file_size_bytes: 178140
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+19+Tahun+2008.pdf'

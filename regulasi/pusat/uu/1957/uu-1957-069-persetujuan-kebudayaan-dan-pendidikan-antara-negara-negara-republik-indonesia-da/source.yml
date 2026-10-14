@@ -1,0 +1,23 @@
+id: uu-1957-069
+judul: Undang-Undang Nomor 69 Tahun 1957 tentang PERSETUJUAN KEBUDAYAAN DAN PENDIDIKAN
+  ANTARA NEGARA-NEGARA REPUBLIK INDONESIA DAN REPUBLIK INDIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6cee7c3c06416865a1f3b4af6a66df837d24c24325ed84072161e4fa1d106d18
+  file_size_bytes: 29100
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu69-1957.pdf'

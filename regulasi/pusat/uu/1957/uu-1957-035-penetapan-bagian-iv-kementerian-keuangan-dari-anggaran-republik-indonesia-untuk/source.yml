@@ -1,0 +1,23 @@
+id: uu-1957-035
+judul: Undang-Undang Nomor 35 Tahun 1957 tentang PENETAPAN BAGIAN IV (KEMENTERIAN
+  KEUANGAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4c63a24babf1932b22b9ec111bc80a82eaf421df715825b521aa285bfad1e9be
+  file_size_bytes: 48414
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu35-1957.pdf'

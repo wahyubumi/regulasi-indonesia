@@ -1,0 +1,23 @@
+id: uu-1947-020
+judul: Undang-Undang Nomor 20 Tahun 1947 tentang PERATURAN PERADILAN ULANGAN DI JAWA
+  DAN MADURA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3f530fb6096421b176727d63a027c4f5acc503bb79fe1a0e86063a1742c84cfe
+  file_size_bytes: 69159
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-1947.pdf'

@@ -1,0 +1,23 @@
+id: uu-2024-102
+judul: Undang-Undang Nomor 102 Tahun 2024 tentang KABUPATEN BOGOR DI PROVINSI JAWA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c99e1b97d73e63fb59f2286d6f50c78c0abe9993d46c1ff320e9a1b5f2c433dc
+  file_size_bytes: 456344
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-102-tahun-2024.pdf'

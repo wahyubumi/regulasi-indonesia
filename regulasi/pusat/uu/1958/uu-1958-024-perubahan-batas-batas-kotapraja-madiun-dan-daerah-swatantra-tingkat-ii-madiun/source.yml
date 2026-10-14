@@ -1,0 +1,23 @@
+id: uu-1958-024
+judul: Undang-Undang Nomor 24 Tahun 1958 tentang PERUBAHAN BATAS-BATAS KOTAPRAJA MADIUN
+  DAN DAERAH SWATANTRA TINGKAT II MADIUN *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: aecb348c23d62731bebe0c9c8cb759b9f5df2a24dd56782cf799ec60858bdea3
+  file_size_bytes: 32891
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-1958.pdf'

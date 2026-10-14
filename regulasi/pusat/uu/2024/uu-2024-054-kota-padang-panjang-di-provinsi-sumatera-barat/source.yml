@@ -1,0 +1,23 @@
+id: uu-2024-054
+judul: Undang-Undang Nomor 54 Tahun 2024 tentang KOTA PADANG PANJANG DI PROVINSI SUMATERA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 66bd56990acc46c6916bd0fec8b67da95e0119eccfc6aabd6b3ad3a2b8650a7b
+  file_size_bytes: 827995
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-54-tahun-2024.pdf'

@@ -1,0 +1,23 @@
+id: uu-2004-015
+judul: Undang-Undang Nomor 15 Tahun 2004 tentang PEMERIKSAAN PENGELOLAAN DAN TANGGUNG
+  JAWAB KEUANGAN NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6d24de6687786dc2a1db39a53e7544c42f1ba5adff95e932ff078de0aae5a9db
+  file_size_bytes: 147654
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu15-2004.pdf'

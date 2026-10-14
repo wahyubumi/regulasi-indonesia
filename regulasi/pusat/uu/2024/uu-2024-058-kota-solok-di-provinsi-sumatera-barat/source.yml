@@ -1,0 +1,22 @@
+id: uu-2024-058
+judul: Undang-Undang Nomor 58 Tahun 2024 tentang KOTA SOLOK DI PROVINSI SUMATERA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 335ba5767431275cffb7d61adaeda9125054c6cc802b4337e99a64a096c61018
+  file_size_bytes: 684281
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-58-tahun-2024.pdf'

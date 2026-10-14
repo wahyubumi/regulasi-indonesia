@@ -1,0 +1,23 @@
+id: uu-2003-010
+judul: Undang-Undang Nomor 10 Tahun 2003 tentang PEMBENTUKAN KABUPATEN MINAHASA SELATAN
+  DAN KOTA TOMOHON DI PROVINSI SULAWESI UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f07ce2ad16fb8d5472cb31d2b69926b7a83b7c20925f971554b086c0c3b06a16
+  file_size_bytes: 63330
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0102003.pdf'

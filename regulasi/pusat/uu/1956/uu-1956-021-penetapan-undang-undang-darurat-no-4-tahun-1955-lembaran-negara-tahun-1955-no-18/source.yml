@@ -1,0 +1,25 @@
+id: uu-1956-021
+judul: Undang-Undang Nomor 21 Tahun 1956 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 4 TAHUN 1955 (LEMBARAN-NEGARA TAHUN 1955 NO. 18) TENTANG LARANGAN UNTUK MENGUMPULKAN
+  UANG LOGAM YANG SAH DAN LARANGAN MEMPERHITUNGKAN AGIO PADA WAKTU PENUKARAN ALAT-ALAT
+  PEMBAYARAN YANG SAH" SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c15524e41e17a458340fcf5dd9eedea374269b99e0d1c41dc5f5c8d9c1c9b174
+  file_size_bytes: 110838
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-1956.pdf'

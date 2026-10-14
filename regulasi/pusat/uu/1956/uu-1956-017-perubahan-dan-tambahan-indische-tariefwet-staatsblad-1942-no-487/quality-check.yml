@@ -1,0 +1,32 @@
+id: uu-1956-017
+status_konversi: needs_review
+pemeriksaan:
+  metadata:
+    lengkap: false
+    catatan: Perlu pengisian detail LN/TLN
+  struktur_markdown:
+    heading_konsisten: true
+    pasal_terdeteksi: true
+    ayat_terdeteksi: true
+    lampiran_terpisah: false
+    catatan: null
+  tabel:
+    ada_tabel: null
+    tabel_berhasil_dikonversi: null
+    catatan: null
+  gambar_bagan:
+    ada_gambar: null
+    ada_bagan: null
+    sudah_dibuat_mermaid: null
+    catatan: null
+  halaman:
+    page_marker: true
+    jumlah_halaman_pdf: 3
+    jumlah_page_marker: null
+    catatan: null
+  validasi_manual:
+    sudah_diperiksa: false
+    pemeriksa: null
+    tanggal: null
+    catatan: null
+risiko: []

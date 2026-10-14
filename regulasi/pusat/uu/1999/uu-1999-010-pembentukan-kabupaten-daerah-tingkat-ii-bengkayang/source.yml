@@ -1,0 +1,23 @@
+id: uu-1999-010
+judul: Undang-Undang Nomor 10 Tahun 1999 tentang PEMBENTUKAN KABUPATEN DAERAH TINGKAT
+  II BENGKAYANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7bae114841fb115c86fa2650955bbeff8cb73105942af852f1aec5d311c4a76a
+  file_size_bytes: 80376
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1999.pdf'

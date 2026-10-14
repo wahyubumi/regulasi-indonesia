@@ -1,0 +1,24 @@
+id: uu-1951-005
+judul: Undang-Undang Nomor 5 Tahun 1951 tentang MENETAPKAN UNDANG-UNDANG DARURAT NR.
+  26 TAHUN 1950 (LEMBARAN-NEGARA NR. 48 TAHUN 1950), MENGENAI PENGESAHAN DAN PENGAKUAN
+  HUTANG TERHADAP KERAJAAN BELANDA SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a5ebb4ee66782a1a4c2a5b7d838193af209d548c1d708dabb6ddedf51ba78645
+  file_size_bytes: 34998
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1951.pdf'

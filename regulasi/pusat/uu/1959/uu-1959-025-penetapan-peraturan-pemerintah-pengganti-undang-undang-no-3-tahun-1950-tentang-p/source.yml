@@ -1,0 +1,26 @@
+id: uu-1959-025
+judul: Undang-Undang Nomor 25 Tahun 1959 tentang PENETAPAN "PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 3 TAHUN 1950 TENTANG PEMBENTUKAN DAERAH TINGKAT I SUMATERA SELATAN"
+  DAN "UNDANG-UNDANG DARURAT NO. 16 TAHUN 1955 TENTANG PERUBAHAN PERATURAN PEMERINTAH
+  PENGGANTI UNDANG-UNDANG NO. 3 TAHUN 1950 (LEMBARAN-NEGARA TAHUN 1955 NO. 52), SEBAGAI
+  UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c8fb4464989b548583dcdc87fd8c6bced8e97a2c761c2b62295a665577213fd3
+  file_size_bytes: 54799
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0251959.pdf'

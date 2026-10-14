@@ -1,0 +1,23 @@
+id: uu-2024-145
+judul: Undang-Undang Nomor 145 Tahun 2024 tentang KABUPATEN ENREKANG DI PROVINSI SULAWESI
+  SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 43f10a4571c23d718f47e1282a61a79be8ea1600da8b3ccfbf2e818d78435abe
+  file_size_bytes: 298234
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-145-tahun-2024.pdf'

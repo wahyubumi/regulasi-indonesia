@@ -1,0 +1,25 @@
+id: uu-2018-010
+judul: Undang-Undang Nomor 10 Tahun 2018 tentang PENGESAHAN PERSETUJUAN KERJA SAMA
+  PERTAHANAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH KERAJAAN ARAB SAUDI
+  (DEFENSE COOPERATION AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA
+  AND THE GOVERNMENT OF THE KINGDOM OF SAUDI ARABIA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5561e3ab3ef21b1b2eee7b8d14391daff12bbcc5047b209673f3d91ac5c2c5f7
+  file_size_bytes: 185649
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-2018bt.pdf'

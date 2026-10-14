@@ -1,0 +1,23 @@
+id: uu-1958-027
+judul: Undang-Undang Nomor 27 Tahun 1958 tentang PENETAPAN BAGIAN III (KEMENTERIAN
+  DALAM NEGERI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 67b1583b746f8385b08aa3a7734bc3319124a66930a5e07c97872529a2be81c4
+  file_size_bytes: 20821
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-1958.pdf'

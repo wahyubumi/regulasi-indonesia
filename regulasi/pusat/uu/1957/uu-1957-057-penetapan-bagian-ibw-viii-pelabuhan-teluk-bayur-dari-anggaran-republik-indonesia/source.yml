@@ -1,0 +1,23 @@
+id: uu-1957-057
+judul: Undang-Undang Nomor 57 Tahun 1957 tentang PENETAPAN BAGIAN IBW VIII (PELABUHAN
+  TELUK BAYUR) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d3111a80dfbfdf049f95c1985c6c44c99d0bf048c699520786abfa929fd0bf25
+  file_size_bytes: 26165
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu57-1957.pdf'

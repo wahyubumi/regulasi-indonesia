@@ -1,0 +1,22 @@
+id: uu-2009-048
+judul: Undang-Undang Nomor 48 Tahun 2009 tentang KEKUASAAN KEHAKIMAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c85ac683e5046daafe9e23de6852c1f119ffdbb0434f93d5151823fd98525d71
+  file_size_bytes: 50076
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu48-2009.pdf'

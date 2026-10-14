@@ -1,0 +1,23 @@
+id: uu-2007-016
+judul: Undang-Undang Nomor 16 Tahun 2007 tentang PEMBENTUKAN KABUPATEN SUMBA BARAT
+  DAYA DI PROVINSI NUSA TENGGARA TIMUR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: eb88699409f0d92313b3febc79f8a0f899afeda49f6048df5e38ae6c56d695a2
+  file_size_bytes: 78148
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-2007.pdf'

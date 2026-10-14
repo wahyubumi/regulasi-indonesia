@@ -1,0 +1,23 @@
+id: uu-1994-007
+judul: Undang-Undang Nomor 7 Tahun 1994 tentang PENGESAHAN AGREEMENT ESTABLISHING
+  THE WORLD TRADE ORGANIZATION (PERSETUJUAN PEMBENTUKAN ORGANISASI PERDAGANGAN DUNIA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3369aa9a4b7093bdbb6ba448d89d77b05be865f082797bac7f9bf64e2a42441a
+  file_size_bytes: 155292
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0071994.pdf'

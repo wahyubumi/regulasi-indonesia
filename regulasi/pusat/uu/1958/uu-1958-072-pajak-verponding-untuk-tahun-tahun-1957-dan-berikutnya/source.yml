@@ -1,0 +1,23 @@
+id: uu-1958-072
+judul: Undang-Undang Nomor 72 Tahun 1958 tentang PAJAK VERPONDING UNTUK TAHUN-TAHUN
+  1957 DAN BERIKUTNYA *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d7a3d3b0ad76e6e5a41c4d71d72191cb626a430773c58055414961c0921493f7
+  file_size_bytes: 40158
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu72-1958.pdf'

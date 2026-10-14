@@ -1,0 +1,24 @@
+id: uu-2025-016
+judul: Undang-Undang Nomor 16 Tahun 2025 tentang PERUBAHAN KEEMPAT ATAS UNDANG-UNDANG
+  NOMOR 19 TAHUN 2OO3 TENTANG BADAN USAHA MILIK NEGARA DENGAN RAHMATTUHAN YANG MAHA
+  ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5eb1957b8b00ebc890061e864277e50cf0534a77e44ddff9faeaf876349cf02d
+  file_size_bytes: 4463331
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-16-tahun-2025.pdf'

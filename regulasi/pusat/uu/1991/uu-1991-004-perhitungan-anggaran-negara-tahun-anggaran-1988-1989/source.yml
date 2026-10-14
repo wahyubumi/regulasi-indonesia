@@ -1,0 +1,23 @@
+id: uu-1991-004
+judul: Undang-Undang Nomor 4 Tahun 1991 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 1988/1989
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6e88a83ca7e0deeb09df87d722431069e9da85fdab57b96853f348bb15716557
+  file_size_bytes: 26721
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+4+TH+1991.pdf'

@@ -1,0 +1,23 @@
+id: uu-2024-148
+judul: Undang-Undang Nomor 148 Tahun 2024 tentang KABUPATEN MAJENE DI PROVINSI SULAWESI
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 056ea71163c66b5eb106264677db21875e966e4d6e66bef0009d3368b35ff6b9
+  file_size_bytes: 308312
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-148-tahun-2024.pdf'

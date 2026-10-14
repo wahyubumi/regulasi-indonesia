@@ -1,0 +1,24 @@
+id: uu-1954-058
+judul: Undang-Undang Nomor 58 Tahun 1954 tentang PENETAPAN BAGIAN IBW II (PERUSAHAAN
+  GARAM DAN SODA NEGERI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS
+  1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d3d4c470d7a895f7eafd0ab515cd110e903efd056ff8fd6e9a5ce784a3f36d80
+  file_size_bytes: 69243
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu58-1954.pdf'

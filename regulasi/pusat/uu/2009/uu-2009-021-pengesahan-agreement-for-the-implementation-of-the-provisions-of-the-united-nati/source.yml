@@ -1,0 +1,28 @@
+id: uu-2009-021
+judul: Undang-Undang Nomor 21 Tahun 2009 tentang PENGESAHAN AGREEMENT FOR THE IMPLEMENTATION
+  OF THE PROVISIONS OF THE UNITED NATIONS CONVENTION ON THE LAW OF THE SEA OF 10 DECEMBER
+  1982 RELATING TO THE CONSERVATION AND MANAGEMENT OF STRADDLING FISH STOCKS AND HIGHLY
+  MIGRATORY FISH STOCKS (PERSETUJUAN PELAKSANAAN KETENTUAN-KETENTUAN KONVENSI PERSERIKATAN
+  BANGSA-BANGSA TENTANG HUKUM LAUT TANGGAL 10 DESEMBER 1982 YANG BERKAITAN DENGAN
+  KONSERVASI DAN PENGELOLAAN SEDIAAN IKAN YANG BERUAYA TERBATAS DAN SEDIAAN IKAN YANG
+  BERUAYA JAUH)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ef00e0ab15ef1247c5b50fa9ead4a8ce0cb8a175fe972d1fce33a18325ac8fe8
+  file_size_bytes: 368742
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+21+Tahun+2009.pdf'

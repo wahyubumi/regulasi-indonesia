@@ -1,0 +1,22 @@
+id: uu-1954-022
+judul: Undang-Undang Nomor 22 Tahun 1954 tentang UNDIAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 98bb97b4ae925d984fa10abe96eb9d5d95c838ac66889a6019e090c11c672162
+  file_size_bytes: 137150
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-1954.pdf'

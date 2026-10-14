@@ -1,0 +1,23 @@
+id: uu-2004-037
+judul: Undang-Undang Nomor 37 Tahun 2004 tentang KEPAILITAN DAN PENUNDAAN KEWAJIBAN
+  PEMBAYARAN UTANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c49dc0ab828758a11bf88f71d43580a7e600e16d47afd254c5c7d2149d74338b
+  file_size_bytes: 348368
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu37-2004.pdf'

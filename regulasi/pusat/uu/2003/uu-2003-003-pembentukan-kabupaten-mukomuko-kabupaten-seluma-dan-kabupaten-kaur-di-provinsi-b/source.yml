@@ -1,0 +1,23 @@
+id: uu-2003-003
+judul: Undang-Undang Nomor 3 Tahun 2003 tentang PEMBENTUKAN KABUPATEN MUKOMUKO, KABUPATEN
+  SELUMA, DAN KABUPATEN KAUR DI PROVINSI BENGKULU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e50c6bfaa0309e14c544e34e733c6f2ef1a0695c7bfb16d2022ce950f7240f0a
+  file_size_bytes: 67707
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0032003.pdf'

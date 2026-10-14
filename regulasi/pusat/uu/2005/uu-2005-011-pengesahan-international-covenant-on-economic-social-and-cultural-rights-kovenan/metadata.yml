@@ -1,0 +1,66 @@
+id: uu-2005-011
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '11'
+nomor_lengkap: '11'
+tahun: 2005
+judul: PENGESAHAN INTERNATIONAL COVENANT ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS (KOVENAN
+  INTERNASIONAL TENTANG HAK-HAK EKONOMI, SOSIAL DAN BUDAYA)
+judul_lengkap: Undang-Undang Nomor 11 Tahun 2005 tentang PENGESAHAN INTERNATIONAL
+  COVENANT ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS (KOVENAN INTERNASIONAL TENTANG
+  HAK-HAK EKONOMI, SOSIAL DAN BUDAYA)
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari c2b4d6bb742e__uu11-2005__undated__uu-2005-011__pengesahan-international-covenant-on-economic-social-and-cultural-rights-kovenan-internasional-tenta.md

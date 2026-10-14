@@ -1,0 +1,23 @@
+id: uu-2003-031
+judul: Undang-Undang Nomor 31 Tahun 2003 tentang PEMBENTUKAN KABUPATEN LINGGA DI PROVINSI
+  KEPULAUAN RIAU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f5a8ba9c2ed4a896b369aa5d3849300b6c12fd2def33ddd2e013d66bbc03b6ba
+  file_size_bytes: 58192
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0312003.pdf'

@@ -1,0 +1,24 @@
+id: uu-1954-003
+judul: Undang-Undang Nomor 3 Tahun 1954 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  1 TAHUN 1953 TENTANG MEMUNGUT OPSENTEN ATAS BEA-MASUK (LEMBARAN-NEGARA NO. 7 TAHUN
+  1953) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6b819712b2b8eb8656e9a02c920e987b94a80af4e68b28662e8ec6ee1b108399
+  file_size_bytes: 107199
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1954.pdf'

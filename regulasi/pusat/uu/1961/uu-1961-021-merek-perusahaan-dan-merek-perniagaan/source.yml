@@ -1,0 +1,22 @@
+id: uu-1961-021
+judul: Undang-Undang Nomor 21 Tahun 1961 tentang MEREK PERUSAHAAN DAN MEREK PERNIAGAAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ac3cc6c0f9ded1d9671c5dcd98f3a663edb64d64dc3310a4ba71f10a03237499
+  file_size_bytes: 73390
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-21-1961.pdf'

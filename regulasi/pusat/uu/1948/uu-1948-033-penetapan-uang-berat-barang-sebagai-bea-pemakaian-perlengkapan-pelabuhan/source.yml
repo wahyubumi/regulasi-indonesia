@@ -1,0 +1,23 @@
+id: uu-1948-033
+judul: Undang-Undang Nomor 33 Tahun 1948 tentang PENETAPAN UANG BERAT BARANG, SEBAGAI
+  BEA PEMAKAIAN PERLENGKAPAN PELABUHAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: abd7b67418c8ef956d3c4abf4e3710cc871918e86a9584c9996990a23fd72d42
+  file_size_bytes: 44470
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu33-1948.pdf'

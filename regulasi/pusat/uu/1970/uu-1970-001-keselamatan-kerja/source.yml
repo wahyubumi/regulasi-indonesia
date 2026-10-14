@@ -1,0 +1,22 @@
+id: uu-1970-001
+judul: Undang-Undang Nomor 1 Tahun 1970 tentang KESELAMATAN KERJA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c4e6f81f2d8317a3725545952c7264950dc47cf393f5f3a21c9d451f05e448af
+  file_size_bytes: 68325
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0011970.pdf'

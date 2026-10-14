@@ -1,0 +1,23 @@
+id: uu-1954-045
+judul: Undang-Undang Nomor 45 Tahun 1954 tentang PENETAPAN BAGIAN VI (KEMENTRIAN PERTAHANAN)
+  DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 24187a9b30eca2755c66e28547b1298dc0474e1ea1ec37cde56dbf14a456d885
+  file_size_bytes: 81060
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu45-1954.pdf'

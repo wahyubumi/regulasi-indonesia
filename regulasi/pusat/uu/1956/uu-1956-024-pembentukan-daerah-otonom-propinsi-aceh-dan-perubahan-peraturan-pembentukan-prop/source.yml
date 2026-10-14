@@ -1,0 +1,23 @@
+id: uu-1956-024
+judul: Undang-Undang Nomor 24 Tahun 1956 tentang PEMBENTUKAN DAERAH OTONOM PROPINSI
+  ACEH DAN PERUBAHAN PERATURAN PEMBENTUKAN PROPINSI SUMATERA UTARA *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a2ed73df505eeed45ebc5a57636bebbe840ee048c1641f075668112d89b672f0
+  file_size_bytes: 144671
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-1956.pdf'

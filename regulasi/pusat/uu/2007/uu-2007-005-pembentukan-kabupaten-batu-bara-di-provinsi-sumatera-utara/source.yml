@@ -1,0 +1,23 @@
+id: uu-2007-005
+judul: Undang-Undang Nomor 5 Tahun 2007 tentang PEMBENTUKAN KABUPATEN BATU BARA DI
+  PROVINSI SUMATERA UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 66db333ee0f1963116a662fe0c9edcdc51e06fb405934e5695e301a52ebf5cbc
+  file_size_bytes: 75077
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2007.pdf'

@@ -1,0 +1,24 @@
+id: uu-1961-003
+judul: Undang-Undang Nomor 3 Tahun 1961 tentang PERSETUJUAN KONPENSI ORGANISASI PERBURUHAN
+  INTERNASIONAL NO. 106 MENGENAI ISTIRAHAT MINGGUAN DALAM PERDAGANGAN DAN KANTOR-
+  KANTOR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: de8afbff4b5ca0856c59e40f9088deca89709edee7ab348e932de7e23f1184d7
+  file_size_bytes: 60725
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0031961.pdf'

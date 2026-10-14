@@ -1,0 +1,25 @@
+id: uu-1957-009
+judul: Undang-Undang Nomor 9 Tahun 1957 tentang UNDANG-UNDANG TENTANG PENETAPAN "UNDANG-UNDANG
+  DARURAT NOMOR 9 TAHUN 1957 TENTANG PERPANJANGAN JANGKA WAKTU MASA KERJA DEWAN PERWAKILAN
+  RAKYAT DAERAH PERALIHAN DAN DEWAN PEMERINTAH DAERAH PERALIHAN (LEMBARAN NEGARA TAHUN
+  1957 NOMOR 15)" SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7a30e23581167b3b0ffd85ea5eff849bbd4cd95435a504f38ba4efad9423909a
+  file_size_bytes: 15599
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1958.pdf'

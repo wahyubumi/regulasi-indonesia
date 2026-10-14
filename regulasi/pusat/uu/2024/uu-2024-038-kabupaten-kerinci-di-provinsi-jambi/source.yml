@@ -1,0 +1,22 @@
+id: uu-2024-038
+judul: Undang-Undang Nomor 38 Tahun 2024 tentang KABUPATEN KERINCI DI PROVINSI JAMBI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c440e71b5440ab36de523697f9bb44ba2a6e403af037492ef55761c613645ec7
+  file_size_bytes: 871065
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-38-tahun-2024.pdf'

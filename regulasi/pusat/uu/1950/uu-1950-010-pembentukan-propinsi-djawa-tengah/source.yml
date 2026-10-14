@@ -1,0 +1,22 @@
+id: uu-1950-010
+judul: Undang-Undang Nomor 10 Tahun 1950 tentang PEMBENTUKAN PROPINSI DJAWA TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a4fda35bb8ff229fea73bf6f24c8b1245a13b42a9ffeafa0406f0a94fdca453b
+  file_size_bytes: 16389
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1950.pdf'

@@ -1,0 +1,23 @@
+id: uu-1958-037
+judul: Undang-Undang Nomor 37 Tahun 1958 tentang PENETAPAN BAGIAN IX (KEMENTERIAN
+  PENERANGAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5f23d8843e39b82224d0f88872ca920c9a4578b26b0f6638aac068c677972703
+  file_size_bytes: 18410
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu37-1958.pdf'

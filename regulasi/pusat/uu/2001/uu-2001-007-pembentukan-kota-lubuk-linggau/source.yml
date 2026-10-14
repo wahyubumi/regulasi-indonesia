@@ -1,0 +1,22 @@
+id: uu-2001-007
+judul: Undang-Undang Nomor 7 Tahun 2001 tentang PEMBENTUKAN KOTA LUBUK LINGGAU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fd2716bd7e4ada36413de3d28a3ec145f75926491f7407fdc80611b973c9e30b
+  file_size_bytes: 95637
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-2001.pdf'

@@ -1,0 +1,23 @@
+id: uu-2008-025
+judul: Undang-Undang Nomor 25 Tahun 2008 tentang PEMBENTUKAN KOTA SUNGAI PENUH DI
+  PROVINSI JAMBI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f9e406e71c3bfe0518d48a386d66ba1f0b8c23efc3b834916c1f1502734a56df
+  file_size_bytes: 153972
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+25+2008.pdf'

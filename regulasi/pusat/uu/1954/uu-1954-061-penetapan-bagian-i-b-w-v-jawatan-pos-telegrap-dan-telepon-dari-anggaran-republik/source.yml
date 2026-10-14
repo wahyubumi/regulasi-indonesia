@@ -1,0 +1,24 @@
+id: uu-1954-061
+judul: Undang-Undang Nomor 61 Tahun 1954 tentang PENETAPAN BAGIAN I.B.W. V (JAWATAN
+  POS, TELEGRAP DAN TELEPON) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS
+  1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6c4cd0a74b03bdd22d96e731ae0f4bbf7c375fdaea402d4fe3f0e70ece74f81c
+  file_size_bytes: 69323
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu61-1954.pdf'

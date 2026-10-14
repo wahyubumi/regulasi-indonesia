@@ -1,0 +1,22 @@
+id: uu-2011-020
+judul: Undang-Undang Nomor 20 Tahun 2011 tentang RUMAH SUSUN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fbba94993f4a158d54e895587de2f0681a92f66b5e3f9f486c56f19e031733b3
+  file_size_bytes: 403103
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+20+Tahun+2011.pdf'

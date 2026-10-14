@@ -1,0 +1,23 @@
+id: uu-1969-012
+judul: Undang-Undang Nomor 12 Tahun 1969 tentang PEMBENTUKAN PROPINSI OTONOM IRIAN
+  BARAT DAN KABUPATEN-KABUPATEN OTONOM DI PROPINSI IRIAN BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2e5cb57c13adeca331b3413f8c92cc1175948223237844d5e586a07e783aff9e
+  file_size_bytes: 48536
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0121969.pdf'

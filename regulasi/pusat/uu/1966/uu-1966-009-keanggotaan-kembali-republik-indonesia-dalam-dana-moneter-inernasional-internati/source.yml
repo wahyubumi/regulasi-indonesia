@@ -1,0 +1,24 @@
+id: uu-1966-009
+judul: Undang-Undang Nomor 9 Tahun 1966 tentang KEANGGOTAAN KEMBALI REPUBLIK INDONESIA
+  DALAM DANA MONETER INERNASIONAL (INTERNATIONAL MONETARY FUND) DAN BANK INTERNASIONAL
+  UNTUK REKONSTRUKSI DAN PEMBANGUNAN (INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 388bfbcf9a5bd354001479f98e56c2e52ee49f4cef0ff8457a8825feb635f5d9
+  file_size_bytes: 29860
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0091966.pdf'

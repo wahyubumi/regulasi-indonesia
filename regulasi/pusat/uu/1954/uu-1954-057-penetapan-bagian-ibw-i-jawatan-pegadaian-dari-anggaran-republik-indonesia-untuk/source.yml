@@ -1,0 +1,23 @@
+id: uu-1954-057
+judul: Undang-Undang Nomor 57 Tahun 1954 tentang PENETAPAN BAGIAN IBW I (JAWATAN PEGADAIAN)
+  DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 554430aea7b3915e0012fd38d5ea8b125fd10651224f7008cb8e2b93c0818b2d
+  file_size_bytes: 68887
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu57-1954.pdf'

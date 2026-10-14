@@ -1,0 +1,23 @@
+id: uu-1956-020
+judul: Undang-Undang Nomor 20 Tahun 1956 tentang PENGUBAHAN ATURAN BEA METERAI 1921
+  ("ZEGELVERORDENING 1921") *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7b903d10ad86decbcb998efab1d27d7b45a11c94b1fa414116b1ded3ebc746dc
+  file_size_bytes: 91897
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-1956.pdf'

@@ -1,0 +1,24 @@
+id: uu-1971-012
+judul: Undang-Undang Nomor 12 Tahun 1971 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 1 TAHUN 1971 TENTANG PENCABUTAN UNDANG-UNDANG NO. 17 TAHUN 1964
+  TENTANG LARANGAN PENARIKAN CEK KOSONG MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d51b5437a9c056e8a38d3945b99ffa4af1d17f94d2ace1ead6b0baa32b91db91
+  file_size_bytes: 28683
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0121971.pdf'

@@ -1,0 +1,23 @@
+id: uu-1969-006
+judul: Undang-Undang Nomor 6 Tahun 1969 tentang PERNYATAAN TIDAK BERLAKUNYA BERBAGAI
+  UNDANG-UNDANG DAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ef85b8257101c114196c8d0f7a57260f8e36c04268af0f18f802d1b0380d864f
+  file_size_bytes: 31627
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0061969.pdf'

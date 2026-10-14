@@ -1,0 +1,22 @@
+id: uu-1966-002
+judul: Undang-Undang Nomor 2 Tahun 1966 tentang HYGIENE
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d41c380ddba4ff5e9bb5fb1a803d0bc2e5f0d2d7a1cbdd5ba72fd17b394cfb1b
+  file_size_bytes: 37659
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0021966.pdf'

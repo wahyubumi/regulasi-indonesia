@@ -1,0 +1,26 @@
+id: uu-1964-013
+judul: Undang-Undang Nomor 13 Tahun 1964 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 2 TAHUN 1964 TENTANG PEMBENTUKAN DAERAH TINGKAT I SULAWESI TENGAH
+  DAN DAERAH TINGKAT I SULAWESI TENGGARA DENGAN MENGUBAH UNDANG-UNDANG NO. 47 PRP
+  TAHUN 1960 TENTANG PEMBENTUKAN DAERAH TINGKAT I SULAWESI UTARA- TENGAH DAN DAERAH
+  TINGKAT I SULAWESI SELATAN-TENGGARA (LEMBARAN NEGARA TAHUN 1964 NO. 7) MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e640abf5d22841a95f3a21ccf62e56906b38ac7b6f08aad91a14e82234c47979
+  file_size_bytes: 92648
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0131964.pdf'

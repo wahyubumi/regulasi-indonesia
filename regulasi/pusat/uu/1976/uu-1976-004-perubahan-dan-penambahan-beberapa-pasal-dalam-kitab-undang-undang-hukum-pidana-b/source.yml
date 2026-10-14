@@ -1,0 +1,25 @@
+id: uu-1976-004
+judul: Undang-Undang Nomor 4 Tahun 1976 tentang PERUBAHAN DAN PENAMBAHAN BEBERAPA
+  PASAL DALAM KITAB UNDANG- UNDANG HUKUM PIDANA BERTALIAN DENGAN PERLUASAN BERLAKUNYA
+  KETENTUAN PERUNDANG-UNDANGAN PIDANA, KEJAHATAN PENERBANGAN, DAN KEJAHATAN TERHADAP
+  SARANA/PRASARANA PENERBANGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0161b588c4c3a54437ef92e300991f32c2e638a2ad0582550cd237c84a3d3609
+  file_size_bytes: 71521
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1976.pdf'

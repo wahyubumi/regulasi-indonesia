@@ -1,0 +1,22 @@
+id: uu-2009-038
+judul: Undang-Undang Nomor 38 Tahun 2009 tentang POS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e8150477fd348de48c5733db4217730ac5e06a0df7bc8de433b775a2a49c6392
+  file_size_bytes: 73333
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu38-2009.pdf'

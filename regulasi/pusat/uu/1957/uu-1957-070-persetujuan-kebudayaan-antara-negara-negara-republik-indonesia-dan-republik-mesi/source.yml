@@ -1,0 +1,23 @@
+id: uu-1957-070
+judul: Undang-Undang Nomor 70 Tahun 1957 tentang PERSETUJUAN KEBUDAYAAN ANTARA NEGARA-NEGARA
+  REPUBLIK INDONESIA DAN REPUBLIK MESIR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9883713ad836d8a273298201a82df395f79cd9d2682b8827dc62c585feaab952
+  file_size_bytes: 31219
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu70-1957.pdf'

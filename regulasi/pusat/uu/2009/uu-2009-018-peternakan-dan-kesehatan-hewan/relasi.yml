@@ -1,0 +1,51 @@
+id: "uu-2009-018"
+
+berdasarkan:
+  - id: "uud-1945"
+    judul: "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 Pasal 5 ayat (1), Pasal 20, dan Pasal 33"
+
+mengingat:
+  - id: "uud-1945"
+    judul: "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945"
+
+mencabut:
+  - id: "uu-1967-006"
+    judul: "Undang-Undang Nomor 6 Tahun 1967 tentang Ketentuan-Ketentuan Pokok Peternakan dan Kesehatan Hewan"
+
+dicabut_oleh: []
+
+mengubah: []
+
+diubah_oleh:
+  - id: "uu-2014-041"
+    judul: "Undang-Undang Nomor 41 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 18 Tahun 2009 tentang Peternakan dan Kesehatan Hewan"
+  - id: "uu-2023-006"
+    judul: "Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang"
+
+melaksanakan: []
+
+dilaksanakan_oleh:
+  - id: "pp-2011-048"
+    judul: "Peraturan Pemerintah Nomor 48 Tahun 2011 tentang Sumber Daya Genetik Hewan dan Perbibitan Ternak"
+  - id: "pp-2012-041"
+    judul: "Peraturan Pemerintah Nomor 41 Tahun 2012 tentang Alat dan Mesin Peternakan dan Kesehatan Hewan"
+  - id: "pp-2012-095"
+    judul: "Peraturan Pemerintah Nomor 95 Tahun 2012 tentang Kesehatan Masyarakat Veteriner dan Kesejahteraan Hewan"
+  - id: "pp-2013-006"
+    judul: "Peraturan Pemerintah Nomor 6 Tahun 2013 tentang Pemberdayaan Peternak"
+  - id: "pp-2014-047"
+    judul: "Peraturan Pemerintah Nomor 47 Tahun 2014 tentang Pengendalian dan Penanggulangan Penyakit Hewan"
+
+peraturan_pelaksana:
+  - id: "pp-2011-048"
+    judul: "Peraturan Pemerintah Nomor 48 Tahun 2011 tentang Sumber Daya Genetik Hewan dan Perbibitan Ternak"
+  - id: "pp-2012-041"
+    judul: "Peraturan Pemerintah Nomor 41 Tahun 2012 tentang Alat dan Mesin Peternakan dan Kesehatan Hewan"
+  - id: "pp-2012-095"
+    judul: "Peraturan Pemerintah Nomor 95 Tahun 2012 tentang Kesehatan Masyarakat Veteriner dan Kesejahteraan Hewan"
+  - id: "pp-2013-006"
+    judul: "Peraturan Pemerintah Nomor 6 Tahun 2013 tentang Pemberdayaan Peternak"
+  - id: "pp-2014-047"
+    judul: "Peraturan Pemerintah Nomor 47 Tahun 2014 tentang Pengendalian dan Penanggulangan Penyakit Hewan"
+
+terkait: []

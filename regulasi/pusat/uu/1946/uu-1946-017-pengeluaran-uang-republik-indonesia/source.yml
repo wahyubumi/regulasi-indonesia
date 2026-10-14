@@ -1,0 +1,22 @@
+id: uu-1946-017
+judul: Undang-Undang Nomor 17 Tahun 1946 tentang PENGELUARAN UANG REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 014b4365368636a85c2f36d73815362a7a1692423025f37ae2edf06e940743d6
+  file_size_bytes: 33410
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-1946.pdf'

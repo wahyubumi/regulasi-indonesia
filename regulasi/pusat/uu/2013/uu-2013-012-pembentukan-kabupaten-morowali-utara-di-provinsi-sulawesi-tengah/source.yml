@@ -1,0 +1,23 @@
+id: uu-2013-012
+judul: Undang-Undang Nomor 12 Tahun 2013 tentang PEMBENTUKAN KABUPATEN MOROWALI UTARA
+  DI PROVINSI SULAWESI TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 64148b1af2433e2cbc9f7e4a7208f3cadca931d2c7bb7311c4f7457a9a0dca73
+  file_size_bytes: 3366135
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2013bt.pdf'

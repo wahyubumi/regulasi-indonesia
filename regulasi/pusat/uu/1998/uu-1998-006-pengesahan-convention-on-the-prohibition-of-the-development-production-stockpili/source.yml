@@ -1,0 +1,25 @@
+id: uu-1998-006
+judul: Undang-Undang Nomor 6 Tahun 1998 tentang PENGESAHAN CONVENTION ON THE PROHIBITION
+  OF THE DEVELOPMENT, PRODUCTION, STOCKPILING AND USE OF CHEMICAL WEAPONS AND ON THEIR
+  DESTRUCTION (KONVENSI TENTANG PELARANGAN PENGEMBANGAN, PRODUKSI, PENIMBUNAN, DAN
+  PENGGUNAAN SENJATA KIMIA SERTA TENTANG PEMUSNAHANNYA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 012ccaf0efed0b88ff376ec7814f65f429dd8fb37b58dcb1ec17aacfe2f649b3
+  file_size_bytes: 58406
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1998.pdf'

@@ -1,0 +1,23 @@
+id: uu-1995-010
+judul: Undang-Undang Nomor 10 Tahun 1995 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  10 TAHUN 1995 TENTANG KEPABEANAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b9f3bcd2c8d5d527a1192bdcf63d02c05ec8d61a37bc23420d9bbc64e1875fea
+  file_size_bytes: 637101
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-2006.pdf'

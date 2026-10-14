@@ -1,0 +1,26 @@
+id: uu-1954-020
+judul: Undang-Undang Nomor 20 Tahun 1954 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  8 TAHUN 1953 (LEMBARAN- NEGARA NO. 54 TAHUN 1953) TENTANG MEMPERPANJANG WAKTU BERLAKUNYA
+  PERATURAN-PERATURAN MILITER TERMAKSUD DALAM PASAL 34 AYAT 5 STAATSBLAD 1939 NO.
+  582, SEBAGAIMANA TELAH DIUBAH DAN/ATAU DITAMBAH KEMUDIAN, SEPANJANG MENGENAI URUSAN
+  PERUMAHAN SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2c3dc8456ed1268ff86534e3e31b6cb9cb50948843653dec360c4cf414676cf8
+  file_size_bytes: 92142
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-1954.pdf'

@@ -1,0 +1,24 @@
+id: uu-1954-069
+judul: Undang-Undang Nomor 69 Tahun 1954 tentang PENETAPAN BAGIAN I.B.W. XIII (PERUSAHAAN
+  TAMBANG TIMAH DI DI BANGKA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS
+  1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a2fb6252131c4d08a73436030982124d556a33a0614c1ae1307be4493b09f358
+  file_size_bytes: 69311
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu69-1954.pdf'

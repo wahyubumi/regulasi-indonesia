@@ -1,0 +1,22 @@
+id: uu-1998-013
+judul: Undang-Undang Nomor 13 Tahun 1998 tentang KESEJAHTERAAN LANJUT USIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7771708f704894a09d6c7c8128146aa9e8409e8e5ed4582fab8f7d049921571b
+  file_size_bytes: 64029
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-1998.pdf'

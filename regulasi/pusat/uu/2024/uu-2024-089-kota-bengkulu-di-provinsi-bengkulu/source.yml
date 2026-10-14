@@ -1,0 +1,22 @@
+id: uu-2024-089
+judul: Undang-Undang Nomor 89 Tahun 2024 tentang KOTA BENGKULU DI PROVINSI BENGKULU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ec2ae3c7484f4d7cb6c56e9b908cea16fb5296ccdb8afff62bebaf0dc7db7949
+  file_size_bytes: 494684
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-89-tahun-2024.pdf'

@@ -1,0 +1,22 @@
+id: uu-1958-079
+judul: Undang-Undang Nomor 79 Tahun 1958 tentang PERKUMPULAN KOPERASI *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 75eb08a56a8fb5c50781283e1a0f39beb4f547ced3a373da7685f99a5bf6ec93
+  file_size_bytes: 101252
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu79-1958.pdf'

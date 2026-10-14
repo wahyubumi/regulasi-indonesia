@@ -1,0 +1,23 @@
+id: uu-1991-003
+judul: Undang-Undang Nomor 3 Tahun 1991 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1990/1991
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b90b150007d36f7850f81460760d104ee73eb5baa330dd71f184ffc13d1d98f3
+  file_size_bytes: 34039
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+3+TH+1991.pdf'

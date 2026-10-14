@@ -1,0 +1,24 @@
+id: uu-1962-010
+judul: Undang-Undang Nomor 10 Tahun 1962 tentang PENETAPAN ANGGARAN BAGIAN-BAGIAN
+  PERUSAHAAN NEGARA BERDASARKAN UNDANG-UNDANG PERUSAHAAN INDONESIA DARI ANGGARAN NEGARA
+  REPUBLIK INDONESIA UNTUK TAHUN 1962
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2e3cdedc46c42b5a774b2dc4b871f1d8e58852b8777b2f2676bd84d165314ce3
+  file_size_bytes: 25225
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0101962.pdf'

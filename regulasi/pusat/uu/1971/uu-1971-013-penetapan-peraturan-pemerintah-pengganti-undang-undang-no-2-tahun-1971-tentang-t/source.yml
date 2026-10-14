@@ -1,0 +1,24 @@
+id: uu-1971-013
+judul: Undang-Undang Nomor 13 Tahun 1971 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 2 TAHUN 1971 TENTANG TANDA KEHORMATAN BINTANG YUDHA DHARMA MENJADI
+  UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 044e135f1713484c0f1fd55b3a2006c093ac796e2903741b8325d591ecb01cc3
+  file_size_bytes: 50617
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0131971.pdf'

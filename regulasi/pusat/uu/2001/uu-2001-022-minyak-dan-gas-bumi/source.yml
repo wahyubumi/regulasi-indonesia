@@ -1,0 +1,22 @@
+id: uu-2001-022
+judul: Undang-Undang Nomor 22 Tahun 2001 tentang MINYAK DAN GAS BUMI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e0811a77f874ff52a17b8f69509afba445ab112d3868637853c87ddfe962c02a
+  file_size_bytes: 181223
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-2001.pdf'

@@ -1,0 +1,22 @@
+id: uu-1964-016
+judul: Undang-Undang Nomor 16 Tahun 1964 tentang BAGI HASIL PERIKANAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 094e2b77f056b8c63da51c1e89317cd066b4faff689dd4d44fcf18b87bfbd2ca
+  file_size_bytes: 122377
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0161964.pdf'

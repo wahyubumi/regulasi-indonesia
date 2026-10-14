@@ -1,0 +1,22 @@
+id: uu-2001-011
+judul: Undang-Undang Nomor 11 Tahun 2001 tentang PEMBENTUKAN KOTA BATU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 18870392c03e0d5980b70275b232a9a03fff2472e8ad0dd16ddfaad1347e9b7d
+  file_size_bytes: 90843
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2001.pdf'

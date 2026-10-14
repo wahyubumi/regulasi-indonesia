@@ -1,0 +1,22 @@
+id: uu-2014-022
+judul: Undang-Undang Nomor 22 Tahun 2014 tentang PEMILIHAN GUBERNUR, BUPATI, DAN WALIKOTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2b874a927eb89a98b06bb46dadb1f8e904dbeb0a053caf23cbc5e7fea54d92b3
+  file_size_bytes: 164093
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-2014bt.pdf'

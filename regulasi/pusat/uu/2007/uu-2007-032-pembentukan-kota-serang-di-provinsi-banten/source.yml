@@ -1,0 +1,23 @@
+id: uu-2007-032
+judul: Undang-Undang Nomor 32 Tahun 2007 tentang PEMBENTUKAN KOTA SERANG DI PROVINSI
+  BANTEN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a0b854e1de675514660137e809463f9d4ba711b0d2278ace951a7c0c54040d75
+  file_size_bytes: 189370
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu32-2007.pdf'

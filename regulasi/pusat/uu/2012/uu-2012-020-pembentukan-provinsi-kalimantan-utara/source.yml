@@ -1,0 +1,22 @@
+id: uu-2012-020
+judul: Undang-Undang Nomor 20 Tahun 2012 tentang PEMBENTUKAN PROVINSI KALIMANTAN UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fd9a2260ba4daa5f083a2c8c26984be6afc6ca5adfb1728cffe8adc3b50e6aa2
+  file_size_bytes: 209487
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-2012bt.pdf'

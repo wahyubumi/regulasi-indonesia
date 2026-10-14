@@ -1,0 +1,24 @@
+id: uu-2009-019
+judul: Undang-Undang Nomor 19 Tahun 2009 tentang PENGESAHAN STOCKHOLM CONVENTION ON
+  PERSISTENT ORGANIC POLLUTANTS (KONVENSI STOCKHOLM TENTANG BAHAN PENCEMAR ORGANIK
+  YANG PERSISTEN)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6436a4ffa13d6a2e5365e5d347408710ac4148d4126ab37da824db1e75f8f361
+  file_size_bytes: 24547
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu19-2009.pdf'

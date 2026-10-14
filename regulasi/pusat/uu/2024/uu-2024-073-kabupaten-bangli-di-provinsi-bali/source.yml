@@ -1,0 +1,22 @@
+id: uu-2024-073
+judul: Undang-Undang Nomor 73 Tahun 2024 tentang KABUPATEN BANGLI DI PROVINSI BALI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9caf8eaef00feb13c7758bd45d2fff9c77f3f3825f4f98b5633de0e144c3da36
+  file_size_bytes: 539914
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-73-tahun-2024.pdf'

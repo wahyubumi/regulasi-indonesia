@@ -1,0 +1,23 @@
+id: uu-2006-018
+judul: Undang-Undang Nomor 18 Tahun 2006 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 2007
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c27e71b6ce37784ba8b16da00e2d9af89a2a6c232560111dfcebf211d4e3a16a
+  file_size_bytes: 239418
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-2006.pdf'

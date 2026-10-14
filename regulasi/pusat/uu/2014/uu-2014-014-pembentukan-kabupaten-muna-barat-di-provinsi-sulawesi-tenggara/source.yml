@@ -1,0 +1,23 @@
+id: uu-2014-014
+judul: Undang-Undang Nomor 14 Tahun 2014 tentang PEMBENTUKAN KABUPATEN MUNA BARAT
+  DI PROVINSI SULAWESI TENGGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9f1da39edf98b104c3fefde3959e5e06d035b3fee345fc3f07a882116ec9aa41
+  file_size_bytes: 56211
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2014bt.pdf'

@@ -1,0 +1,23 @@
+id: uu-1998-009
+judul: Undang-Undang Nomor 9 Tahun 1998 tentang KEMERDEKAAN MENYAMPAIKAN PENDAPAT
+  DI MUKA UMUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e07c6715d91660827ab22cf67e501a81b7b9d05fc015980dc4acd47e25d53c6a
+  file_size_bytes: 60272
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-1998.pdf'

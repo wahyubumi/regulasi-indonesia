@@ -1,0 +1,23 @@
+id: uu-1969-016
+judul: Undang-Undang Nomor 16 Tahun 1969 tentang SUSUNAN DAN KEDUDUKAN MAJELIS PERMUSYAWARATAN
+  RAKYAT, DEWAN PERWAKILAN RAKYAT DAN DEWAN PERWAKILAN RAKYAT DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3a466d182deece4709273c3adc2ee18e779d786afbc7e890fc613cb55e7df5db
+  file_size_bytes: 100176
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0161969.pdf'

@@ -1,0 +1,68 @@
+id: uu-1955-011
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '11'
+nomor_lengkap: '11'
+tahun: 1955
+judul: PEMBERIAN KUASA KEPADA MENTERI KEUANGAN UNTUK MENGAMBIL UANG-MUKA PADA BANK
+  INDONESIA LEBIH DARI PADA BATAS YANG DITETAPKAN DALAM PASAL 19 AYAT 2 UNDANG-UNDANG
+  POKOK BANK INDONESIA 1953 (UNDANG-UNDANG NO. 11 TAHUN 1953)
+judul_lengkap: Undang-Undang Nomor 11 Tahun 1955 tentang PEMBERIAN KUASA KEPADA MENTERI
+  KEUANGAN UNTUK MENGAMBIL UANG-MUKA PADA BANK INDONESIA LEBIH DARI PADA BATAS YANG
+  DITETAPKAN DALAM PASAL 19 AYAT 2 UNDANG-UNDANG POKOK BANK INDONESIA 1953 (UNDANG-UNDANG
+  NO. 11 TAHUN 1953)
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari 793109afc81e__uu11-1955__undated__uu-1955-011__pemberian-kuasa-kepada-menteri-keuangan-untuk-mengambil-uang-muka-pada-bank-indonesia-lebih-dari-pad.md

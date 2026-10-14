@@ -1,0 +1,24 @@
+id: uu-1956-030
+judul: Undang-Undang Nomor 30 Tahun 1956 tentang PENGUBAHAN DAN TAMBAHAN "POSTORDONNANTIE
+  1935" SEBAGAIMANA TELAH DIUBAH DAN DITAMBAH DENGAN UNDANG-UNDANG NO. 76 TAHUN 1954
+  (LEMBARAN-NEGARA TAHUN 1954 NO.151) *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3dfdec0aa41e50e56e2a0c6f46c6ff333f203871429f3b7b1501cd459d6b3fa7
+  file_size_bytes: 94220
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu30-1956.pdf'

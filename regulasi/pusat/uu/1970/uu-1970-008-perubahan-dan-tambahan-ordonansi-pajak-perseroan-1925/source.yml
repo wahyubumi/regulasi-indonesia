@@ -1,0 +1,23 @@
+id: uu-1970-008
+judul: Undang-Undang Nomor 8 Tahun 1970 tentang PERUBAHAN DAN TAMBAHAN ORDONANSI PAJAK
+  PERSEROAN 1925
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 59507d7d588e994cee1b77407c758d1aa33bd01c48265c6f9907e7294e7c5ed0
+  file_size_bytes: 81713
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0081970.pdf'

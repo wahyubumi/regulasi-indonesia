@@ -1,0 +1,23 @@
+id: uu-1957-079
+judul: Undang-Undang Nomor 79 Tahun 1957 tentang PENGESAHAN PERNYATAAN KEADAAN PERANG
+  SEBAGAI YANG TELAH DILAKUKAN DENGAN KEPUTUSAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 04a4ed037de46db455217b43d4f5f73e18c076d497b76c395aa53c6d1b7b5b56
+  file_size_bytes: 32214
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu79-1957.pdf'

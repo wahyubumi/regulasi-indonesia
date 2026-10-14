@@ -1,0 +1,23 @@
+id: uu-1957-016
+judul: Undang-Undang Nomor 16 Tahun 1957 tentang MENGUBAH DAN MENAMBAH UNDANG-UNDANG
+  PENEMPATAN BAGIAN XI DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 79e7997e9b632c5bc615bd989730dab16ed6c7698858ece0ac89309adc4d4c99
+  file_size_bytes: 26864
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-1957.pdf'

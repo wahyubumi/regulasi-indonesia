@@ -1,0 +1,23 @@
+id: uu-1954-041
+judul: Undang-Undang Nomor 41 Tahun 1954 tentang PENETAPAN BAGIAN IV (KEMENTRIAN KEUANGAN)
+  DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1f563610e365cd287c67c65460c7502f807c6a08fc6f4fa02c5bbd1dd226d314
+  file_size_bytes: 103361
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu41-1954.pdf'

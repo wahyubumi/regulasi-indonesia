@@ -1,0 +1,22 @@
+id: uu-2009-025
+judul: Undang-Undang Nomor 25 Tahun 2009 tentang PELAYANAN PUBLIK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ad947bb833a33abb29b940e28bbaeaa81aab3a6e9ada433743622b071b7fd6c5
+  file_size_bytes: 614743
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-2009bt.pdf'

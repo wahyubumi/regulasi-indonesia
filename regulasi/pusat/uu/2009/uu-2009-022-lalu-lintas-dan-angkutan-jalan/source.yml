@@ -1,0 +1,22 @@
+id: uu-2009-022
+judul: Undang-Undang Nomor 22 Tahun 2009 tentang LALU LINTAS DAN ANGKUTAN JALAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e283110101d4b94c3bd1200d3b5f520f590d51251144be5fb210a23f49c4c3a0
+  file_size_bytes: 493131
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+22+Tahun+2009.pdf'

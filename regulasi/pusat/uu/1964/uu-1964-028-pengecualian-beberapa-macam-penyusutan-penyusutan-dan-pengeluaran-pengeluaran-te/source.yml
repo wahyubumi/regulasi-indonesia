@@ -1,0 +1,23 @@
+id: uu-1964-028
+judul: Undang-Undang Nomor 28 Tahun 1964 tentang PENGECUALIAN BEBERAPA MACAM PENYUSUTAN-PENYUSUTAN
+  DAN PENGELUARAN-PENGELUARAN TERTENTU DARI LABA PERUSAHAAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 09e5d000b03c0eea77b3a1a252e4768df92e6539001f458a285af64ca4f48b87
+  file_size_bytes: 65388
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0281964.pdf'

@@ -1,0 +1,22 @@
+id: uu-2008-039
+judul: Undang-Undang Nomor 39 Tahun 2008 tentang KEMENTERIAN NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: df635088b40fcd66ea08dcb0e1d4b15a6354f1b375b7ebf2e2d3291b0cd49fda
+  file_size_bytes: 114476
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0392008.pdf'

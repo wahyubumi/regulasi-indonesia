@@ -1,0 +1,23 @@
+id: uu-2007-046
+judul: Undang-Undang Nomor 46 Tahun 2007 tentang PERTANGGUNGJAWABAN ATAS PELAKSANAAN
+  ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2005
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 269c2f3ccdaa1ee335433e3c889f281bbdb2d2551690a93cd79674832ba2ef6d
+  file_size_bytes: 128999
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+46+Tahun+2007.pdf'

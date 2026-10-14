@@ -1,0 +1,23 @@
+id: uu-2003-028
+judul: Undang-Undang Nomor 28 Tahun 2003 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  28 TAHUN 2003 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2004
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 98c379120977cbce0099ab3f8eadaaf6fa46f0401b880165b6085a85bd670a20
+  file_size_bytes: 221021
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu35-2004.pdf'

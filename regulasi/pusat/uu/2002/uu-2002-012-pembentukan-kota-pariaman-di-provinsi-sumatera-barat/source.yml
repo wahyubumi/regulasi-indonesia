@@ -1,0 +1,23 @@
+id: uu-2002-012
+judul: Undang-Undang Nomor 12 Tahun 2002 tentang PEMBENTUKAN KOTA PARIAMAN DI PROVINSI
+  SUMATERA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6da8d2ebbb6d763f286f3416b80e48ba33d9af9320349936a529c089c10800ac
+  file_size_bytes: 77688
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2002.pdf'

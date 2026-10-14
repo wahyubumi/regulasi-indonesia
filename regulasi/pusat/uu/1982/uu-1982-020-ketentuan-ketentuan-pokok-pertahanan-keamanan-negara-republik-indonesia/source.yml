@@ -1,0 +1,23 @@
+id: uu-1982-020
+judul: Undang-Undang Nomor 20 Tahun 1982 tentang KETENTUAN-KETENTUAN POKOK PERTAHANAN
+  KEAMANAN NEGARA REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d62abfd1fc91d5cc52c8bbab7e5f142bf13dc1d8b18b7f68e1756ec9c65dbeeb
+  file_size_bytes: 170648
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu20-1982.pdf'

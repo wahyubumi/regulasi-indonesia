@@ -1,0 +1,23 @@
+id: uu-1981-005
+judul: Undang-Undang Nomor 5 Tahun 1981 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  1973/1974 DENGAN RAKHMAT TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 117acd658505cfa72b664efc3ef0293055f597ad502e64419b94862233a1c476
+  file_size_bytes: 21561
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1981.pdf'

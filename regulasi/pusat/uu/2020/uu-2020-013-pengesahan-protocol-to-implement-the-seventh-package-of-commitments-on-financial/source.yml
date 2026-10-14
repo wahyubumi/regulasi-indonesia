@@ -1,0 +1,25 @@
+id: uu-2020-013
+judul: Undang-Undang Nomor 13 Tahun 2020 tentang PENGESAHAN PROTOCOL TO IMPLEMENT
+  THE SEVENTH PACKAGE OF COMMITMENTS ON FINANCIAL SERVICES UNDER THE ASEAN FRAMEWORK
+  AGREEMENT ON SERVICES (PROTOKOL UNTUK MELAKSANAKAN PAKET KOMITMEN KETUJUH BIDANG
+  JASA KEUANGAN DALAM PERSETUJUAN KERANGKA KERJA ASEAN DI BIDANG JASA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 78dffc2685aa115f612717397c8ba93224a089c43c3f5ffaaf68587c99c3b6c4
+  file_size_bytes: 130295
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-2020bt.pdf'

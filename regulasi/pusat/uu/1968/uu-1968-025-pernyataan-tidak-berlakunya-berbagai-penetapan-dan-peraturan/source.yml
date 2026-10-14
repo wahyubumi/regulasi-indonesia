@@ -1,0 +1,23 @@
+id: uu-1968-025
+judul: Undang-Undang Nomor 25 Tahun 1968 tentang PERNYATAAN TIDAK BERLAKUNYA BERBAGAI
+  PENETAPAN DAN PERATURAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c05826412805d8bde82dad011099c2dd6489a1e9796b061d1c7f4d76ed1f5532
+  file_size_bytes: 14570
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+25+Tahun+1968.pdf'

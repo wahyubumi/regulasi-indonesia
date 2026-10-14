@@ -1,0 +1,22 @@
+id: uu-1991-005
+judul: Undang-Undang Nomor 5 Tahun 1991 tentang KEJAKSAAN REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3adee04fd5247b9a0bcda02d1ead7a963ca12757de7642583b5fb2a5385802ec
+  file_size_bytes: 101524
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+5+TH+1991.pdf'

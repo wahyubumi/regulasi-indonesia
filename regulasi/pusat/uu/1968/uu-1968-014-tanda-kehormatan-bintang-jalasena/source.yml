@@ -1,0 +1,22 @@
+id: uu-1968-014
+judul: Undang-Undang Nomor 14 Tahun 1968 tentang TANDA KEHORMATAN BINTANG "JALASENA"
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5188462429113d356750f70b44f7fad4ddb29f64038693f3dd2cd51e5ad76c0b
+  file_size_bytes: 33261
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+14+Tahun+1968.pdf'

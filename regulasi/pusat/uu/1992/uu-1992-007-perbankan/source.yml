@@ -1,0 +1,22 @@
+id: uu-1992-007
+judul: Undang-Undang Nomor 7 Tahun 1992 tentang PERBANKAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8e3a861bb0a9691d9a591633375a3c74a6e28b61291bc971419019c1510cddc4
+  file_size_bytes: 179045
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+7+TH+1992.pdf'

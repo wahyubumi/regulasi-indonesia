@@ -1,0 +1,26 @@
+id: uu-2015-007
+judul: Undang-Undang Nomor 7 Tahun 2015 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK ISLAM PAKISTAN TENTANG KEGIATAN KERJA
+  SAMA DI BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA
+  AND THE GOVERNMENT OF THE ISLAMIC REPUBLIC OF PAKISTAN ON COOPERATIVE ACTIVITIES
+  IN THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 08e38533f49b066974a154ce771cd382eef6db30448672120b4b03faa2c70f82
+  file_size_bytes: 157214
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-2015bt.pdf'

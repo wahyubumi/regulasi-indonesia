@@ -1,0 +1,23 @@
+id: uu-2000-022
+judul: Undang-Undang Nomor 22 Tahun 2000 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 1998/1999
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e787f43addf943dc1c8cc21a3cf26fb892e095d3ab40899671b40383175376a3
+  file_size_bytes: 96989
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-2000.pdf'

@@ -1,0 +1,22 @@
+id: uu-1967-001
+judul: Undang-Undang Nomor 1 Tahun 1967 tentang PENANAMAN MODAL ASING
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2e258bd01045c6b8a893e0ead784b7006877acf0f732726058c09a2731e73eb4
+  file_size_bytes: 69211
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0011967.pdf'

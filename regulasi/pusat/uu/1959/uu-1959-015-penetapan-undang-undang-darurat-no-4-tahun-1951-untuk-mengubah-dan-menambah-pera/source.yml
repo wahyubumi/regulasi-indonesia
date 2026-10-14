@@ -1,0 +1,24 @@
+id: uu-1959-015
+judul: Undang-Undang Nomor 15 Tahun 1959 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 4 TAHUN 1951 UNTUK MENGUBAH DAN MENAMBAH PERATURAN DALAM STAATSBLAD 1916 NO.
+  47" (LEMBARAN-NEGARA NO. 14 TAHUN 1951), SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8f22f285fe0653ea8888a6d0b1509fd5038cb732033dc385ab83dee7a1875d02
+  file_size_bytes: 29639
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0151959.pdf'

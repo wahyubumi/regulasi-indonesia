@@ -1,0 +1,23 @@
+id: uu-1968-005
+judul: Undang-Undang Nomor 5 Tahun 1968 tentang PENYELESAIAN PERSELISIHAN ANTARA NEGARA
+  DAN WARGANEGARA ASING MENGENAI PENANAMAN MODAL DENGAN RACHMAT TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: cbc19c999a77391f682eca28953ce08ba9a2c8fa91e88c66ccd56f8f7fc63875
+  file_size_bytes: 21955
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+5+Tahun+1968.pdf'

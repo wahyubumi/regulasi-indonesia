@@ -1,0 +1,23 @@
+id: uu-2024-018
+judul: Undang-Undang Nomor 18 Tahun 2024 tentang KABUPATEN DELI SERDANG DI PROVINSI
+  SUMATERA UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f3e8fc836b4eb67ec0e71967a17735d8f12415b55292cfcc5088242dd1341534
+  file_size_bytes: 889790
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-18-tahun-2024.pdf'

@@ -1,0 +1,25 @@
+id: uu-2020-005
+judul: Undang-Undang Nomor 5 Tahun 2020 tentang PENGESAHAN PERJANJIAN TENTANG BANTUAN
+  HUKUM TIMBAL BALIK DALAM MASALAH PIDANA ANTARA REPUBLIK INDONESIA DAN KONFEDERASI
+  SWISS (TREATY ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS BETWEEN THE REPUBLIC
+  OF INDONESIA AND THE SWISS CONFEDERATION)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9eabf1b096c980f3e29706004f3b34bb42240b08fd16a958b220675ed2dcb3a2
+  file_size_bytes: 29244008
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2020bt.pdf'

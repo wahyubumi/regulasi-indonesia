@@ -1,0 +1,22 @@
+id: uu-2019-021
+judul: Undang-Undang Nomor 21 Tahun 2019 tentang KARANTINA HEWAN, IKAN, DAN TUMBUHAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d00bad13914a7be0df6bb9eea97e91b9dd77eff86941dbe20e2610f9a8b6aa25
+  file_size_bytes: 3589726
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-21-tahun-2019.pdf'

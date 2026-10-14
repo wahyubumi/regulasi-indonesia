@@ -1,0 +1,23 @@
+id: uu-2010-007
+judul: Undang-Undang Nomor 7 Tahun 2010 tentang PERTANGGUNGJAWABAN ATAS PELAKSANAAN
+  ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2009
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ece3ca97f80e1470bf2c83aa1e45b094e35e857cd2573093c415fabe6919e338
+  file_size_bytes: 145579
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+7+Tahun+2010.pdf'

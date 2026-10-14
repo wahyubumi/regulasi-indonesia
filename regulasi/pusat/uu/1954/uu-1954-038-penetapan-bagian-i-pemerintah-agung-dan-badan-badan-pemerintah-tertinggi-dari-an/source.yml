@@ -1,0 +1,24 @@
+id: uu-1954-038
+judul: Undang-Undang Nomor 38 Tahun 1954 tentang PENETAPAN BAGIAN I (PEMERINTAH AGUNG
+  DAN BADAN-BADAN PEMERINTAH TERTINGGI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN
+  DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3f95a5f154ce5b68aa601adcb7dbeee528675b26bb1c0e3d870f0a4c836c4184
+  file_size_bytes: 67487
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu38-1954.pdf'

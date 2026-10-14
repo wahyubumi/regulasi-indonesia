@@ -1,0 +1,22 @@
+id: uu-1960-005
+judul: Undang-Undang Nomor 5 Tahun 1960 tentang PERATURAN DASAR POKOK-POKOK AGRARIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ef6fd332f5ed6dda494645d3d1ae247f371fc280d73cf9421abf0405a21c7f36
+  file_size_bytes: 157204
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0051960.pdf'

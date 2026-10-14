@@ -1,0 +1,24 @@
+id: uu-1957-080
+judul: Undang-Undang Nomor 80 Tahun 1957 tentang PERSETUJUAN KONPENSI ORGANISASI PERBURUHAN
+  INTERNASIONAL NO. 100 MENGENAI PENGUPAHAN YANG SAMA BAGI BURUH LAKI-LAKI DAN WANITA
+  UNTUK PEKERJAAN YANG SAMA NILAINYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 331b82e9c53804dbd3d3349f99826a1afeaec3e6d6f0a03ae9e17516e2d6db9e
+  file_size_bytes: 30794
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu80-1957.pdf'

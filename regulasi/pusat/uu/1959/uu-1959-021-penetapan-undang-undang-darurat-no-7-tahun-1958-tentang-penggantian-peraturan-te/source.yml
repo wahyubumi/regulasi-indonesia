@@ -1,0 +1,25 @@
+id: uu-1959-021
+judul: Undang-Undang Nomor 21 Tahun 1959 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  7 TAHUN 1958 TENTANG PENGGANTIAN PERATURAN TENTANG BINTANG GERILYA SEBAGAIMANA TERMAKTUB
+  DALAM PERATURAN PEMERINTAH NO. 8 TAHUN 1949 (LEMBARAN-NEGARA TAHUN 1958 NO. 154),
+  SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 99e50cd30ed929d4168ff0bc710a9a2da5f041e12e544f0c0ce721af6e088170
+  file_size_bytes: 37664
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0211959.pdf'

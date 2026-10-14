@@ -1,0 +1,24 @@
+id: uu-1984-007
+judul: Undang-Undang Nomor 7 Tahun 1984 tentang PENGESAHAN KONVENSI MENGENAI PENGHAPUSAN
+  SEGALA BENTUK DISKIRIMINASI TERHADAP WANITA (CONVENTION ON THE ELIMINATION OF ALL
+  FORMS OF DISCRIMANATION AGAINST WOMEN)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 85f9aafecae87c4d998d80d43963dd91e861bf04481f25bd4b014567865a2261
+  file_size_bytes: 28159
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1984.pdf'

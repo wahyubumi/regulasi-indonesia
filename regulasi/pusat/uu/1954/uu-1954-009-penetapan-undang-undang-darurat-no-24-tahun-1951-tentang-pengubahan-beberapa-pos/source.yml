@@ -1,0 +1,24 @@
+id: uu-1954-009
+judul: Undang-Undang Nomor 9 Tahun 1954 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  24 TAHUN 1951 TENTANG PENGUBAHAN BEBERAPA POS TARIP BEA MASUK LEMBARAN-NEGARA NO.104
+  TAHUN 1951) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 033ab2515a06b194927b336ea8477baf80f8e8b10781d4ebeed5dae803e2ea9c
+  file_size_bytes: 115926
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-1954.pdf'

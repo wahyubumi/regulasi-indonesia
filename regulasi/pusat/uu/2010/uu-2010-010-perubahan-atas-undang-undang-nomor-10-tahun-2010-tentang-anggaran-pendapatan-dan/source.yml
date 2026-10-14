@@ -1,0 +1,23 @@
+id: uu-2010-010
+judul: Undang-Undang Nomor 10 Tahun 2010 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  10 TAHUN 2010 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2011
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 90e591d6e2cfcbeafa03e84ac77b7ee170e8d72f3810ca646bad9a6ca22c60f3
+  file_size_bytes: 467225
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+11+Tahun+2011.pdf'

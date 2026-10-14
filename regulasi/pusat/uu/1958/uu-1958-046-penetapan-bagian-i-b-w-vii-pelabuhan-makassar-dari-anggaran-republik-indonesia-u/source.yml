@@ -1,0 +1,23 @@
+id: uu-1958-046
+judul: Undang-Undang Nomor 46 Tahun 1958 tentang PENETAPAN BAGIAN I.B.W. VII (PELABUHAN
+  MAKASSAR) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 41e49e799f2062bae58ca28ba3dffadb7a5f7d70e64e2e125a97fc1a296be648
+  file_size_bytes: 14107
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu46-1958.pdf'

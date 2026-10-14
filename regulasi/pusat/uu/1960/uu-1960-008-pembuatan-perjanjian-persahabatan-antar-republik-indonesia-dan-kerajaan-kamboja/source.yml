@@ -1,0 +1,23 @@
+id: uu-1960-008
+judul: Undang-Undang Nomor 8 Tahun 1960 tentang PEMBUATAN PERJANJIAN PERSAHABATAN
+  ANTAR REPUBLIK INDONESIA DAN KERAJAAN KAMBOJA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 07c88fee9194caf0746b88072be6a0a6f1ba9a5050219b4a53de6a5f3828ed51
+  file_size_bytes: 34540
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0081960.pdf'

@@ -1,0 +1,26 @@
+id: uu-2010-004
+judul: Undang-Undang Nomor 4 Tahun 2010 tentang PENGESAHAN PERJANJIAN ANTARA REPUBLIK
+  INDONESIA DAN REPUBLIK SINGAPURA TENTANG PENETAPAN GARIS BATAS LAUT WILAYAH KEDUA
+  NEGARA DI BAGIAN BARAT SELAT SINGAPURA, 2009 (TREATY BETWEEN THE REPUBLIC OF INDONESIA
+  AND THE REPUBLIC OF SINGAPORE RELATING TO THE DELIMITATION OF THE TERRITORIAL SEAS
+  OF THE TWO COUNTRIES IN THE WESTERN PART OF THE STRAIT OF SINGAPORE, 2009)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6d5d4c113f05d07aff26df510945a77b6e064c7a0a038fca3ca348be68ad6b67
+  file_size_bytes: 40202
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2010.pdf'

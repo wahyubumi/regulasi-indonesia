@@ -1,0 +1,25 @@
+id: uu-1957-036
+judul: Undang-Undang Nomor 36 Tahun 1957 tentang PENETAPAN URUSAN PENYELENGGARAAN
+  KEUANGAN DAN PERHITUNGAN-PERHITUNGANNYA MENGENAI PERUSAHAAN- PERUSAHAAN DAN JAWATAN-JAWATAN
+  (PEMERINTAH) YANG MEMPUNYAI PENGURUS SENDIRI/DARI ANGGARAN REPUBLIK INDONESIA UNTUK
+  TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 24aa8894611027c05953c2b29debb18e11637b8d522cd6f4dcd1fcc1d712954c
+  file_size_bytes: 51260
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu36-1957.pdf'

@@ -1,0 +1,24 @@
+id: uu-1971-010
+judul: Undang-Undang Nomor 10 Tahun 1971 tentang PERUBAHAN TERHADAP UNDANG-UNDANG
+  NO. 9 TAHUN 1953 TENTANG PEMBERIAN TUNJANGAN YANG BERSIFAT PENSIUN KEPADA BEKAS
+  KETUA DAN BEKAS ANGGOTA DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5c9dfddfd91d4f5f2109ddaa6674cc178caab11505d20c0a3a0afa20c382af1c
+  file_size_bytes: 29344
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0091971.pdf'

@@ -1,0 +1,22 @@
+id: uu-2013-017
+judul: Undang-Undang Nomor 17 Tahun 2013 tentang ORGANISASI KEMASYARAKATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 185cac1b2bf6cd253b85463dc8f16dc7815091627c877dd583d574efd2b6a520
+  file_size_bytes: 118512
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-2013bt.pdf'

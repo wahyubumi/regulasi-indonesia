@@ -1,0 +1,22 @@
+id: uu-2009-028
+judul: Undang-Undang Nomor 28 Tahun 2009 tentang PAJAK DAERAH DAN RETRIBUSI DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 27530e8c47f413f8953c6cc83beff4e00b33f4d6dd99b6d020ba37517b1a9bd1
+  file_size_bytes: 365966
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+28+Tahun+2009.pdf'

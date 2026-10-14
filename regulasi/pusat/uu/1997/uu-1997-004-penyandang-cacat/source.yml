@@ -1,0 +1,22 @@
+id: uu-1997-004
+judul: Undang-Undang Nomor 4 Tahun 1997 tentang PENYANDANG CACAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d39147ca8123fb1d826f22065f92fc253cee8bdacb102c5ea0a124433e05ec42
+  file_size_bytes: 58302
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1997.pdf'

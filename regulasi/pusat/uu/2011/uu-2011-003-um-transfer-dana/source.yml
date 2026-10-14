@@ -1,0 +1,22 @@
+id: uu-2011-003
+judul: Undang-Undang Nomor 3 Tahun 2011 tentang um TRANSFER DANA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8ad80350de0df65ea6ae56d7efea72dc61efd512a79fee1bb21fbb71846f4ab2
+  file_size_bytes: 119669
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2011bt.pdf'

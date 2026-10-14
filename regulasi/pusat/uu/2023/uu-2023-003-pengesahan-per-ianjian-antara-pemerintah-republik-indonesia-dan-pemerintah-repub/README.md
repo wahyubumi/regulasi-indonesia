@@ -1,0 +1,33 @@
+# Undang-Undang Nomor 3 Tahun 2023 tentang PENGESAHAN PER.IANJIAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK SINGAPURA TENTANG KERJA SAMA PERTAHANAN IAGREEMENT BETWEEN THE GOWRNMENT OFTHE REPUBLIC OF INDONESIA AND THE GOIr'ERNMENT OF THE REPUBLIC OF SIIVGAPORE oN DEFENCE COOPERATTOTI
+
+## Ringkasan
+
+Regulasi ini dipromosikan dari arsip konversi teks resmi untuk kebutuhan integrasi basis data perundang-undangan.
+
+## Informasi Utama
+
+| Elemen | Isi |
+|---|---|
+| Jenis | Undang-Undang |
+| Nomor | 3 |
+| Tahun | 2023 |
+| Judul | PENGESAHAN PER.IANJIAN ANTARA PEMERINTAH REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK SINGAPURA TENTANG KERJA SAMA PERTAHANAN IAGREEMENT BETWEEN THE GOWRNMENT OFTHE REPUBLIC OF INDONESIA AND THE GOIr'ERNMENT OF THE REPUBLIC OF SIIVGAPORE oN DEFENCE COOPERATTOTI |
+| Status | perlu_verifikasi |
+| Tingkat | pusat |
+| Sumber | uu-no-3-tahun-2023.pdf |
+
+## File
+
+- [`dokumen.md`](dokumen.md)
+- [`metadata.yml`](metadata.yml)
+- [`source.yml`](source.yml)
+- [`relasi.yml`](relasi.yml)
+- [`quality-check.yml`](quality-check.yml)
+
+## Catatan Konversi
+
+Status konversi: needs_review.
+
+## Peringatan
+
+Dokumen Markdown ini adalah hasil konversi untuk kebutuhan pencarian, analisis, dan pemrosesan teks. Untuk rujukan hukum resmi, tetap gunakan sumber regulasi resmi.

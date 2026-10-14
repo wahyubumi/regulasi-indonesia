@@ -1,0 +1,23 @@
+id: uu-2000-027
+judul: Undang-Undang Nomor 27 Tahun 2000 tentang PEMBENTUKAN PROPINSI KEPULAUAN BANGKA
+  BELITUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 111413895ff532e224010913916db56b0c59a133de4501c6eac46bbf420e0b29
+  file_size_bytes: 211419
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-2000.pdf'

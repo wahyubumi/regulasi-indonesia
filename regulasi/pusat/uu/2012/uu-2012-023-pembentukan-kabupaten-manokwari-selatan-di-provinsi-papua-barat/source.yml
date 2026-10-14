@@ -1,0 +1,23 @@
+id: uu-2012-023
+judul: Undang-Undang Nomor 23 Tahun 2012 tentang PEMBENTUKAN KABUPATEN MANOKWARI SELATAN
+  DI PROVINSI PAPUA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c2d9aef4608d7c559c84d171f18dee95c61887cb881f110412b71caa31540459
+  file_size_bytes: 141460
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-2012bt.pdf'

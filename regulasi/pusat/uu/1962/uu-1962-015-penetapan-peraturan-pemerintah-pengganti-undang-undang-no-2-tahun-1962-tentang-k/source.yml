@@ -1,0 +1,24 @@
+id: uu-1962-015
+judul: Undang-Undang Nomor 15 Tahun 1962 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 2 TAHUN 1962 TENTANG KEWAJIBAN PERUSAHAAN MINYAK MEMENUHI KEBUTUHAN
+  DALAM NEGERI MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8928a72bf38acb31d56ff17e98a1f148605a580bbc3c552c8e2acd27227489dc
+  file_size_bytes: 31306
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0151962.pdf'

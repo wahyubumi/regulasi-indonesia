@@ -1,0 +1,23 @@
+id: uu-1957-046
+judul: Undang-Undang Nomor 46 Tahun 1957 tentang PENETAPAN BAGIAN XII (KEMENTRIAN
+  SOSIAL) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9eb277db3a157d75e5eb025f1ec254e464b5e512b25cb83e3c8c04ac468300b4
+  file_size_bytes: 34697
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu46-1957.pdf'

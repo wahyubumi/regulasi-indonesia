@@ -1,0 +1,23 @@
+id: uu-2005-004
+judul: Undang-Undang Nomor 4 Tahun 2005 tentang PEMBENTUKAN PENGADILAN TINGGI AGAMA
+  BANTEN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1ecf25b5553022607de512bbdc0507bfca064da60789e2dddda084e1fb85abea
+  file_size_bytes: 72962
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2005.pdf'

@@ -1,0 +1,23 @@
+id: uu-2011-014
+judul: Undang-Undang Nomor 14 Tahun 2011 tentang PERTANGGUNGJAWABAN ATAS PELAKSANAAN
+  ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2010
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 470a6ad34ff81a4da4dea670aa07db3e0b2e271aed814b9ed61611706e17a1aa
+  file_size_bytes: 328646
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+14+Tahun+2011.pdf'

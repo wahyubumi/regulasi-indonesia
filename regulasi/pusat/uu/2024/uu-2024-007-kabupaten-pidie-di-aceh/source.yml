@@ -1,0 +1,22 @@
+id: uu-2024-007
+judul: Undang-Undang Nomor 7 Tahun 2024 tentang KABUPATEN PIDIE DI ACEH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b97595b5720e2ad9adb29ea0b0cf16d39202ee379baf4288fc55e514e5110e7f
+  file_size_bytes: 799096
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-7-tahun-2024.pdf'

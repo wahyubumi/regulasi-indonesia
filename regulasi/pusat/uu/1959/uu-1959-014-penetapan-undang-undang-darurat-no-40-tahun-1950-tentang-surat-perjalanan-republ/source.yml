@@ -1,0 +1,24 @@
+id: uu-1959-014
+judul: Undang-Undang Nomor 14 Tahun 1959 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 40 TAHUN 1950 TENTANG SURAT PERJALANAN REPUBLIK INDONESIA (LEMBARAN-NEGARA TAHUN
+  1950 NO. 82), SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1cd313a848d94ff7b4aaf9ed779f61500d014d77627582ade5a4c956ec2af440
+  file_size_bytes: 45870
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0141959.pdf'

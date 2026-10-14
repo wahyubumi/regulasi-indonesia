@@ -1,0 +1,24 @@
+id: uu-1965-006
+judul: Undang-Undang Nomor 6 Tahun 1965 tentang PEMBENTUKAN DAERAH TINGKAT II INDERAGIRI
+  HILIR DENGAN MENGUBAH UNDANG-UNDANG NO. 12 TAHUN 1956, TENTANG PEMBENTUKAN DAERAH
+  OTONOM KABUPATEN DALAM LINGKUNGAN PROPINSI SUMATERA TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8630c235742a2dc60e5476a307880c1adb3609bbd200623bc7f93c691cfba18d
+  file_size_bytes: 101040
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0061965.pdf'

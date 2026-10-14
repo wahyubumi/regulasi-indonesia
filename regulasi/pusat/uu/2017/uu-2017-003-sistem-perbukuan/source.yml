@@ -1,0 +1,22 @@
+id: uu-2017-003
+judul: Undang-Undang Nomor 3 Tahun 2017 tentang SISTEM PERBUKUAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1dd8617cc88269c02a75bd830d755a89b8d4455569247d17840c00fd9a179dbc
+  file_size_bytes: 301792
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2017bt.pdf'

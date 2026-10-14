@@ -1,0 +1,24 @@
+id: uu-1969-009
+judul: Undang-Undang Nomor 9 Tahun 1969 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 1 TAHUN 1969 (LEMBARAN NEGARA TAHUN 1969 NO. 16; TAMBAHAN LEMBARAN
+  NEGARA NO. 2890) TENTANG BENTUK-BENTUK USAHA NEGARA MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 16ef240a573051628296016eeb2ab67a791529f42c4580d1e7345b7fea4b29bc
+  file_size_bytes: 46062
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0091969.pdf'

@@ -1,0 +1,22 @@
+id: uu-1999-031
+judul: Undang-Undang Nomor 31 Tahun 1999 tentang PEMBERANTASAN TINDAK PIDANA KORUPSI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8ec529cbcc586d1c9b8208e58073019415799812563afe55b355f21443db256c
+  file_size_bytes: 114123
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu31-1999.pdf'

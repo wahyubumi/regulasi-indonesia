@@ -1,0 +1,23 @@
+id: uu-2025-018
+judul: Undang-Undang Nomor 18 Tahun 2025 tentang PERUBAHAN KETIGA ATAS UNDANG-UNDANG
+  NOMOR IO TAHUN 2OO9 TENTANG KEPARIWISATAAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: eec25171d5e457dbdfaf8ac8aa4bf945c3a81382f463c85afbfc5356a1644194
+  file_size_bytes: 3351210
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-18-tahun-2025.pdf'

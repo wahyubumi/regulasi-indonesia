@@ -1,0 +1,22 @@
+id: uu-1948-010
+judul: Undang-Undang Nomor 10 Tahun 1948 tentang Pembagian Sumatra Dalam Tiga Propinsi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 03d7a5b27fc14e4df55763e45eef6061071709666295eeb29651a06923b84572
+  file_size_bytes: 28196
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-1948.pdf'

@@ -1,0 +1,25 @@
+id: uu-2020-012
+judul: Undang-Undang Nomor 12 Tahun 2020 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH KERAJAAN SWEDIA TENTANG KERJA SAMA DALAM BIDANG
+  PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE
+  GOVERNMENT OF THE KINGDOM OF SWEDEN CONCERNING COOPERATION IN THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1d48713ee7dc3503d25f46308de96a30cfe10e7d0ec4f24124a6b5ba06ec9565
+  file_size_bytes: 128744
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2020bt.pdf'

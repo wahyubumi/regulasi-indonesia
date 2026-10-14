@@ -1,0 +1,27 @@
+id: uu-2012-003
+judul: Undang-Undang Nomor 3 Tahun 2012 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH DAERAH ADMINISTRASI KHUSUS HONG KONG REPUBLIK
+  RAKYAT CHINA TENTANG BANTUAN HUKUM TIMBAL BALIK DALAM MASALAH PIDANA (AGREEMENT
+  BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT OF THE HONG
+  KONG SPECIAL ADMINISTRATIVE REGION OF THE PEOPLE’S REPUBLIC OF CHINA CONCERNING
+  MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4b2ee063d793a55b70cc776e1b0431ead7248f92d3ef494d9eda7c4f1b4354bf
+  file_size_bytes: 28207
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2012bt.pdf'

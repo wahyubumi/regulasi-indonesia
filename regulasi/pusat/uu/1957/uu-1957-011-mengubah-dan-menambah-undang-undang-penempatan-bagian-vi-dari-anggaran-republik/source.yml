@@ -1,0 +1,23 @@
+id: uu-1957-011
+judul: Undang-Undang Nomor 11 Tahun 1957 tentang MENGUBAH DAN MENAMBAH UNDANG-UNDANG
+  PENEMPATAN BAGIAN VI DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 40de9502fa9c2ea979c64d7d4b8004c2ff396d54cadef46913b9ea1339320eea
+  file_size_bytes: 27016
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-1957.pdf'

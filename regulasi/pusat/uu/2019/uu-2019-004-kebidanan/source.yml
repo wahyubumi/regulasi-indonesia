@@ -1,0 +1,22 @@
+id: uu-2019-004
+judul: Undang-Undang Nomor 4 Tahun 2019 tentang KEBIDANAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 55830913ef7ba07b567af8532b70b5b8c50f6e2bd3a7d23444e4bb53630815ff
+  file_size_bytes: 406102
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2019bt.pdf'

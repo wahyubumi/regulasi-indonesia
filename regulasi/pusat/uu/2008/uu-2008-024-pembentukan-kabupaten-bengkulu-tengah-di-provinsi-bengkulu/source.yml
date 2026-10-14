@@ -1,0 +1,23 @@
+id: uu-2008-024
+judul: Undang-Undang Nomor 24 Tahun 2008 tentang PEMBENTUKAN KABUPATEN BENGKULU TENGAH
+  DI PROVINSI BENGKULU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: da5ef5c5de9ddb2be3f69884ee9aa394e88b3ae3c630d1e1f4afbec82e96f0b2
+  file_size_bytes: 151469
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+24+2008.pdf'

@@ -1,0 +1,22 @@
+id: uu-1995-008
+judul: Undang-Undang Nomor 8 Tahun 1995 tentang PASAR MODAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c351fd912aa91aa7810bee573eaec3637f2251609f9fdc7dc8dbb6614a67fe22
+  file_size_bytes: 298646
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1995.pdf'

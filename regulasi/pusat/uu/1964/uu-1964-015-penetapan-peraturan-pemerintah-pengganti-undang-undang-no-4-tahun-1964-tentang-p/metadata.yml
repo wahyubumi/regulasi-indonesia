@@ -1,0 +1,70 @@
+id: uu-1964-015
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '15'
+nomor_lengkap: '15'
+tahun: 1964
+judul: PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NO. 4 TAHUN 1964 TENTANG
+  PEMBENTUKAN DAERAH TINGKAT II DAIRI DENGAN MENGUBAH UNDANG-UNDANG NO. 7 DRT TAHUN
+  1956 TENTANG PEMBENTUKAN DAERAH OTONOM KABUPATEN DI PROPINSI SUMATERA UTARA (LEMBARAN
+  NEGARA TAHUN 1964 NO. 9) MENJADI UNDANG-UNDANG
+judul_lengkap: Undang-Undang Nomor 15 Tahun 1964 tentang PENETAPAN PERATURAN PEMERINTAH
+  PENGGANTI UNDANG-UNDANG NO. 4 TAHUN 1964 TENTANG PEMBENTUKAN DAERAH TINGKAT II DAIRI
+  DENGAN MENGUBAH UNDANG-UNDANG NO. 7 DRT TAHUN 1956 TENTANG PEMBENTUKAN DAERAH OTONOM
+  KABUPATEN DI PROPINSI SUMATERA UTARA (LEMBARAN NEGARA TAHUN 1964 NO. 9) MENJADI
+  UNDANG-UNDANG
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari e3027c692879__uu0151964__undated__uu-1964-015__penetapan-peraturan-pemerintah-pengganti-undang-undang-no-4-tahun-1964-tentang-pembentukan-daerah-ti.md

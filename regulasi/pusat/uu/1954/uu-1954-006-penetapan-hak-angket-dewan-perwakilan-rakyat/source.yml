@@ -1,0 +1,23 @@
+id: uu-1954-006
+judul: Undang-Undang Nomor 6 Tahun 1954 tentang PENETAPAN HAK ANGKET DEWAN PERWAKILAN
+  RAKYAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7db76c111c3b0eaeed5967100cb84af3214eebdf97e6f6c1c5a1e7115f236436
+  file_size_bytes: 127276
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1954.pdf'

@@ -1,0 +1,23 @@
+id: uu-2024-015
+judul: Undang-Undang Nomor 15 Tahun 2024 tentang KABUPATEN KARO DI PROVINSI SUMATERA
+  UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dae42223894ef2140e7e23af0dd0791121803fc0e853c9f1288333cb8c5d36d7
+  file_size_bytes: 755549
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-15-tahun-2024.pdf'

@@ -1,0 +1,25 @@
+id: uu-1959-026
+judul: Undang-Undang Nomor 26 Tahun 1959 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 17 TAHUN 1955 TENTANG PERPANJANGAN JANGKA WAKTU BERLAKUNYA PERATURAN-PERATURAN
+  DAERAH YANG DIMAKSUD DALAM PASAL 6 UNDANG-UNDANG PEMBENTUKAN DAERAH-DAERAH OTONOM
+  DI JAWA (LEMBARAN-NEGARA TAHUN 1955 NO. 53), SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 262eeac2db7e2ae05ec381b1f11d78529d220b0de52165b531241f5a293a32cc
+  file_size_bytes: 33017
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0261959.pdf'

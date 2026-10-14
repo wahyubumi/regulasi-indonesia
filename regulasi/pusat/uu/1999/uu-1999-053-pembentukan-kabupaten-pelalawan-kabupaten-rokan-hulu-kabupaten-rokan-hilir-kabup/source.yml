@@ -1,0 +1,24 @@
+id: uu-1999-053
+judul: Undang-Undang Nomor 53 Tahun 1999 tentang PEMBENTUKAN KABUPATEN PELALAWAN,
+  KABUPATEN ROKAN HULU, KABUPATEN ROKAN HILIR, KABUPATEN SIAK, KABUPATEN KARIMUN,
+  KABUPATEN NATUNA, KABUPATEN KUANTAN SINGINGI, DAN KOTA BATAM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 00d881f57ea9f0948a9a19629d3e4c1d515a5d2f8dd4308a8c048f0b1b4e4551
+  file_size_bytes: 145052
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu53-1999.pdf'

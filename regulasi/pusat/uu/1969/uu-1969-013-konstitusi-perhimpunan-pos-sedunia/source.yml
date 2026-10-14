@@ -1,0 +1,22 @@
+id: uu-1969-013
+judul: Undang-Undang Nomor 13 Tahun 1969 tentang KONSTITUSI PERHIMPUNAN POS SEDUNIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3b45e2171f111f34a2e79c73acf47f9b750e4e1a3a3087faeea798d9ca62c2a6
+  file_size_bytes: 36391
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0131969.pdf'

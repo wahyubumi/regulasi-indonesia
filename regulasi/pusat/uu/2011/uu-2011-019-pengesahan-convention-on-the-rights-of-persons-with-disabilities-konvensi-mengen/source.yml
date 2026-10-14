@@ -1,0 +1,23 @@
+id: uu-2011-019
+judul: Undang-Undang Nomor 19 Tahun 2011 tentang PENGESAHAN CONVENTION ON THE RIGHTS
+  OF PERSONS WITH DISABILITIES (KONVENSI MENGENAI HAK-HAK PENYANDANG DISABILITAS)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 716ac7fe6615b3adf6b40ea338a7ae0972c0e80af2dd672fa8859fca7767c103
+  file_size_bytes: 24225
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu19-2011bt.pdf'

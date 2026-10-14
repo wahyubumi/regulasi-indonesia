@@ -1,0 +1,23 @@
+id: uu-1954-030
+judul: Undang-Undang Nomor 30 Tahun 1954 tentang TANDA KEHORMATAN SEWINDU ANGKATAN
+  PERANG REPUBLIK INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 993ea74eab17fd9ef3284833e96f0d137d09964b6191de9b4418765250e9dd19
+  file_size_bytes: 120801
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu30-1954.pdf'

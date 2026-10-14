@@ -1,0 +1,24 @@
+id: uu-1951-018
+judul: Undang-Undang Nomor 18 Tahun 1951 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NOMOR 18 TAHUN 1951 UNTUK MEMBATASI MASA BERLAKUNYA UNDANG-UNDANG PADJAK PEREDARAN
+  1950" (LEMBARAN-NEGARA NOMOR 93 TAHUN 1951) SEBAGAI UNDANG- UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4d94a24a56c23fdc3be060fbdf8eb62ba2e993ff1f274b79150c606f25be6155
+  file_size_bytes: 41855
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-1953.pdf'

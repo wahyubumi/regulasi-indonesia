@@ -1,0 +1,25 @@
+id: uu-1958-057
+judul: Undang-Undang Nomor 57 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 8 TAHUN 1952 TENTANG MENGUBAH DAN MENAMBAH UNDANG-UNDANG BEA BERAT BARANG (GOEDERENGELD
+  ORDONNANTIE) BESERTA PERATURAN BEA BERAT BARANG (ALGEMEEN GOEDERENGELD REGLEMENT)"
+  (LEMBARAN-NEGARA TAHUN 1952 NO. 39) SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 600b64034eb319e79072cd0f845eec06a9b56fa5790142effe2a53125baa0117
+  file_size_bytes: 31596
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu57-1958.pdf'

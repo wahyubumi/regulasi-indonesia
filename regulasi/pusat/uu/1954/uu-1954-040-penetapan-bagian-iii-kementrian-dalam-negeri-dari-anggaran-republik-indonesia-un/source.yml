@@ -1,0 +1,24 @@
+id: uu-1954-040
+judul: Undang-Undang Nomor 40 Tahun 1954 tentang PENETAPAN BAGIAN III (KEMENTRIAN
+  DALAM NEGERI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN
+  1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6b1b5e88459f8f040e27ea52d6e975d5f7ef98fe727e95993606403fe2d8e9d9
+  file_size_bytes: 87781
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu40-1954.pdf'

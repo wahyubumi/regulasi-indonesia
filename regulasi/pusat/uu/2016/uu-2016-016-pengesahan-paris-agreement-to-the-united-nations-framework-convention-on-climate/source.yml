@@ -1,0 +1,24 @@
+id: uu-2016-016
+judul: Undang-Undang Nomor 16 Tahun 2016 tentang PENGESAHAN PARIS AGREEMENT TO THE
+  UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE (PERSETUJUAN PARIS ATAS KONVENSI
+  KERANGKA KERJA PERSERIKATAN BANGSA-BANGSA MENGENAI PERUBAHAN IKLIM)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4a3bdf967f8be9736ed3b7a7fc5b57797ab63081e85a9249520e3477466b731b
+  file_size_bytes: 22530
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-2016bt.pdf'

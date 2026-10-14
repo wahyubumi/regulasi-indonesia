@@ -1,0 +1,23 @@
+id: uu-1999-044
+judul: Undang-Undang Nomor 44 Tahun 1999 tentang PENYELENGGARAAN KEISTIMEWAAN PROPINSI
+  DAERAH ISTIMEWA ACEH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2fd05840b61308059ad10e4b25b3b01f772f486518c8747a6bc6e2bdb732976f
+  file_size_bytes: 69153
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu44-1999.pdf'

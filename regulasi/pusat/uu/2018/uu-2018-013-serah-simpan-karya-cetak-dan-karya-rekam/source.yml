@@ -1,0 +1,23 @@
+id: uu-2018-013
+judul: Undang-Undang Nomor 13 Tahun 2018 tentang SERAH SIMPAN KARYA CETAK DAN KARYA
+  REKAM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dc92e1b78daf6ed7db6612dd48bcdb20f85b0c2a648c62e32ab94e60e5c3ee22
+  file_size_bytes: 278919
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-2018bt.pdf'

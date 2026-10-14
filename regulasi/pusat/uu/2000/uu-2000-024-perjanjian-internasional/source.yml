@@ -1,0 +1,22 @@
+id: uu-2000-024
+judul: Undang-Undang Nomor 24 Tahun 2000 tentang PERJANJIAN INTERNASIONAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c8043b66c0a79311db855814f9a6dee478f6155864fd63f3164627f7ffb9c463
+  file_size_bytes: 158669
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-2000.pdf'

@@ -1,0 +1,22 @@
+id: uu-2004-032
+judul: Undang-Undang Nomor 32 Tahun 2004 tentang PEMERINTAHAN DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 75eb0a6bbb44b3c68aa08192bfaec317cb9c30b58a2a363878f0d601d48d506f
+  file_size_bytes: 406488
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu32-2004.pdf'

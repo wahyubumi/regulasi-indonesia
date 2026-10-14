@@ -1,0 +1,23 @@
+id: uu-1958-067
+judul: Undang-Undang Nomor 67 Tahun 1958 tentang PERUBAHAN BATAS-BATAS WILAYAH KOTAPRAJA
+  SALATIGA DAN DAERAH SWATANTRA TINGKAT II SEMARANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f97217d1e9c4f75b1344512f4672b57c2eddef6a416a74509b33f09c42797661
+  file_size_bytes: 31483
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu67-1958.pdf'

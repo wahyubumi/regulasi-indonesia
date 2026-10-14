@@ -1,0 +1,23 @@
+id: uu-1946-023
+judul: Undang-Undang Nomor 23 Tahun 1946 tentang PENGESAHAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG-UNDANG NO. 9 TAHUN 1946
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 10274807a3e065914418d933d8e300a5346a928298818eafb661bd9e22e14279
+  file_size_bytes: 33174
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-1946.pdf'

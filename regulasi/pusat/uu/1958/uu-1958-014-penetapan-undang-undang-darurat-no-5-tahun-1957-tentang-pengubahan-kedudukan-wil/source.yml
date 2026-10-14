@@ -1,0 +1,25 @@
+id: uu-1958-014
+judul: Undang-Undang Nomor 14 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 5 TAHUN 1957 TENTANG PENGUBAHAN KEDUDUKAN WILAYAH DAERAH-DAERAH ENCLAVE IMOGIRI,
+  KOTA GEDE DAN NGAWEN" (LEMBARAN-NEGARA TAHUN 1957 NO. 5), SEBAGAI UNDANG-UNDANG
+  *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 739053c17a9f908ce64ef077cd62781a563f4b9a79d5df167e709bc9c335c8e0
+  file_size_bytes: 24944
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-1958.pdf'

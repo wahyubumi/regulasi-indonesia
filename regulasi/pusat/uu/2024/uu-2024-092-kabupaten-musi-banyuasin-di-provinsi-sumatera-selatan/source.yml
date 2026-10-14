@@ -1,0 +1,23 @@
+id: uu-2024-092
+judul: Undang-Undang Nomor 92 Tahun 2024 tentang KABUPATEN MUSI BANYUASIN DI PROVINSI
+  SUMATERA SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4aa5c039ce8da7b1bda234e8da2121f08df96534f5097af6ac11ba43a0378ddc
+  file_size_bytes: 427511
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-92-tahun-2024.pdf'

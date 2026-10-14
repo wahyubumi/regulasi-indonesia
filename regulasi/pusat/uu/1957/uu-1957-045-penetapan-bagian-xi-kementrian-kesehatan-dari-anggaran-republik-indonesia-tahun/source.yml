@@ -1,0 +1,23 @@
+id: uu-1957-045
+judul: Undang-Undang Nomor 45 Tahun 1957 tentang PENETAPAN BAGIAN XI (KEMENTRIAN KESEHATAN)
+  DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f4d190a3d063494edabd0f5bf2247e7a7723e38630d1928f685659187374b951
+  file_size_bytes: 34765
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu45-1957.pdf'

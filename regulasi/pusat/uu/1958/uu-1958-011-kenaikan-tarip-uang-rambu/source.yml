@@ -1,0 +1,22 @@
+id: uu-1958-011
+judul: Undang-Undang Nomor 11 Tahun 1958 tentang KENAIKAN TARIP UANG RAMBU *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: cf261885f30b8864da1c1436c169b6d93e88c6627d5e023664e6aa604a545083
+  file_size_bytes: 20638
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-1958.pdf'

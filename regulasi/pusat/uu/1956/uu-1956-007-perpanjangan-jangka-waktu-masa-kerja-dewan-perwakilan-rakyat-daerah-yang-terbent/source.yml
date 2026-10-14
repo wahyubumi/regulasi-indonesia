@@ -1,0 +1,24 @@
+id: uu-1956-007
+judul: Undang-Undang Nomor 7 Tahun 1956 tentang PERPANJANGAN JANGKA WAKTU MASA-KERJA
+  DEWAN PERWAKILAN RAKYAT DAERAH YANG TERBENTUKBERDASARKAN PERATURAN PEMERINTAH NO.
+  39 TAHUN 1950 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0d6777096e335ffa7d8b163aeb2869c1042547e9a3bb75137bc29772105af9d0
+  file_size_bytes: 102008
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1956.pdf'

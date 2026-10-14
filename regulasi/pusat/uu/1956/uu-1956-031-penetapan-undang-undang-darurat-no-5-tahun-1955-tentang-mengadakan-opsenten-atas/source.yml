@@ -1,0 +1,24 @@
+id: uu-1956-031
+judul: Undang-Undang Nomor 31 Tahun 1956 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  5 TAHUN 1955 TENTANG MENGADAKAN OPSENTEN ATAS CUKAI BENSIN (LEMBARAN-NEGARA TAHUN
+  1955 NO. 24) SEBAGAI UNDANG-UNDANG *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ba80460b1bdcc452225fd53a61db1cf1a16da8abb189f49e9e34a807fe8914a9
+  file_size_bytes: 91982
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu31-1956.pdf'

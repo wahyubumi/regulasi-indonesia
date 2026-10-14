@@ -1,0 +1,25 @@
+id: uu-1958-030
+judul: Undang-Undang Nomor 30 Tahun 1958 tentang PENETAPAN BAGIAN IVA (URUSAN PENYELENGGARAAN
+  KEUANGAN DAN PERHITUNGAN-PERHITUNGANNYA MENGENAI PERUSAHAAN- PERUSAHAAN DAN JAWATAN-JAWATAN
+  (PEMERINTAH) YANG MEMPUNYAI PENGURUS SENDIRI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK
+  TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3714cb4b232d22927043c1f2f1aa6277a9410c1d25d747ca7b6afb5687d52923
+  file_size_bytes: 46567
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu30-1958.pdf'

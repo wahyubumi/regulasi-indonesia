@@ -1,0 +1,26 @@
+id: uu-1950-012
+judul: Undang-Undang Nomor 12 Tahun 1950 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NOMOR 12 TAHUN 1950, TENTANG MENGADAKAN PAJAK PEREDARAN 1950" (LEMBARAN-NEGARA NOMOR
+  19 TAHUN 1950) DAN "UNDANG-UNDANG DARURAT NOMOR 38 TAHUN 1950 TENTANG TAMBAHAN DAN
+  PERUBAHAN UNDANG-UNDANG PAJAK PEREDARAN 1950" (LEMBARAN- NEGARA NOMOR 80 TAHUN 1950),
+  SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ffa5e25f516fb75073233c795dfc8098d11f67f6ac07ecc85afc7c982aea2faa
+  file_size_bytes: 251589
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-1953.pdf'

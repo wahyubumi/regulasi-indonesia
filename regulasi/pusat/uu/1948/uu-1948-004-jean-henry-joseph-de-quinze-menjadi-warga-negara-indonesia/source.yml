@@ -1,0 +1,23 @@
+id: uu-1948-004
+judul: Undang-Undang Nomor 4 Tahun 1948 tentang Jean Henry Joseph de Quinze menjadi
+  Warga Negara Indonesia
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3c6154b4782f08e2f6e7bb1586a90f9a470ca42da0130fd32c7a15cf506ad424
+  file_size_bytes: 14265
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1948.pdf'

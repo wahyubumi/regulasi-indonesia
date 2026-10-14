@@ -1,0 +1,23 @@
+id: uu-2008-054
+judul: Undang-Undang Nomor 54 Tahun 2008 tentang PEMBENTUKAN KABUPATEN INTAN JAYA
+  DI PROVINSI PAPUA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6233979cc5ce9fa467028d8dbb264d673aa7b9128b9108d0bedf9751de0afc33
+  file_size_bytes: 158323
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0542008.pdf'

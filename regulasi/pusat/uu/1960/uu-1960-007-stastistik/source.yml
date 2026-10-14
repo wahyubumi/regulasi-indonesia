@@ -1,0 +1,22 @@
+id: uu-1960-007
+judul: Undang-Undang Nomor 7 Tahun 1960 tentang STASTISTIK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: efbe7f37705cd0f7a69adaccb5d16f916cad2d4107155bb9ea2b3f4c1d7c59d6
+  file_size_bytes: 68275
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0071960.pdf'

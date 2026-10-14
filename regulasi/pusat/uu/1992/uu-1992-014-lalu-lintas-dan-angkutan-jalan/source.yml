@@ -1,0 +1,22 @@
+id: uu-1992-014
+judul: Undang-Undang Nomor 14 Tahun 1992 tentang LALU LINTAS DAN ANGKUTAN JALAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b46da144fb24bc62c124b0a1d9d3591873c5202af29c02f7a9411fad1f3c17de
+  file_size_bytes: 195366
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+14+TH+1992.pdf'

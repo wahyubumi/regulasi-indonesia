@@ -1,0 +1,24 @@
+id: uu-1955-007
+judul: Undang-Undang Nomor 7 Tahun 1955 tentang PENETAPAN UNDANG-UNDANG DARURAT NO.
+  33 TAHUN 1950 UNTUK MENCABUT KEMBALI UNDANG-UNDANG DARURAT REPUBLIK INDONESIA SERIKAT
+  NO.6 TAHUN 1950 TENTANG PEMBENTUKAN JABATAN GUBERNUR MILITER IBU KOTA, SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bd010a8507d76faa58e2f681862bd5a21b85442ede7be3ef431776fd47677182
+  file_size_bytes: 94082
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1955.pdf'

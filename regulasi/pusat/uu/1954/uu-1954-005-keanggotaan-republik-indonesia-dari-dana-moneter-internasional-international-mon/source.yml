@@ -1,0 +1,24 @@
+id: uu-1954-005
+judul: Undang-Undang Nomor 5 Tahun 1954 tentang KEANGGOTAAN REPUBLIK INDONESIA DARI
+  DANA MONETER INTERNASIONAL (INTERNATIONAL MONETERY FUND) DAN BANK INTERNASIONAL
+  UNTUK REKONSTRUKSI DAN PEMBANGUNAN (INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6d4086bc079efab2a7376a6afc1bb62d31e7bc48a2d5adbf346b367f856f563e
+  file_size_bytes: 128719
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1954.pdf'

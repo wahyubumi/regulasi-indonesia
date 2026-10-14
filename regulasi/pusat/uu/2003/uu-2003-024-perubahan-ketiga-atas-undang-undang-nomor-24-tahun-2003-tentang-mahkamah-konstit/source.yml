@@ -1,0 +1,23 @@
+id: uu-2003-024
+judul: Undang-Undang Nomor 24 Tahun 2003 tentang PERUBAHAN KETIGA ATAS UNDANG-UNDANG
+  NOMOR 24 TAHUN 2003 TENTANG MAHKAMAH KONSTITUSI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9a051ee5bda90522d73398cab4ee0c457da3dc6489eedac8d9e02857cee3a243
+  file_size_bytes: 250705
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-2020bt.pdf'

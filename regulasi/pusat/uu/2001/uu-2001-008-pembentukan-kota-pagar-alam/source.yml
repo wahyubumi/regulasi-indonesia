@@ -1,0 +1,22 @@
+id: uu-2001-008
+judul: Undang-Undang Nomor 8 Tahun 2001 tentang PEMBENTUKAN KOTA PAGAR ALAM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: cb897d7824fedcee77af0dc6be647ef8bb1322678d04904534bfe7880a61333a
+  file_size_bytes: 93667
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-2001.pdf'

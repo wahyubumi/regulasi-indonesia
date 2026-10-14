@@ -1,0 +1,23 @@
+id: uu-2008-053
+judul: Undang-Undang Nomor 53 Tahun 2008 tentang PEMBENTUKAN KABUPATEN PULAU MOROTAI
+  DI PROVINSI MALUKU UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f1a56e603752c834708a62fdb617ed2b9b1bbc6e16854b56b4a2310a576e08bc
+  file_size_bytes: 144358
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0532008.pdf'

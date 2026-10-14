@@ -1,0 +1,23 @@
+id: uu-2008-040
+judul: Undang-Undang Nomor 40 Tahun 2008 tentang PENGHAPUSAN DISKRIMINASI RAS DAN
+  ETNIS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: edb78861a2502e008b4b41c676c4a9952a0ec3934ef4a85a8f1ffeac23058d7b
+  file_size_bytes: 110380
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0402008.pdf'

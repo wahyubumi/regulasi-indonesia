@@ -1,0 +1,225 @@
+---
+id: "uu-1978-006"
+jenis: "uu"
+nomor: "6"
+tahun: 1978
+judul: "Undang-Undang Nomor 6 Tahun 1978 tentang PEMBENTUKAN PENGADILAN TINGGI KUPANG DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI DENPASAR"
+status: "perlu_verifikasi"
+sumber: "Ditjen Peraturan Perundang-undangan / JDIH"
+---
+
+# Undang-Undang Nomor 6 Tahun 1978 tentang PEMBENTUKAN PENGADILAN TINGGI KUPANG DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI DENPASAR
+
+## Catatan Konversi
+
+Dokumen ini merupakan hasil konversi dari format PDF ke Markdown. Untuk rujukan hukum resmi, gunakan dokumen resmi dari sumber regulasi terkait.
+
+---
+
+## Teks Regulasi
+
+<!-- Konversi lokal pdftotext; verifikasi struktur dan substansi sebelum dipromosikan. -->
+
+<!-- PAGE: 1 -->
+
+                 UNDANG-UNDANG REPUBLIK INDONESIA
+                        NOMOR 6 TAHUN 1978
+                             TENTANG
+        PEMBENTUKAN PENGADILAN TINGGI KUPANG DAN PERUBAHAN
+             WILAYAH HUKUM PENGADILAN TINGGI DENPASAR
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+                    PRESIDEN REPUBLIK INDONESIA,
+
+Menimbang       : a. bahwa untuk tercapainya penyelesaian perkara-perkara
+                     secara cepat, dan untuk menghindari keterlambatan
+                     dalam penyelesaian perkara serta berhubung dengan
+                     perkembangan ketatanegaraan, dipandang perlu
+                     membentuk Pengadilan Tinggi Kupang;
+                  b. bahwa berhubung dengan sub a, perlu mengadakan
+                     perubahan wilayah hukum Pengadilan Tinggi Denpasar;
+
+Mengingat       :1. Pasal 5 ayat (1) dan Pasal 20 ayat (1) Undang-Undang
+                     Dasar 1945;
+                 2. Ketetapan Majelis Permusyawaratan Rakyat Republik
+                     Indonesia Nomor VI/MPR/1978 tentang Pengukuhan
+                     Penyatuan Wilayah Timor Timur ke dalam Negara
+                     Kesatuan Republik Indonesia;
+                  3. Undang-undang Nomor 1 Drt. Tahun 1951 tentang
+                     Tindakan-tindakan Sementara untuk menyelenggarakan
+                     Kesatuan Susunan, Kekuasaan dan Acara Pengadilan-
+                     pengadilan Sipil (Lembaran Negara Tahun 1951 Nomor
+                     9, Tambahan Lembaran Negara Nomor 81) jo. Undang-
+                     undang Nomor 11 Drt. Tahun 1955 tentang Pengubahan
+                     Undang-undang Nomor 1 Drt. Tahun 1951 tentang
+                     Tindakan-tindakan Sementara untuk menyelenggarakan
+                     Kesatuan Susunan, Kekuasaan dan Acara Pengadilan-
+                     Pengadilan Sipil (Lembaran Negara Tahun 1955 Nomor
+                     36, Tambaban Lembaran Negara Nomor 816);
+                  4. Undang-undang       Nomor 1 Tahun 1965 tentang
+                     Pembentukan Pengadilan Tinggi di Denpasar dan
+                     Perubahan Daerah Hukum Pengadilan Tinggi di Makasar
+
+
+
+
+                                                                    www.djpp.depkumham.go.id
+
+<!-- PAGE: 2 -->
+
+                          (Lembaran Negara Tahun 1965 Nomor 2, Tambahan
+                          Lembaran Negara Nomor 2725);
+                       5. Undang-undang      Nomor 13 Tahun 1965 tentang
+                          Pengadilan dalam Lingkungan Peradilan Umum dan
+                          Mahkamah Agung (Lembaran Negara Tahun 1965 Nomor
+                          70, Tambahan Lembaran Negara Nomor 2767) jo.
+                          Undang-undang      Nomor 6 Tahun 1969 tentang
+                          Pernyataan tidak berlakunya berbagai Undang-undang
+                          dan Peraturan Pemerintah Pengganti Undang-undang
+                          (Lembaran Negara Tahun 1969 Nomor 37, Tambahan
+                          Lembaran Negara Nomor 2901);
+                       6. Undang-undang      Nomor 14 Tahun 1970 tentang
+                          Ketentuan-ketentuan Pokok Kekuasaan Kehakiman
+                          (Lembaran Negara Tahun 1970 Nomor 74, Tambahan
+                          Lembaran Negara Nomor 2951 );
+                       7. Undang-undang      Nomor 7 Tahun 1976 tentang
+                          Pengesahan Penyatuan Timor Timur ke dalam Negara
+                          Kesatuan Republik Indonesia dan Pembentukan Propinsi
+                          Daerah Tingkat I Timor Timur (Lembaran Negara Tahun
+                          1976 Nomor 35, Tambahan Lembaran Negara Nomor
+                          3084);
+
+
+                          Dengan persetujuan
+              DEWAN PERWAKILAN RAKYAT REPUBLIK INDONESIA,
+
+                                 MEMUTUSKAN :
+
+Menetapkan         :     UNDANG-UNDANG TENTANG PEMBENTUKAN PENGADILAN
+                         TINGGI KUPANG DAN PERUBAHAN WILAYAH HUKUM
+                         PENGADILAN TINGGI DENPASAR.
+
+                                     Pasal 1
+
+(1)   Membentuk Pengadilan Tinggi Kupang yang berkedudukan di Kupang.
+(2)   Wilayah Hukum Pengadilan Tinggi tersebut pada ayat (1) meliputi wilayah
+      hukum semua Pengadilan Negeri dalam Propinsi Nusa Tenggara Timur dan
+      Propinsi Timor Timur.
+
+                                     Pasal 2
+
+Wilayah hukum Pengadilan Tinggi Denpasar dikurangi dengan wilayah hukum
+semua Pengadilan Negeri dalam Propinsi Nusa Tenggara Timur dan Propinsi
+Timor Timur.
+
+
+
+
+                                                                         www.djpp.depkumham.go.id
+
+<!-- PAGE: 3 -->
+
+                                   Pasal 3
+
+Perkara-perkara yang berasal dari Pengadilan Negeri dalam Propinsi Nusa
+Tenggara Timur dan Propinsi Timor Timur, yang pada saat mulai berlakunya
+Undang-undang ini sudah terdaftar tetapi belum diputus oleh Pengadilan Tinggi
+Denpasar, diperiksa dan diputus oleh Pengadilan Tinggi Kupang.
+
+
+                                   Pasal 4
+
+Undang-undang ini mulai berlaku pada tanggal diundangkannya.
+
+Agar supaya setiap orang mengetahuinya, memerintahkan pengundangan
+Undang-undang ini dengan penempatannya dalam Lembaran Negara Republik
+Indonesia.
+
+
+                                         Disahkan di Jakarta
+                                         pada tanggal 3 Agustus 1978
+                                         PRESIDEN REPUBLIK INDONESIA,
+
+                                                     Ttd.
+
+                                                 SOEHARTO
+
+Diundangkan di Jakarta
+pada tanggal 3 Agustus 1978
+MENTERI/SEKRETARIS NEGARA
+REPUBLIK INDONESIA,
+
+Ttd.
+
+SUDHARMONO, SH.
+
+
+
+
+                                                                        www.djpp.depkumham.go.id
+
+<!-- PAGE: 4 -->
+
+                            PENJELASAN
+                               ATAS
+                  UNDANG-UNDANG REPUBLIK INDONESIA
+                        NOMOR 6 TAHUN 1978
+                             TENTANG
+               PEMBENTUKAN PENGADILAN TINGGI KUPANG
+           DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI
+                             DENPASAR
+
+I.    UMUM
+      Sesuai dengan ketentuan (Undang-undang yang berlaku dalam prinsipnya
+      di tiap-tiap Propinsi perlu diadakan Pengadilan Tinggi, seperti halnya di
+      tiap-tiap Kabupaten diadakan Pengadilan Negeri. Pelaksanaan
+      selanjutnya segera dapat diwujudkan apabila secara tehnis dapat
+      dipertanggungjawabkan.
+      Dengan masuknya Timor Timur ke dalam Wilayah Republik Indonesia
+      sebagai Propinsi ke 27 dan di bidang peradilan secara de facto
+      dimasukkan wilayah hukum Pengadilan Tinggi Denpasar, maka beban
+      tugas Pengadilan Tinggi Denpasar menjadi amat berat.
+      Langkah pertama sekarang ini perlu diadakan tindakan-tindakan untuk
+      meringankan beban Pengadilan Tinggi Denpasar dan selekas mungkin
+      diserahkan sebagian dari tugas Pengadilan Tinggi tersebut kepada
+      Pengadilan Tinggi lain, serta untuk mencegah banyaknya perkara-perkara
+      yang tidak mendapat putusan dalam tingkat banding secara cepat, maka
+      dirasa perlu dalam waktu yang singkat dibentuk Pengadilan Tinggi
+      Kupang. Dengan demikian perlu diatur kembali wilayah hukum
+      Pengadilan Tinggi Denpasar sebagaimana dimaksud dalam Undang-
+      undang Nomor 1 Tahun 1965 tentang Pembentukan Pengadilan Tinggi di
+      Denpasar dan Perubahan Daerah Hukum Pengadilan Tinggi di Makasar
+      (Lembaran Negara Tahun 1965 Nomor 2, Tambahan Lembaran Negara
+      Nomor 2725);
+      Hal-hal tersebut di atas dilaksanakan dengan Undang-undang ini.
+
+II.   PASAL DEMI PASAL
+
+      Pasal 1
+             Cukup jelas.
+
+      Pasal 2
+             Pengadilan Tinggi Kupang mulai saat ini meliputi Pengadilan-
+             pengadilan Negeri di Kupang, Ende, Atambua, Kefamenanu,
+             Larantuka, Maumere, Ruteng, So'e, Waikabubak, Bajawa,
+             Kalabahi, Waingapu, dan Pengadilan-pengadilan Negeri di Propinsi
+             Timor Timur.
+
+
+
+
+                                                                          www.djpp.depkumham.go.id
+
+<!-- PAGE: 5 -->
+
+Pasal 3
+          Cukup jelas.
+
+Pasal 4
+          Cukup jelas.
+
+
+
+
+                         www.djpp.depkumham.go.id

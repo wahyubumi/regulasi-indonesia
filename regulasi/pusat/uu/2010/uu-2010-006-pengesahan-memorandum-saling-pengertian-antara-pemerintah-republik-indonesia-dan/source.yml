@@ -1,0 +1,27 @@
+id: uu-2010-006
+judul: Undang-Undang Nomor 6 Tahun 2010 tentang PENGESAHAN MEMORANDUM SALING PENGERTIAN
+  ANTARA PEMERINTAH REPUBLIK INDONESIA DAN KERAJAAN KEBAWAH DULI YANG MAHA MULIA PADUKA
+  SERI BAGINDA SULTAN DAN YANG DI-PERTUAN um NEGARA BRUNEI DARUSSALAM TENTANG KERJASAMA
+  DI BIDANG PERTAHANAN (MEMORANDUM OF UNDERSTANDING BETWEEN THE GOVERNMENT OF THE
+  REPUBLIC OF INDONESIA AND THE GOVERNMENT OF HIS MAJESTY THE SULTAN AND YANG DI-PERTUAN
+  OF BRUNEI DARUSSALAM pk ON DEFENCE COOPERATION)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ca6a0a5dc367744eba764a2da444a9b35a0df34dc0bc509e5b3576e9cac20977
+  file_size_bytes: 46028
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-2010.pdf'

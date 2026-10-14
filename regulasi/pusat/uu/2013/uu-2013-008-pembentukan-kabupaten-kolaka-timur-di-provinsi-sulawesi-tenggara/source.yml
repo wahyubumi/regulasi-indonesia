@@ -1,0 +1,23 @@
+id: uu-2013-008
+judul: Undang-Undang Nomor 8 Tahun 2013 tentang PEMBENTUKAN KABUPATEN KOLAKA TIMUR
+  DI PROVINSI SULAWESI TENGGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6c44fc7a1117475692758477c471184c87d1d662523194a2b11ed89b977d4061
+  file_size_bytes: 2501376
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-2013bt.pdf'

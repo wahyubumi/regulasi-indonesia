@@ -1,0 +1,24 @@
+id: uu-1999-012
+judul: Undang-Undang Nomor 12 Tahun 1999 tentang PEMBENTUKAN KABUPATEN DAERAH TINGKAT
+  II WAY KANAN, KABUPATEN DAERAH TINGKAT II LAMPUNG TIMUR, DAN KOTAMADYA DAERAH TINGKAT
+  II METRO
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9fc6a176fc4b8937fbe364430291304565cfbff9d67c6f0f84eee03ac81bae3b
+  file_size_bytes: 171545
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1999.pdf'

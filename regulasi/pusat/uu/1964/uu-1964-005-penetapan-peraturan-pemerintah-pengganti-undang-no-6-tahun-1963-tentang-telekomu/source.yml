@@ -1,0 +1,24 @@
+id: uu-1964-005
+judul: Undang-Undang Nomor 5 Tahun 1964 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI
+  UNDANG NO. 6 TAHUN 1963 TENTANG TELEKOMUNIKASI (LEMBARAN NEGARA TAHUN 1963 NO. 66)
+  MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 86c3371ab8b1ba4e0c1d1dbf770ff5a6fed56bba21abadf7d98e1095757100cb
+  file_size_bytes: 104354
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0051964.pdf'

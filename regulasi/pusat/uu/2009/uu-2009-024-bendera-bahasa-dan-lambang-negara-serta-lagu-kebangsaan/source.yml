@@ -1,0 +1,23 @@
+id: uu-2009-024
+judul: Undang-Undang Nomor 24 Tahun 2009 tentang BENDERA, BAHASA, DAN LAMBANG NEGARA,
+  SERTA LAGU KEBANGSAAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 66444cf319b6376f78e50117d42c457b158e06ed4c4e359f0783257dbdbe76e9
+  file_size_bytes: 948928
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+24+Tahun+2009.pdf'

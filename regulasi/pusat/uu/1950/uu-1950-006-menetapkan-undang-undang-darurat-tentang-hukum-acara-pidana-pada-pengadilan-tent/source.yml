@@ -1,0 +1,24 @@
+id: uu-1950-006
+judul: Undang-Undang Nomor 6 Tahun 1950 tentang MENETAPKAN "UNDANG-UNDANG DARURAT
+  TENTANG HUKUM ACARA PIDANA PADA PENGADILAN TENTARA" (UNDANG-UNDANG DARURAT NR. 17,
+  TAHUN 1950), SEBAGAI UNDANG-UNDANG FEDERAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ce36f30974b7e3c18e64ed7455630a5de8aeaacd7596b8485ce89633a2cb152f
+  file_size_bytes: 30191
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1950.pdf'

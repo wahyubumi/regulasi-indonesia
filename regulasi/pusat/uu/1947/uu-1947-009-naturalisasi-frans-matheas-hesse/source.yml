@@ -1,0 +1,22 @@
+id: uu-1947-009
+judul: Undang-Undang Nomor 9 Tahun 1947 tentang NATURALISASI FRANS MATHEAS HESSE
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 671ba29ad148a1d5b99c8f165cd9ab703bee24a228af112a2f50213a9d2fc9b7
+  file_size_bytes: 34131
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu9-1947.pdf'

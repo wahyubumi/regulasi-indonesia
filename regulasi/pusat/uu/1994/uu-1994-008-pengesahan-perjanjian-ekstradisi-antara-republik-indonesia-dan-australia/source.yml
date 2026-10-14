@@ -1,0 +1,23 @@
+id: uu-1994-008
+judul: Undang-Undang Nomor 8 Tahun 1994 tentang PENGESAHAN PERJANJIAN EKSTRADISI ANTARA
+  REPUBLIK INDONESIA DAN AUSTRALIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6877de03cf5a0e8011b7c5848baf9a9ccda288925039f814d906402c409680ce
+  file_size_bytes: 73569
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0081994.pdf'

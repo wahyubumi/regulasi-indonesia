@@ -1,0 +1,22 @@
+id: uu-1967-012
+judul: Undang-Undang Nomor 12 Tahun 1967 tentang POKOK-POKOK PERKOPERASIAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 05cfe9ab033299758973fd2381f0569ab3ea84e4d020c5804ec00e0c32433a23
+  file_size_bytes: 141688
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0121967.pdf'

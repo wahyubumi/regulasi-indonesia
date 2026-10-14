@@ -1,0 +1,22 @@
+id: uu-2002-022
+judul: Undang-Undang Nomor 22 Tahun 2002 tentang GRASI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7d56966cd970892ab74cecdc1ad29b4399b60e9ce8c8f219e2b78cb63ffb7eac
+  file_size_bytes: 44551
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-2002.pdf'

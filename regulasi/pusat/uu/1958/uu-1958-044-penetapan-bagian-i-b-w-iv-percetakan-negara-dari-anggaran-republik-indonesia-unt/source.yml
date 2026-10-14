@@ -1,0 +1,23 @@
+id: uu-1958-044
+judul: Undang-Undang Nomor 44 Tahun 1958 tentang PENETAPAN BAGIAN I.B.W. IV (PERCETAKAN
+  NEGARA) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ad554ac1fff68c2d822de451a9d843a93a7b9869004ce83d39a0bd2a79dd1810
+  file_size_bytes: 12832
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu44-1958.pdf'

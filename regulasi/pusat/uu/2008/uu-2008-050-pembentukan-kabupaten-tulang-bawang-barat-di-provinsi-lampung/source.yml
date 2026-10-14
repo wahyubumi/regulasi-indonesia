@@ -1,0 +1,23 @@
+id: uu-2008-050
+judul: Undang-Undang Nomor 50 Tahun 2008 tentang PEMBENTUKAN KABUPATEN TULANG BAWANG
+  BARAT DI PROVINSI LAMPUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: da848b46835d98c14c6c4104379a09803a87cd8deb9612e40752d5cf67e1bdbd
+  file_size_bytes: 158181
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0502008.pdf'

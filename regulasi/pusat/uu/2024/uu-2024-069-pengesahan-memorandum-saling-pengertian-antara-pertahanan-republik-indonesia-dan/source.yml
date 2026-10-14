@@ -1,0 +1,26 @@
+id: uu-2024-069
+judul: Undang-Undang Nomor 69 Tahun 2024 tentang PENGESAHAN MEMORANDUM SALING PENGERTIAN
+  ANTARA PERTAHANAN REPUBLIK INDONESIA DAN KEMENTERIAN PERTAHANAN PERSATUAN EMIRAT
+  ARAB MENGENAI KERJA SAMA DI BIDANG PERTAHANAN (MEMORANDUM OF UNDERSTANDING BETWEEN
+  THE MINISTRY OF DEFENCE OF THE REPUBLIC OF INDONESIA AND THE MIIVISTRY OF DEFENCE
+  OF THE UNITED ARAB EMIRATES ON COOPERATION IN THE FIELD OF DEFENCEI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6234d2155c42f6a2f3c6fa804a367bc3b54fd62ce2fc90d424e2b34d6c849956
+  file_size_bytes: 432358
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-69-tahun-2024.pdf'

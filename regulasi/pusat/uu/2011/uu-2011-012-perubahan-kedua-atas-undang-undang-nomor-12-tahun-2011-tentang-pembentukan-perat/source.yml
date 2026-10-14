@@ -1,0 +1,23 @@
+id: uu-2011-012
+judul: Undang-Undang Nomor 12 Tahun 2011 tentang PERUBAHAN KEDUA ATAS UNDANG-UNDANG
+  NOMOR 12 TAHUN 2011 TENTANG PEMBENTUKAN PERATURAN PERUNDANG-UNDANGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bdcdf76cb1b023b098963b525493063899a71f02bb43ae119347b3ddd1ca9e95
+  file_size_bytes: 2961072
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-2022.pdf'

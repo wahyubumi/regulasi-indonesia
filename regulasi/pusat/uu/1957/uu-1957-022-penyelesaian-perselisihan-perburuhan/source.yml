@@ -1,0 +1,22 @@
+id: uu-1957-022
+judul: Undang-Undang Nomor 22 Tahun 1957 tentang PENYELESAIAN PERSELISIHAN PERBURUHAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8aceac409580d599debef6090a9ea35607e6d1dd8d416139dd6efd7f6581cbb8
+  file_size_bytes: 93412
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-1957.pdf'

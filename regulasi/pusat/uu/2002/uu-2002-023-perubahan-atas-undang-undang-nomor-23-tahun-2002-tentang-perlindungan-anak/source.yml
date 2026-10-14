@@ -1,0 +1,23 @@
+id: uu-2002-023
+judul: Undang-Undang Nomor 23 Tahun 2002 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  23 TAHUN 2002 TENTANG PERLINDUNGAN ANAK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2d9ae75f5f9645b1a1054fa4087403e538a37f549761d033d8ad28af3c8ffc09
+  file_size_bytes: 166186
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu35-2014bt.pdf'

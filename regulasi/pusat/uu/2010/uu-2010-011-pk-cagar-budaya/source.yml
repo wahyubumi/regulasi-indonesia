@@ -1,0 +1,22 @@
+id: uu-2010-011
+judul: Undang-Undang Nomor 11 Tahun 2010 tentang pk CAGAR BUDAYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 59f1aaae7def15d88a81ca52f61de9d4536264659ecc758c447fd7be8695b1d9
+  file_size_bytes: 127285
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2010bt.pdf'

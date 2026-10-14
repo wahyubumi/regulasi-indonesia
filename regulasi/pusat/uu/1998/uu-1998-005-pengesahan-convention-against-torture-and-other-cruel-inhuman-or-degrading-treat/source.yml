@@ -1,0 +1,25 @@
+id: uu-1998-005
+judul: Undang-Undang Nomor 5 Tahun 1998 tentang PENGESAHAN CONVENTION AGAINST TORTURE
+  AND OTHER CRUEL, INHUMAN OR DEGRADING TREATMENT OR PUNISHMENT (KONVENSI MENENTANG
+  PENYIKSAAN DAN PERLAKUAN ATAU PENGHUKUMAN LAIN YANG KEJAM, TIDAK MANUSIAWI, ATAU
+  MERENDAHKAN MARTABAT MANUSIA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a17adaef05538ca7548586a72a81b8d20f416eb280142cd36bebb7b269378cdc
+  file_size_bytes: 52674
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1998.pdf'

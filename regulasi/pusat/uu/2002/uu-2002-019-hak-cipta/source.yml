@@ -1,0 +1,22 @@
+id: uu-2002-019
+judul: Undang-Undang Nomor 19 Tahun 2002 tentang HAK CIPTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9aa18249b7d848de4e4771c37b96feecb8f85680194d28b8994f6b1442b7b42b
+  file_size_bytes: 175965
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu19-2002.pdf'

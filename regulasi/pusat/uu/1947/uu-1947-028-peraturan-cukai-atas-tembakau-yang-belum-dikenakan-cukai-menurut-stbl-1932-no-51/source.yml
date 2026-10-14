@@ -1,0 +1,23 @@
+id: uu-1947-028
+judul: Undang-Undang Nomor 28 Tahun 1947 tentang PERATURAN CUKAI ATAS TEMBAKAU YANG
+  BELUM DIKENAKAN CUKAI MENURUT STBL. 1932, NO. 517 (TABAKSAC CIJNSORDONNANTIE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2bc7a84cf4b75cde616f724aeaa9abbe946def41de09f595fa5446282e57f132
+  file_size_bytes: 94622
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu28-1947.pdf'

@@ -1,0 +1,22 @@
+id: uu-2009-010
+judul: Undang-Undang Nomor 10 Tahun 2009 tentang KEPARIWISATAAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: aeed8f3879d81048f88abf4b153a86183897930b9c89270ebf166bacef1b4e23
+  file_size_bytes: 82180
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu10-2009.pdf'

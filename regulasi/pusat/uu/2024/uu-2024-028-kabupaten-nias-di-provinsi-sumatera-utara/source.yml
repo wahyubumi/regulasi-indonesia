@@ -1,0 +1,23 @@
+id: uu-2024-028
+judul: Undang-Undang Nomor 28 Tahun 2024 tentang KABUPATEN NIAS DI PROVINSI SUMATERA
+  UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 505de3a2cb13a8b477075c1ec6488e0aa08bcb9deb5bf6f0650da39b5bfaf28c
+  file_size_bytes: 863932
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-28-tahun-2024.pdf'

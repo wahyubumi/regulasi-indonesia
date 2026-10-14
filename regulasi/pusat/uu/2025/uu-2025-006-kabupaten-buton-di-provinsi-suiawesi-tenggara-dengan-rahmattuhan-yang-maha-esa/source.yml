@@ -1,0 +1,23 @@
+id: uu-2025-006
+judul: Undang-Undang Nomor 6 Tahun 2025 tentang KABUPATEN BUTON DI PROVINSI SUIAWESI
+  TENGGARA DENGAN RAHMATTUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 64c12fbc60c425374837a416fd5fe786b45eefa128f8d3b4eb86fd7d5b47fadd
+  file_size_bytes: 347278
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-6-tahun-2025.pdf'

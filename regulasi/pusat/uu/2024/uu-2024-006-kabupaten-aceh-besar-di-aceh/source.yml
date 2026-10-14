@@ -1,0 +1,22 @@
+id: uu-2024-006
+judul: Undang-Undang Nomor 6 Tahun 2024 tentang KABUPATEN ACEH BESAR DI ACEH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5f17531ef3c4aa3c4cc853c89ee621a41a740b35918725099a00d45f44079d06
+  file_size_bytes: 661778
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-6-tahun-2024.pdf'

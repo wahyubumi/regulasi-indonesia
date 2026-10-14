@@ -1,0 +1,22 @@
+id: uu-1975-003
+judul: Undang-Undang Nomor 3 Tahun 1975 tentang PARTAI POLITIK DAN GOLONGAN KARYA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 41f59d3466e2036ab098e8aab00ce16176a03ad2b8612ed99498dd5364c13555
+  file_size_bytes: 89783
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1975.pdf'

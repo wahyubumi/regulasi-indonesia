@@ -1,0 +1,22 @@
+id: uu-2008-018
+judul: Undang-Undang Nomor 18 Tahun 2008 tentang PENGELOLAAN SAMPAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6344aa84385626c169d917dfd2a9f643424993dfcbc9663799b9e0f18720b3a3
+  file_size_bytes: 206957
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+18+Tahun+2008.pdf'

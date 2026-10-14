@@ -1,0 +1,22 @@
+id: uu-2019-024
+judul: Undang-Undang Nomor 24 Tahun 2019 tentang EKONOMI KREATIF
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a7949ab752c7ea1915dd216111127ce95e0a34fc09ebdcde176e175ef03aa178
+  file_size_bytes: 236128
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu24-2019bt.pdf'

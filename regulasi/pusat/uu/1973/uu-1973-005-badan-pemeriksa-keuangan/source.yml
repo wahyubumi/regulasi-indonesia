@@ -1,0 +1,22 @@
+id: uu-1973-005
+judul: Undang-Undang Nomor 5 Tahun 1973 tentang BADAN PEMERIKSA KEUANGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 81455a4f01fdfa5124c2fd55c69d288bb5df25f55e556e7cfe263e32d7d2dddf
+  file_size_bytes: 64762
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0051973.pdf'

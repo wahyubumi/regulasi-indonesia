@@ -1,0 +1,99 @@
+id: "uu-2009-018"
+jenis: "uu"
+jenis_lengkap: "Undang-Undang"
+nomor: "18"
+nomor_lengkap: "18"
+tahun: 2009
+judul: "Peternakan dan Kesehatan Hewan"
+judul_lengkap: "Undang-Undang Nomor 18 Tahun 2009 tentang Peternakan dan Kesehatan Hewan"
+
+tingkat: "pusat"
+hierarki_level: 3
+
+lembaga_penerbit:
+  - "Presiden Republik Indonesia"
+  - "Dewan Perwakilan Rakyat Republik Indonesia"
+pejabat_penetap:
+  - "DR. H. Susilo Bambang Yudhoyono"
+
+tanggal_ditetapkan: "2009-06-04"
+tanggal_diundangkan: "2009-06-04"
+tanggal_berlaku: "2009-06-04"
+tempat_ditetapkan: "Jakarta"
+
+lembaran_negara:
+  nomor: "84"
+  tahun: 2009
+
+tambahan_lembaran_negara:
+  nomor: "5015"
+
+berita_negara:
+  nomor: null
+  tahun: null
+
+tambahan_berita_negara:
+  nomor: null
+
+status:
+  berlaku: true
+  status_teks: "diubah"
+  mulai_berlaku: "2009-06-04"
+  berakhir: null
+  dicabut_oleh: []
+  mencabut:
+    - id: "uu-1967-006"
+      judul: "Undang-Undang Nomor 6 Tahun 1967 tentang Ketentuan-Ketentuan Pokok Peternakan dan Kesehatan Hewan"
+  mengubah: []
+  diubah_oleh:
+    - id: "uu-2014-041"
+      judul: "Undang-Undang Nomor 41 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 18 Tahun 2009 tentang Peternakan dan Kesehatan Hewan"
+    - id: "uu-2023-006"
+      judul: "Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang"
+
+subjek:
+  - "Peternakan"
+  - "Kesehatan Hewan"
+  - "Kesehatan Masyarakat Veteriner"
+  - "Kesejahteraan Hewan"
+sektor:
+  - "Pertanian dan Peternakan"
+kata_kunci:
+  - "peternakan"
+  - "kesehatan hewan"
+  - "unggas"
+  - "ayam"
+  - "budi daya ternak"
+  - "kesmavet"
+  - "pakan"
+  - "obat hewan"
+  - "veteriner"
+
+wilayah:
+  level: ""
+  kode: ""
+  nama: ""
+
+sumber:
+  nama: "Ditjen Peraturan Perundang-undangan (DJPP)"
+  url: "https://peraturan.go.id"
+  alternatif:
+    - nama: "JDIH BPK RI"
+      url: "https://peraturan.bpk.go.id/Details/38605/uu-no-18-tahun-2009"
+
+file:
+  markdown_utama: "dokumen.md"
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: "external"
+
+konversi:
+  metode: "PDF to Markdown"
+  tanggal_konversi: "2026-10-13"
+  alat: "pypdf"
+  ocr: null
+  status_kualitas: "verified"
+  pemeriksa: "Antigravity Agent"
+
+catatan: []

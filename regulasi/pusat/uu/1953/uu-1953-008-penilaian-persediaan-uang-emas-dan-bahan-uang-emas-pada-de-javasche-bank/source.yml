@@ -1,0 +1,23 @@
+id: uu-1953-008
+judul: Undang-Undang Nomor 8 Tahun 1953 tentang PENILAIAN PERSEDIAAN UANG EMAS DAN
+  BAHAN UANG EMAS PADA DE JAVASCHE BANK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 264070ed58f9387de497f228db56e6a0e19d243be27ddb40c0f739cc64d321bd
+  file_size_bytes: 28359
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu8-1953.pdf'

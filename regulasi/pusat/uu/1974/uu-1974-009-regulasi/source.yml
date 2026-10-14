@@ -1,0 +1,22 @@
+id: uu-1974-009
+judul: Undang-Undang Nomor 9 Tahun 1974 tentang Regulasi
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a77ee8294622df54222ad8fa649f1415958bd86404a0c2a0177977c583fca199
+  file_size_bytes: 874383
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+9+Tahun+1974-.pdf'

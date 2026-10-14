@@ -1,0 +1,22 @@
+id: uu-2001-002
+judul: Undang-Undang Nomor 2 Tahun 2001 tentang PEMBENTUKAN KOTA LHOKSEUMAWE
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 35dad0bac123958d67404b36e43aabe3427649715d0ebfce0d6fb1de1f41a68e
+  file_size_bytes: 93680
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu2-2001.pdf'

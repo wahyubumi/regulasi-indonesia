@@ -1,0 +1,23 @@
+id: uu-1994-004
+judul: Undang-Undang Nomor 4 Tahun 1994 tentang PEMBENTUKAN KOTAMADYA DAERAH TINGKAT
+  II PALU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1f560edf9cd25d6845f21733fd80510d059f508e1dc2766667228a2089aa7f74
+  file_size_bytes: 59884
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041994.pdf'

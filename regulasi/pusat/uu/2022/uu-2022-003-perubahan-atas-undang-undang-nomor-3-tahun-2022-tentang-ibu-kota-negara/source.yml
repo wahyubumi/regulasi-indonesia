@@ -1,0 +1,23 @@
+id: uu-2022-003
+judul: Undang-Undang Nomor 3 Tahun 2022 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  3 TAHUN 2022 TENTANG IBU KOTA NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ef0bd0b8fa4ac645d73ec39e658fc46ad6761c0de9727928b660bc3e6748172e
+  file_size_bytes: 6493701
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-21-tahun-2023.pdf'

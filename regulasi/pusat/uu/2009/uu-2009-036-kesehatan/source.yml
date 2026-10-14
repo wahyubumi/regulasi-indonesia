@@ -1,0 +1,22 @@
+id: uu-2009-036
+judul: Undang-Undang Nomor 36 Tahun 2009 tentang KESEHATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f3f2f0d9a39474f55e34891d73af4d48cdd82be4ae5887e9772f04c724634dc6
+  file_size_bytes: 168228
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu36-2009.pdf'

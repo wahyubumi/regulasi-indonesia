@@ -1,0 +1,23 @@
+id: uu-2003-014
+judul: Undang-Undang Nomor 14 Tahun 2003 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 2001
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8f40697868f41bd8c484e9a02c43973ac35c1609cd6b3fc78377d094255c6b6d
+  file_size_bytes: 140827
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2003.pdf'

@@ -1,0 +1,23 @@
+id: uu-1946-014
+judul: 'Undang-Undang Nomor 14 Tahun 1946 tentang MENGADAKAN PERUBAHAN DALAM STBLD.:
+  1907 NO. 212 TENTANG PEMILIHAN KEPALA DESA'
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 607aa69e6dddfc87d50114950acac4432a0bcb5b120b20e2acf34248ff9e959d
+  file_size_bytes: 34054
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-1946.pdf'

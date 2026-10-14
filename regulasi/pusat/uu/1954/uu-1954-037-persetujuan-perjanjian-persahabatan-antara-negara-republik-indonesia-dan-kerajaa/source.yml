@@ -1,0 +1,23 @@
+id: uu-1954-037
+judul: Undang-Undang Nomor 37 Tahun 1954 tentang PERSETUJUAN PERJANJIAN PERSAHABATAN
+  ANTARA NEGARA REPUBLIK INDONESIA DAN KERAJAAN THAILAND
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 78ce80047e5ac3f52c128cceeb0d3388b74ab639a021fa724f709af0f8ecac95
+  file_size_bytes: 78171
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu37-1954.pdf'

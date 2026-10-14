@@ -1,0 +1,25 @@
+id: uu-1960-003
+judul: Undang-Undang Nomor 3 Tahun 1960 tentang PENGESAHAN UNDANG-UNDANG DARURAT NO.
+  3 TAHUN 1955 (LEMBARAN NEGARA TAHUN 1955 NO. 15) TENTANG PENUNJUKAN PELABUHAN PALEMBANG
+  MENJADI PERUSAHAAN NEGARA DALAM ARTI "INDISCHE BEDRIJVENWET" (STAATSBLAD 1927 NO.
+  419) MENJADI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bcfe51516e7ab64e7ff67d70dd0b31f7ee58ba57c82cdf6a322067255d359117
+  file_size_bytes: 39807
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0031960.pdf'

@@ -1,0 +1,23 @@
+id: uu-2014-027
+judul: Undang-Undang Nomor 27 Tahun 2014 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  27 TAHUN 2014 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2015
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f84e229e03fb89a11674c87954e3a18d220ff21cbb74daaa5ca10c8ba6903d1d
+  file_size_bytes: 386010
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-2015bt.pdf'

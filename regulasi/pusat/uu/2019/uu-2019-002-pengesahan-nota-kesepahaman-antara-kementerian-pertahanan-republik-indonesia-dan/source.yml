@@ -1,0 +1,26 @@
+id: uu-2019-002
+judul: Undang-Undang Nomor 2 Tahun 2019 tentang PENGESAHAN NOTA KESEPAHAMAN ANTARA
+  KEMENTERIAN PERTAHANAN REPUBLIK INDONESIA DAN KEMENTERIAN PERTAHANAN KERAJAAN SPANYOL
+  TENTANG KEGIATAN KERJA SAMA DI BIDANG PERTAHANAN (MEMORANDUM OF UNDERSTANDING BETWEEN
+  THE MINISTRY OF DEFENCE OF THE REPUBLIC OF INDONESIA AND THE MINISTRY OF DEFENCE
+  OF THE KINGDOM OF SPAIN ON COOPERATIVE ACTIVITIES IN THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: cc90d6d9b04479f1d59ef3aaf0dd5d38aeecaa3d4e0ccd9245743f8af54000a1
+  file_size_bytes: 107300
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu2-2019bt.pdf'

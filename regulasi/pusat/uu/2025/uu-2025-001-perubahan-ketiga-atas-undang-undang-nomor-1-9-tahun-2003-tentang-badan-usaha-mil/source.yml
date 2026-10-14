@@ -1,0 +1,24 @@
+id: uu-2025-001
+judul: Undang-Undang Nomor 1 Tahun 2025 tentang PERUBAHAN KETIGA ATAS UNDANG-UNDANG
+  NOMOR 1.9 TAHUN 2003 TENTANG BADAN USAHA MILIK NEGARA DENGAN RAH MAT TUHAN YANG
+  MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2cdeebdcc62c4cf106d591111645c798f072d47b61ae841c0eb093544d99ab90
+  file_size_bytes: 43448672
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uud-no-1-tahun-2025.pdf'

@@ -1,0 +1,22 @@
+id: uu-1967-005
+judul: Undang-Undang Nomor 5 Tahun 1967 tentang KETENTUAN-KETENTUAN POKOK KEHUTANAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f381f75cd9efc9dedd5fff98fc35629f48c218aab65d1a19b5be119e8061f0bc
+  file_size_bytes: 82929
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0051967.pdf'

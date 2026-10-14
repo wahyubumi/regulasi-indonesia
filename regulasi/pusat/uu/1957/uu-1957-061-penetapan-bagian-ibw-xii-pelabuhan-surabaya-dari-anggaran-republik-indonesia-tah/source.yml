@@ -1,0 +1,23 @@
+id: uu-1957-061
+judul: Undang-Undang Nomor 61 Tahun 1957 tentang PENETAPAN BAGIAN IBW XII (PELABUHAN
+  SURABAYA) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1aeb6a96287a54c74618ba7fda2f87f96ce7bf33a88054dec5eaa4e520f78406
+  file_size_bytes: 26211
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu61-1957.pdf'

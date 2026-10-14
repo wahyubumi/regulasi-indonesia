@@ -1,0 +1,24 @@
+id: uu-1947-034
+judul: Undang-Undang Nomor 34 Tahun 1947 tentang MENETAPKAN BERLAKUNYA "UNDANG-UNDANG
+  KECELAKAAN 1947" BAGI KECELAKAAN-KECELAKAAN KARENA PERANG YANG MENIMPAH BURUH BERHUBUNG
+  DENGAN HUBUNGAN KERJA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 89e3aeafa669bea96f0f5d4c439c450dd12b59fab06219b99daabec21a1127c4
+  file_size_bytes: 44728
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu34-1947.pdf'

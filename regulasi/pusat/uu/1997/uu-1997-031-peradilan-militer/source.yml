@@ -1,0 +1,22 @@
+id: uu-1997-031
+judul: Undang-Undang Nomor 31 Tahun 1997 tentang PERADILAN MILITER
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 20131b95b362296b65ad91dc0cc55ec2e1f8fe7784d4b01ef2888fb51c6c085b
+  file_size_bytes: 513592
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu31-1997.pdf'

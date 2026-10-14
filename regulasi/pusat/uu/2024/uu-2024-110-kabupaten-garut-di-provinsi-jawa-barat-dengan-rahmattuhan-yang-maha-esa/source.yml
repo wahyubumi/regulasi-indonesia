@@ -1,0 +1,23 @@
+id: uu-2024-110
+judul: Undang-Undang Nomor 110 Tahun 2024 tentang KABUPATEN GARUT DI PROVINSI JAWA
+  BARAT DENGAN RAHMATTUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 96e197ab56cb398901bfa8c1353dc8c13b806ec8b3f96e087f438c041174a30d
+  file_size_bytes: 782573
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-110-tahun-2024.pdf'

@@ -1,0 +1,23 @@
+id: uu-2000-035
+judul: Undang-Undang Nomor 35 Tahun 2000 tentang PERUBAHAN ATAS UNDANG-UNDANG NOMOR
+  35 TAHUN 2000 TENTANG ANGGARAN PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 2001
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: daf2b00e99bb2b1306756a29785bbe4254cc04df445ea29c5a91261ff687d594
+  file_size_bytes: 137274
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu1-2002.pdf'

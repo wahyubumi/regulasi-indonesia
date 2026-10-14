@@ -1,0 +1,22 @@
+id: uu-2011-007
+judul: Undang-Undang Nomor 7 Tahun 2011 tentang MATA UANG pk
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8cf519e4168b1945027068d957bfc2075ddc26f6abc3326f93eabd90bd99af5f
+  file_size_bytes: 90411
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-2011.pdf'

@@ -1,0 +1,22 @@
+id: uu-2024-072
+judul: Undang-Undang Nomor 72 Tahun 2024 tentang KABUPATEN BADUNG DI PROVINSI BALI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 727ba239e5837243ed8864b89d9904678e57d0c56df97cb7bd5dccd093c381d5
+  file_size_bytes: 438107
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-72-tahun-2024.pdf'

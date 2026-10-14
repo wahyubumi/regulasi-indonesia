@@ -1,0 +1,22 @@
+id: uu-1946-021
+judul: Undang-Undang Nomor 21 Tahun 1946 tentang CUKAI TEMBAKAU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 982111e83c15847cb05b9cc25f19ce1d12b199382bc4498de3fbca24c5abcb33
+  file_size_bytes: 34191
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-1946.pdf'

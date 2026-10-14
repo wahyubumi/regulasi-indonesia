@@ -1,0 +1,22 @@
+id: uu-1946-012
+judul: Undang-Undang Nomor 12 Tahun 1946 tentang PEMBAHARUAN KOMITE NASIONAL PUSAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ae7a63f4593c7e1714fcc08615abc2c629db50a0f73243d523edd336fc1d5aff
+  file_size_bytes: 50944
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1946.pdf'

@@ -1,0 +1,23 @@
+id: uu-1957-041
+judul: Undang-Undang Nomor 41 Tahun 1957 tentang PENETAPAN BAGIAN VIIIA (KEMENTRIAN
+  PERHUBUNGAN) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 92c43182305ae30331ce7e214d668802e1f5b76ea3d1c6af68a91cb83cb2596c
+  file_size_bytes: 38855
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu41-1957.pdf'

@@ -1,0 +1,24 @@
+id: uu-1976-011
+judul: Undang-Undang Nomor 11 Tahun 1976 tentang PENGESAHAN KONVENSI TELEKOMUNIKASI
+  INTERNASIONAL (INTERNATIONAL TELECOMMUNICATION CONVENTION) MALAGA-TORREMOLINOS,
+  1973
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: da7bbcf4ef27dbf56a36056ed225d86518d29bf67572a75f11f910743dd53196
+  file_size_bytes: 42994
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-1976.pdf'

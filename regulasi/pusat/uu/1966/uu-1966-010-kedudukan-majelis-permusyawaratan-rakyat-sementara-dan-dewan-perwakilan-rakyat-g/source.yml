@@ -1,0 +1,24 @@
+id: uu-1966-010
+judul: Undang-Undang Nomor 10 Tahun 1966 tentang KEDUDUKAN MAJELIS PERMUSYAWARATAN
+  RAKYAT SEMENTARA DAN DEWAN PERWAKILAN RAKYAT GOTONG ROYONG MENJELANG PEMILIHAN UMUM
+  DENGAN RAKHMAT TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e7e043df8fd02ca7deacb61206baee35bc42c20d33bd546f74f24f811f9d29a6
+  file_size_bytes: 72758
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0101966.pdf'

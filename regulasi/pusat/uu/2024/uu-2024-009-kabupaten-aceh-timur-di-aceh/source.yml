@@ -1,0 +1,22 @@
+id: uu-2024-009
+judul: Undang-Undang Nomor 9 Tahun 2024 tentang KABUPATEN ACEH TIMUR DI ACEH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: c1c159b89b2758b7e257ae7c1e649cd00ee3b24631406e494cae796c251af080
+  file_size_bytes: 810031
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-9-tahun-2024.pdf'

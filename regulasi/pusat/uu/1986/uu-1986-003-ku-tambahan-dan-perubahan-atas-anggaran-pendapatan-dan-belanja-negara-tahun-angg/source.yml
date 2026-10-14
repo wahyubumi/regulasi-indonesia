@@ -1,0 +1,23 @@
+id: uu-1986-003
+judul: Undang-Undang Nomor 3 Tahun 1986 tentang ku TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN ANGGARAN 1985/1986
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9b65625b20e18762616ce72ad680b5efaf6bb572ee46b71a906d7abe7c6d9527
+  file_size_bytes: 37015
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1986.pdf'

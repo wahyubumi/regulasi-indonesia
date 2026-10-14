@@ -1,0 +1,23 @@
+id: uu-1958-039
+judul: Undang-Undang Nomor 39 Tahun 1958 tentang PENETAPAN BAGIAN XI (KEMENTERIAN
+  KESEHATAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: bec10eb02c97c4a46fe1cbd5a9a4721024c5af5a0bc3a5ce029b45b824bf0e57
+  file_size_bytes: 25588
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu39-1958.pdf'

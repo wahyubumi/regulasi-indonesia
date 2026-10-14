@@ -1,0 +1,27 @@
+id: uu-2009-014
+judul: Undang-Undang Nomor 14 Tahun 2009 tentang PENGESAHAN PROTOCOL TO PREVENT, SUPPRESS
+  AND PUNISH TRAFFICKING IN PERSONS, ESPECIALLY WOMEN AND CHILDREN, SUPPLEMENTING
+  THE UNITED NATIONS CONVENTION AGAINST TRANSNATIONAL ORGANIZED CRIME (PROTOKOL UNTUK
+  MENCEGAH, MENINDAK, DAN MENGHUKUM PERDAGANGAN ORANG, TERUTAMA PEREMPUAN DAN ANAK-ANAK,
+  MELENGKAPI KONVENSI PERSERIKATAN BANGSA-BANGSA MENENTANG TINDAK PIDANA TRANSNASIONAL
+  YANG TERORGANISASI)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3e7bd0b393faa4b991acf187f7bd0005731d6a0d728b16c8c83ed27bfdf4e919
+  file_size_bytes: 165616
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2009bt.pdf'

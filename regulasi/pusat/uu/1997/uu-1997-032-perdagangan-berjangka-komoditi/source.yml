@@ -1,0 +1,22 @@
+id: uu-1997-032
+judul: Undang-Undang Nomor 32 Tahun 1997 tentang PERDAGANGAN BERJANGKA KOMODITI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 186f105e1979582b3d21a5e0afd81cb87727ff5c988034566d2a5c5038abd37f
+  file_size_bytes: 194407
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu32-1997.pdf'

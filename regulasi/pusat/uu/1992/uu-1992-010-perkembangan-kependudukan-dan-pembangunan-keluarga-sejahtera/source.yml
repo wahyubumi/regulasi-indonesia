@@ -1,0 +1,23 @@
+id: uu-1992-010
+judul: Undang-Undang Nomor 10 Tahun 1992 tentang PERKEMBANGAN KEPENDUDUKAN DAN PEMBANGUNAN
+  KELUARGA SEJAHTERA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 97f141961fb74d1b217a417609187f08f2cd3d28ed815a0f2869eae20efcb203
+  file_size_bytes: 110159
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+10+TH+1992.pdf'

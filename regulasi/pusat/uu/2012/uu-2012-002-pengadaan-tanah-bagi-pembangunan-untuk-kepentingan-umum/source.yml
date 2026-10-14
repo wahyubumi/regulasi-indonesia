@@ -1,0 +1,23 @@
+id: uu-2012-002
+judul: Undang-Undang Nomor 2 Tahun 2012 tentang PENGADAAN TANAH BAGI PEMBANGUNAN UNTUK
+  KEPENTINGAN UMUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e6c4211f803bf32c3b2d7d797d88dd5a13fda3b99c608490fe100d69b528c9ed
+  file_size_bytes: 277279
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+2+Tahun+2012.pdf'

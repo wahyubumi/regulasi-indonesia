@@ -1,0 +1,23 @@
+id: uu-2008-022
+judul: Undang-Undang Nomor 22 Tahun 2008 tentang PEMBENTUKAN KABUPATEN LABUHANBATU
+  SELATAN DI PROVINSI SUMATERA UTARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a03b13311cfa1df5a5b31ab99c4bea45bad433ba4fcbf303c786ece913336743
+  file_size_bytes: 153386
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+22+2008.pdf'

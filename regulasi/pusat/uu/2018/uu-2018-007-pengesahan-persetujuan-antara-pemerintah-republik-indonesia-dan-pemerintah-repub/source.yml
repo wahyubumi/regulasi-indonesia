@@ -1,0 +1,25 @@
+id: uu-2018-007
+judul: Undang-Undang Nomor 7 Tahun 2018 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK KOREA TENTANG KERJA SAMA DI BIDANG PERTAHANAN
+  (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT
+  OF THE REPUBLIC OF KOREA ON COOPERATION IN THE FIELD OF DEFENSE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: add8c68ffd6c06b4256426bac7cc6a1b93712f1d3dbb87ad302ff923c074afe9
+  file_size_bytes: 181178
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-2018bt.pdf'

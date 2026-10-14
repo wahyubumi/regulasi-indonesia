@@ -1,0 +1,23 @@
+id: uu-2024-101
+judul: Undang-Undang Nomor 101 Tahun 2024 tentang KABUPATEN BEKASI DI PROVINSI JAWA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 87dde6a14b1cab33a4064487dc14c71125c2543aa674012319f6c581774d03ca
+  file_size_bytes: 425059
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-101-tahun-2024.pdf'

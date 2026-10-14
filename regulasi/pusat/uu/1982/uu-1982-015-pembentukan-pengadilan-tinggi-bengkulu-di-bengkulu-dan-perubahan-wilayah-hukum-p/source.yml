@@ -1,0 +1,23 @@
+id: uu-1982-015
+judul: Undang-Undang Nomor 15 Tahun 1982 tentang PEMBENTUKAN PENGADILAN TINGGI BENGKULU
+  DI BENGKULU DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI TANJUNGKARANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f9f71980fc5e24ac7b0cc8bfd215de44dbdb804e67f0c9f1274a67238b36f082
+  file_size_bytes: 21366
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu15-1982.pdf'

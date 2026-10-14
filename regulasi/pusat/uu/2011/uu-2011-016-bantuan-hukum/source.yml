@@ -1,0 +1,22 @@
+id: uu-2011-016
+judul: Undang-Undang Nomor 16 Tahun 2011 tentang BANTUAN HUKUM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2ef0aa0ef077408d26b248c0c1986d7a9ab458adf0801d1e1ea0702cfc5f6ee2
+  file_size_bytes: 36038
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-2011bt.pdf'

@@ -1,0 +1,22 @@
+id: uu-1997-022
+judul: Undang-Undang Nomor 22 Tahun 1997 tentang NARKOTIKA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8a79db485b7ed65cd3491cab610c5dee9995f81aee6fad5557710022a1c6f475
+  file_size_bytes: 192398
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-1997.pdf'

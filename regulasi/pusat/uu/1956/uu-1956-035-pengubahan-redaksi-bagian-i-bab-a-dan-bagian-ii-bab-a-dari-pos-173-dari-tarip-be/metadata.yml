@@ -1,0 +1,66 @@
+id: uu-1956-035
+jenis: uu
+jenis_lengkap: Undang-Undang
+nomor: '35'
+nomor_lengkap: '35'
+tahun: 1956
+judul: PENGUBAHAN REDAKSI BAGIAN I BAB A DAN BAGIAN II BAB A DARI POS 173 DARI TARIP
+  BEA MASUK DAN KENAIKAN JUMLAH BEA DALAM BAGIAN POS YANG TERSEBUT TERAKHIR *)
+judul_lengkap: Undang-Undang Nomor 35 Tahun 1956 tentang PENGUBAHAN REDAKSI BAGIAN
+  I BAB A DAN BAGIAN II BAB A DARI POS 173 DARI TARIP BEA MASUK DAN KENAIKAN JUMLAH
+  BEA DALAM BAGIAN POS YANG TERSEBUT TERAKHIR *)
+tingkat: pusat
+hierarki_level: 3
+lembaga_penerbit:
+- Presiden Republik Indonesia
+- Dewan Perwakilan Rakyat Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/pdf-converted
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging pdf-converted import
+  tanggal_konversi: '2026-10-13'
+  alat: pdftotext
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: Antigravity Automated Pipeline
+catatan:
+- Dipromosikan dari 7e1846f9be3b__uu35-1956__undated__uu-1956-035__pengubahan-redaksi-bagian-i-bab-a-dan-bagian-ii-bab-a-dari-pos-173-dari-tarip-bea-masuk-dan-kenaikan.md

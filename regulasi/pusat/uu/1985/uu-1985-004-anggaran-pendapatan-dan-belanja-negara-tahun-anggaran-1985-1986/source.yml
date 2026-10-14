@@ -1,0 +1,23 @@
+id: uu-1985-004
+judul: Undang-Undang Nomor 4 Tahun 1985 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 1985/1986
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 371b39698291a57c368f863dac9f136ab1ce1ed343f452e4136f488e589c7269
+  file_size_bytes: 32299
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-1985.pdf'

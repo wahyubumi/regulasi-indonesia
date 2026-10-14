@@ -1,0 +1,22 @@
+id: uu-1999-002
+judul: Undang-Undang Nomor 2 Tahun 1999 tentang PARTAI POLITIK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 576ff95081282037552fc1d8734147aee3a0a0825863b2a99e7dec0f25cba261
+  file_size_bytes: 78372
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu2-1999.pdf'

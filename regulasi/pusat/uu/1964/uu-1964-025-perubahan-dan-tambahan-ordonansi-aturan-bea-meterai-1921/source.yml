@@ -1,0 +1,23 @@
+id: uu-1964-025
+judul: Undang-Undang Nomor 25 Tahun 1964 tentang PERUBAHAN DAN TAMBAHAN ORDONANSI
+  ATURAN BEA METERAI 1921
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ccc3ff215acb4d9ee185490cc1a3a50e082c874fbf55f040e277ab573e5300c9
+  file_size_bytes: 86035
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0251964.pdf'

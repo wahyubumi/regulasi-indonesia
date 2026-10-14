@@ -1,0 +1,22 @@
+id: uu-2014-025
+judul: Undang-Undang Nomor 25 Tahun 2014 tentang HUKUM DISIPLIN MILITER
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1db341b8c5ab3973816a6a55f5c75f935521b17cef93e1b83490c3b3fb3d491e
+  file_size_bytes: 135791
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-2014bt.pdf'

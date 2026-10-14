@@ -1,0 +1,23 @@
+id: uu-1958-029
+judul: Undang-Undang Nomor 29 Tahun 1958 tentang PENETAPAN BAGIAN IV (KEMENTERIAN
+  KEUANGAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 665f41b139f515ff50b76f87257220e50ec7d36bc016b704086bf35a4edea47e
+  file_size_bytes: 39399
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu29-1958.pdf'

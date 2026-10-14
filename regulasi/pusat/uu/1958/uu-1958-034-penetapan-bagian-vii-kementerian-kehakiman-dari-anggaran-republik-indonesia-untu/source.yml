@@ -1,0 +1,23 @@
+id: uu-1958-034
+judul: Undang-Undang Nomor 34 Tahun 1958 tentang PENETAPAN BAGIAN VII (KEMENTERIAN
+  KEHAKIMAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN DINAS 1955 *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f428b312c9a24e9c30a8dd9d708a70687472fa3f370ec828f392b5a2bde64dc9
+  file_size_bytes: 20852
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu34-1958.pdf'

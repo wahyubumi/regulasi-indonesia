@@ -1,0 +1,23 @@
+id: uu-1957-063
+judul: Undang-Undang Nomor 63 Tahun 1957 tentang PENETAPAN BAGIAN IBW XIV (PERUSAHAAN
+  BATUBARA UMBILIN) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: caec652efe7cf1966be0350f0a99a40aaef84e8bc05fb8bc7457c9b1ee3dad0d
+  file_size_bytes: 26234
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu63-1957.pdf'

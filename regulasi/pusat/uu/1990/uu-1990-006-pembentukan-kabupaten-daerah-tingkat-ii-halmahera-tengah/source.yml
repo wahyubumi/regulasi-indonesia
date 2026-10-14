@@ -1,0 +1,23 @@
+id: uu-1990-006
+judul: Undang-Undang Nomor 6 Tahun 1990 tentang PEMBENTUKAN KABUPATEN DAERAH TINGKAT
+  II HALMAHERA TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 466fbc8ada0a48e363f76488492cab9a8b0648d18b0d689c9f9409709a08f26d
+  file_size_bytes: 41477
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1990.pdf'

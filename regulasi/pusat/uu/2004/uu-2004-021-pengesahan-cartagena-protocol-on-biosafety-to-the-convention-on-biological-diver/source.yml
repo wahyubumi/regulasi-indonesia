@@ -1,0 +1,24 @@
+id: uu-2004-021
+judul: Undang-Undang Nomor 21 Tahun 2004 tentang PENGESAHAN CARTAGENA PROTOCOL ON
+  BIOSAFETY TO THE CONVENTION ON BIOLOGICAL DIVERSITY (PROTOKOL CARTAGENA TENTANG
+  KEAMANAN HAYATI ATAS KONVENSI TENTANG KEANEKARAGAMAN HAYATI)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 8eb179b495e933f15b21531f93c246cd683ed0d3f21a5939b8f9387e868f2f50
+  file_size_bytes: 76758
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-2004.pdf'

@@ -1,0 +1,25 @@
+id: uu-1963-014
+judul: Undang-Undang Nomor 14 Tahun 1963 tentang PENGESAHAN "PERJANJIAN KARYA" ANTARA
+  P.N. PERTAMINA DENGAN P.T. CALTEX INDONESIA DAN CALIFORNIA ASIATIC OIL COMPANY (CALASIATIC)
+  TEXACO OVERSEAS PETROLEUM COMPANY (TOPCO) ; P.N. PERTAMINA DENGAN P.T. STANVAC INDONESIA,
+  P.N. PERMIGAN DENGAN P.T. SHELL INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 49d4e523d3a2541be17722db26bd944fc283c0cce24f293c045ae92806da5b50
+  file_size_bytes: 37847
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0141963.pdf'

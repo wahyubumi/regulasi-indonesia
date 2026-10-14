@@ -1,0 +1,22 @@
+id: uu-1999-052
+judul: Undang-Undang Nomor 52 Tahun 1999 tentang PEMBENTUKAN KABUPATEN LEMBATA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fa86f94cd932acae22059397e828bf0501982af76ef62b68f86eae3bb83b5ced
+  file_size_bytes: 71875
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu52-1999.pdf'

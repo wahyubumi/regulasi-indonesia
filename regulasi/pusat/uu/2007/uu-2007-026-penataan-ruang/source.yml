@@ -1,0 +1,22 @@
+id: uu-2007-026
+judul: Undang-Undang Nomor 26 Tahun 2007 tentang PENATAAN RUANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e1df5d663d7eb0d8a3bc2d4dc65cfdf0787c7eff91faddc1984333ac1093bd14
+  file_size_bytes: 346217
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU-26-2007.pdf'

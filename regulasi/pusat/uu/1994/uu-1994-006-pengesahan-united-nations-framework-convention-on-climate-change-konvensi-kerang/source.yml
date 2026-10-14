@@ -1,0 +1,24 @@
+id: uu-1994-006
+judul: Undang-Undang Nomor 6 Tahun 1994 tentang PENGESAHAN UNITED NATIONS FRAMEWORK
+  CONVENTION ON CLIMATE CHANGE (KONVENSI KERANGKA KERJA PERSERIKATAN BANGSA-BANGSA
+  MENGENAI PERUBAHAN IKLIM)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 909ce864d5ea1425897d704bf6663cb91e0d81290847c974ce48042eca286d95
+  file_size_bytes: 49024
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0061994.pdf'

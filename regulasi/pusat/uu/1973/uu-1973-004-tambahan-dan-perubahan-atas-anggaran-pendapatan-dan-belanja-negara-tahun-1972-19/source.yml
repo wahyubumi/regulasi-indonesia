@@ -1,0 +1,23 @@
+id: uu-1973-004
+judul: Undang-Undang Nomor 4 Tahun 1973 tentang TAMBAHAN DAN PERUBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN 1972/1973
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 858fdb5fcd56e4e3e0a003f50623d91805ff534400269c9a5fb4b23a10e5ef1a
+  file_size_bytes: 34331
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041973.pdf'

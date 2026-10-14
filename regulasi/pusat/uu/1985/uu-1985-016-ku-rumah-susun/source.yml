@@ -1,0 +1,22 @@
+id: uu-1985-016
+judul: Undang-Undang Nomor 16 Tahun 1985 tentang ku RUMAH SUSUN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 08741c9e76a11bd6ebdb6539db20600aa12037ae017610fd687f9ecc98e5d181
+  file_size_bytes: 106259
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-1985.pdf'

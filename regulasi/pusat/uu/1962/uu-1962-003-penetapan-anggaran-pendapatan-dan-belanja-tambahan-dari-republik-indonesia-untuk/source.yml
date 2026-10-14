@@ -1,0 +1,23 @@
+id: uu-1962-003
+judul: Undang-Undang Nomor 3 Tahun 1962 tentang PENETAPAN ANGGARAN PENDAPATAN DAN
+  BELANJA TAMBAHAN DARI REPUBLIK INDONESIA UNTUK TAHUN 1960
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 578c64e58ced02698319571a8269cf97dc9c0be1b501ab3450273c7d9a619604
+  file_size_bytes: 23837
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0031962.pdf'

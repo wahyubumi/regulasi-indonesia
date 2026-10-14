@@ -1,0 +1,22 @@
+id: uu-1966-003
+judul: Undang-Undang Nomor 3 Tahun 1966 tentang KESEHATAN DJIWA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b00d3deff6712efea6a3d71421e2bed0f20cc206a7086679ca763c1fc4e18667
+  file_size_bytes: 49591
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0031966.pdf'

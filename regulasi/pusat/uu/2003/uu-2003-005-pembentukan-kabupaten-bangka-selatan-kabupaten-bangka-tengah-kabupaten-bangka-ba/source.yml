@@ -1,0 +1,24 @@
+id: uu-2003-005
+judul: Undang-Undang Nomor 5 Tahun 2003 tentang PEMBENTUKAN KABUPATEN BANGKA SELATAN,
+  KABUPATEN BANGKA TENGAH, KABUPATEN BANGKA BARAT, DAN KABUPATEN BELITUNG TIMUR DI
+  PROVINSI KEPULAUAN BANGKA BELITUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 73598279ffd809005fd3aa0712a61b06a9d0f95aff36fbdbc2900a1287d13b2b
+  file_size_bytes: 75442
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0052003.pdf'

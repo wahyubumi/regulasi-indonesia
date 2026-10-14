@@ -1,0 +1,23 @@
+id: uu-1957-048
+judul: Undang-Undang Nomor 48 Tahun 1957 tentang PENETAPAN BAGIAN XIV (KEMENTRIAN
+  AGAMA) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ab7575cbe492612d94c95cb8a8250c89dbab77bd0b2e2661abc66e66347c074c
+  file_size_bytes: 29003
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu48-1957.pdf'

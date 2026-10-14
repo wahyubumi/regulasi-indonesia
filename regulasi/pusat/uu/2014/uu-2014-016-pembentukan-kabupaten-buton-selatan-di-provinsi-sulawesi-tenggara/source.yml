@@ -1,0 +1,23 @@
+id: uu-2014-016
+judul: Undang-Undang Nomor 16 Tahun 2014 tentang PEMBENTUKAN KABUPATEN BUTON SELATAN
+  DI PROVINSI SULAWESI TENGGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 00e62e72d20989d3b34f508739c801a4bfe7ee0ed41ec12034e631155141931e
+  file_size_bytes: 113743
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-2014bt.pdf'

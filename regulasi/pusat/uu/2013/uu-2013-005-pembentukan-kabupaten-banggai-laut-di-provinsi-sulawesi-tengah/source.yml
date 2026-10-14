@@ -1,0 +1,23 @@
+id: uu-2013-005
+judul: Undang-Undang Nomor 5 Tahun 2013 tentang PEMBENTUKAN KABUPATEN BANGGAI LAUT
+  DI PROVINSI SULAWESI TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4bf645ac8c354436ff9e47bd6b828e00b6067797fdc8f75c14270e9c3282b3ab
+  file_size_bytes: 2151551
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2013bt.pdf'

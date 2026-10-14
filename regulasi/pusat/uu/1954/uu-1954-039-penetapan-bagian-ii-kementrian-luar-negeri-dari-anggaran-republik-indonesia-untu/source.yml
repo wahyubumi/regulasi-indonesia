@@ -1,0 +1,23 @@
+id: uu-1954-039
+judul: Undang-Undang Nomor 39 Tahun 1954 tentang PENETAPAN BAGIAN II (KEMENTRIAN LUAR
+  NEGERI) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ca0c8d87fb505b0a3d0d22ca24339c7186081e98a314e2bd4d5686220d2f5e6b
+  file_size_bytes: 73404
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu39-1954.pdf'

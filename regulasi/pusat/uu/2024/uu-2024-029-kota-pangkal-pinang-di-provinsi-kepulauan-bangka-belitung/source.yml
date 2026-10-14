@@ -1,0 +1,23 @@
+id: uu-2024-029
+judul: Undang-Undang Nomor 29 Tahun 2024 tentang KOTA PANGKAL PINANG DI PROVINSI KEPULAUAN
+  BANGKA BELITUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 96fd0c58ee2df7522333c9495eb876196a75a5b65e99cfd79e444c0b92bf8bf7
+  file_size_bytes: 712397
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-29-tahun-2024.pdf'

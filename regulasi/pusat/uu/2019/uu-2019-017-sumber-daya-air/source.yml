@@ -1,0 +1,22 @@
+id: uu-2019-017
+judul: Undang-Undang Nomor 17 Tahun 2019 tentang SUMBER DAYA AIR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 4ec6b4c87bd756a1d0f8c09b91c9b5fc18b42044bf75447d0118b788ea7bea19
+  file_size_bytes: 760533
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-2019bt.pdf'

@@ -1,0 +1,22 @@
+id: uu-2001-005
+judul: Undang-Undang Nomor 5 Tahun 2001 tentang PEMBENTUKAN KOTA TANJUNG PINANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 54025b3c043851b0ba203b7584d106981cd6034ab65ba5171fc9b2215a1fcabc
+  file_size_bytes: 93082
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2001.pdf'

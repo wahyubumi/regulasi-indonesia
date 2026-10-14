@@ -1,0 +1,23 @@
+id: uu-1968-013
+judul: Undang-Undang Nomor 13 Tahun 1968 tentang BANK SENTRAL DENGAN RACHMAT TUHAN
+  YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5e3c0ba12d7b903548fd390d7aed404b98c40e0c735141fba0336b7ee1f3e4ed
+  file_size_bytes: 130980
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+13+Tahun+1968.pdf'

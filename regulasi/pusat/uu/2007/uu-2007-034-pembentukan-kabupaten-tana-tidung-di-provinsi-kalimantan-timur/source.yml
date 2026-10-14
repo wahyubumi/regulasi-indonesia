@@ -1,0 +1,23 @@
+id: uu-2007-034
+judul: Undang-Undang Nomor 34 Tahun 2007 tentang PEMBENTUKAN KABUPATEN TANA TIDUNG
+  DI PROVINSI KALIMANTAN TIMUR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 13e090756c5d3bc5c6ce02edca010242dd847469ba6720b86f0d785f05ad188b
+  file_size_bytes: 207529
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu34-2007.pdf'

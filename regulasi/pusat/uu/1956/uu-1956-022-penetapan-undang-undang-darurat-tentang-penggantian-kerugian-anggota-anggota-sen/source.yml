@@ -1,0 +1,24 @@
+id: uu-1956-022
+judul: Undang-Undang Nomor 22 Tahun 1956 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  TENTANG PENGGANTIAN KERUGIAN ANGGOTA-ANGGOTA SENAT REPUBLIK INDONESIA SERIKAT" (UNDANG-UNDANG
+  DARURAT NO. 30 TAHUN 1950) SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 258286980de1f91372048932f98240ad6a7de59111e2d97d24b1dce1f133102e
+  file_size_bytes: 79837
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0221956.pdf'

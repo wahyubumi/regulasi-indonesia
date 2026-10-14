@@ -1,0 +1,23 @@
+id: uu-1982-016
+judul: Undang-Undang Nomor 16 Tahun 1982 tentang PEMBENTUKAN PENGADILAN TINGGI NUSA
+  TENGGARA BARAT DI MATARAM DAN PERUBAHAN WILAYAH HUKUM PENGADILAN TINGGI DENPASAR
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f85eff6971c1545e02ff5fab57fc9552d222b0724f006b95e5babc624d067909
+  file_size_bytes: 23131
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu16-1982.pdf'

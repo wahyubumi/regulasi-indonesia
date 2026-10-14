@@ -1,0 +1,23 @@
+id: uu-1980-005
+judul: Undang-Undang Nomor 5 Tahun 1980 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  1970/1971
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7b10085917998e86006a59fabcc22a0439be66517cc49aec8112edb5deb63639
+  file_size_bytes: 14744
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1980.pdf'

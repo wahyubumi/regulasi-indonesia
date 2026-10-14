@@ -1,0 +1,23 @@
+id: uu-1954-047
+judul: Undang-Undang Nomor 47 Tahun 1954 tentang PENETAPAN BAGIAN VIIIA (KEMENTRIAN
+  PERHUBUNGAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 51d640b0718ab42ce1f817def16db9c3354652f05c53023815fcd915fbfa7581
+  file_size_bytes: 85360
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu47-1954.pdf'

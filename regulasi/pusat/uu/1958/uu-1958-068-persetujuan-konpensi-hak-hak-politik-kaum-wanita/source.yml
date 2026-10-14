@@ -1,0 +1,23 @@
+id: uu-1958-068
+judul: Undang-Undang Nomor 68 Tahun 1958 tentang PERSETUJUAN KONPENSI HAK-HAK POLITIK
+  KAUM WANITA *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9c74405efd4074d5f2f9f32e34140de4ba1f7e76c280e68ae82ce91ed21a74c4
+  file_size_bytes: 23013
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu68-1958.pdf'

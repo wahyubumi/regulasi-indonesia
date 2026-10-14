@@ -1,0 +1,23 @@
+id: uu-2024-042
+judul: Undang-Undang Nomor 42 Tahun 2024 tentang KABUPATEN INDRAGIRI HULU DI PROVINSI
+  RIAU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3c46ce750993760f5a1ec29962051ed3d99285474e77cc0594dfeb2267ec4566
+  file_size_bytes: 805860
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-42-tahun-2024.pdf'

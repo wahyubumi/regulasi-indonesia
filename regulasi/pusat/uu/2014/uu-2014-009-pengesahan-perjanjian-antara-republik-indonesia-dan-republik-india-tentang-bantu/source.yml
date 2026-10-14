@@ -1,0 +1,25 @@
+id: uu-2014-009
+judul: Undang-Undang Nomor 9 Tahun 2014 tentang PENGESAHAN PERJANJIAN ANTARA REPUBLIK
+  INDONESIA DAN REPUBLIK INDIA TENTANG BANTUAN HUKUM TIMBAL BALIK DALAM MASALAH PIDANA
+  (TREATY BETWEEN THE REPUBLIC OF INDONESIA AND THE REPUBLIC OF INDIA ON MUTUAL LEGAL
+  ASSISTANCE IN CRIMINAL MATTERS)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: abf5f3eacb757ec0d726ea58bfb20ff914c3c07c4ab58dab76957794a077d65e
+  file_size_bytes: 143012
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+9+Tahun+2014.pdf'

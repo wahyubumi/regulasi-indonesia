@@ -1,0 +1,22 @@
+id: uu-2008-043
+judul: Undang-Undang Nomor 43 Tahun 2008 tentang WILAYAH NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 198ee925beb21581418d5e36cc2c26b4b80c0e813cd2318d075a9969374cb11a
+  file_size_bytes: 114123
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0432008.pdf'

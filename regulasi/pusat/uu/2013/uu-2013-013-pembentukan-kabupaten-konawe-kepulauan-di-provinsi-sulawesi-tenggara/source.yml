@@ -1,0 +1,23 @@
+id: uu-2013-013
+judul: Undang-Undang Nomor 13 Tahun 2013 tentang PEMBENTUKAN KABUPATEN KONAWE KEPULAUAN
+  DI PROVINSI SULAWESI TENGGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3d494110df69bd3a94fe12a8b6af4f035510f5a7b000c96aa878eeacc8796d58
+  file_size_bytes: 1719886
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu13-2013bt.pdf'

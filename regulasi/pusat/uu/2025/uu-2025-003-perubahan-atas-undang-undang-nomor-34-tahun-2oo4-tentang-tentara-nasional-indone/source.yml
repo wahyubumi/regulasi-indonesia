@@ -1,0 +1,23 @@
+id: uu-2025-003
+judul: Undang-Undang Nomor 3 Tahun 2025 tentang PERUBAHAN ATAS UNDANG.UNDANG NOMOR
+  34 TAHUN 2OO4 TENTANG TENTARA NASIONAL INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 91bd8acb3bb8cbf071aefb5ecb336a4a24bd1743b02a31b8f2cb6fc4e3d9e25b
+  file_size_bytes: 2817904
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-3-2025.pdf'

@@ -1,0 +1,22 @@
+id: uu-2004-004
+judul: Undang-Undang Nomor 4 Tahun 2004 tentang KEKUASAAN KEHAKIMAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 75920d5e70437bee3fda9fba4ac1c1a17c1a68c4e754a4198410aa681961f9c4
+  file_size_bytes: 61042
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2004.pdf'

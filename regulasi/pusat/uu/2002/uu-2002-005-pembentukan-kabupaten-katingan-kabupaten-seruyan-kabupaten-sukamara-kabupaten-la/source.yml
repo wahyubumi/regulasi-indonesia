@@ -1,0 +1,25 @@
+id: uu-2002-005
+judul: Undang-Undang Nomor 5 Tahun 2002 tentang PEMBENTUKAN KABUPATEN KATINGAN, KABUPATEN
+  SERUYAN, KABUPATEN SUKAMARA, KABUPATEN LAMANDAU, KABUPATEN GUNUNG MAS, KABUPATEN
+  PULANG PISAU, KABUPATEN MURUNG RAYA, DAN KABUPATEN BARITO TIMUR DI PROVINSI KALIMANTAN
+  TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6678f266ac943f46cc5fcdb24b9442ac14a4345a3fa8fb8a90667a93215fbc4b
+  file_size_bytes: 153107
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2002.pdf'

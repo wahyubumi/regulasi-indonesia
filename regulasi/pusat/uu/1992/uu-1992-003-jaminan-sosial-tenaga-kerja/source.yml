@@ -1,0 +1,22 @@
+id: uu-1992-003
+judul: Undang-Undang Nomor 3 Tahun 1992 tentang JAMINAN SOSIAL TENAGA KERJA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: a11c6c254d7f92804cec04e70a3c1fa909bddd77d72a52b3622998bc422b9979
+  file_size_bytes: 111892
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+NO+3+TH+1992.pdf'

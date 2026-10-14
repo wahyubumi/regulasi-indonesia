@@ -1,0 +1,23 @@
+id: uu-1957-050
+judul: Undang-Undang Nomor 50 Tahun 1957 tentang PENETAPAN BAGIAN IBW I (JAWATAN PEGADAIAN)
+  DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2f9ffaca1e0f57309fb4159532142a3a9c0505c8a70fd21dc56c4d28a6428abb
+  file_size_bytes: 26173
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu50-1957.pdf'

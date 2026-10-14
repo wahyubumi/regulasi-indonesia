@@ -1,0 +1,26 @@
+id: uu-2015-004
+judul: Undang-Undang Nomor 4 Tahun 2015 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK DEMOKRATIK TIMOR-LESTE TENTANG KEGIATAN
+  KERJA SAMA DI BIDANG PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC
+  OF INDONESIA AND THE GOVERNMENT OF THE DEMOCRATIC REPUBLIC OF TIMOR-LESTE CONCERNING
+  COOPERATIVE ACTIVITIES IN THE FIELD OF DEFENCE)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e14cf878811960cdfb1470d2bd8909b2400da2b0acf388620be5ecb95f338f8b
+  file_size_bytes: 157672
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu4-2015bt.pdf'

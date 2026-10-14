@@ -1,0 +1,22 @@
+id: uu-2014-029
+judul: Undang-Undang Nomor 29 Tahun 2014 tentang PENCARIAN DAN PERTOLONGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1b1b21eb49640ec58729deaa7237ff70cb16c236148e99cb4c41b590a021ebbe
+  file_size_bytes: 170007
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu29-2014bt.pdf'

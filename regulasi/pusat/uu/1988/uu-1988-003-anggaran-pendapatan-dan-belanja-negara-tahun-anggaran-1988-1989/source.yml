@@ -1,0 +1,23 @@
+id: uu-1988-003
+judul: Undang-Undang Nomor 3 Tahun 1988 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN 1988/1989
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0ebd9ff4c326614800cb3b505e5e7948f5152c660e559aba29a792c011ca30ae
+  file_size_bytes: 28864
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1988.pdf'

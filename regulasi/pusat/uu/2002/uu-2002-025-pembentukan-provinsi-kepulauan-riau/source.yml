@@ -1,0 +1,22 @@
+id: uu-2002-025
+judul: Undang-Undang Nomor 25 Tahun 2002 tentang PEMBENTUKAN PROVINSI KEPULAUAN RIAU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 11a515e50b8842d9b857a744114bfa23ca417e2239c4b245a9c5c35546c55391
+  file_size_bytes: 60324
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu25-2002.pdf'

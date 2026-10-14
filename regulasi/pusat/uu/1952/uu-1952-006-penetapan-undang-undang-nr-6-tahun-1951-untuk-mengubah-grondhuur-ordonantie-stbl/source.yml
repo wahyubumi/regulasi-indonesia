@@ -1,0 +1,24 @@
+id: uu-1952-006
+judul: Undang-Undang Nomor 6 Tahun 1952 tentang PENETAPAN "UNDANG-UNDANG NR 6 TAHUN
+  1951 UNTUK MENGUBAH "GRONDHUUR ORDONANTIE" (STBL 1918 NR 88) DAN "VORSTENLANDSCH
+  GRONDHUURREGLEMENT" (STBL. 1918 NR 20)" SEBAGAI UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0c4a8b462825ad5727571b67fc07592cbd9c58b57c54d85136c462871465a257
+  file_size_bytes: 90534
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-1952.pdf'

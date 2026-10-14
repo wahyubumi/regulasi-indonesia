@@ -1,0 +1,26 @@
+id: uu-2024-068
+judul: Undang-Undang Nomor 68 Tahun 2024 tentang PENGESAHAN PERS TUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK FEDERATIF BRASIL TENTANG KERJA SAMA TERKAIT
+  PERTAHANAN (AGREEMENT BETWEEN THE GOVERNMENT OF'THE REPWUC OF INDo.NESIA AND THE
+  GOVERNMENTOFTHE FEDERATIVE REPUBLIC OF BRAZIL ON COOPERATION IN DEFENCE RELATDD
+  MATTER1
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 3997e0fe8191c56e7c50d669d9f89835f8ea51ef7c7dc30c731d9fa780bf04a5
+  file_size_bytes: 680163
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-68-tahun-2024.pdf'

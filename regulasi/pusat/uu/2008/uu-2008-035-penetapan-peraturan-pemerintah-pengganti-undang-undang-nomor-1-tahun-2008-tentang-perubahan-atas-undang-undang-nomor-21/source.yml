@@ -1,0 +1,24 @@
+id: uu-2008-035
+judul: Undang-Undang Nomor 35 Tahun 2008 tentang Penetapan Peraturan Pemerintah Pengganti
+  Undang-Undang Nomor 1 Tahun 2008 Tentang Perubahan Atas Undang-Undang Nomor 21 Tahun
+  2001 Tentang Otonomi Khusus Bagi Provinsi Papua Menjadi Undang-Undang
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

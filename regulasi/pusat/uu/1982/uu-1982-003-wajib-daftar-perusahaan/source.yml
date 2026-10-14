@@ -1,0 +1,22 @@
+id: uu-1982-003
+judul: Undang-Undang Nomor 3 Tahun 1982 tentang WAJIB DAFTAR PERUSAHAAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fd5feef283fdb250651a35311f7ea10a7bddde0081435f85c74930f010defb25
+  file_size_bytes: 86201
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1982.pdf'

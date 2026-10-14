@@ -1,0 +1,23 @@
+id: uu-2009-027
+judul: Undang-Undang Nomor 27 Tahun 2009 tentang MAJELIS PERMUSYAWARATAN RAKYAT, DEWAN
+  PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0b6ac9ab8b85f4eb36fc92c686c897ea820f07233d5a969d95c82cec325e5129
+  file_size_bytes: 2642390
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-2009bt.pdf'

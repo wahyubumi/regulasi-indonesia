@@ -1,0 +1,24 @@
+id: uu-2006-006
+judul: Undang-Undang Nomor 6 Tahun 2006 tentang PENGESAHAN INTERNATIONAL CONVENTION
+  FOR THE SUPPRESSION OF THE FINANCING QF TERRORISM, 1999 (KONVENSI INTERNASIONAL
+  PEMBERANTASAN PENDANAAN TERORISME, 1999)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 318036492e6a35a6026418544edc0fbdd75ef9f3a89041dfd2c4a93090892bcc
+  file_size_bytes: 95098
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu6-2006.pdf'

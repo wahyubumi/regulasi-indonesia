@@ -1,0 +1,25 @@
+id: uu-1955-011
+judul: Undang-Undang Nomor 11 Tahun 1955 tentang PEMBERIAN KUASA KEPADA MENTERI KEUANGAN
+  UNTUK MENGAMBIL UANG-MUKA PADA BANK INDONESIA LEBIH DARI PADA BATAS YANG DITETAPKAN
+  DALAM PASAL 19 AYAT 2 UNDANG-UNDANG POKOK BANK INDONESIA 1953 (UNDANG-UNDANG NO.
+  11 TAHUN 1953)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 793109afc81e07d1c94e02a86442c2bb198a006489d36c900f6343b790c65466
+  file_size_bytes: 53971
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-1955.pdf'

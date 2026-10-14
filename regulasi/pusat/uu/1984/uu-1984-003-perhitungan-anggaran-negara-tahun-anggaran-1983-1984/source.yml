@@ -1,0 +1,23 @@
+id: uu-1984-003
+judul: Undang-Undang Nomor 3 Tahun 1984 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 1983/1984
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: cae96d033b370b8fc1cd0f3473470eaad590c79c7de13965d00bdf35c31d48a9
+  file_size_bytes: 30450
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1984.pdf'

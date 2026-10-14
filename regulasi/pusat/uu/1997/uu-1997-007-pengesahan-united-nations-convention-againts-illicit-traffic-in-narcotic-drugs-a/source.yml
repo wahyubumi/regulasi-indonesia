@@ -1,0 +1,25 @@
+id: uu-1997-007
+judul: Undang-Undang Nomor 7 Tahun 1997 tentang PENGESAHAN UNITED NATIONS CONVENTION
+  AGAINTS ILLICIT TRAFFIC IN NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES, 1988 (KONVENSI
+  PERSERIKATAN BANGSA-BANGSA TENTANG PEMBERANTASAN PEREDARAN GELAP NARKOTIKA DAN PSIKOTROPIKA,
+  1988)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: cacbb8d3889a9417abc6440bb48104c7a4f2ea6cf6bac281bade7324930587af
+  file_size_bytes: 60069
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1997.pdf'

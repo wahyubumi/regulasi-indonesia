@@ -1,0 +1,22 @@
+id: uu-1999-022
+judul: Undang-Undang Nomor 22 Tahun 1999 tentang PEMERINTAHAN DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 78ebce6439c3a069c779681ecb039aad92eed558efdee8d874d25be16a3e3f31
+  file_size_bytes: 272386
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-1999.pdf'

@@ -1,0 +1,25 @@
+id: uu-1965-016
+judul: Undang-Undang Nomor 16 Tahun 1965 tentang PENCABUTAN UNDANG-UNDANG NO. 78 TAHUN
+  1958 TENTANG PENANAMAN MODAL ASING (LEMBARAN-NEGARA TAHUN 1958, NO. 138) YANG TELAH
+  DIUBAH DAN DITAMBAH DENGAN UNDANG-UNDANG NO. 15 PRP TAHUN 1960 (LEMBARAN-NEGARA
+  TAHUN 1960 NO. 42)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0f257c1edf50d6028a594726075af29e8bb1cc1f33c425e69c9c6b4a6b2f47c1
+  file_size_bytes: 83603
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0161965.pdf'

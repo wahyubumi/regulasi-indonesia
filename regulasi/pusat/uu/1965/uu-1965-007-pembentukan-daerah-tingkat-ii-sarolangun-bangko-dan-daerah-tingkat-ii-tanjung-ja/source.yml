@@ -1,0 +1,24 @@
+id: uu-1965-007
+judul: Undang-Undang Nomor 7 Tahun 1965 tentang PEMBENTUKAN DAERAH TINGKAT II SAROLANGUN-BANGKO
+  DAN DAERAH TINGKAT II TANJUNG JABUNG DENGAN MENGUBAH UNDANG-UNDANG NO. 12 TAHUN
+  1956 TENTANG PEMBENTUKAN DAERAH OTONOM KABUPATEN DI PROPINSI SUMATERA TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 64a1d6a1f146d8b479a62033dfefa38dc4fe2a8a09222aa9752e2865c9f093dd
+  file_size_bytes: 113982
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0071965.pdf'

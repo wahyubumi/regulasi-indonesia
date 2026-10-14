@@ -1,0 +1,23 @@
+id: uu-2024-132
+judul: Undang-Undang Nomor 132 Tahun 2024 tentang KABUPATEN TAKALAR DI PROVINSI SULAWESI
+  SELATAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 113b5059aea6e0acd4acb05fbc32cb9a25365b341fe26b02c789d56bf5c004eb
+  file_size_bytes: 341126
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-132-tahun-2024.pdf'

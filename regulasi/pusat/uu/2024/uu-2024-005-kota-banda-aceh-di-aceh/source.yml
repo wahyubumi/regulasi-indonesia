@@ -1,0 +1,22 @@
+id: uu-2024-005
+judul: Undang-Undang Nomor 5 Tahun 2024 tentang KOTA BANDA ACEH DI ACEH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 73d61052e358c48c5d0359c771a6be1da25b60ce351e62ae6e5482a8e3b48a14
+  file_size_bytes: 757945
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-5-tahun-2024.pdf'

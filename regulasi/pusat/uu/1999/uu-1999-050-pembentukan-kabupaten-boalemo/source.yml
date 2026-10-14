@@ -1,0 +1,22 @@
+id: uu-1999-050
+judul: Undang-Undang Nomor 50 Tahun 1999 tentang PEMBENTUKAN KABUPATEN BOALEMO
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9c136d27899d353cfaf1ad00539ae5e596606295a4d941429a41f19ecd0b5ab4
+  file_size_bytes: 71509
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu50-1999.pdf'

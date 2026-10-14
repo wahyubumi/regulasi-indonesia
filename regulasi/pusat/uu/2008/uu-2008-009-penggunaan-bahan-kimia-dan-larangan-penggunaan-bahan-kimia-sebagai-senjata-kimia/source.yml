@@ -1,0 +1,23 @@
+id: uu-2008-009
+judul: Undang-Undang Nomor 9 Tahun 2008 tentang PENGGUNAAN BAHAN KIMIA DAN LARANGAN
+  PENGGUNAAN BAHAN KIMIA SEBAGAI SENJATA KIMIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e0932ac3fd548e842e39b0743c36910e5d6d0aaecb29fbe552e242e4bfb6159a
+  file_size_bytes: 180661
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+9+Tahun+2008.pdf'

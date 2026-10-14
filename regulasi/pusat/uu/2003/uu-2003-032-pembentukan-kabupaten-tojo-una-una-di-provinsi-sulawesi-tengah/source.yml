@@ -1,0 +1,23 @@
+id: uu-2003-032
+judul: Undang-Undang Nomor 32 Tahun 2003 tentang PEMBENTUKAN KABUPATEN TOJO UNA-UNA
+  DI PROVINSI SULAWESI TENGAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1aa9473b99e7bd27944b9802d54f7b70fd6f86be2772ce18fefc45b4f9409b2a
+  file_size_bytes: 61607
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0322003.pdf'

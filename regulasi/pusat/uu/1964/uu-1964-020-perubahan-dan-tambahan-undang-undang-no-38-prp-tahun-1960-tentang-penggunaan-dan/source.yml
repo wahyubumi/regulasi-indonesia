@@ -1,0 +1,24 @@
+id: uu-1964-020
+judul: Undang-Undang Nomor 20 Tahun 1964 tentang PERUBAHAN DAN TAMBAHAN UNDANG-UNDANG
+  NO. 38 PRP. TAHUN 1960, TENTANG PENGGUNAAN DAN PENETAPAN LUAS TANAH UNTUK TANAMAN-TANAMAN
+  TERTENTU
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 660a50e6c99268a6079b826a44e06bcab9932a32d8e89c7d3b167dc8e96af1c5
+  file_size_bytes: 67125
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0201964.pdf'

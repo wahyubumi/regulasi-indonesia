@@ -1,0 +1,23 @@
+id: uu-1957-049
+judul: Undang-Undang Nomor 49 Tahun 1957 tentang PENETAPAN BAGIAN XV (KEMENTRIAN PEKERJAAN
+  UMUM DAN TENAGA) DARI ANGGARAN REPUBLIK INDONESIA TAHUN DINAS 1954
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ba4b7ade9ca4eb391be2e5e4723ebc554ad0a10d121fd689f911c3c8632360f5
+  file_size_bytes: 36172
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu49-1957.pdf'

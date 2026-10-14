@@ -1,0 +1,23 @@
+id: uu-1966-005
+judul: Undang-Undang Nomor 5 Tahun 1966 tentang PERSETUJUAN-PERSETUJUAN UNTUK MENORMALISASI
+  HUBUNGAN ANTARA REPUBLIK INDONESIA DAN MALAYSIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 369bb41a3dc2020f7ac3078ebbdd8651f5e0ff65cb717b5dd44f2d627697f9de
+  file_size_bytes: 37480
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0051966.pdf'

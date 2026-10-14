@@ -1,0 +1,24 @@
+id: uu-1968-010
+judul: 'Undang-Undang Nomor 10 Tahun 1968 tentang PENYERAHAN PEJAK-PAJAK NEGARA: BEA
+  BALIK NAMA KENDARAAN BERMOTOR, PAJAK BANGSA ASING DAN PAJAK RADIO KEPADA DAERAH
+  DENGAN RACHMAT TUHAN YANG MAHA ESA'
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: ee6c671fed52e4f4d4729096ed608bebd98d316481b7e249e4bdbb145ddbdc09
+  file_size_bytes: 17694
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+10+Tahun+1968.pdf'

@@ -1,0 +1,23 @@
+id: uu-1995-003
+judul: Undang-Undang Nomor 3 Tahun 1995 tentang PEMBENTUKAN PENGADILAN TINGGI AGAMA
+  DI BENGKULU, DI PALU, DI KENDARI, DAN DI KUPANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f146dbc81c08e3cb4c78ea1ac410d616f312ff26e894012768ac54eaadf91fec
+  file_size_bytes: 37526
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu3-1995.pdf'

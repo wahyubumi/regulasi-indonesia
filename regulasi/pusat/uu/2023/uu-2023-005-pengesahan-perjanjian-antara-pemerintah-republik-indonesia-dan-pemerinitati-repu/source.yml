@@ -1,0 +1,25 @@
+id: uu-2023-005
+judul: Undang-Undang Nomor 5 Tahun 2023 tentang PENGESAHAN PERJANJIAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINITATI REPUBLIK SINGAPURA TENTANG EKSTRADISI BURONAN
+  (TREATY BETWEEN THE, GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVE,RNMENT
+  OF THE RBPUBLIC oF sflvcA poRE FoR THE EXTRADTTTON OF FUGITTVES)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 17a14e079370d3cd0936fdb43c1fda3c887bfbfc1afbce71e8ae62da4e2fbadb
+  file_size_bytes: 504604
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-5-tahun-2023.pdf'

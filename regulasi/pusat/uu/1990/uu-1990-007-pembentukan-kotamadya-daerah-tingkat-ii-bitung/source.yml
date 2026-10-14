@@ -1,0 +1,23 @@
+id: uu-1990-007
+judul: Undang-Undang Nomor 7 Tahun 1990 tentang PEMBENTUKAN KOTAMADYA DAERAH TINGKAT
+  II BITUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7fe8fcd5b28baafd2e925adaf2063e5a6d560683c36ef2712ab55e9e6baa44cd
+  file_size_bytes: 40125
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu7-1990.pdf'

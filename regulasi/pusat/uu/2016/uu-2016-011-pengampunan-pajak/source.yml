@@ -1,0 +1,22 @@
+id: uu-2016-011
+judul: Undang-Undang Nomor 11 Tahun 2016 tentang PENGAMPUNAN PAJAK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f9bc6bce2983b63a31f791e9cbb6dfb66991d7320f0b9458b4b5bed59913ae40
+  file_size_bytes: 70220
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu11-2016bt.pdf'

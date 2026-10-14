@@ -1,0 +1,23 @@
+id: uu-1958-087
+judul: Undang-Undang Nomor 87 Tahun 1958 tentang PENGUBAHAN UNDANG-UNDANG PAJAK BANGSA
+  ASING (UNDANG-UNDANG NO. 74 TAHUN 1958) *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 9edf6df9a90c6ef33cd68b8c8b1eaf91f415bff6a65cb491105eb8d234decfac
+  file_size_bytes: 20168
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu87-1958.pdf'

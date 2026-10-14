@@ -1,0 +1,22 @@
+id: uu-1948-035
+judul: Undang-Undang Nomor 35 Tahun 1948 tentang MENURUNKAN TARIP BEA MASUK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1063c862c88107617dd8e4a494295eeaae18941d559f0453ac467b0c9d26924b
+  file_size_bytes: 51391
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu35-1948.pdf'

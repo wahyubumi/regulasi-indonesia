@@ -1,0 +1,22 @@
+id: uu-1961-008
+judul: Undang-Undang Nomor 8 Tahun 1961 tentang WAJIB KERJA SARJANA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 37151b61bc725705dc238d02b1bba6dedb0f885800882a14c9d5c0f9da38add7
+  file_size_bytes: 52258
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0081961.pdf'

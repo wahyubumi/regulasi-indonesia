@@ -1,0 +1,22 @@
+id: uu-2006-023
+judul: Undang-Undang Nomor 23 Tahun 2006 tentang ADMINISTRASI KEPENDUDUKAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0a8c68d2fc7b4ce67a5ce21d33e037e89d5c1e14ee28e1f74c67fedb8cc2dfe8
+  file_size_bytes: 134624
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu23-2006.pdf'

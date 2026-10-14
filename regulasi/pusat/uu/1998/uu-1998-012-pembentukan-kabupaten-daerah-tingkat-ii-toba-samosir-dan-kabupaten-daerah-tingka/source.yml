@@ -1,0 +1,23 @@
+id: uu-1998-012
+judul: Undang-Undang Nomor 12 Tahun 1998 tentang PEMBENTUKAN KABUPATEN DAERAH TINGKAT
+  II TOBA SAMOSIR DAN KABUPATEN DAERAH TINGKAT II MANDAILING NATAL
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b5a8631a2e5ef35eecf44e073081d295557dab96f36a3382bc926abd1244f24a
+  file_size_bytes: 64912
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1998.pdf'

@@ -1,0 +1,23 @@
+id: uu-1959-001
+judul: Undang-Undang Nomor 1 Tahun 1959 tentang KEDUDUKAN KEUANGAN KETUA, WAKIL KETUA
+  DAN ANGGOTA KONSTITUANTE
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: e0ec7e48fc8cd48109385737ff36f7eb79114ba1a1675edaae1d7339bf7accb9
+  file_size_bytes: 56809
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0011959.pdf'

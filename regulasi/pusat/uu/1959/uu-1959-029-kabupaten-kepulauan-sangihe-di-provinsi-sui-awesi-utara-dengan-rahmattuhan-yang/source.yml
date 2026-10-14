@@ -1,0 +1,23 @@
+id: uu-1959-029
+judul: Undang-Undang Nomor 29 Tahun 1959 tentang KABUPATEN KEPULAUAN SANGIHE DI PROVINSI
+  SUI,AWESI UTARA DENGAN RAHMATTUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 517554d7f32bb970e1e46aab56c7610063ef0138d22d3da32a7d16d00f3a5879
+  file_size_bytes: 981251
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-11-tahun-2025.pdf'

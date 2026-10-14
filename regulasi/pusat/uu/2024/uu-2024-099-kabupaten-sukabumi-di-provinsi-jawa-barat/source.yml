@@ -1,0 +1,23 @@
+id: uu-2024-099
+judul: Undang-Undang Nomor 99 Tahun 2024 tentang KABUPATEN SUKABUMI DI PROVINSI JAWA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 7cfe436b0cea8344bebd2c3ba71324dea57cf4e1513eadbb89f79a59ad1921f4
+  file_size_bytes: 712157
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-99-tahun-2024.pdf'

@@ -1,0 +1,22 @@
+id: uu-2019-022
+judul: Undang-Undang Nomor 22 Tahun 2019 tentang SISTEM BUDI DAYA PERTANIAN BERKELANJUTAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6c221b63f8933dfc5be8bd9997c0561eef6bc3c7c28052fdfbb7f94fde555009
+  file_size_bytes: 475077
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu22-2019bt.pdf'

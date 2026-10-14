@@ -1,0 +1,24 @@
+id: uu-2003-022
+judul: Undang-Undang Nomor 22 Tahun 2003 tentang SUSUNAN DAN KEDUDUKAN MAJELIS PERMUSYAWARATAN
+  RAKYAT, DEWAN PERWAKILAN RAKYAT, DEWAN PERWAKILAN DAERAH, DAN DEWAN PERWAKILAN RAKYAT
+  DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2eab7a8daa75dd7b703e3ac05b98bc71bf4181888f18312436446c574f261cf0
+  file_size_bytes: 171393
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0222003.pdf'

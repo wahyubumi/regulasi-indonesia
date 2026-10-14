@@ -1,0 +1,24 @@
+id: uu-1964-035
+judul: Undang-Undang Nomor 35 Tahun 1964 tentang PERUBAHAN DAN TAMBAHAN ATAS ANGGARAN
+  PENDAPATAN DAN BELANJA NEGARA TAHUN 1963 (UNDANG-UNDANG NO. 9 TAHUN 1963 LEMBARAN-NEGARA
+  TAHUN 1963 NO. 91)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1cb581e7b5377b17b5409d16764333f5ea904da0863a13953bd003b7ac4e6435
+  file_size_bytes: 60903
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0351964.pdf'

@@ -1,0 +1,23 @@
+id: uu-2024-034
+judul: Undang-Undang Nomor 34 Tahun 2024 tentang KABUPATEN LAMPUNG SELATAN DI PROVINSI
+  LAMPUNG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0f0890fcb7ca9d7ffe3708ba968c505786b1c9d81fe9b88855170e29bacd9677
+  file_size_bytes: 892350
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-34-tahun-2024.pdf'

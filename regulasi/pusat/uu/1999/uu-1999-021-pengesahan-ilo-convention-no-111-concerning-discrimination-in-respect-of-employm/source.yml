@@ -1,0 +1,24 @@
+id: uu-1999-021
+judul: Undang-Undang Nomor 21 Tahun 1999 tentang PENGESAHAN ILO CONVENTION NO. 111
+  CONCERNING DISCRIMINATION IN RESPECT OF EMPLOYMENT AND OCCUPATION (KONVENSI ILO
+  MENGENAI DISKRIMINASI DALAM PEKERJAAN DAN JABATAN)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2c7ef185b78aa292f0ca381f19d12ac73857ebab018d206a483679651753c21a
+  file_size_bytes: 65616
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu21-1999.pdf'

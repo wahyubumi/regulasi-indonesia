@@ -1,0 +1,22 @@
+id: uu-2004-018
+judul: Undang-Undang Nomor 18 Tahun 2004 tentang PERKEBUNAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: aa7a6751368646eec538ff50fb48c8b01b1fe8cd6b32d5dfb3ec8c21b563dc34
+  file_size_bytes: 225468
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-2004.pdf'

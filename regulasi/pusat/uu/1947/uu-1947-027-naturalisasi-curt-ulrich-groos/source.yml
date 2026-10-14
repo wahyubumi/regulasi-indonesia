@@ -1,0 +1,22 @@
+id: uu-1947-027
+judul: Undang-Undang Nomor 27 Tahun 1947 tentang NATURALISASI CURT ULRICH GROOS
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: b4a5cc90fdc76404758620ff5184f1acbbd75f987174c66d7e4e6bff36c89f20
+  file_size_bytes: 42567
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu27-1947.pdf'

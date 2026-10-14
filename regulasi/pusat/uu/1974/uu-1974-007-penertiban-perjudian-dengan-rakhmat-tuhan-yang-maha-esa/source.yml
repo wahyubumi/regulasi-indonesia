@@ -1,0 +1,23 @@
+id: uu-1974-007
+judul: Undang-Undang Nomor 7 Tahun 1974 tentang PENERTIBAN PERJUDIAN DENGAN RAKHMAT
+  TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 299d18d162d6fdc64d9a456ce35daa3b40750b3fe162f68200f5e0c8e046d2b0
+  file_size_bytes: 35159
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0071974.pdf'

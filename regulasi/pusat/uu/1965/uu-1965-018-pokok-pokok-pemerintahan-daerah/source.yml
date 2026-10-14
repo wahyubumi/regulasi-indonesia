@@ -1,0 +1,22 @@
+id: uu-1965-018
+judul: Undang-Undang Nomor 18 Tahun 1965 tentang POKOK-POKOK PEMERINTAHAN DAERAH
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 41c5851a6eb7bac455f5e15a3a596c6481f085b65cfc6c7c7b3ddf8791992940
+  file_size_bytes: 333566
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0181965.pdf'

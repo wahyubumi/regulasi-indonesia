@@ -1,0 +1,22 @@
+id: uu-2024-079
+judul: Undang-Undang Nomor 79 Tahun 2024 tentang KABUPATEN TABANAN DI PROVINSI BALI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: dea3fa42860299ece245bfc14dd1ae05967958d6671ebda063b68caf1a87dfdb
+  file_size_bytes: 409569
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-79-tahun-2024.pdf'

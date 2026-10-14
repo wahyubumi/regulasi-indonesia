@@ -1,0 +1,23 @@
+id: uu-2001-018
+judul: Undang-Undang Nomor 18 Tahun 2001 tentang OTONOMI KHUSUS BAGI PROVINSI DAERAH
+  ISTIMEWA ACEH SEBAGAI PROVINSI NANGGROE ACEH DARUSSALAM
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 43cacfda29442b12279bd7e50d837534dfb3cc0e9b75eea3e66337a9d556bf50
+  file_size_bytes: 134562
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu18-2001.pdf'

@@ -1,0 +1,22 @@
+id: uu-2012-012
+judul: Undang-Undang Nomor 12 Tahun 2012 tentang PENDIDIKAN TINGGI
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0b7fb4792c935e6bae8dc595f15ef9878ebeb56ce530fd19eca15ca1421aad1c
+  file_size_bytes: 182522
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-2012bt.pdf'

@@ -1,0 +1,23 @@
+id: uu-1968-017
+judul: Undang-Undang Nomor 17 Tahun 1968 tentang BANK NEGARA INDONESIA 1946 DENGAN
+  RAKHMAT TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5bc720a9c288b5f93c94b102c2470962687681dc8280f7273defcc126ca34f58
+  file_size_bytes: 67093
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+17+Tahun+1968.pdf'

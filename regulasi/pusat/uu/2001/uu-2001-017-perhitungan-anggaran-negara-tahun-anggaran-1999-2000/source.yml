@@ -1,0 +1,23 @@
+id: uu-2001-017
+judul: Undang-Undang Nomor 17 Tahun 2001 tentang PERHITUNGAN ANGGARAN NEGARA TAHUN
+  ANGGARAN 1999/2000
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f930dbb5286630814aa23238cca30f8dece3e6f06d76ad85117c955cac477f97
+  file_size_bytes: 120739
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-2001.pdf'

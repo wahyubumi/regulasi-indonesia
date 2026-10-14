@@ -1,0 +1,23 @@
+id: uu-2024-109
+judul: Undang-Undang Nomor 109 Tahun 2024 tentang KABUPATEN CIAMIS DI PROVINSI JAWA
+  BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0da3d4ac67e21bf4c6a432486c02ed90fb84bc5109d5d2a84e49e6bdaf082823
+  file_size_bytes: 528183
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-109-tahun-2024.pdf'

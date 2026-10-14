@@ -1,0 +1,22 @@
+id: uu-1959-010
+judul: Undang-Undang Nomor 10 Tahun 1959 tentang PEMBATALAN HAK-HAK PERTAMBANGAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 0c65078701aca8f568c8917d62a66541111c705c79b770c5bcadfa5bcbe9e91f
+  file_size_bytes: 39558
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu0101959.pdf'

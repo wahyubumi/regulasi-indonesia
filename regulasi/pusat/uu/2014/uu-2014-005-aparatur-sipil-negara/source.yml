@@ -1,0 +1,22 @@
+id: uu-2014-005
+judul: Undang-Undang Nomor 5 Tahun 2014 tentang APARATUR SIPIL NEGARA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 47e608c392074a111e73e8ed387dcf8c664ee1d4c2e472e1e46ab6c7c8678b45
+  file_size_bytes: 206984
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2014bt.pdf'

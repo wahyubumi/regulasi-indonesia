@@ -1,0 +1,25 @@
+id: uu-1958-017
+judul: Undang-Undang Nomor 17 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 10 TAHUN 1955 TENTANG PEMUNGUTAN SUMBANGAN DARI PABRIKAN-PABRIKAN ROKOK BAGI
+  BADAN URUSAN "TEMBAKAU" (KROSOK CENTRALE)" (LEMBARAN-NEGARA TAHUN 1955 NO. 34) SEBAGAI
+  UNDANG-UNDANG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: eb71008a6a965910fdb4a0c751e4c2c4f4c62b010cb21c605009288ec35b57ec
+  file_size_bytes: 33225
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu17-1958.pdf'

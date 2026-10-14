@@ -1,0 +1,23 @@
+id: uu-2024-049
+judul: Undang-Undang Nomor 49 Tahun 2024 tentang KABUPATEN PESISIR SELATAN DI PROVINSI
+  SUMATERA BARAT
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: d4e0b0ef7ca0e8fe9542183699bcd1ac4d8720e38aa8cef10420842da15bb897
+  file_size_bytes: 681576
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu-no-49-tahun-2024.pdf'

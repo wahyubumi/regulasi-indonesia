@@ -1,0 +1,24 @@
+id: uu-1954-048
+judul: Undang-Undang Nomor 48 Tahun 1954 tentang PENETAPAN BAGIAN VIIIB (KEMENTRIAN
+  PERHUBUNGAN-JAWATAN PELAYARAN) DARI ANGGARAN REPUBLIK INDONESIA UNTUK TAHUN-TAHUN
+  DINAS 1952 DAN 1953
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6bcfb8df55ed92ce05bde0f1ee46ffb1e5f86dcbf43fda5213d8749ae38a0e33
+  file_size_bytes: 81887
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu48-1954.pdf'

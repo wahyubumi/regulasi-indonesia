@@ -1,0 +1,25 @@
+id: uu-1958-012
+judul: Undang-Undang Nomor 12 Tahun 1958 tentang PENETAPAN "UNDANG-UNDANG DARURAT
+  NO. 1 TAHUN 1957 TENTANG PERUBAHAN JUMLAH MAKSIMUM ANGGOTA DEWAN PEMERINTAH DAERAH
+  PERALIHAN YANG DIMAKSUD DALAM PASAL 5 UNDANG-UNDANG NO. 14 TAHUN 1956 TENTANG PEMBENTUKAN
+  DEWAN PERWAKILAN RAKYAT DAERAH DAN DEWAN PEMERINTAH DAERAH PERALIHAN *)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 5a47c4f22feff9b13e39606881a5686a37eaec2593ead4f85db2f7aeb7d41d3b
+  file_size_bytes: 17467
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu12-1958.pdf'

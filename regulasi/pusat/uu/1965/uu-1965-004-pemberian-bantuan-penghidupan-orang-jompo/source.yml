@@ -1,0 +1,23 @@
+id: uu-1965-004
+judul: Undang-Undang Nomor 4 Tahun 1965 tentang PEMBERIAN BANTUAN PENGHIDUPAN ORANG
+  JOMPO
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 98e394996f6f8ea95665b8d2e8aa9590e8b31c0186041fb9377641a12ee54472
+  file_size_bytes: 131368
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0041965.pdf'

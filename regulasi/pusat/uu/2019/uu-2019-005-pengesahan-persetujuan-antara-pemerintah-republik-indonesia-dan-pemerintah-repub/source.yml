@@ -1,0 +1,25 @@
+id: uu-2019-005
+judul: Undang-Undang Nomor 5 Tahun 2019 tentang PENGESAHAN PERSETUJUAN ANTARA PEMERINTAH
+  REPUBLIK INDONESIA DAN PEMERINTAH REPUBLIK BELARUS TENTANG KERJA SAMA INDUSTRI PERTAHANAN
+  (AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE GOVERNMENT
+  OF THE REPUBLIC OF BELARUS ON DEFENCE INDUSTRY COOPERATION)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 1a56cc843b4cc40f5b0f461358979609d23bff8a958971b111048a9dd3ed71f7
+  file_size_bytes: 105500
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-2019bt.pdf'

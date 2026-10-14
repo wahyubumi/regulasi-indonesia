@@ -1,0 +1,23 @@
+id: uu-2008-051
+judul: Undang-Undang Nomor 51 Tahun 2008 tentang PEMBENTUKAN KOTA TANGERANG SELATAN
+  DI PROVINSI BANTEN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 94f1197d05d710f1b01febcd560eba824b0b88694c427185525bf37250d5423c
+  file_size_bytes: 156620
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0512008.pdf'

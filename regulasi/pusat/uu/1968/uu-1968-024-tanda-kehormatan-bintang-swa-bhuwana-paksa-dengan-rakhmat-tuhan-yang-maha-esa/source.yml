@@ -1,0 +1,23 @@
+id: uu-1968-024
+judul: Undang-Undang Nomor 24 Tahun 1968 tentang TANDA KEHORMATAN BINTANG SWA BHUWANA
+  PAKSA DENGAN RAKHMAT TUHAN YANG MAHA ESA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 2a852100fd6e1eb57287525715c650a5d2e03bd2967d874dddcec7fa14b98be0
+  file_size_bytes: 46306
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU+Nomor+24+Tahun+1968.pdf'

@@ -1,0 +1,22 @@
+id: uu-2005-014
+judul: Undang-Undang Nomor 14 Tahun 2005 tentang GURU DAN DOSEN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 130e2f15b4dfe97cd5551cbce1580e9654bcf420b11c7adf4edbc0d5b382879e
+  file_size_bytes: 201471
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu14-2005.pdf'

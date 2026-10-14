@@ -1,0 +1,22 @@
+id: uu-2004-034
+judul: Undang-Undang Nomor 34 Tahun 2004 tentang TENTARA NASIONAL INDONESIA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 484ac9f55eeddec9a3e736d2e2dd89c4229c2be0f7e81e095e1c05e75950e8ee
+  file_size_bytes: 308714
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu34-2004.pdf'

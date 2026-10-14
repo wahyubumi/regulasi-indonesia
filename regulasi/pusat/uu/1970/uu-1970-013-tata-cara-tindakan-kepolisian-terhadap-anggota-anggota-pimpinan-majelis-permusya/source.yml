@@ -1,0 +1,24 @@
+id: uu-1970-013
+judul: Undang-Undang Nomor 13 Tahun 1970 tentang TATA CARA TINDAKAN KEPOLISIAN TERHADAP
+  ANGGOTA- ANGGOTA/PIMPINAN MAJELIS PERMUSYAWARATAN RAKYAT SEMENTARA DAN DEWAN PERWAKILAN
+  RAKYAT GOTONG-ROYONG
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: f0614d067c5e18d01007cfe74448ae62d2a662bfb27f483f5c4a1c485dd6c055
+  file_size_bytes: 44788
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0131970.pdf'

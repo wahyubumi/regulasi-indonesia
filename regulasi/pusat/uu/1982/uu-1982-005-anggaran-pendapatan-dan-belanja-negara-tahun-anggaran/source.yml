@@ -1,0 +1,23 @@
+id: uu-1982-005
+judul: Undang-Undang Nomor 5 Tahun 1982 tentang ANGGARAN PENDAPATAN DAN BELANJA NEGARA
+  TAHUN ANGGARAN
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: fb3d1c7d080afd985e2a27ced6dc17bedb0216e0b19f8b1eccc991d4c2c749a9
+  file_size_bytes: 37503
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1982.pdf'

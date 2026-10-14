@@ -1,0 +1,23 @@
+id: uu-1946-005
+judul: Undang-Undang Nomor 5 Tahun 1946 tentang PENETAPAN TARIP PAJAK PENDAPATAN TAHUN
+  1946/1947 DAN TAMBAHAN PAJAK
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 6361dd3d5ea4f24f72c97a8fe6dddc4e386792bf4a2b603234adc29bba0251c8
+  file_size_bytes: 41803
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: uu5-1946.pdf'

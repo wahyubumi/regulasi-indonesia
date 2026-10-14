@@ -1,0 +1,25 @@
+id: uu-1965-002
+judul: Undang-Undang Nomor 2 Tahun 1965 tentang PERUBAHAN BATAS WILAYAH KOTAPRAJA
+  SURABAYA DAN DAERAH TINGKAT II SURABAYA DENGAN MENGUBAH UNDANG-UNDANG NO. 12 TAHUN
+  1950, TENTANG PEMBENTUKAN DAERAH-DAERAH KOTA BESAR DALAM LINGKUNGAN PROPINSI JAWA
+  TIMUR, JAWA TENGAH, JAWA BARAT DAN DAERAH ISTIMEWA JOGYAKARTA
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: 17237e7dc7be751956bb70dfba3c94a8b916e73cad738c6f5ee6afbf32b82388
+  file_size_bytes: 92538
+  last_checked: '2026-10-13'
+html_source:
+  available: null
+  url: null
+catatan:
+- 'Sumber lokal awal: UU0021965.pdf'
