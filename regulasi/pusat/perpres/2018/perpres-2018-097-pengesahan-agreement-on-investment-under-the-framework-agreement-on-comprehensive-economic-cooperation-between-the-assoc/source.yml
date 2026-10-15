@@ -1,0 +1,26 @@
+id: perpres-2018-097
+judul: Peraturan Presiden Nomor 97 Tahun 2018 tentang Pengesahan Agreement On Investment
+  Under The Framework Agreement On Comprehensive Economic Cooperation Between The
+  Association Of Southeastasiaiv ]Vatioits And The Republic Of India (Persetujuan
+  Mengenai Penanaman Modal Berdasarkan Persetujuan Kerangka Kerja Mengenai Kerja Sama
+  Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Republik India)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -1,0 +1,28 @@
+id: perpres-2018-111
+judul: Peraturan Presiden Nomor 111 Tahun 2018 tentang PENGESAHAN THIRD PROTOCOL TO
+  AMEND THE AGREEMENT ON TRADE IN GOODS UJVDER THE FRAMEWORK AGREEMENT ON COMPREHENSNE
+  ECONOMIC COOPERATION AMONG THE GOVERNME,MTS OF THE MDMBER COUNTRIES OT'ff{E ASSOCIATION
+  OF SO|../THEASTASIAAT ,IVATIOJVS AND THE REPUBLIC OF KOREA (PROTOKOL KETIGA UNTUK
+  MENGUBAH PERSETUJUAN PERDAGANGAN BARANG DARI PERSETUJUAN KERANGKA KERJA MENGENAI
+  KERJA SAMA EKONOMI MENYELURUH ANTARA PERHIMPUNAN BANGSA-BANGSA ASIA TENGGARA DAN
+  REPUBLIK KOREA)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

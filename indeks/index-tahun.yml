@@ -29037,7 +29037,7 @@
     judul: SISTEM RESI GUDANG
     path: regulasi/pusat/uu/2006/uu-2006-009-sistem-resi-gudang
 - id: '2007'
-  jumlah: 249
+  jumlah: 250
   regulasi:
   - id: permen-2007-010
     jenis: permen
@@ -29248,6 +29248,13 @@
       Menyeluruh Antar Pemerintah Negara-Negara Anggota Perhimpunan Bangsa-Bangsa
       Asia Tenggara Dan Republik Korea)
     path: regulasi/pusat/perpres/2007/perpres-2007-012-pengesahan-agreement-on-trade-in-goods-under-the-framework-agreement-on-comprehensive-economic-cooperation-among-the-gov
+  - id: perpres-2007-124
+    jenis: perpres
+    nomor: '124'
+    tahun: 2007
+    judul: Perubahan Atas Peraturan Presiden Nomor 24 Tahun 2Oo7 Tentang Tunjangan
+      Panitera
+    path: regulasi/pusat/perpres/2007/perpres-2007-124-perubahan-atas-peraturan-presiden-nomor-24-tahun-2oo7-tentang-tunjangan-panitera
   - id: perpres-2007-013
     jenis: perpres
     nomor: '13'
@@ -47484,7 +47491,7 @@
       MATTERS)
     path: regulasi/pusat/uu/2014/uu-2014-009-pengesahan-perjanjian-antara-republik-indonesia-dan-republik-india-tentang-bantu
 - id: '2015'
-  jumlah: 505
+  jumlah: 507
   regulasi:
   - id: permen-2015-101
     jenis: permen
@@ -48766,6 +48773,13 @@
     judul: Tunjangan Kinerja Pegawai Di Lingkungan Lembaga Penerbangan Dan Antariksa
       Nasional
     path: regulasi/pusat/perpres/2015/perpres-2015-161-tunjangan-kinerja-pegawai-di-lingkungan-lembaga-penerbangan-dan-antariksa-nasional
+  - id: perpres-2015-162
+    jenis: perpres
+    nomor: '162'
+    tahun: 2015
+    judul: Tunjangan Kinerja Pegawai Di Lingkungan Lembaga Kebijakan Pengadaan Barang/Jasa
+      Pemerintah
+    path: regulasi/pusat/perpres/2015/perpres-2015-162-tunjangan-kinerja-pegawai-di-lingkungan-lembaga-kebijakan-pengadaan-barang-jasa-pemerintah
   - id: perpres-2015-163
     jenis: perpres
     nomor: '163'
@@ -50310,6 +50324,14 @@
     judul: Perubahan Ketiga Belas Atas Peraturan Pemerintah Nomor 14 Tahun 1985 Tentang
       Pemberian Tunjangan Perintis Pergerakan Kebangsaan/Kemerdekaan
     path: regulasi/pusat/pp/2015/pp-2015-037-perubahan-ketiga-belas-atas-peraturan-pemerintah-nomor-14-tahun-1985-tentang-pemberian-tunjangan-perintis-pergerakan-keb
+  - id: pp-2015-038
+    jenis: pp
+    nomor: '38'
+    tahun: 2015
+    judul: Pemberian Gaji/Pensiun/Tunjangan Bulan Ketiga Belas Dalam Tahun Anggaran
+      2015 Kepada Pegawai Negeri Sipil, Anggota Tentara Nasional Indonesia, Anggota
+      Kepolisian Negara Republik Indonesia, Pejabat Negara, Dan Penerima Pensiun/Tunjangan
+    path: regulasi/pusat/pp/2015/pp-2015-038-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2015-kepada-pegawai-negeri-sipil-anggota-tentar
   - id: pp-2015-039
     jenis: pp
     nomor: '39'
@@ -50882,7 +50904,7 @@
       Daerah
     path: regulasi/pusat/uu/2015/uu-2015-009-perubahan-kedua-atas-undang-undang-nomor-23-tahun-2014-tentang-pemerintahan-daerah
 - id: '2016'
-  jumlah: 477
+  jumlah: 478
   regulasi:
   - id: permen-2016-001
     jenis: permen
@@ -52306,6 +52328,14 @@
     judul: Tata Cara Pelantikan Gubernur Dan Wakil Gubernur, Bupati Dan Wakil Bupati,
       Serta Walikota Dan Wakil Walikota
     path: regulasi/pusat/perpres/2016/perpres-2016-016-tata-cara-pelantikan-gubernur-dan-wakil-gubernur-bupati-dan-wakil-bupati-serta-walikota-dan-wakil-walikota
+  - id: perpres-2016-017
+    jenis: perpres
+    nomor: '17'
+    tahun: 2016
+    judul: Pen Etapan Peraturan Pem Eri Ntah Pengganti Undang-Undang Nomor 1 Tahun
+      2016 Tentang Perubahan Kedua Atas Undang- Undang Nomor 23 Tahun 2Oo2 Tentang
+      Perlindungan Anak Menjadi Undang-Undang
+    path: regulasi/pusat/perpres/2016/perpres-2016-017-pen-etapan-peraturan-pem-eri-ntah-pengganti-undang-undang-nomor-1-tahun-2016-tentang-perubahan-kedua-atas-undang-undang
   - id: perpres-2016-018
     jenis: perpres
     nomor: '18'
@@ -54190,7 +54220,7 @@
     judul: Pencegahan Dan Penanganan Krisis Sistem Keuangan
     path: regulasi/pusat/uu/2016/uu-2016-009-pencegahan-dan-penanganan-krisis-sistem-keuangan
 - id: '2017'
-  jumlah: 481
+  jumlah: 485
   regulasi:
   - id: permen-2017-005
     jenis: permen
@@ -55503,6 +55533,12 @@
     tahun: 2017
     judul: Tunjangan Jabatan Fungsional Pengamat Tera
     path: regulasi/pusat/perpres/2017/perpres-2017-105-tunjangan-jabatan-fungsional-pengamat-tera
+  - id: perpres-2017-106
+    jenis: perpres
+    nomor: '106'
+    tahun: 2017
+    judul: Kawasan Sains Dan Teknologi
+    path: regulasi/pusat/perpres/2017/perpres-2017-106-kawasan-sains-dan-teknologi
   - id: perpres-2017-107
     jenis: perpres
     nomor: '107'
@@ -56154,6 +56190,13 @@
       Between The Government Of The Republic Of Indonesia And The Government Of The
       United Kingdom Of Great Britain And Northern Ireland Concerning Air Services)
     path: regulasi/pusat/perpres/2017/perpres-2017-071-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-kerajaan-inggris-raya-dan-irlandia-utara-tent
+  - id: perpres-2017-072
+    jenis: perpres
+    nomor: '72'
+    tahun: 2017
+    judul: Pedoman Pelaksanaan Anggaran Pendapatan Dan Belanja Daerah Provinsi Jawa
+      Tengah Tahun Anggaran 2018
+    path: regulasi/pusat/perpres/2017/perpres-2017-072-pedoman-pelaksanaan-anggaran-pendapatan-dan-belanja-daerah-provinsi-jawa-tengah-tahun-anggaran-2018
   - id: perpres-2017-073
     jenis: perpres
     nomor: '73'
@@ -57103,6 +57146,12 @@
     tahun: 2017
     judul: Pelaksanaan Restitusi Bagi Anak Yang Menjadi Korban Tindak Pidana
     path: regulasi/pusat/pp/2017/pp-2017-043-pelaksanaan-restitusi-bagi-anak-yang-menjadi-korban-tindak-pidana
+  - id: pp-2017-044
+    jenis: pp
+    nomor: '44'
+    tahun: 2017
+    judul: Pelaksanaan Pengasuhan Anak
+    path: regulasi/pusat/pp/2017/pp-2017-044-pelaksanaan-pengasuhan-anak
   - id: pp-2017-045
     jenis: pp
     nomor: '45'
@@ -57149,6 +57198,14 @@
     judul: Penambahan Penyertaan Modal Negara Republik Indonesia Ke Dalam Modal Saham
       Perusahaan Perseroan (Persero) Pt Rajawali Nusantara Indonesia
     path: regulasi/pusat/pp/2017/pp-2017-050-penambahan-penyertaan-modal-negara-republik-indonesia-ke-dalam-modal-saham-perusahaan-perseroan-persero-pt-rajawali-nusa
+  - id: pp-2017-051
+    jenis: pp
+    nomor: '51'
+    tahun: 2017
+    judul: Perubahan Atas Peraturan Pemerintah Nomor 38 Tahun 2013 Tentang Penghasilan,
+      Fasilitas, Penghargaan, Dan Hak-Hak Lain Bagi Kepala Dan Wakil Kepala Pusat
+      Pelaporan Dan Analisis Transaksi Keuangan
+    path: regulasi/pusat/pp/2017/pp-2017-051-perubahan-atas-peraturan-pemerintah-nomor-38-tahun-2013-tentang-penghasilan-fasilitas-penghargaan-dan-hak-hak-lain-bagi
   - id: pp-2017-052
     jenis: pp
     nomor: '52'
@@ -57422,7 +57479,7 @@
       Tentang Akses Informasi Keuangan Untuk Kepentingan Perpajakan Menjadi Undang-Undang
     path: regulasi/pusat/uu/2017/uu-2017-009-penetapan-peraturan-pemerintah-pengganti-undang-undang-nomor-1-tahun-2017-tentang-akses-informasi-keuangan-untuk-kepenti
 - id: '2018'
-  jumlah: 440
+  jumlah: 445
   regulasi:
   - id: perbssn-2018-001
     jenis: perbssn
@@ -58933,6 +58990,17 @@
     judul: Pengesahan Asean Agreement On Medical Dewce Directme (Persetujuan Asean
       Untuk Pengaturan Peralatan Kesehatan)
     path: regulasi/pusat/perpres/2018/perpres-2018-110-pengesahan-asean-agreement-on-medical-dewce-directme-persetujuan-asean-untuk-pengaturan-peralatan-kesehatan
+  - id: perpres-2018-111
+    jenis: perpres
+    nomor: '111'
+    tahun: 2018
+    judul: PENGESAHAN THIRD PROTOCOL TO AMEND THE AGREEMENT ON TRADE IN GOODS UJVDER
+      THE FRAMEWORK AGREEMENT ON COMPREHENSNE ECONOMIC COOPERATION AMONG THE GOVERNME,MTS
+      OF THE MDMBER COUNTRIES OT'ff{E ASSOCIATION OF SO|../THEASTASIAAT ,IVATIOJVS
+      AND THE REPUBLIC OF KOREA (PROTOKOL KETIGA UNTUK MENGUBAH PERSETUJUAN PERDAGANGAN
+      BARANG DARI PERSETUJUAN KERANGKA KERJA MENGENAI KERJA SAMA EKONOMI MENYELURUH
+      ANTARA PERHIMPUNAN BANGSA-BANGSA ASIA TENGGARA DAN REPUBLIK KOREA)
+    path: regulasi/pusat/perpres/2018/perpres-2018-111-pengesahan-third-protocol-to-amend-the-agreement-on-trade-in-goods-ujvder-the-framework-agreement-on-comprehensne-econom
   - id: perpres-2018-112
     jenis: perpres
     nomor: '112'
@@ -59225,6 +59293,18 @@
     judul: Pedoman Penyusunan, Pelaksanaan, Dan Pengawasan Rencana Aksi Nasional Percepatan
       Pembangunan Daerah Tertinggal
     path: regulasi/pusat/perpres/2018/perpres-2018-022-pedoman-penyusunan-pelaksanaan-dan-pengawasan-rencana-aksi-nasional-percepatan-pembangunan-daerah-tertinggal
+  - id: perpres-2018-024
+    jenis: perpres
+    nomor: '24'
+    tahun: 2018
+    judul: Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik
+    path: regulasi/pusat/perpres/2018/perpres-2018-024-pelayanan-perizinan-berusaha-terintegrasi-secara-elektronik
+  - id: perpres-2018-028
+    jenis: perpres
+    nomor: '28'
+    tahun: 2018
+    judul: Kerja Sama Daerah
+    path: regulasi/pusat/perpres/2018/perpres-2018-028-kerja-sama-daerah
   - id: perpres-2018-030
     jenis: perpres
     nomor: '30'
@@ -59635,6 +59715,12 @@
     judul: Tunjangan Jabatan Bagi Pejabat Tertentu Yang Ditugaskan Pada Badan Pemeriksa
       Keuangan
     path: regulasi/pusat/perpres/2018/perpres-2018-084-tunjangan-jabatan-bagi-pejabat-tertentu-yang-ditugaskan-pada-badan-pemeriksa-keuangan
+  - id: perpres-2018-085
+    jenis: perpres
+    nomor: '85'
+    tahun: 2018
+    judul: Pengamanan Dan Pengawalancalonpresiden Dan Calonwakil Presiden Dalam Penyelenggaraanpemilihanumum
+    path: regulasi/pusat/perpres/2018/perpres-2018-085-pengamanan-dan-pengawalancalonpresiden-dan-calonwakil-presiden-dalam-penyelenggaraanpemilihanumum
   - id: perpres-2018-086
     jenis: perpres
     nomor: '86'
@@ -59717,6 +59803,16 @@
     tahun: 2018
     judul: Persyaratan Dan Tata Cara Pendaftaran Penduduk Dan Pencatatan Sipil
     path: regulasi/pusat/perpres/2018/perpres-2018-096-persyaratan-dan-tata-cara-pendaftaran-penduduk-dan-pencatatan-sipil
+  - id: perpres-2018-097
+    jenis: perpres
+    nomor: '97'
+    tahun: 2018
+    judul: Pengesahan Agreement On Investment Under The Framework Agreement On Comprehensive
+      Economic Cooperation Between The Association Of Southeastasiaiv ]Vatioits And
+      The Republic Of India (Persetujuan Mengenai Penanaman Modal Berdasarkan Persetujuan
+      Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa
+      Asia Tenggara Dan Republik India)
+    path: regulasi/pusat/perpres/2018/perpres-2018-097-pengesahan-agreement-on-investment-under-the-framework-agreement-on-comprehensive-economic-cooperation-between-the-assoc
   - id: perpres-2018-098
     jenis: perpres
     nomor: '98'
@@ -60418,7 +60514,7 @@
     judul: PENERIMAAN NEGARA BUKAN PAJAK
     path: regulasi/pusat/uu/2018/uu-2018-009-penerimaan-negara-bukan-pajak
 - id: '2019'
-  jumlah: 423
+  jumlah: 425
   regulasi:
   - id: perbssn-2019-001
     jenis: perbssn
@@ -62983,6 +63079,13 @@
     judul: Perubahan Atas Peraturan Pemerintah Nomor 18 Tahun 2016 Tentang Perangkat
       Daerah
     path: regulasi/pusat/pp/2019/pp-2019-072-perubahan-atas-peraturan-pemerintah-nomor-18-tahun-2016-tentang-perangkat-daerah
+  - id: pp-2019-073
+    jenis: pp
+    nomor: '73'
+    tahun: 2019
+    judul: Barang Kena Pajak Yang Tergolong Mewah Berupa Kendaraan Bermotor Yang Dikenai
+      Pajak Penjualan Atas Barang Mewah
+    path: regulasi/pusat/pp/2019/pp-2019-073-barang-kena-pajak-yang-tergolong-mewah-berupa-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah
   - id: pp-2019-074
     jenis: pp
     nomor: '74'
@@ -62991,6 +63094,13 @@
       Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Standardisasi
       Nasional
     path: regulasi/pusat/pp/2019/pp-2019-074-perubahan-atas-peraturan-pemerintah-nomor-40-tahun-2018-tentang-jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak
+  - id: pp-2019-075
+    jenis: pp
+    nomor: '75'
+    tahun: 2019
+    judul: Peraturan Pei.Aksanaan Undang-Undang Nomor 3 Tahun 2Oi7 Tentang Sistem
+      Perbukuan
+    path: regulasi/pusat/pp/2019/pp-2019-075-peraturan-pei-aksanaan-undang-undang-nomor-3-tahun-2oi7-tentang-sistem-perbukuan
   - id: pp-2019-076
     jenis: pp
     nomor: '76'
@@ -69305,7 +69415,7 @@
       Riau, Pengadilan Tinggi Sulawesi Barat, Dan Pengadilan Tinggi Kalimantan Utara
     path: regulasi/pusat/uu/2021/uu-2021-009-pembentukan-pengadilan-tinggi-papua-barat-pengadilan-tinggi-kepulauan-riau-pengadilan-tinggi-sulawesi-barat-dan-pengadil
 - id: '2022'
-  jumlah: 465
+  jumlah: 466
   regulasi:
   - id: perbssn-2022-001
     jenis: perbssn
@@ -70891,6 +71001,13 @@
     judul: PENGESAHAN PROTOCOL 6 RAILWAYS BORDER AND INTERCIIANGE ,sIAflOiVS (PROTOKOL
       6 STASIUN PERBATASAN DAN STASIUN PERPINDAHAN PERKERETAAPIAN)
     path: regulasi/pusat/perpres/2022/perpres-2022-122-pengesahan-protocol-6-railways-border-and-interciiange-siafloivs-protokol-6-stasiun-perbatasan-dan-stasiun-perpindahan-p
+  - id: perpres-2022-123
+    jenis: perpres
+    nomor: '123'
+    tahun: 2022
+    judul: Perubahan Atas Peraturan Presiden Nomor 14 Tahun 2Oo5 Tentang Kepaniteraan
+      Mahkamah Agung
+    path: regulasi/pusat/perpres/2022/perpres-2022-123-perubahan-atas-peraturan-presiden-nomor-14-tahun-2oo5-tentang-kepaniteraan-mahkamah-agung
   - id: perpres-2022-125
     jenis: perpres
     nomor: '125'
@@ -72316,7 +72433,7 @@
     judul: PROVINSI KALIMANTAN BARAT
     path: regulasi/pusat/uu/2022/uu-2022-009-provinsi-kalimantan-barat
 - id: '2023'
-  jumlah: 365
+  jumlah: 366
   regulasi:
   - id: perbssn-2023-002
     jenis: perbssn
@@ -74288,6 +74405,12 @@
     judul: Jenis Dan Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada
       Komisi Pengawas Persaingan Usaha
     path: regulasi/pusat/pp/2023/pp-2023-020-jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-komisi-pengawas-persaingan-usaha
+  - id: pp-2023-021
+    jenis: pp
+    nomor: '21'
+    tahun: 2023
+    judul: pp
+    path: regulasi/pusat/pp/2023/pp-2023-021-pp
   - id: pp-2023-022
     jenis: pp
     nomor: '22'
@@ -74804,7 +74927,7 @@
     judul: PROVINSI SUMATERA SEI.,ATAN
     path: regulasi/pusat/uu/2023/uu-2023-009-provinsi-sumatera-sei-atan
 - id: '2024'
-  jumlah: 627
+  jumlah: 628
   regulasi:
   - id: perbssn-2024-001
     jenis: perbssn
@@ -76343,6 +76466,12 @@
     tahun: 2024
     judul: Kementerian Pertahanan
     path: regulasi/pusat/perpres/2024/perpres-2024-151-kementerian-pertahanan
+  - id: perpres-2024-152
+    jenis: perpres
+    nomor: '152'
+    tahun: 2024
+    judul: Kementerian Agama
+    path: regulasi/pusat/perpres/2024/perpres-2024-152-kementerian-agama
   - id: perpres-2024-153
     jenis: perpres
     nomor: '153'
@@ -78884,7 +79013,7 @@
     judul: KABUPATEN SUKABUMI DI PROVINSI JAWA BARAT
     path: regulasi/pusat/uu/2024/uu-2024-099-kabupaten-sukabumi-di-provinsi-jawa-barat
 - id: '2025'
-  jumlah: 305
+  jumlah: 332
   regulasi:
   - id: perbssn-2025-001
     jenis: perbssn
@@ -79846,6 +79975,13 @@
       Birokrasi Nomor 19 Tahun 2021 Tentang Standar Pelayanan Di Lingkungan Kementerian
       Pendayagunaan Aparatur Negara Dan Reformasi Birokrasi
     path: regulasi/pusat/permen/2025/permenpanrb-2025-009-pencabutan-peraturan-menteri-pendayagunaan-aparatur-negara-dan-reformasi-birokrasi-nomor-19-tahun-2021-tentang-standar-p
+  - id: perpres-2025-001
+    jenis: perpres
+    nomor: '1'
+    tahun: 2025
+    judul: Peraturan Presiden Tentang Perubahan Atas Peraturan Presiden Nomor 86 Tahun
+      2Oo7 Tentang Badan Pusat Statistik
+    path: regulasi/pusat/perpres/2025/perpres-2025-001-peraturan-presiden-tentang-perubahan-atas-peraturan-presiden-nomor-86-tahun-2oo7-tentang-badan-pusat-statistik
   - id: perpres-2025-100
     jenis: perpres
     nomor: '100'
@@ -79853,6 +79989,13 @@
     judul: Pengesahan Asean Mutual Recogn Ition Arran Gement On Fligi+T Crew Licensing
       (Pengaturan Saling Pengakuan Asean Mengenai Penerbitan Lisensi Penerbang)
     path: regulasi/pusat/perpres/2025/perpres-2025-100-pengesahan-asean-mutual-recogn-ition-arran-gement-on-fligi-t-crew-licensing-pengaturan-saling-pengakuan-asean-mengenai-p
+  - id: perpres-2025-102
+    jenis: perpres
+    nomor: '102'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Presiden Nomor 121 Tahun 2022 Tentang Badan Pengarah
+      Percepatan Pembangunan Otonomi Khusus Papua
+    path: regulasi/pusat/perpres/2025/perpres-2025-102-perubahan-atas-peraturan-presiden-nomor-121-tahun-2022-tentang-badan-pengarah-percepatan-pembangunan-otonomi-khusus-papu
   - id: perpres-2025-105
     jenis: perpres
     nomor: '105'
@@ -79873,6 +80016,12 @@
     judul: Penanganan Sampah Perkotaan Melalui Pengolahan Sampah Menjadi Energi Terbarukan
       Berbasis Teknologi Ramah Lingkungan
     path: regulasi/pusat/perpres/2025/perpres-2025-109-penanganan-sampah-perkotaan-melalui-pengolahan-sampah-menjadi-energi-terbarukan-berbasis-teknologi-ramah-lingkungan
+  - id: perpres-2025-011
+    jenis: perpres
+    nomor: '11'
+    tahun: 2025
+    judul: Kabupaten Kepulauan Sangihe Di Provinsi Sui,Awesi Utara
+    path: regulasi/pusat/perpres/2025/perpres-2025-011-kabupaten-kepulauan-sangihe-di-provinsi-sui-awesi-utara
   - id: perpres-2025-110
     jenis: perpres
     nomor: '110'
@@ -79880,6 +80029,20 @@
     judul: PENYELENGGARAAN INSTRUMEN NILAI EKONOMI KARtsON DAN PENGENDALIAN EMISI
       GAS RUMAH KACA NASIONAL
     path: regulasi/pusat/perpres/2025/perpres-2025-110-penyelenggaraan-instrumen-nilai-ekonomi-kartson-dan-pengendalian-emisi-gas-rumah-kaca-nasional
+  - id: perpres-2025-112
+    jenis: perpres
+    nomor: '112'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Presiden Nomor 193 Tahun 2024 Tentang Kementerian
+      Kelautan Dan Perikanan
+    path: regulasi/pusat/perpres/2025/perpres-2025-112-perubahan-atas-peraturan-presiden-nomor-193-tahun-2024-tentang-kementerian-kelautan-dan-perikanan
+  - id: perpres-2025-113
+    jenis: perpres
+    nomor: '113'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2025 Tentang Tata Kelola
+      Pupuk Bersubsidi
+    path: regulasi/pusat/perpres/2025/perpres-2025-113-perubahan-atas-peraturan-presiden-nomor-6-tahun-2025-tentang-tata-kelola-pupuk-bersubsidi
   - id: perpres-2025-115
     jenis: perpres
     nomor: '115'
@@ -79991,6 +80154,40 @@
     judul: Tunjangan Kineria Pegawai Di Lingkungan Kementeri.An Kebudayaan Dengan
       Raht,Iattuhan Yang Maha Esa
     path: regulasi/pusat/perpres/2025/perpres-2025-020-tunjangan-kineria-pegawai-di-lingkungan-kementeri-an-kebudayaan-dengan-raht-iattuhan-yang-maha-esa
+  - id: perpres-2025-022
+    jenis: perpres
+    nomor: '22'
+    tahun: 2025
+    judul: Pembentukan Pengadilan Mtliter Tinggi Iv Balikpapan Dan Pengadii,An Militer
+      Tinggi V Makassar
+    path: regulasi/pusat/perpres/2025/perpres-2025-022-pembentukan-pengadilan-mtliter-tinggi-iv-balikpapan-dan-pengadii-an-militer-tinggi-v-makassar
+  - id: perpres-2025-023
+    jenis: perpres
+    nomor: '23'
+    tahun: 2025
+    judul: 'perahrran pemerintah tentang pembcntirkan Pengadilan Militer I-03 pekanbaru,
+      nen-Man un Milite iadrokwa ri; r V-18 Kendari, dan peng adila n MilitcrV-2f
+      Mengingat 1. l.l.t 5ayat (2) Undang-Undang Dasar Negara Republik IndonesiaTahun
+      l94S; 2. Undang-Undang Nomor 3 I Tahun 1997 tentang peraditan Militer (Icmbaran
+      Negara Republik Indonesia Tahun 1997 Nomor 84, Tambahan Lcmbaran Negara Republik
+      Indonesia Nomor 3Zl3); MEMUTUSI(AN:... SK No255E44A <!-- page: 2 --> PRESIOEN
+      REPUELIK INDONESIA -2- MEMUTUSKAN: Menetapkan : PERATURAN PEMERINTAH TENTANG
+      PENGADILAN MILITER I-03 PEKANBARU, PENGADILAN MILITER V-18 KENDARI, DAN PENGADILAN
+      MILITER V-21 MANOKWARI'
+    path: regulasi/pusat/perpres/2025/perpres-2025-023-perahrran-pemerintah-tentang-pembcntirkan-pengadilan-militer-i-03-pekanbaru-nen-man-un-milite-iadrokwa-ri-r-v-18-kendari
+  - id: perpres-2025-024
+    jenis: perpres
+    nomor: '24'
+    tahun: 2025
+    judul: Peraturan Pemerintah Tentang Penanganan Secara Khusus Dan Pemberian Penghargaan
+      Bagi Saksi Pelaku. Babi Ketentuan Umum
+    path: regulasi/pusat/perpres/2025/perpres-2025-024-peraturan-pemerintah-tentang-penanganan-secara-khusus-dan-pemberian-penghargaan-bagi-saksi-pelaku-babi-ketentuan-umum
+  - id: perpres-2025-027
+    jenis: perpres
+    nomor: '27'
+    tahun: 2025
+    judul: Perlindungan Dan Pengeloi,Aan Ekosistem Mangrove
+    path: regulasi/pusat/perpres/2025/perpres-2025-027-perlindungan-dan-pengeloi-aan-ekosistem-mangrove
   - id: perpres-2025-281
     jenis: perpres
     nomor: '281'
@@ -80005,6 +80202,12 @@
       Anggoia Dewan Komisioner Lembaga Penjamin Simpanan Denoan Rahmat Tuhan Yang
       Maha Esa
     path: regulasi/pusat/perpres/2025/perpres-2025-003-susunan-kean-x-otaan-paniti-a-seleksi-dan-tata-cara-peiaiganaat-sei-ekst-anggoia-dewan-komisioner-lembaga-penjamin-simpa
+  - id: perpres-2025-031
+    jenis: perpres
+    nomor: '31'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Pemerintah Daerah Provinsi Riau Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025
   - id: perpres-2025-004
     jenis: perpres
     nomor: '4'
@@ -80012,6 +80215,32 @@
     judul: Perubahan Atas Peraturan Presiden Nomor 5 Tahun 2Oi5 Tentang Pei{Yelenggaraan
       Sistem Administrasi Manunggal Satu Atap Kendaraan Bermotor
     path: regulasi/pusat/perpres/2025/perpres-2025-004-perubahan-atas-peraturan-presiden-nomor-5-tahun-2oi5-tentang-pei-yelenggaraan-sistem-administrasi-manunggal-satu-atap-ke
+  - id: perpres-2025-041
+    jenis: perpres
+    nomor: '41'
+    tahun: 2025
+    judul: Pembentukan Pengadii,An Tata Usaha Negara Tanjung Selor Dan Pengadilan
+      Tata Usaha Negara Sofifi
+    path: regulasi/pusat/perpres/2025/perpres-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi
+  - id: perpres-2025-042
+    jenis: perpres
+    nomor: '42'
+    tahun: 2025
+    judul: Cuti Bersama Pegawai Aparatur Sipil Negara Tahun 2026
+    path: regulasi/pusat/perpres/2025/perpres-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026
+  - id: perpres-2025-043
+    jenis: perpres
+    nomor: '43'
+    tahun: 2025
+    judul: Pei.Aporan Keuangan
+    path: regulasi/pusat/perpres/2025/perpres-2025-043-pei-aporan-keuangan
+  - id: perpres-2025-045
+    jenis: perpres
+    nomor: '45'
+    tahun: 2025
+    judul: TATA CARA PENGENAAN SANKSl ADMINISTRATIF DAN TATA CARA PENERIMAAN NEGARA
+      BUKAN PAJAK YANG BERASAL DARI DENDA ADMINISTRATIF DI BIDANG KEHUTANAN
+    path: regulasi/pusat/perpres/2025/perpres-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat
   - id: perpres-2025-046
     jenis: perpres
     nomor: '46'
@@ -80019,6 +80248,16 @@
     judul: Perubahan Kedua Atas Peraturan Presiden Nomor 16 Tahun 2018 Tentang Pengadaan
       Barang/Jasa Pemerintah
     path: regulasi/pusat/perpres/2025/perpres-2025-046-perubahan-kedua-atas-peraturan-presiden-nomor-16-tahun-2018-tentang-pengadaan-barang-jasa-pemerintah
+  - id: perpres-2025-047
+    jenis: perpres
+    nomor: '47'
+    tahun: 2025
+    judul: Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pernuda dan Olahraga
+      sudah tidak sesuai dengan perkernbangan capaian hasil pelaksanaan reformasi
+      birokrasi sehingga perlu diganti; c. bahwa berdasarkan pertimbangan sebagaimana
+      dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Presiden tentang
+      Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pernuda dan Olahraga
+    path: regulasi/pusat/perpres/2025/perpres-2025-047-tunjangan-kinerja-pegawai-di-lingkungan-kementerian-pernuda-dan-olahraga-sudah-tidak-sesuai-dengan-perkernbangan-capaian
   - id: perpres-2025-049
     jenis: perpres
     nomor: '49'
@@ -80129,6 +80368,13 @@
     tahun: 2025
     judul: Rencana Zonasi Kawasan Antarwil{Yah I,Ai.It Set.Atan Jawa Bali Dan Nusatenggara
     path: regulasi/pusat/perpres/2025/perpres-2025-065-rencana-zonasi-kawasan-antarwil-yah-i-ai-it-set-atan-jawa-bali-dan-nusatenggara
+  - id: perpres-2025-066
+    jenis: perpres
+    nomor: '66'
+    tahun: 2025
+    judul: Pembentukan, Kedudukan, Susunan Organisasi, Tugas Dan Fungsi Serta Tata
+      Kerja Rumah Sakit Umum Daerah Panti Nugroho
+    path: regulasi/pusat/perpres/2025/perpres-2025-066-pembentukan-kedudukan-susunan-organisasi-tugas-dan-fungsi-serta-tata-kerja-rumah-sakit-umum-daerah-panti-nugroho
   - id: perpres-2025-067
     jenis: perpres
     nomor: '67'
@@ -80140,6 +80386,21 @@
       KEANEKARAGAMAN HAYATI LAUT SECARA BERKEI,,ANJUTAN DI WII.,AYAH DI LUAR YURISDIKSI
       NASIONAL)
     path: regulasi/pusat/perpres/2025/perpres-2025-067-pengesahan-agreement-under-the-united-iveflojvs-coniye-ntion-on-the-i-aw-of-the-seii-oil-the-conseruation-and-sttstainab
+  - id: perpres-2025-068
+    jenis: perpres
+    nomor: '68'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Bupati Purbalingga Nomor 1 Tahun 2024 Tentang
+      Tata Cara Pemungutan Pajak Bumi Dan Bangunan Perdesaan Dan Perkotaan Di Kabupaten
+      Purbalingga
+    path: regulasi/pusat/perpres/2025/perpres-2025-068-perubahan-atas-peraturan-bupati-purbalingga-nomor-1-tahun-2024-tentang-tata-cara-pemungutan-pajak-bumi-dan-bangunan-perd
+  - id: perpres-2025-069
+    jenis: perpres
+    nomor: '69'
+    tahun: 2025
+    judul: Rencana Strategis Badan Layanan Umum Daerah Rumah Sakit Umum Daerah Haji
+      Darlan Ismail Kecamatan Bumi Makmur Tahun 2025-2029
+    path: regulasi/pusat/perpres/2025/perpres-2025-069-rencana-strategis-badan-layanan-umum-daerah-rumah-sakit-umum-daerah-haji-darlan-ismail-kecamatan-bumi-makmur-tahun-2025
   - id: perpres-2025-007
     jenis: perpres
     nomor: '7'
@@ -80219,6 +80480,12 @@
     judul: Perubahan Kedua Atas Peraturan Presiden Nomor 4 Tahun 2016 Tentang Percepatan
       Pembangunan Infrastruktur Ketenagalistrikan
     path: regulasi/pusat/perpres/2025/perpres-2025-089-perubahan-kedua-atas-peraturan-presiden-nomor-4-tahun-2016-tentang-percepatan-pembangunan-infrastruktur-ketenagalistrika
+  - id: perpres-2025-009
+    jenis: perpres
+    nomor: '9'
+    tahun: 2025
+    judul: Kabupaten Muna Di Provinsi Suiawesi Tenggara
+    path: regulasi/pusat/perpres/2025/perpres-2025-009-kabupaten-muna-di-provinsi-suiawesi-tenggara
   - id: perpres-2025-090
     jenis: perpres
     nomor: '90'
@@ -80513,6 +80780,12 @@
     judul: Erintah Nomor 38 Tahun I97O Tentang Pengalihan Bentuk Perusahaan Negara
       (Pn) Karya Menjadi Perusahaan Perseroan (Persero)
     path: regulasi/pusat/pp/2025/pp-2025-001-erintah-nomor-38-tahun-i97o-tentang-pengalihan-bentuk-perusahaan-negara-pn-karya-menjadi-perusahaan-perseroan-persero
+  - id: pp-2025-010
+    jenis: pp
+    nomor: '10'
+    tahun: 2025
+    judul: Organisasi Dan Tata Kelola Badan Pengeloi.,A Investasi Daya Anagata Nusantara
+    path: regulasi/pusat/pp/2025/pp-2025-010-organisasi-dan-tata-kelola-badan-pengeloi-a-investasi-daya-anagata-nusantara
   - id: pp-2025-011
     jenis: pp
     nomor: '11'
@@ -80617,6 +80890,13 @@
     judul: Peraturan Pemerintah Tentang Penanganan Secara Khusus Dan Pemberian Penghargaan
       Bagi Saksi Pelaku. Babi Ketentuan Umum
     path: regulasi/pusat/pp/2025/pp-2025-024-peraturan-pemerintah-tentang-penanganan-secara-khusus-dan-pemberian-penghargaan-bagi-saksi-pelaku-babi-ketentuan-umum
+  - id: pp-2025-025
+    jenis: pp
+    nomor: '25'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Pemerintah Nomor 41 Tahun 2O2I Tentang Pet{Yelenggaraan
+      Kawasan Perdagangan Bebas Dan Pelabuhan Bebas
+    path: regulasi/pusat/pp/2025/pp-2025-025-perubahan-atas-peraturan-pemerintah-nomor-41-tahun-2o2i-tentang-pet-yelenggaraan-kawasan-perdagangan-bebas-dan-pelabuhan
   - id: pp-2025-026
     jenis: pp
     nomor: '26'
@@ -80635,6 +80915,12 @@
     tahun: 2025
     judul: Penyelenggaraan Perizinan Berusaha Berbasis Risiko
     path: regulasi/pusat/pp/2025/pp-2025-028-penyelenggaraan-perizinan-berusaha-berbasis-risiko
+  - id: pp-2025-029
+    jenis: pp
+    nomor: '29'
+    tahun: 2025
+    judul: Dana Bantuan Korban Tindak Pidana Kekerasan Seksual
+    path: regulasi/pusat/pp/2025/pp-2025-029-dana-bantuan-korban-tindak-pidana-kekerasan-seksual
   - id: pp-2025-003
     jenis: pp
     nomor: '3'
@@ -80642,6 +80928,19 @@
     judul: PERUBAHAN ATAS PERATURAN PEMERIMAH NOMOR 42 TAHUN 1970 TENTANG PENGALII{AN
       BENTUK PERUSAHAAN NEGARA (PN) INDRA IqRYA MENJADI PERUSAHAAN PERSEROAN (PERSEROI
     path: regulasi/pusat/pp/2025/pp-2025-003-perubahan-atas-peraturan-pemerimah-nomor-42-tahun-1970-tentang-pengalii-an-bentuk-perusahaan-negara-pn-indra-iqrya-menja
+  - id: pp-2025-030
+    jenis: pp
+    nomor: '30'
+    tahun: 2025
+    judul: Pencegahan Tindak Pidana Kekerasan Seksual Serta Penanganan, Pelindungan,
+      Dan Pemulihan Korban Tindak Pidana Kekerasan Seksual
+    path: regulasi/pusat/pp/2025/pp-2025-030-pencegahan-tindak-pidana-kekerasan-seksual-serta-penanganan-pelindungan-dan-pemulihan-korban-tindak-pidana-kekerasan-sek
+  - id: pp-2025-031
+    jenis: pp
+    nomor: '31'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Pemerintah Daerah Provinsi Riau Tahun 2025
+    path: regulasi/pusat/pp/2025/pp-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025
   - id: pp-2025-032
     jenis: pp
     nomor: '32'
@@ -80713,6 +81012,19 @@
     tahun: 2025
     judul: Kebijakan Energi Nasional
     path: regulasi/pusat/pp/2025/pp-2025-040-kebijakan-energi-nasional
+  - id: pp-2025-041
+    jenis: pp
+    nomor: '41'
+    tahun: 2025
+    judul: Pembentukan Pengadii,An Tata Usaha Negara Tanjung Selor Dan Pengadilan
+      Tata Usaha Negara Sofifi
+    path: regulasi/pusat/pp/2025/pp-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi
+  - id: pp-2025-042
+    jenis: pp
+    nomor: '42'
+    tahun: 2025
+    judul: Cuti Bersama Pegawai Aparatur Sipil Negara Tahun 2026
+    path: regulasi/pusat/pp/2025/pp-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026
   - id: pp-2025-043
     jenis: pp
     nomor: '43'
@@ -80727,6 +81039,13 @@
       Penyelesaian Keberatan, Keringanan, Dan Pengembalian Penerimaan Negara Bukan
       Pajak, Bab I Ketentuan Umum
     path: regulasi/pusat/pp/2025/pp-2025-044-peraturan-pemerintah-tentang-tata-cara-penetapan-tarif-pengelolaan-dan-penyelesaian-keberatan-keringanan-dan-pengembalia
+  - id: pp-2025-045
+    jenis: pp
+    nomor: '45'
+    tahun: 2025
+    judul: TATA CARA PENGENAAN SANKSl ADMINISTRATIF DAN TATA CARA PENERIMAAN NEGARA
+      BUKAN PAJAK YANG BERASAL DARI DENDA ADMINISTRATIF DI BIDANG KEHUTANAN
+    path: regulasi/pusat/pp/2025/pp-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat
   - id: pp-2025-046
     jenis: pp
     nomor: '46'
@@ -80984,7 +81303,7 @@
       ESA
     path: regulasi/pusat/uu/2025/uu-2025-009-kabupaten-muna-di-provinsi-suiawesi-tenggara-dengan-rahmattuhan-yang-maha-esa
 - id: '2026'
-  jumlah: 114
+  jumlah: 117
   regulasi:
   - id: kepojk-2026-030
     jenis: kepojk
@@ -81462,6 +81781,12 @@
       MAI,AYSIA TENTANG PERDAGANGAN PERBATASAN (AGREEMENT BETWEEN THD, GOWRNMENT OFTHE
       REPUBUC OF INDONESIAANDTHE @WRNMENT OF MAI,AYSIAON BORDERTRADq
     path: regulasi/pusat/perpres/2026/perpres-2026-023-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-mai-aysia-tentang-perdagangan-perbatasan-agre
+  - id: perpres-2026-024
+    jenis: perpres
+    nomor: '24'
+    tahun: 2026
+    judul: Tata Keloi.A, Ekspor Komoditas Sumber Daya Alam Strategis
+    path: regulasi/pusat/perpres/2026/perpres-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis
   - id: perpres-2026-025
     jenis: perpres
     nomor: '25'
@@ -81701,6 +82026,13 @@
     tahun: 2026
     judul: Tata Keloi.A, Ekspor Komoditas Sumber Daya Alam Strategis
     path: regulasi/pusat/pp/2026/pp-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis
+  - id: pp-2026-027
+    jenis: pp
+    nomor: '27'
+    tahun: 2026
+    judul: Perubahan Kedua Atas Peraturan Pemerintah Nomor 99 Tahun 2013 Tentang Pengelolaan
+      Aset Jaminan Sosial Ketenagakerjaan
+    path: regulasi/pusat/pp/2026/pp-2026-027-perubahan-kedua-atas-peraturan-pemerintah-nomor-99-tahun-2013-tentang-pengelolaan-aset-jaminan-sosial-ketenagakerjaan
   - id: pp-2026-003
     jenis: pp
     nomor: '3'
@@ -81757,3 +82089,9 @@
     tahun: 2026
     judul: Pei{Yesuaian Pidana
     path: regulasi/pusat/uu/2026/uu-2026-001-pei-yesuaian-pidana
+  - id: uu-2026-002
+    jenis: uu
+    nomor: '2'
+    tahun: 2026
+    judul: Pelindungan Peker,.'A Rumah Tangga
+    path: regulasi/pusat/uu/2026/uu-2026-002-pelindungan-peker-a-rumah-tangga

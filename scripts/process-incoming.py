@@ -113,6 +113,15 @@ def strip_frontmatter(text: str) -> str:
 
 
 def normalize_ocr_number_tokens(text: str) -> str:
+    # 1. Standalone single I/l/O after NOMOR or before TAHUN
+    text = re.sub(r'(?<=\bNOMOR\s)[Il]\b', '1', text, flags=re.I)
+    text = re.sub(r'(?<=\bNOMOR\s)[O0]\b', '0', text, flags=re.I)
+    text = re.sub(r'\b[Il]\b(?=\s+TAHUN\b)', '1', text, flags=re.I)
+    
+    # 2. OCR tokens like 'IO2' -> '102', '2OO7' -> '2007'
+    text = re.sub(r'\b[Il]([0-9O]+)\b', r'1\1', text)
+    text = re.sub(r'\b([0-9Il]+)[Oo]([0-9Il]+)\b', r'\g<1>0\g<2>', text)
+
     chars = list(text)
     for index, char in enumerate(chars):
         if char not in {"O", "o", "I", "l"}:
@@ -420,7 +429,7 @@ def infer_info(path: Path, text: str) -> RegulationInfo | None:
         (
             "perpres",
             "pusat",
-            r"PERATURAN\s+PRESIDEN\s+REPUBLIK\s+INDONESIA.*?\bNOMOR\s+(?P<nomor>\d+)\s+TAHUN\s+(?P<tahun>\d{4})",
+            r"PERATURAN\s+PRESIDEN\s+REPUBLIK\s+INDONESIA.*?\bN?OMOR\s*:?\s*(?P<nomor>\d+)\s*TAHUN\s*(?P<tahun>\d{4})",
         ),
         (
             "permen",

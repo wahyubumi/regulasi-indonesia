@@ -67277,6 +67277,24 @@
   source: regulasi/pusat/perpres/2007/perpres-2007-112-penataan-dan-pembinaan-pasar-tradisional-pusat-perbelanjaan-dan-toko-modern/source.yml
   subjek: []
   sektor: []
+- id: perpres-2007-124
+  jenis: perpres
+  nomor: '124'
+  tahun: 2007
+  judul: Perubahan Atas Peraturan Presiden Nomor 24 Tahun 2Oo7 Tentang Tunjangan Panitera
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2007/perpres-2007-124-perubahan-atas-peraturan-presiden-nomor-24-tahun-2oo7-tentang-tunjangan-panitera
+  metadata: regulasi/pusat/perpres/2007/perpres-2007-124-perubahan-atas-peraturan-presiden-nomor-24-tahun-2oo7-tentang-tunjangan-panitera/metadata.yml
+  source: regulasi/pusat/perpres/2007/perpres-2007-124-perubahan-atas-peraturan-presiden-nomor-24-tahun-2oo7-tentang-tunjangan-panitera/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2008-001
   jenis: perpres
   nomor: '1'
@@ -84369,6 +84387,25 @@
   source: regulasi/pusat/perpres/2015/perpres-2015-161-tunjangan-kinerja-pegawai-di-lingkungan-lembaga-penerbangan-dan-antariksa-nasional/source.yml
   subjek: []
   sektor: []
+- id: perpres-2015-162
+  jenis: perpres
+  nomor: '162'
+  tahun: 2015
+  judul: Tunjangan Kinerja Pegawai Di Lingkungan Lembaga Kebijakan Pengadaan Barang/Jasa
+    Pemerintah
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2015/perpres-2015-162-tunjangan-kinerja-pegawai-di-lingkungan-lembaga-kebijakan-pengadaan-barang-jasa-pemerintah
+  metadata: regulasi/pusat/perpres/2015/perpres-2015-162-tunjangan-kinerja-pegawai-di-lingkungan-lembaga-kebijakan-pengadaan-barang-jasa-pemerintah/metadata.yml
+  source: regulasi/pusat/perpres/2015/perpres-2015-162-tunjangan-kinerja-pegawai-di-lingkungan-lembaga-kebijakan-pengadaan-barang-jasa-pemerintah/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2015-163
   jenis: perpres
   nomor: '163'
@@ -84867,6 +84904,26 @@
   path: regulasi/pusat/perpres/2016/perpres-2016-016-tata-cara-pelantikan-gubernur-dan-wakil-gubernur-bupati-dan-wakil-bupati-serta-walikota-dan-wakil-walikota
   metadata: regulasi/pusat/perpres/2016/perpres-2016-016-tata-cara-pelantikan-gubernur-dan-wakil-gubernur-bupati-dan-wakil-bupati-serta-walikota-dan-wakil-walikota/metadata.yml
   source: regulasi/pusat/perpres/2016/perpres-2016-016-tata-cara-pelantikan-gubernur-dan-wakil-gubernur-bupati-dan-wakil-bupati-serta-walikota-dan-wakil-walikota/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2016-017
+  jenis: perpres
+  nomor: '17'
+  tahun: 2016
+  judul: Pen Etapan Peraturan Pem Eri Ntah Pengganti Undang-Undang Nomor 1 Tahun 2016
+    Tentang Perubahan Kedua Atas Undang- Undang Nomor 23 Tahun 2Oo2 Tentang Perlindungan
+    Anak Menjadi Undang-Undang
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2016/perpres-2016-017-pen-etapan-peraturan-pem-eri-ntah-pengganti-undang-undang-nomor-1-tahun-2016-tentang-perubahan-kedua-atas-undang-undang
+  metadata: regulasi/pusat/perpres/2016/perpres-2016-017-pen-etapan-peraturan-pem-eri-ntah-pengganti-undang-undang-nomor-1-tahun-2016-tentang-perubahan-kedua-atas-undang-undang/metadata.yml
+  source: regulasi/pusat/perpres/2016/perpres-2016-017-pen-etapan-peraturan-pem-eri-ntah-pengganti-undang-undang-nomor-1-tahun-2016-tentang-perubahan-kedua-atas-undang-undang/source.yml
   subjek: []
   sektor: []
 - id: perpres-2016-018
@@ -88266,6 +88323,25 @@
   source: regulasi/pusat/perpres/2017/perpres-2017-071-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-kerajaan-inggris-raya-dan-irlandia-utara-tent/source.yml
   subjek: []
   sektor: []
+- id: perpres-2017-072
+  jenis: perpres
+  nomor: '72'
+  tahun: 2017
+  judul: Pedoman Pelaksanaan Anggaran Pendapatan Dan Belanja Daerah Provinsi Jawa
+    Tengah Tahun Anggaran 2018
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2017/perpres-2017-072-pedoman-pelaksanaan-anggaran-pendapatan-dan-belanja-daerah-provinsi-jawa-tengah-tahun-anggaran-2018
+  metadata: regulasi/pusat/perpres/2017/perpres-2017-072-pedoman-pelaksanaan-anggaran-pendapatan-dan-belanja-daerah-provinsi-jawa-tengah-tahun-anggaran-2018/metadata.yml
+  source: regulasi/pusat/perpres/2017/perpres-2017-072-pedoman-pelaksanaan-anggaran-pendapatan-dan-belanja-daerah-provinsi-jawa-tengah-tahun-anggaran-2018/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2017-073
   jenis: perpres
   nomor: '73'
@@ -88886,6 +88962,24 @@
   path: regulasi/pusat/perpres/2017/perpres-2017-105-tunjangan-jabatan-fungsional-pengamat-tera
   metadata: regulasi/pusat/perpres/2017/perpres-2017-105-tunjangan-jabatan-fungsional-pengamat-tera/metadata.yml
   source: regulasi/pusat/perpres/2017/perpres-2017-105-tunjangan-jabatan-fungsional-pengamat-tera/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2017-106
+  jenis: perpres
+  nomor: '106'
+  tahun: 2017
+  judul: Kawasan Sains Dan Teknologi
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2017/perpres-2017-106-kawasan-sains-dan-teknologi
+  metadata: regulasi/pusat/perpres/2017/perpres-2017-106-kawasan-sains-dan-teknologi/metadata.yml
+  source: regulasi/pusat/perpres/2017/perpres-2017-106-kawasan-sains-dan-teknologi/source.yml
   subjek: []
   sektor: []
 - id: perpres-2017-107
@@ -89814,6 +89908,42 @@
   path: regulasi/pusat/perpres/2018/perpres-2018-022-pedoman-penyusunan-pelaksanaan-dan-pengawasan-rencana-aksi-nasional-percepatan-pembangunan-daerah-tertinggal
   metadata: regulasi/pusat/perpres/2018/perpres-2018-022-pedoman-penyusunan-pelaksanaan-dan-pengawasan-rencana-aksi-nasional-percepatan-pembangunan-daerah-tertinggal/metadata.yml
   source: regulasi/pusat/perpres/2018/perpres-2018-022-pedoman-penyusunan-pelaksanaan-dan-pengawasan-rencana-aksi-nasional-percepatan-pembangunan-daerah-tertinggal/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2018-024
+  jenis: perpres
+  nomor: '24'
+  tahun: 2018
+  judul: Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2018/perpres-2018-024-pelayanan-perizinan-berusaha-terintegrasi-secara-elektronik
+  metadata: regulasi/pusat/perpres/2018/perpres-2018-024-pelayanan-perizinan-berusaha-terintegrasi-secara-elektronik/metadata.yml
+  source: regulasi/pusat/perpres/2018/perpres-2018-024-pelayanan-perizinan-berusaha-terintegrasi-secara-elektronik/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2018-028
+  jenis: perpres
+  nomor: '28'
+  tahun: 2018
+  judul: Kerja Sama Daerah
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2018/perpres-2018-028-kerja-sama-daerah
+  metadata: regulasi/pusat/perpres/2018/perpres-2018-028-kerja-sama-daerah/metadata.yml
+  source: regulasi/pusat/perpres/2018/perpres-2018-028-kerja-sama-daerah/source.yml
   subjek: []
   sektor: []
 - id: perpres-2018-030
@@ -90831,6 +90961,24 @@
   source: regulasi/pusat/perpres/2018/perpres-2018-084-tunjangan-jabatan-bagi-pejabat-tertentu-yang-ditugaskan-pada-badan-pemeriksa-keuangan/source.yml
   subjek: []
   sektor: []
+- id: perpres-2018-085
+  jenis: perpres
+  nomor: '85'
+  tahun: 2018
+  judul: Pengamanan Dan Pengawalancalonpresiden Dan Calonwakil Presiden Dalam Penyelenggaraanpemilihanumum
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2018/perpres-2018-085-pengamanan-dan-pengawalancalonpresiden-dan-calonwakil-presiden-dalam-penyelenggaraanpemilihanumum
+  metadata: regulasi/pusat/perpres/2018/perpres-2018-085-pengamanan-dan-pengawalancalonpresiden-dan-calonwakil-presiden-dalam-penyelenggaraanpemilihanumum/metadata.yml
+  source: regulasi/pusat/perpres/2018/perpres-2018-085-pengamanan-dan-pengawalancalonpresiden-dan-calonwakil-presiden-dalam-penyelenggaraanpemilihanumum/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2018-086
   jenis: perpres
   nomor: '86'
@@ -91036,6 +91184,28 @@
   path: regulasi/pusat/perpres/2018/perpres-2018-096-persyaratan-dan-tata-cara-pendaftaran-penduduk-dan-pencatatan-sipil
   metadata: regulasi/pusat/perpres/2018/perpres-2018-096-persyaratan-dan-tata-cara-pendaftaran-penduduk-dan-pencatatan-sipil/metadata.yml
   source: regulasi/pusat/perpres/2018/perpres-2018-096-persyaratan-dan-tata-cara-pendaftaran-penduduk-dan-pencatatan-sipil/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2018-097
+  jenis: perpres
+  nomor: '97'
+  tahun: 2018
+  judul: Pengesahan Agreement On Investment Under The Framework Agreement On Comprehensive
+    Economic Cooperation Between The Association Of Southeastasiaiv ]Vatioits And
+    The Republic Of India (Persetujuan Mengenai Penanaman Modal Berdasarkan Persetujuan
+    Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa
+    Asia Tenggara Dan Republik India)
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2018/perpres-2018-097-pengesahan-agreement-on-investment-under-the-framework-agreement-on-comprehensive-economic-cooperation-between-the-assoc
+  metadata: regulasi/pusat/perpres/2018/perpres-2018-097-pengesahan-agreement-on-investment-under-the-framework-agreement-on-comprehensive-economic-cooperation-between-the-assoc/metadata.yml
+  source: regulasi/pusat/perpres/2018/perpres-2018-097-pengesahan-agreement-on-investment-under-the-framework-agreement-on-comprehensive-economic-cooperation-between-the-assoc/source.yml
   subjek: []
   sektor: []
 - id: perpres-2018-098
@@ -91285,6 +91455,29 @@
   path: regulasi/pusat/perpres/2018/perpres-2018-110-pengesahan-asean-agreement-on-medical-dewce-directme-persetujuan-asean-untuk-pengaturan-peralatan-kesehatan
   metadata: regulasi/pusat/perpres/2018/perpres-2018-110-pengesahan-asean-agreement-on-medical-dewce-directme-persetujuan-asean-untuk-pengaturan-peralatan-kesehatan/metadata.yml
   source: regulasi/pusat/perpres/2018/perpres-2018-110-pengesahan-asean-agreement-on-medical-dewce-directme-persetujuan-asean-untuk-pengaturan-peralatan-kesehatan/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2018-111
+  jenis: perpres
+  nomor: '111'
+  tahun: 2018
+  judul: PENGESAHAN THIRD PROTOCOL TO AMEND THE AGREEMENT ON TRADE IN GOODS UJVDER
+    THE FRAMEWORK AGREEMENT ON COMPREHENSNE ECONOMIC COOPERATION AMONG THE GOVERNME,MTS
+    OF THE MDMBER COUNTRIES OT'ff{E ASSOCIATION OF SO|../THEASTASIAAT ,IVATIOJVS AND
+    THE REPUBLIC OF KOREA (PROTOKOL KETIGA UNTUK MENGUBAH PERSETUJUAN PERDAGANGAN
+    BARANG DARI PERSETUJUAN KERANGKA KERJA MENGENAI KERJA SAMA EKONOMI MENYELURUH
+    ANTARA PERHIMPUNAN BANGSA-BANGSA ASIA TENGGARA DAN REPUBLIK KOREA)
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2018/perpres-2018-111-pengesahan-third-protocol-to-amend-the-agreement-on-trade-in-goods-ujvder-the-framework-agreement-on-comprehensne-econom
+  metadata: regulasi/pusat/perpres/2018/perpres-2018-111-pengesahan-third-protocol-to-amend-the-agreement-on-trade-in-goods-ujvder-the-framework-agreement-on-comprehensne-econom/metadata.yml
+  source: regulasi/pusat/perpres/2018/perpres-2018-111-pengesahan-third-protocol-to-amend-the-agreement-on-trade-in-goods-ujvder-the-framework-agreement-on-comprehensne-econom/source.yml
   subjek: []
   sektor: []
 - id: perpres-2018-112
@@ -100274,6 +100467,25 @@
   source: regulasi/pusat/perpres/2022/perpres-2022-122-pengesahan-protocol-6-railways-border-and-interciiange-siafloivs-protokol-6-stasiun-perbatasan-dan-stasiun-perpindahan-p/source.yml
   subjek: []
   sektor: []
+- id: perpres-2022-123
+  jenis: perpres
+  nomor: '123'
+  tahun: 2022
+  judul: Perubahan Atas Peraturan Presiden Nomor 14 Tahun 2Oo5 Tentang Kepaniteraan
+    Mahkamah Agung
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2022/perpres-2022-123-perubahan-atas-peraturan-presiden-nomor-14-tahun-2oo5-tentang-kepaniteraan-mahkamah-agung
+  metadata: regulasi/pusat/perpres/2022/perpres-2022-123-perubahan-atas-peraturan-presiden-nomor-14-tahun-2oo5-tentang-kepaniteraan-mahkamah-agung/metadata.yml
+  source: regulasi/pusat/perpres/2022/perpres-2022-123-perubahan-atas-peraturan-presiden-nomor-14-tahun-2oo5-tentang-kepaniteraan-mahkamah-agung/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2022-125
   jenis: perpres
   nomor: '125'
@@ -104708,6 +104920,24 @@
   source: regulasi/pusat/perpres/2024/perpres-2024-151-kementerian-pertahanan/source.yml
   subjek: []
   sektor: []
+- id: perpres-2024-152
+  jenis: perpres
+  nomor: '152'
+  tahun: 2024
+  judul: Kementerian Agama
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2024/perpres-2024-152-kementerian-agama
+  metadata: regulasi/pusat/perpres/2024/perpres-2024-152-kementerian-agama/metadata.yml
+  source: regulasi/pusat/perpres/2024/perpres-2024-152-kementerian-agama/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2024-153
   jenis: perpres
   nomor: '153'
@@ -105688,6 +105918,25 @@
   source: regulasi/pusat/perpres/2024/perpres-2024-206-perubahan-atas-peraturan-presiden-nomor-76-tahun-2023-tentang-rinci-an-anggaran-pendapatan-dan-belanja-negara-tahun-angg/source.yml
   subjek: []
   sektor: []
+- id: perpres-2025-001
+  jenis: perpres
+  nomor: '1'
+  tahun: 2025
+  judul: Peraturan Presiden Tentang Perubahan Atas Peraturan Presiden Nomor 86 Tahun
+    2Oo7 Tentang Badan Pusat Statistik
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-001-peraturan-presiden-tentang-perubahan-atas-peraturan-presiden-nomor-86-tahun-2oo7-tentang-badan-pusat-statistik
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-001-peraturan-presiden-tentang-perubahan-atas-peraturan-presiden-nomor-86-tahun-2oo7-tentang-badan-pusat-statistik/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-001-peraturan-presiden-tentang-perubahan-atas-peraturan-presiden-nomor-86-tahun-2oo7-tentang-badan-pusat-statistik/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2025-002
   jenis: perpres
   nomor: '2'
@@ -105780,6 +106029,42 @@
   path: regulasi/pusat/perpres/2025/perpres-2025-007-neraca-komoditas
   metadata: regulasi/pusat/perpres/2025/perpres-2025-007-neraca-komoditas/metadata.yml
   source: regulasi/pusat/perpres/2025/perpres-2025-007-neraca-komoditas/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-009
+  jenis: perpres
+  nomor: '9'
+  tahun: 2025
+  judul: Kabupaten Muna Di Provinsi Suiawesi Tenggara
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-009-kabupaten-muna-di-provinsi-suiawesi-tenggara
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-009-kabupaten-muna-di-provinsi-suiawesi-tenggara/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-009-kabupaten-muna-di-provinsi-suiawesi-tenggara/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-011
+  jenis: perpres
+  nomor: '11'
+  tahun: 2025
+  judul: Kabupaten Kepulauan Sangihe Di Provinsi Sui,Awesi Utara
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-011-kabupaten-kepulauan-sangihe-di-provinsi-sui-awesi-utara
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-011-kabupaten-kepulauan-sangihe-di-provinsi-sui-awesi-utara/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-011-kabupaten-kepulauan-sangihe-di-provinsi-sui-awesi-utara/source.yml
   subjek: []
   sektor: []
 - id: perpres-2025-012
@@ -105957,6 +106242,179 @@
   source: regulasi/pusat/perpres/2025/perpres-2025-020-tunjangan-kineria-pegawai-di-lingkungan-kementeri-an-kebudayaan-dengan-raht-iattuhan-yang-maha-esa/source.yml
   subjek: []
   sektor: []
+- id: perpres-2025-022
+  jenis: perpres
+  nomor: '22'
+  tahun: 2025
+  judul: Pembentukan Pengadilan Mtliter Tinggi Iv Balikpapan Dan Pengadii,An Militer
+    Tinggi V Makassar
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-022-pembentukan-pengadilan-mtliter-tinggi-iv-balikpapan-dan-pengadii-an-militer-tinggi-v-makassar
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-022-pembentukan-pengadilan-mtliter-tinggi-iv-balikpapan-dan-pengadii-an-militer-tinggi-v-makassar/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-022-pembentukan-pengadilan-mtliter-tinggi-iv-balikpapan-dan-pengadii-an-militer-tinggi-v-makassar/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-023
+  jenis: perpres
+  nomor: '23'
+  tahun: 2025
+  judul: 'perahrran pemerintah tentang pembcntirkan Pengadilan Militer I-03 pekanbaru,
+    nen-Man un Milite iadrokwa ri; r V-18 Kendari, dan peng adila n MilitcrV-2f Mengingat
+    1. l.l.t 5ayat (2) Undang-Undang Dasar Negara Republik IndonesiaTahun l94S; 2.
+    Undang-Undang Nomor 3 I Tahun 1997 tentang peraditan Militer (Icmbaran Negara
+    Republik Indonesia Tahun 1997 Nomor 84, Tambahan Lcmbaran Negara Republik Indonesia
+    Nomor 3Zl3); MEMUTUSI(AN:... SK No255E44A <!-- page: 2 --> PRESIOEN REPUELIK INDONESIA
+    -2- MEMUTUSKAN: Menetapkan : PERATURAN PEMERINTAH TENTANG PENGADILAN MILITER I-03
+    PEKANBARU, PENGADILAN MILITER V-18 KENDARI, DAN PENGADILAN MILITER V-21 MANOKWARI'
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-023-perahrran-pemerintah-tentang-pembcntirkan-pengadilan-militer-i-03-pekanbaru-nen-man-un-milite-iadrokwa-ri-r-v-18-kendari
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-023-perahrran-pemerintah-tentang-pembcntirkan-pengadilan-militer-i-03-pekanbaru-nen-man-un-milite-iadrokwa-ri-r-v-18-kendari/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-023-perahrran-pemerintah-tentang-pembcntirkan-pengadilan-militer-i-03-pekanbaru-nen-man-un-milite-iadrokwa-ri-r-v-18-kendari/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-024
+  jenis: perpres
+  nomor: '24'
+  tahun: 2025
+  judul: Peraturan Pemerintah Tentang Penanganan Secara Khusus Dan Pemberian Penghargaan
+    Bagi Saksi Pelaku. Babi Ketentuan Umum
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-024-peraturan-pemerintah-tentang-penanganan-secara-khusus-dan-pemberian-penghargaan-bagi-saksi-pelaku-babi-ketentuan-umum
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-024-peraturan-pemerintah-tentang-penanganan-secara-khusus-dan-pemberian-penghargaan-bagi-saksi-pelaku-babi-ketentuan-umum/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-024-peraturan-pemerintah-tentang-penanganan-secara-khusus-dan-pemberian-penghargaan-bagi-saksi-pelaku-babi-ketentuan-umum/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-027
+  jenis: perpres
+  nomor: '27'
+  tahun: 2025
+  judul: Perlindungan Dan Pengeloi,Aan Ekosistem Mangrove
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-027-perlindungan-dan-pengeloi-aan-ekosistem-mangrove
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-027-perlindungan-dan-pengeloi-aan-ekosistem-mangrove/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-027-perlindungan-dan-pengeloi-aan-ekosistem-mangrove/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-031
+  jenis: perpres
+  nomor: '31'
+  tahun: 2025
+  judul: Perubahan Rencana Kerja Pemerintah Daerah Provinsi Riau Tahun 2025
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-041
+  jenis: perpres
+  nomor: '41'
+  tahun: 2025
+  judul: Pembentukan Pengadii,An Tata Usaha Negara Tanjung Selor Dan Pengadilan Tata
+    Usaha Negara Sofifi
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-042
+  jenis: perpres
+  nomor: '42'
+  tahun: 2025
+  judul: Cuti Bersama Pegawai Aparatur Sipil Negara Tahun 2026
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-043
+  jenis: perpres
+  nomor: '43'
+  tahun: 2025
+  judul: Pei.Aporan Keuangan
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-043-pei-aporan-keuangan
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-043-pei-aporan-keuangan/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-043-pei-aporan-keuangan/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-045
+  jenis: perpres
+  nomor: '45'
+  tahun: 2025
+  judul: TATA CARA PENGENAAN SANKSl ADMINISTRATIF DAN TATA CARA PENERIMAAN NEGARA
+    BUKAN PAJAK YANG BERASAL DARI DENDA ADMINISTRATIF DI BIDANG KEHUTANAN
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2025-046
   jenis: perpres
   nomor: '46'
@@ -105974,6 +106432,28 @@
   path: regulasi/pusat/perpres/2025/perpres-2025-046-perubahan-kedua-atas-peraturan-presiden-nomor-16-tahun-2018-tentang-pengadaan-barang-jasa-pemerintah
   metadata: regulasi/pusat/perpres/2025/perpres-2025-046-perubahan-kedua-atas-peraturan-presiden-nomor-16-tahun-2018-tentang-pengadaan-barang-jasa-pemerintah/metadata.yml
   source: regulasi/pusat/perpres/2025/perpres-2025-046-perubahan-kedua-atas-peraturan-presiden-nomor-16-tahun-2018-tentang-pengadaan-barang-jasa-pemerintah/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-047
+  jenis: perpres
+  nomor: '47'
+  tahun: 2025
+  judul: Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pernuda dan Olahraga
+    sudah tidak sesuai dengan perkernbangan capaian hasil pelaksanaan reformasi birokrasi
+    sehingga perlu diganti; c. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+    dalam huruf a dan huruf b, perlu menetapkan Peraturan Presiden tentang Tunjangan
+    Kinerja Pegawai di Lingkungan Kementerian Pernuda dan Olahraga
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-047-tunjangan-kinerja-pegawai-di-lingkungan-kementerian-pernuda-dan-olahraga-sudah-tidak-sesuai-dengan-perkernbangan-capaian
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-047-tunjangan-kinerja-pegawai-di-lingkungan-kementerian-pernuda-dan-olahraga-sudah-tidak-sesuai-dengan-perkernbangan-capaian/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-047-tunjangan-kinerja-pegawai-di-lingkungan-kementerian-pernuda-dan-olahraga-sudah-tidak-sesuai-dengan-perkernbangan-capaian/source.yml
   subjek: []
   sektor: []
 - id: perpres-2025-049
@@ -106247,6 +106727,25 @@
   source: regulasi/pusat/perpres/2025/perpres-2025-065-rencana-zonasi-kawasan-antarwil-yah-i-ai-it-set-atan-jawa-bali-dan-nusatenggara/source.yml
   subjek: []
   sektor: []
+- id: perpres-2025-066
+  jenis: perpres
+  nomor: '66'
+  tahun: 2025
+  judul: Pembentukan, Kedudukan, Susunan Organisasi, Tugas Dan Fungsi Serta Tata Kerja
+    Rumah Sakit Umum Daerah Panti Nugroho
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-066-pembentukan-kedudukan-susunan-organisasi-tugas-dan-fungsi-serta-tata-kerja-rumah-sakit-umum-daerah-panti-nugroho
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-066-pembentukan-kedudukan-susunan-organisasi-tugas-dan-fungsi-serta-tata-kerja-rumah-sakit-umum-daerah-panti-nugroho/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-066-pembentukan-kedudukan-susunan-organisasi-tugas-dan-fungsi-serta-tata-kerja-rumah-sakit-umum-daerah-panti-nugroho/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2025-067
   jenis: perpres
   nomor: '67'
@@ -106267,6 +106766,44 @@
   path: regulasi/pusat/perpres/2025/perpres-2025-067-pengesahan-agreement-under-the-united-iveflojvs-coniye-ntion-on-the-i-aw-of-the-seii-oil-the-conseruation-and-sttstainab
   metadata: regulasi/pusat/perpres/2025/perpres-2025-067-pengesahan-agreement-under-the-united-iveflojvs-coniye-ntion-on-the-i-aw-of-the-seii-oil-the-conseruation-and-sttstainab/metadata.yml
   source: regulasi/pusat/perpres/2025/perpres-2025-067-pengesahan-agreement-under-the-united-iveflojvs-coniye-ntion-on-the-i-aw-of-the-seii-oil-the-conseruation-and-sttstainab/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-068
+  jenis: perpres
+  nomor: '68'
+  tahun: 2025
+  judul: Perubahan Atas Peraturan Bupati Purbalingga Nomor 1 Tahun 2024 Tentang Tata
+    Cara Pemungutan Pajak Bumi Dan Bangunan Perdesaan Dan Perkotaan Di Kabupaten Purbalingga
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-068-perubahan-atas-peraturan-bupati-purbalingga-nomor-1-tahun-2024-tentang-tata-cara-pemungutan-pajak-bumi-dan-bangunan-perd
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-068-perubahan-atas-peraturan-bupati-purbalingga-nomor-1-tahun-2024-tentang-tata-cara-pemungutan-pajak-bumi-dan-bangunan-perd/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-068-perubahan-atas-peraturan-bupati-purbalingga-nomor-1-tahun-2024-tentang-tata-cara-pemungutan-pajak-bumi-dan-bangunan-perd/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-069
+  jenis: perpres
+  nomor: '69'
+  tahun: 2025
+  judul: Rencana Strategis Badan Layanan Umum Daerah Rumah Sakit Umum Daerah Haji
+    Darlan Ismail Kecamatan Bumi Makmur Tahun 2025-2029
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-069-rencana-strategis-badan-layanan-umum-daerah-rumah-sakit-umum-daerah-haji-darlan-ismail-kecamatan-bumi-makmur-tahun-2025
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-069-rencana-strategis-badan-layanan-umum-daerah-rumah-sakit-umum-daerah-haji-darlan-ismail-kecamatan-bumi-makmur-tahun-2025/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-069-rencana-strategis-badan-layanan-umum-daerah-rumah-sakit-umum-daerah-haji-darlan-ismail-kecamatan-bumi-makmur-tahun-2025/source.yml
   subjek: []
   sektor: []
 - id: perpres-2025-077
@@ -106606,6 +107143,25 @@
   source: regulasi/pusat/perpres/2025/perpres-2025-100-pengesahan-asean-mutual-recogn-ition-arran-gement-on-fligi-t-crew-licensing-pengaturan-saling-pengakuan-asean-mengenai-p/source.yml
   subjek: []
   sektor: []
+- id: perpres-2025-102
+  jenis: perpres
+  nomor: '102'
+  tahun: 2025
+  judul: Perubahan Atas Peraturan Presiden Nomor 121 Tahun 2022 Tentang Badan Pengarah
+    Percepatan Pembangunan Otonomi Khusus Papua
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-102-perubahan-atas-peraturan-presiden-nomor-121-tahun-2022-tentang-badan-pengarah-percepatan-pembangunan-otonomi-khusus-papu
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-102-perubahan-atas-peraturan-presiden-nomor-121-tahun-2022-tentang-badan-pengarah-percepatan-pembangunan-otonomi-khusus-papu/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-102-perubahan-atas-peraturan-presiden-nomor-121-tahun-2022-tentang-badan-pengarah-percepatan-pembangunan-otonomi-khusus-papu/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2025-105
   jenis: perpres
   nomor: '105'
@@ -106679,6 +107235,44 @@
   path: regulasi/pusat/perpres/2025/perpres-2025-110-penyelenggaraan-instrumen-nilai-ekonomi-kartson-dan-pengendalian-emisi-gas-rumah-kaca-nasional
   metadata: regulasi/pusat/perpres/2025/perpres-2025-110-penyelenggaraan-instrumen-nilai-ekonomi-kartson-dan-pengendalian-emisi-gas-rumah-kaca-nasional/metadata.yml
   source: regulasi/pusat/perpres/2025/perpres-2025-110-penyelenggaraan-instrumen-nilai-ekonomi-kartson-dan-pengendalian-emisi-gas-rumah-kaca-nasional/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-112
+  jenis: perpres
+  nomor: '112'
+  tahun: 2025
+  judul: Perubahan Atas Peraturan Presiden Nomor 193 Tahun 2024 Tentang Kementerian
+    Kelautan Dan Perikanan
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-112-perubahan-atas-peraturan-presiden-nomor-193-tahun-2024-tentang-kementerian-kelautan-dan-perikanan
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-112-perubahan-atas-peraturan-presiden-nomor-193-tahun-2024-tentang-kementerian-kelautan-dan-perikanan/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-112-perubahan-atas-peraturan-presiden-nomor-193-tahun-2024-tentang-kementerian-kelautan-dan-perikanan/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2025-113
+  jenis: perpres
+  nomor: '113'
+  tahun: 2025
+  judul: Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2025 Tentang Tata Kelola
+    Pupuk Bersubsidi
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2025/perpres-2025-113-perubahan-atas-peraturan-presiden-nomor-6-tahun-2025-tentang-tata-kelola-pupuk-bersubsidi
+  metadata: regulasi/pusat/perpres/2025/perpres-2025-113-perubahan-atas-peraturan-presiden-nomor-6-tahun-2025-tentang-tata-kelola-pupuk-bersubsidi/metadata.yml
+  source: regulasi/pusat/perpres/2025/perpres-2025-113-perubahan-atas-peraturan-presiden-nomor-6-tahun-2025-tentang-tata-kelola-pupuk-bersubsidi/source.yml
   subjek: []
   sektor: []
 - id: perpres-2025-115
@@ -107214,6 +107808,24 @@
   path: regulasi/pusat/perpres/2026/perpres-2026-023-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-mai-aysia-tentang-perdagangan-perbatasan-agre
   metadata: regulasi/pusat/perpres/2026/perpres-2026-023-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-mai-aysia-tentang-perdagangan-perbatasan-agre/metadata.yml
   source: regulasi/pusat/perpres/2026/perpres-2026-023-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-mai-aysia-tentang-perdagangan-perbatasan-agre/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2026-024
+  jenis: perpres
+  nomor: '24'
+  tahun: 2026
+  judul: Tata Keloi.A, Ekspor Komoditas Sumber Daya Alam Strategis
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2026/perpres-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis
+  metadata: regulasi/pusat/perpres/2026/perpres-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis/metadata.yml
+  source: regulasi/pusat/perpres/2026/perpres-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis/source.yml
   subjek: []
   sektor: []
 - id: perpres-2026-025
@@ -172841,6 +173453,26 @@
   source: regulasi/pusat/pp/2015/pp-2015-037-perubahan-ketiga-belas-atas-peraturan-pemerintah-nomor-14-tahun-1985-tentang-pemberian-tunjangan-perintis-pergerakan-keb/source.yml
   subjek: []
   sektor: []
+- id: pp-2015-038
+  jenis: pp
+  nomor: '38'
+  tahun: 2015
+  judul: Pemberian Gaji/Pensiun/Tunjangan Bulan Ketiga Belas Dalam Tahun Anggaran
+    2015 Kepada Pegawai Negeri Sipil, Anggota Tentara Nasional Indonesia, Anggota
+    Kepolisian Negara Republik Indonesia, Pejabat Negara, Dan Penerima Pensiun/Tunjangan
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2015/pp-2015-038-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2015-kepada-pegawai-negeri-sipil-anggota-tentar
+  metadata: regulasi/pusat/pp/2015/pp-2015-038-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2015-kepada-pegawai-negeri-sipil-anggota-tentar/metadata.yml
+  source: regulasi/pusat/pp/2015/pp-2015-038-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2015-kepada-pegawai-negeri-sipil-anggota-tentar/source.yml
+  subjek: []
+  sektor: []
 - id: pp-2015-039
   jenis: pp
   nomor: '39'
@@ -177457,6 +178089,24 @@
   source: regulasi/pusat/pp/2017/pp-2017-043-pelaksanaan-restitusi-bagi-anak-yang-menjadi-korban-tindak-pidana/source.yml
   subjek: []
   sektor: []
+- id: pp-2017-044
+  jenis: pp
+  nomor: '44'
+  tahun: 2017
+  judul: Pelaksanaan Pengasuhan Anak
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2017/pp-2017-044-pelaksanaan-pengasuhan-anak
+  metadata: regulasi/pusat/pp/2017/pp-2017-044-pelaksanaan-pengasuhan-anak/metadata.yml
+  source: regulasi/pusat/pp/2017/pp-2017-044-pelaksanaan-pengasuhan-anak/source.yml
+  subjek: []
+  sektor: []
 - id: pp-2017-045
   jenis: pp
   nomor: '45'
@@ -177567,6 +178217,26 @@
   path: regulasi/pusat/pp/2017/pp-2017-050-penambahan-penyertaan-modal-negara-republik-indonesia-ke-dalam-modal-saham-perusahaan-perseroan-persero-pt-rajawali-nusa
   metadata: regulasi/pusat/pp/2017/pp-2017-050-penambahan-penyertaan-modal-negara-republik-indonesia-ke-dalam-modal-saham-perusahaan-perseroan-persero-pt-rajawali-nusa/metadata.yml
   source: regulasi/pusat/pp/2017/pp-2017-050-penambahan-penyertaan-modal-negara-republik-indonesia-ke-dalam-modal-saham-perusahaan-perseroan-persero-pt-rajawali-nusa/source.yml
+  subjek: []
+  sektor: []
+- id: pp-2017-051
+  jenis: pp
+  nomor: '51'
+  tahun: 2017
+  judul: Perubahan Atas Peraturan Pemerintah Nomor 38 Tahun 2013 Tentang Penghasilan,
+    Fasilitas, Penghargaan, Dan Hak-Hak Lain Bagi Kepala Dan Wakil Kepala Pusat Pelaporan
+    Dan Analisis Transaksi Keuangan
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2017/pp-2017-051-perubahan-atas-peraturan-pemerintah-nomor-38-tahun-2013-tentang-penghasilan-fasilitas-penghargaan-dan-hak-hak-lain-bagi
+  metadata: regulasi/pusat/pp/2017/pp-2017-051-perubahan-atas-peraturan-pemerintah-nomor-38-tahun-2013-tentang-penghasilan-fasilitas-penghargaan-dan-hak-hak-lain-bagi/metadata.yml
+  source: regulasi/pusat/pp/2017/pp-2017-051-perubahan-atas-peraturan-pemerintah-nomor-38-tahun-2013-tentang-penghasilan-fasilitas-penghargaan-dan-hak-hak-lain-bagi/source.yml
   subjek: []
   sektor: []
 - id: pp-2017-052
@@ -180312,6 +180982,25 @@
   source: regulasi/pusat/pp/2019/pp-2019-072-perubahan-atas-peraturan-pemerintah-nomor-18-tahun-2016-tentang-perangkat-daerah/source.yml
   subjek: []
   sektor: []
+- id: pp-2019-073
+  jenis: pp
+  nomor: '73'
+  tahun: 2019
+  judul: Barang Kena Pajak Yang Tergolong Mewah Berupa Kendaraan Bermotor Yang Dikenai
+    Pajak Penjualan Atas Barang Mewah
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2019/pp-2019-073-barang-kena-pajak-yang-tergolong-mewah-berupa-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah
+  metadata: regulasi/pusat/pp/2019/pp-2019-073-barang-kena-pajak-yang-tergolong-mewah-berupa-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah/metadata.yml
+  source: regulasi/pusat/pp/2019/pp-2019-073-barang-kena-pajak-yang-tergolong-mewah-berupa-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah/source.yml
+  subjek: []
+  sektor: []
 - id: pp-2019-074
   jenis: pp
   nomor: '74'
@@ -180330,6 +181019,24 @@
   path: regulasi/pusat/pp/2019/pp-2019-074-perubahan-atas-peraturan-pemerintah-nomor-40-tahun-2018-tentang-jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak
   metadata: regulasi/pusat/pp/2019/pp-2019-074-perubahan-atas-peraturan-pemerintah-nomor-40-tahun-2018-tentang-jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak/metadata.yml
   source: regulasi/pusat/pp/2019/pp-2019-074-perubahan-atas-peraturan-pemerintah-nomor-40-tahun-2018-tentang-jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak/source.yml
+  subjek: []
+  sektor: []
+- id: pp-2019-075
+  jenis: pp
+  nomor: '75'
+  tahun: 2019
+  judul: Peraturan Pei.Aksanaan Undang-Undang Nomor 3 Tahun 2Oi7 Tentang Sistem Perbukuan
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2019/pp-2019-075-peraturan-pei-aksanaan-undang-undang-nomor-3-tahun-2oi7-tentang-sistem-perbukuan
+  metadata: regulasi/pusat/pp/2019/pp-2019-075-peraturan-pei-aksanaan-undang-undang-nomor-3-tahun-2oi7-tentang-sistem-perbukuan/metadata.yml
+  source: regulasi/pusat/pp/2019/pp-2019-075-peraturan-pei-aksanaan-undang-undang-nomor-3-tahun-2oi7-tentang-sistem-perbukuan/source.yml
   subjek: []
   sektor: []
 - id: pp-2019-076
@@ -185962,6 +186669,24 @@
   source: regulasi/pusat/pp/2023/pp-2023-020-jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-komisi-pengawas-persaingan-usaha/source.yml
   subjek: []
   sektor: []
+- id: pp-2023-021
+  jenis: pp
+  nomor: '21'
+  tahun: 2023
+  judul: pp
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2023/pp-2023-021-pp
+  metadata: regulasi/pusat/pp/2023/pp-2023-021-pp/metadata.yml
+  source: regulasi/pusat/pp/2023/pp-2023-021-pp/source.yml
+  subjek: []
+  sektor: []
 - id: pp-2023-022
   jenis: pp
   nomor: '22'
@@ -188000,6 +188725,24 @@
   source: regulasi/pusat/pp/2025/pp-2025-009-pp/source.yml
   subjek: []
   sektor: []
+- id: pp-2025-010
+  jenis: pp
+  nomor: '10'
+  tahun: 2025
+  judul: Organisasi Dan Tata Kelola Badan Pengeloi.,A Investasi Daya Anagata Nusantara
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2025/pp-2025-010-organisasi-dan-tata-kelola-badan-pengeloi-a-investasi-daya-anagata-nusantara
+  metadata: regulasi/pusat/pp/2025/pp-2025-010-organisasi-dan-tata-kelola-badan-pengeloi-a-investasi-daya-anagata-nusantara/metadata.yml
+  source: regulasi/pusat/pp/2025/pp-2025-010-organisasi-dan-tata-kelola-badan-pengeloi-a-investasi-daya-anagata-nusantara/source.yml
+  subjek: []
+  sektor: []
 - id: pp-2025-011
   jenis: pp
   nomor: '11'
@@ -188228,6 +188971,25 @@
   source: regulasi/pusat/pp/2025/pp-2025-024-peraturan-pemerintah-tentang-penanganan-secara-khusus-dan-pemberian-penghargaan-bagi-saksi-pelaku-babi-ketentuan-umum/source.yml
   subjek: []
   sektor: []
+- id: pp-2025-025
+  jenis: pp
+  nomor: '25'
+  tahun: 2025
+  judul: Perubahan Atas Peraturan Pemerintah Nomor 41 Tahun 2O2I Tentang Pet{Yelenggaraan
+    Kawasan Perdagangan Bebas Dan Pelabuhan Bebas
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2025/pp-2025-025-perubahan-atas-peraturan-pemerintah-nomor-41-tahun-2o2i-tentang-pet-yelenggaraan-kawasan-perdagangan-bebas-dan-pelabuhan
+  metadata: regulasi/pusat/pp/2025/pp-2025-025-perubahan-atas-peraturan-pemerintah-nomor-41-tahun-2o2i-tentang-pet-yelenggaraan-kawasan-perdagangan-bebas-dan-pelabuhan/metadata.yml
+  source: regulasi/pusat/pp/2025/pp-2025-025-perubahan-atas-peraturan-pemerintah-nomor-41-tahun-2o2i-tentang-pet-yelenggaraan-kawasan-perdagangan-bebas-dan-pelabuhan/source.yml
+  subjek: []
+  sektor: []
 - id: pp-2025-026
   jenis: pp
   nomor: '26'
@@ -188280,6 +189042,61 @@
   path: regulasi/pusat/pp/2025/pp-2025-028-penyelenggaraan-perizinan-berusaha-berbasis-risiko
   metadata: regulasi/pusat/pp/2025/pp-2025-028-penyelenggaraan-perizinan-berusaha-berbasis-risiko/metadata.yml
   source: regulasi/pusat/pp/2025/pp-2025-028-penyelenggaraan-perizinan-berusaha-berbasis-risiko/source.yml
+  subjek: []
+  sektor: []
+- id: pp-2025-029
+  jenis: pp
+  nomor: '29'
+  tahun: 2025
+  judul: Dana Bantuan Korban Tindak Pidana Kekerasan Seksual
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2025/pp-2025-029-dana-bantuan-korban-tindak-pidana-kekerasan-seksual
+  metadata: regulasi/pusat/pp/2025/pp-2025-029-dana-bantuan-korban-tindak-pidana-kekerasan-seksual/metadata.yml
+  source: regulasi/pusat/pp/2025/pp-2025-029-dana-bantuan-korban-tindak-pidana-kekerasan-seksual/source.yml
+  subjek: []
+  sektor: []
+- id: pp-2025-030
+  jenis: pp
+  nomor: '30'
+  tahun: 2025
+  judul: Pencegahan Tindak Pidana Kekerasan Seksual Serta Penanganan, Pelindungan,
+    Dan Pemulihan Korban Tindak Pidana Kekerasan Seksual
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2025/pp-2025-030-pencegahan-tindak-pidana-kekerasan-seksual-serta-penanganan-pelindungan-dan-pemulihan-korban-tindak-pidana-kekerasan-sek
+  metadata: regulasi/pusat/pp/2025/pp-2025-030-pencegahan-tindak-pidana-kekerasan-seksual-serta-penanganan-pelindungan-dan-pemulihan-korban-tindak-pidana-kekerasan-sek/metadata.yml
+  source: regulasi/pusat/pp/2025/pp-2025-030-pencegahan-tindak-pidana-kekerasan-seksual-serta-penanganan-pelindungan-dan-pemulihan-korban-tindak-pidana-kekerasan-sek/source.yml
+  subjek: []
+  sektor: []
+- id: pp-2025-031
+  jenis: pp
+  nomor: '31'
+  tahun: 2025
+  judul: Perubahan Rencana Kerja Pemerintah Daerah Provinsi Riau Tahun 2025
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2025/pp-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025
+  metadata: regulasi/pusat/pp/2025/pp-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025/metadata.yml
+  source: regulasi/pusat/pp/2025/pp-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025/source.yml
   subjek: []
   sektor: []
 - id: pp-2025-032
@@ -188454,6 +189271,43 @@
   source: regulasi/pusat/pp/2025/pp-2025-040-kebijakan-energi-nasional/source.yml
   subjek: []
   sektor: []
+- id: pp-2025-041
+  jenis: pp
+  nomor: '41'
+  tahun: 2025
+  judul: Pembentukan Pengadii,An Tata Usaha Negara Tanjung Selor Dan Pengadilan Tata
+    Usaha Negara Sofifi
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2025/pp-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi
+  metadata: regulasi/pusat/pp/2025/pp-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi/metadata.yml
+  source: regulasi/pusat/pp/2025/pp-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi/source.yml
+  subjek: []
+  sektor: []
+- id: pp-2025-042
+  jenis: pp
+  nomor: '42'
+  tahun: 2025
+  judul: Cuti Bersama Pegawai Aparatur Sipil Negara Tahun 2026
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2025/pp-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026
+  metadata: regulasi/pusat/pp/2025/pp-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026/metadata.yml
+  source: regulasi/pusat/pp/2025/pp-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026/source.yml
+  subjek: []
+  sektor: []
 - id: pp-2025-043
   jenis: pp
   nomor: '43'
@@ -188490,6 +189344,25 @@
   path: regulasi/pusat/pp/2025/pp-2025-044-peraturan-pemerintah-tentang-tata-cara-penetapan-tarif-pengelolaan-dan-penyelesaian-keberatan-keringanan-dan-pengembalia
   metadata: regulasi/pusat/pp/2025/pp-2025-044-peraturan-pemerintah-tentang-tata-cara-penetapan-tarif-pengelolaan-dan-penyelesaian-keberatan-keringanan-dan-pengembalia/metadata.yml
   source: regulasi/pusat/pp/2025/pp-2025-044-peraturan-pemerintah-tentang-tata-cara-penetapan-tarif-pengelolaan-dan-penyelesaian-keberatan-keringanan-dan-pengembalia/source.yml
+  subjek: []
+  sektor: []
+- id: pp-2025-045
+  jenis: pp
+  nomor: '45'
+  tahun: 2025
+  judul: TATA CARA PENGENAAN SANKSl ADMINISTRATIF DAN TATA CARA PENERIMAAN NEGARA
+    BUKAN PAJAK YANG BERASAL DARI DENDA ADMINISTRATIF DI BIDANG KEHUTANAN
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2025/pp-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat
+  metadata: regulasi/pusat/pp/2025/pp-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat/metadata.yml
+  source: regulasi/pusat/pp/2025/pp-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat/source.yml
   subjek: []
   sektor: []
 - id: pp-2025-046
@@ -189098,6 +189971,25 @@
   path: regulasi/pusat/pp/2026/pp-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis
   metadata: regulasi/pusat/pp/2026/pp-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis/metadata.yml
   source: regulasi/pusat/pp/2026/pp-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis/source.yml
+  subjek: []
+  sektor: []
+- id: pp-2026-027
+  jenis: pp
+  nomor: '27'
+  tahun: 2026
+  judul: Perubahan Kedua Atas Peraturan Pemerintah Nomor 99 Tahun 2013 Tentang Pengelolaan
+    Aset Jaminan Sosial Ketenagakerjaan
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2026/pp-2026-027-perubahan-kedua-atas-peraturan-pemerintah-nomor-99-tahun-2013-tentang-pengelolaan-aset-jaminan-sosial-ketenagakerjaan
+  metadata: regulasi/pusat/pp/2026/pp-2026-027-perubahan-kedua-atas-peraturan-pemerintah-nomor-99-tahun-2013-tentang-pengelolaan-aset-jaminan-sosial-ketenagakerjaan/metadata.yml
+  source: regulasi/pusat/pp/2026/pp-2026-027-perubahan-kedua-atas-peraturan-pemerintah-nomor-99-tahun-2013-tentang-pengelolaan-aset-jaminan-sosial-ketenagakerjaan/source.yml
   subjek: []
   sektor: []
 - id: uu-1911-085
@@ -225430,6 +226322,25 @@
   path: regulasi/pusat/uu/2026/uu-2026-001-pei-yesuaian-pidana
   metadata: regulasi/pusat/uu/2026/uu-2026-001-pei-yesuaian-pidana/metadata.yml
   source: regulasi/pusat/uu/2026/uu-2026-001-pei-yesuaian-pidana/source.yml
+  subjek: []
+  sektor: []
+- id: uu-2026-002
+  jenis: uu
+  nomor: '2'
+  tahun: 2026
+  judul: Pelindungan Peker,.'A Rumah Tangga
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  - Dewan Perwakilan Rakyat Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/uu/2026/uu-2026-002-pelindungan-peker-a-rumah-tangga
+  metadata: regulasi/pusat/uu/2026/uu-2026-002-pelindungan-peker-a-rumah-tangga/metadata.yml
+  source: regulasi/pusat/uu/2026/uu-2026-002-pelindungan-peker-a-rumah-tangga/source.yml
   subjek: []
   sektor: []
 - id: uud-1945-000

@@ -1,0 +1,27 @@
+id: perpres-2025-047
+judul: Peraturan Presiden Nomor 47 Tahun 2025 tentang Tunjangan Kinerja Pegawai di
+  Lingkungan Kementerian Pernuda dan Olahraga sudah tidak sesuai dengan perkernbangan
+  capaian hasil pelaksanaan reformasi birokrasi sehingga perlu diganti; c. bahwa berdasarkan
+  pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan
+  Presiden tentang Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pernuda dan
+  Olahraga
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

@@ -39589,6 +39589,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2007-124
+  jenis: perpres
+  tahun: 2007
+  nomor: '124'
+  judul: Perubahan Atas Peraturan Presiden Nomor 24 Tahun 2Oo7 Tentang Tunjangan Panitera
+  markdown_path: regulasi/pusat/perpres/2007/perpres-2007-124-perubahan-atas-peraturan-presiden-nomor-24-tahun-2oo7-tentang-tunjangan-panitera/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2008-001
   jenis: perpres
   tahun: 2008
@@ -49529,6 +49539,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2015-162
+  jenis: perpres
+  tahun: 2015
+  nomor: '162'
+  judul: Tunjangan Kinerja Pegawai Di Lingkungan Lembaga Kebijakan Pengadaan Barang/Jasa
+    Pemerintah
+  markdown_path: regulasi/pusat/perpres/2015/perpres-2015-162-tunjangan-kinerja-pegawai-di-lingkungan-lembaga-kebijakan-pengadaan-barang-jasa-pemerintah/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2015-163
   jenis: perpres
   tahun: 2015
@@ -49817,6 +49838,18 @@
   judul: Tata Cara Pelantikan Gubernur Dan Wakil Gubernur, Bupati Dan Wakil Bupati,
     Serta Walikota Dan Wakil Walikota
   markdown_path: regulasi/pusat/perpres/2016/perpres-2016-016-tata-cara-pelantikan-gubernur-dan-wakil-gubernur-bupati-dan-wakil-bupati-serta-walikota-dan-wakil-walikota/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2016-017
+  jenis: perpres
+  tahun: 2016
+  nomor: '17'
+  judul: Pen Etapan Peraturan Pem Eri Ntah Pengganti Undang-Undang Nomor 1 Tahun 2016
+    Tentang Perubahan Kedua Atas Undang- Undang Nomor 23 Tahun 2Oo2 Tentang Perlindungan
+    Anak Menjadi Undang-Undang
+  markdown_path: regulasi/pusat/perpres/2016/perpres-2016-017-pen-etapan-peraturan-pem-eri-ntah-pengganti-undang-undang-nomor-1-tahun-2016-tentang-perubahan-kedua-atas-undang-undang/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -51794,6 +51827,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2017-072
+  jenis: perpres
+  tahun: 2017
+  nomor: '72'
+  judul: Pedoman Pelaksanaan Anggaran Pendapatan Dan Belanja Daerah Provinsi Jawa
+    Tengah Tahun Anggaran 2018
+  markdown_path: regulasi/pusat/perpres/2017/perpres-2017-072-pedoman-pelaksanaan-anggaran-pendapatan-dan-belanja-daerah-provinsi-jawa-tengah-tahun-anggaran-2018/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2017-073
   jenis: perpres
   tahun: 2017
@@ -52148,6 +52192,16 @@
   nomor: '105'
   judul: Tunjangan Jabatan Fungsional Pengamat Tera
   markdown_path: regulasi/pusat/perpres/2017/perpres-2017-105-tunjangan-jabatan-fungsional-pengamat-tera/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2017-106
+  jenis: perpres
+  tahun: 2017
+  nomor: '106'
+  judul: Kawasan Sains Dan Teknologi
+  markdown_path: regulasi/pusat/perpres/2017/perpres-2017-106-kawasan-sains-dan-teknologi/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -52676,6 +52730,26 @@
   judul: Pedoman Penyusunan, Pelaksanaan, Dan Pengawasan Rencana Aksi Nasional Percepatan
     Pembangunan Daerah Tertinggal
   markdown_path: regulasi/pusat/perpres/2018/perpres-2018-022-pedoman-penyusunan-pelaksanaan-dan-pengawasan-rencana-aksi-nasional-percepatan-pembangunan-daerah-tertinggal/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2018-024
+  jenis: perpres
+  tahun: 2018
+  nomor: '24'
+  judul: Pelayanan Perizinan Berusaha Terintegrasi Secara Elektronik
+  markdown_path: regulasi/pusat/perpres/2018/perpres-2018-024-pelayanan-perizinan-berusaha-terintegrasi-secara-elektronik/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2018-028
+  jenis: perpres
+  tahun: 2018
+  nomor: '28'
+  judul: Kerja Sama Daerah
+  markdown_path: regulasi/pusat/perpres/2018/perpres-2018-028-kerja-sama-daerah/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -53271,6 +53345,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2018-085
+  jenis: perpres
+  tahun: 2018
+  nomor: '85'
+  judul: Pengamanan Dan Pengawalancalonpresiden Dan Calonwakil Presiden Dalam Penyelenggaraanpemilihanumum
+  markdown_path: regulasi/pusat/perpres/2018/perpres-2018-085-pengamanan-dan-pengawalancalonpresiden-dan-calonwakil-presiden-dalam-penyelenggaraanpemilihanumum/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2018-086
   jenis: perpres
   tahun: 2018
@@ -53386,6 +53470,20 @@
   nomor: '96'
   judul: Persyaratan Dan Tata Cara Pendaftaran Penduduk Dan Pencatatan Sipil
   markdown_path: regulasi/pusat/perpres/2018/perpres-2018-096-persyaratan-dan-tata-cara-pendaftaran-penduduk-dan-pencatatan-sipil/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2018-097
+  jenis: perpres
+  tahun: 2018
+  nomor: '97'
+  judul: Pengesahan Agreement On Investment Under The Framework Agreement On Comprehensive
+    Economic Cooperation Between The Association Of Southeastasiaiv ]Vatioits And
+    The Republic Of India (Persetujuan Mengenai Penanaman Modal Berdasarkan Persetujuan
+    Kerangka Kerja Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa
+    Asia Tenggara Dan Republik India)
+  markdown_path: regulasi/pusat/perpres/2018/perpres-2018-097-pengesahan-agreement-on-investment-under-the-framework-agreement-on-comprehensive-economic-cooperation-between-the-assoc/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -53531,6 +53629,21 @@
   judul: Pengesahan Asean Agreement On Medical Dewce Directme (Persetujuan Asean Untuk
     Pengaturan Peralatan Kesehatan)
   markdown_path: regulasi/pusat/perpres/2018/perpres-2018-110-pengesahan-asean-agreement-on-medical-dewce-directme-persetujuan-asean-untuk-pengaturan-peralatan-kesehatan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2018-111
+  jenis: perpres
+  tahun: 2018
+  nomor: '111'
+  judul: PENGESAHAN THIRD PROTOCOL TO AMEND THE AGREEMENT ON TRADE IN GOODS UJVDER
+    THE FRAMEWORK AGREEMENT ON COMPREHENSNE ECONOMIC COOPERATION AMONG THE GOVERNME,MTS
+    OF THE MDMBER COUNTRIES OT'ff{E ASSOCIATION OF SO|../THEASTASIAAT ,IVATIOJVS AND
+    THE REPUBLIC OF KOREA (PROTOKOL KETIGA UNTUK MENGUBAH PERSETUJUAN PERDAGANGAN
+    BARANG DARI PERSETUJUAN KERANGKA KERJA MENGENAI KERJA SAMA EKONOMI MENYELURUH
+    ANTARA PERHIMPUNAN BANGSA-BANGSA ASIA TENGGARA DAN REPUBLIK KOREA)
+  markdown_path: regulasi/pusat/perpres/2018/perpres-2018-111-pengesahan-third-protocol-to-amend-the-agreement-on-trade-in-goods-ujvder-the-framework-agreement-on-comprehensne-econom/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -58682,6 +58795,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2022-123
+  jenis: perpres
+  tahun: 2022
+  nomor: '123'
+  judul: Perubahan Atas Peraturan Presiden Nomor 14 Tahun 2Oo5 Tentang Kepaniteraan
+    Mahkamah Agung
+  markdown_path: regulasi/pusat/perpres/2022/perpres-2022-123-perubahan-atas-peraturan-presiden-nomor-14-tahun-2oo5-tentang-kepaniteraan-mahkamah-agung/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2022-125
   jenis: perpres
   tahun: 2022
@@ -61220,6 +61344,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2024-152
+  jenis: perpres
+  tahun: 2024
+  nomor: '152'
+  judul: Kementerian Agama
+  markdown_path: regulasi/pusat/perpres/2024/perpres-2024-152-kementerian-agama/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2024-153
   jenis: perpres
   tahun: 2024
@@ -61768,6 +61902,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2025-001
+  jenis: perpres
+  tahun: 2025
+  nomor: '1'
+  judul: Peraturan Presiden Tentang Perubahan Atas Peraturan Presiden Nomor 86 Tahun
+    2Oo7 Tentang Badan Pusat Statistik
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-001-peraturan-presiden-tentang-perubahan-atas-peraturan-presiden-nomor-86-tahun-2oo7-tentang-badan-pusat-statistik/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2025-002
   jenis: perpres
   tahun: 2025
@@ -61818,6 +61963,26 @@
   nomor: '7'
   judul: Neraca Komoditas
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-007-neraca-komoditas/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-009
+  jenis: perpres
+  tahun: 2025
+  nomor: '9'
+  judul: Kabupaten Muna Di Provinsi Suiawesi Tenggara
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-009-kabupaten-muna-di-provinsi-suiawesi-tenggara/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-011
+  jenis: perpres
+  tahun: 2025
+  nomor: '11'
+  judul: Kabupaten Kepulauan Sangihe Di Provinsi Sui,Awesi Utara
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-011-kabupaten-kepulauan-sangihe-di-provinsi-sui-awesi-utara/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -61925,6 +62090,107 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2025-022
+  jenis: perpres
+  tahun: 2025
+  nomor: '22'
+  judul: Pembentukan Pengadilan Mtliter Tinggi Iv Balikpapan Dan Pengadii,An Militer
+    Tinggi V Makassar
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-022-pembentukan-pengadilan-mtliter-tinggi-iv-balikpapan-dan-pengadii-an-militer-tinggi-v-makassar/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-023
+  jenis: perpres
+  tahun: 2025
+  nomor: '23'
+  judul: 'perahrran pemerintah tentang pembcntirkan Pengadilan Militer I-03 pekanbaru,
+    nen-Man un Milite iadrokwa ri; r V-18 Kendari, dan peng adila n MilitcrV-2f Mengingat
+    1. l.l.t 5ayat (2) Undang-Undang Dasar Negara Republik IndonesiaTahun l94S; 2.
+    Undang-Undang Nomor 3 I Tahun 1997 tentang peraditan Militer (Icmbaran Negara
+    Republik Indonesia Tahun 1997 Nomor 84, Tambahan Lcmbaran Negara Republik Indonesia
+    Nomor 3Zl3); MEMUTUSI(AN:... SK No255E44A <!-- page: 2 --> PRESIOEN REPUELIK INDONESIA
+    -2- MEMUTUSKAN: Menetapkan : PERATURAN PEMERINTAH TENTANG PENGADILAN MILITER I-03
+    PEKANBARU, PENGADILAN MILITER V-18 KENDARI, DAN PENGADILAN MILITER V-21 MANOKWARI'
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-023-perahrran-pemerintah-tentang-pembcntirkan-pengadilan-militer-i-03-pekanbaru-nen-man-un-milite-iadrokwa-ri-r-v-18-kendari/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-024
+  jenis: perpres
+  tahun: 2025
+  nomor: '24'
+  judul: Peraturan Pemerintah Tentang Penanganan Secara Khusus Dan Pemberian Penghargaan
+    Bagi Saksi Pelaku. Babi Ketentuan Umum
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-024-peraturan-pemerintah-tentang-penanganan-secara-khusus-dan-pemberian-penghargaan-bagi-saksi-pelaku-babi-ketentuan-umum/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-027
+  jenis: perpres
+  tahun: 2025
+  nomor: '27'
+  judul: Perlindungan Dan Pengeloi,Aan Ekosistem Mangrove
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-027-perlindungan-dan-pengeloi-aan-ekosistem-mangrove/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-031
+  jenis: perpres
+  tahun: 2025
+  nomor: '31'
+  judul: Perubahan Rencana Kerja Pemerintah Daerah Provinsi Riau Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-041
+  jenis: perpres
+  tahun: 2025
+  nomor: '41'
+  judul: Pembentukan Pengadii,An Tata Usaha Negara Tanjung Selor Dan Pengadilan Tata
+    Usaha Negara Sofifi
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-042
+  jenis: perpres
+  tahun: 2025
+  nomor: '42'
+  judul: Cuti Bersama Pegawai Aparatur Sipil Negara Tahun 2026
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-043
+  jenis: perpres
+  tahun: 2025
+  nomor: '43'
+  judul: Pei.Aporan Keuangan
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-043-pei-aporan-keuangan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-045
+  jenis: perpres
+  tahun: 2025
+  nomor: '45'
+  judul: TATA CARA PENGENAAN SANKSl ADMINISTRATIF DAN TATA CARA PENERIMAAN NEGARA
+    BUKAN PAJAK YANG BERASAL DARI DENDA ADMINISTRATIF DI BIDANG KEHUTANAN
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2025-046
   jenis: perpres
   tahun: 2025
@@ -61932,6 +62198,20 @@
   judul: Perubahan Kedua Atas Peraturan Presiden Nomor 16 Tahun 2018 Tentang Pengadaan
     Barang/Jasa Pemerintah
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-046-perubahan-kedua-atas-peraturan-presiden-nomor-16-tahun-2018-tentang-pengadaan-barang-jasa-pemerintah/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-047
+  jenis: perpres
+  tahun: 2025
+  nomor: '47'
+  judul: Tunjangan Kinerja Pegawai di Lingkungan Kementerian Pernuda dan Olahraga
+    sudah tidak sesuai dengan perkernbangan capaian hasil pelaksanaan reformasi birokrasi
+    sehingga perlu diganti; c. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+    dalam huruf a dan huruf b, perlu menetapkan Peraturan Presiden tentang Tunjangan
+    Kinerja Pegawai di Lingkungan Kementerian Pernuda dan Olahraga
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-047-tunjangan-kinerja-pegawai-di-lingkungan-kementerian-pernuda-dan-olahraga-sudah-tidak-sesuai-dengan-perkernbangan-capaian/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62095,6 +62375,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2025-066
+  jenis: perpres
+  tahun: 2025
+  nomor: '66'
+  judul: Pembentukan, Kedudukan, Susunan Organisasi, Tugas Dan Fungsi Serta Tata Kerja
+    Rumah Sakit Umum Daerah Panti Nugroho
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-066-pembentukan-kedudukan-susunan-organisasi-tugas-dan-fungsi-serta-tata-kerja-rumah-sakit-umum-daerah-panti-nugroho/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2025-067
   jenis: perpres
   tahun: 2025
@@ -62105,6 +62396,28 @@
     BANGSA-BANGSA TENTANG HUKUM LAUT TENTANG KONSERVASI DAN PEMANFAATAN KEANEKARAGAMAN
     HAYATI LAUT SECARA BERKEI,,ANJUTAN DI WII.,AYAH DI LUAR YURISDIKSI NASIONAL)
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-067-pengesahan-agreement-under-the-united-iveflojvs-coniye-ntion-on-the-i-aw-of-the-seii-oil-the-conseruation-and-sttstainab/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-068
+  jenis: perpres
+  tahun: 2025
+  nomor: '68'
+  judul: Perubahan Atas Peraturan Bupati Purbalingga Nomor 1 Tahun 2024 Tentang Tata
+    Cara Pemungutan Pajak Bumi Dan Bangunan Perdesaan Dan Perkotaan Di Kabupaten Purbalingga
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-068-perubahan-atas-peraturan-bupati-purbalingga-nomor-1-tahun-2024-tentang-tata-cara-pemungutan-pajak-bumi-dan-bangunan-perd/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-069
+  jenis: perpres
+  tahun: 2025
+  nomor: '69'
+  judul: Rencana Strategis Badan Layanan Umum Daerah Rumah Sakit Umum Daerah Haji
+    Darlan Ismail Kecamatan Bumi Makmur Tahun 2025-2029
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-069-rencana-strategis-badan-layanan-umum-daerah-rumah-sakit-umum-daerah-haji-darlan-ismail-kecamatan-bumi-makmur-tahun-2025/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62302,6 +62615,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2025-102
+  jenis: perpres
+  tahun: 2025
+  nomor: '102'
+  judul: Perubahan Atas Peraturan Presiden Nomor 121 Tahun 2022 Tentang Badan Pengarah
+    Percepatan Pembangunan Otonomi Khusus Papua
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-102-perubahan-atas-peraturan-presiden-nomor-121-tahun-2022-tentang-badan-pengarah-percepatan-pembangunan-otonomi-khusus-papu/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2025-105
   jenis: perpres
   tahun: 2025
@@ -62341,6 +62665,28 @@
   judul: PENYELENGGARAAN INSTRUMEN NILAI EKONOMI KARtsON DAN PENGENDALIAN EMISI GAS
     RUMAH KACA NASIONAL
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-110-penyelenggaraan-instrumen-nilai-ekonomi-kartson-dan-pengendalian-emisi-gas-rumah-kaca-nasional/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-112
+  jenis: perpres
+  tahun: 2025
+  nomor: '112'
+  judul: Perubahan Atas Peraturan Presiden Nomor 193 Tahun 2024 Tentang Kementerian
+    Kelautan Dan Perikanan
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-112-perubahan-atas-peraturan-presiden-nomor-193-tahun-2024-tentang-kementerian-kelautan-dan-perikanan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-113
+  jenis: perpres
+  tahun: 2025
+  nomor: '113'
+  judul: Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2025 Tentang Tata Kelola
+    Pupuk Bersubsidi
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-113-perubahan-atas-peraturan-presiden-nomor-6-tahun-2025-tentang-tata-kelola-pupuk-bersubsidi/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62644,6 +62990,16 @@
     MAI,AYSIA TENTANG PERDAGANGAN PERBATASAN (AGREEMENT BETWEEN THD, GOWRNMENT OFTHE
     REPUBUC OF INDONESIAANDTHE @WRNMENT OF MAI,AYSIAON BORDERTRADq
   markdown_path: regulasi/pusat/perpres/2026/perpres-2026-023-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-dan-pemerintah-mai-aysia-tentang-perdagangan-perbatasan-agre/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2026-024
+  jenis: perpres
+  tahun: 2026
+  nomor: '24'
+  judul: Tata Keloi.A, Ekspor Komoditas Sumber Daya Alam Strategis
+  markdown_path: regulasi/pusat/perpres/2026/perpres-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -100313,6 +100669,18 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2015-038
+  jenis: pp
+  tahun: 2015
+  nomor: '38'
+  judul: Pemberian Gaji/Pensiun/Tunjangan Bulan Ketiga Belas Dalam Tahun Anggaran
+    2015 Kepada Pegawai Negeri Sipil, Anggota Tentara Nasional Indonesia, Anggota
+    Kepolisian Negara Republik Indonesia, Pejabat Negara, Dan Penerima Pensiun/Tunjangan
+  markdown_path: regulasi/pusat/pp/2015/pp-2015-038-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2015-kepada-pegawai-negeri-sipil-anggota-tentar/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2015-039
   jenis: pp
   tahun: 2015
@@ -102969,6 +103337,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2017-044
+  jenis: pp
+  tahun: 2017
+  nomor: '44'
+  judul: Pelaksanaan Pengasuhan Anak
+  markdown_path: regulasi/pusat/pp/2017/pp-2017-044-pelaksanaan-pengasuhan-anak/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2017-045
   jenis: pp
   tahun: 2017
@@ -103029,6 +103407,18 @@
   judul: Penambahan Penyertaan Modal Negara Republik Indonesia Ke Dalam Modal Saham
     Perusahaan Perseroan (Persero) Pt Rajawali Nusantara Indonesia
   markdown_path: regulasi/pusat/pp/2017/pp-2017-050-penambahan-penyertaan-modal-negara-republik-indonesia-ke-dalam-modal-saham-perusahaan-perseroan-persero-pt-rajawali-nusa/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2017-051
+  jenis: pp
+  tahun: 2017
+  nomor: '51'
+  judul: Perubahan Atas Peraturan Pemerintah Nomor 38 Tahun 2013 Tentang Penghasilan,
+    Fasilitas, Penghargaan, Dan Hak-Hak Lain Bagi Kepala Dan Wakil Kepala Pusat Pelaporan
+    Dan Analisis Transaksi Keuangan
+  markdown_path: regulasi/pusat/pp/2017/pp-2017-051-perubahan-atas-peraturan-pemerintah-nomor-38-tahun-2013-tentang-penghasilan-fasilitas-penghargaan-dan-hak-hak-lain-bagi/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -104608,6 +104998,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2019-073
+  jenis: pp
+  tahun: 2019
+  nomor: '73'
+  judul: Barang Kena Pajak Yang Tergolong Mewah Berupa Kendaraan Bermotor Yang Dikenai
+    Pajak Penjualan Atas Barang Mewah
+  markdown_path: regulasi/pusat/pp/2019/pp-2019-073-barang-kena-pajak-yang-tergolong-mewah-berupa-kendaraan-bermotor-yang-dikenai-pajak-penjualan-atas-barang-mewah/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2019-074
   jenis: pp
   tahun: 2019
@@ -104616,6 +105017,16 @@
     Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Standardisasi
     Nasional
   markdown_path: regulasi/pusat/pp/2019/pp-2019-074-perubahan-atas-peraturan-pemerintah-nomor-40-tahun-2018-tentang-jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2019-075
+  jenis: pp
+  tahun: 2019
+  nomor: '75'
+  judul: Peraturan Pei.Aksanaan Undang-Undang Nomor 3 Tahun 2Oi7 Tentang Sistem Perbukuan
+  markdown_path: regulasi/pusat/pp/2019/pp-2019-075-peraturan-pei-aksanaan-undang-undang-nomor-3-tahun-2oi7-tentang-sistem-perbukuan/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -107842,6 +108253,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2023-021
+  jenis: pp
+  tahun: 2023
+  nomor: '21'
+  judul: pp
+  markdown_path: regulasi/pusat/pp/2023/pp-2023-021-pp/dokumen.md
+  source_url: https://kumparan.com/namiradifa/ikn-antara-
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2023-022
   jenis: pp
   tahun: 2023
@@ -109016,6 +109437,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2025-010
+  jenis: pp
+  tahun: 2025
+  nomor: '10'
+  judul: Organisasi Dan Tata Kelola Badan Pengeloi.,A Investasi Daya Anagata Nusantara
+  markdown_path: regulasi/pusat/pp/2025/pp-2025-010-organisasi-dan-tata-kelola-badan-pengeloi-a-investasi-daya-anagata-nusantara/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2025-011
   jenis: pp
   tahun: 2025
@@ -109156,6 +109587,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2025-025
+  jenis: pp
+  tahun: 2025
+  nomor: '25'
+  judul: Perubahan Atas Peraturan Pemerintah Nomor 41 Tahun 2O2I Tentang Pet{Yelenggaraan
+    Kawasan Perdagangan Bebas Dan Pelabuhan Bebas
+  markdown_path: regulasi/pusat/pp/2025/pp-2025-025-perubahan-atas-peraturan-pemerintah-nomor-41-tahun-2o2i-tentang-pet-yelenggaraan-kawasan-perdagangan-bebas-dan-pelabuhan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2025-026
   jenis: pp
   tahun: 2025
@@ -109182,6 +109624,37 @@
   nomor: '28'
   judul: Penyelenggaraan Perizinan Berusaha Berbasis Risiko
   markdown_path: regulasi/pusat/pp/2025/pp-2025-028-penyelenggaraan-perizinan-berusaha-berbasis-risiko/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2025-029
+  jenis: pp
+  tahun: 2025
+  nomor: '29'
+  judul: Dana Bantuan Korban Tindak Pidana Kekerasan Seksual
+  markdown_path: regulasi/pusat/pp/2025/pp-2025-029-dana-bantuan-korban-tindak-pidana-kekerasan-seksual/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2025-030
+  jenis: pp
+  tahun: 2025
+  nomor: '30'
+  judul: Pencegahan Tindak Pidana Kekerasan Seksual Serta Penanganan, Pelindungan,
+    Dan Pemulihan Korban Tindak Pidana Kekerasan Seksual
+  markdown_path: regulasi/pusat/pp/2025/pp-2025-030-pencegahan-tindak-pidana-kekerasan-seksual-serta-penanganan-pelindungan-dan-pemulihan-korban-tindak-pidana-kekerasan-sek/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2025-031
+  jenis: pp
+  tahun: 2025
+  nomor: '31'
+  judul: Perubahan Rencana Kerja Pemerintah Daerah Provinsi Riau Tahun 2025
+  markdown_path: regulasi/pusat/pp/2025/pp-2025-031-perubahan-rencana-kerja-pemerintah-daerah-provinsi-riau-tahun-2025/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -109286,6 +109759,27 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2025-041
+  jenis: pp
+  tahun: 2025
+  nomor: '41'
+  judul: Pembentukan Pengadii,An Tata Usaha Negara Tanjung Selor Dan Pengadilan Tata
+    Usaha Negara Sofifi
+  markdown_path: regulasi/pusat/pp/2025/pp-2025-041-pembentukan-pengadii-an-tata-usaha-negara-tanjung-selor-dan-pengadilan-tata-usaha-negara-sofifi/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2025-042
+  jenis: pp
+  tahun: 2025
+  nomor: '42'
+  judul: Cuti Bersama Pegawai Aparatur Sipil Negara Tahun 2026
+  markdown_path: regulasi/pusat/pp/2025/pp-2025-042-cuti-bersama-pegawai-aparatur-sipil-negara-tahun-2026/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2025-043
   jenis: pp
   tahun: 2025
@@ -109304,6 +109798,17 @@
     Penyelesaian Keberatan, Keringanan, Dan Pengembalian Penerimaan Negara Bukan Pajak,
     Bab I Ketentuan Umum
   markdown_path: regulasi/pusat/pp/2025/pp-2025-044-peraturan-pemerintah-tentang-tata-cara-penetapan-tarif-pengelolaan-dan-penyelesaian-keberatan-keringanan-dan-pengembalia/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2025-045
+  jenis: pp
+  tahun: 2025
+  nomor: '45'
+  judul: TATA CARA PENGENAAN SANKSl ADMINISTRATIF DAN TATA CARA PENERIMAAN NEGARA
+    BUKAN PAJAK YANG BERASAL DARI DENDA ADMINISTRATIF DI BIDANG KEHUTANAN
+  markdown_path: regulasi/pusat/pp/2025/pp-2025-045-tata-cara-pengenaan-sanksl-administratif-dan-tata-cara-penerimaan-negara-bukan-pajak-yang-berasal-dari-denda-administrat/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -109656,6 +110161,17 @@
   nomor: '24'
   judul: Tata Keloi.A, Ekspor Komoditas Sumber Daya Alam Strategis
   markdown_path: regulasi/pusat/pp/2026/pp-2026-024-tata-keloi-a-ekspor-komoditas-sumber-daya-alam-strategis/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2026-027
+  jenis: pp
+  tahun: 2026
+  nomor: '27'
+  judul: Perubahan Kedua Atas Peraturan Pemerintah Nomor 99 Tahun 2013 Tentang Pengelolaan
+    Aset Jaminan Sosial Ketenagakerjaan
+  markdown_path: regulasi/pusat/pp/2026/pp-2026-027-perubahan-kedua-atas-peraturan-pemerintah-nomor-99-tahun-2013-tentang-pengelolaan-aset-jaminan-sosial-ketenagakerjaan/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -129369,6 +129885,16 @@
   nomor: '1'
   judul: Pei{Yesuaian Pidana
   markdown_path: regulasi/pusat/uu/2026/uu-2026-001-pei-yesuaian-pidana/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: uu-2026-002
+  jenis: uu
+  tahun: 2026
+  nomor: '2'
+  judul: Pelindungan Peker,.'A Rumah Tangga
+  markdown_path: regulasi/pusat/uu/2026/uu-2026-002-pelindungan-peker-a-rumah-tangga/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
