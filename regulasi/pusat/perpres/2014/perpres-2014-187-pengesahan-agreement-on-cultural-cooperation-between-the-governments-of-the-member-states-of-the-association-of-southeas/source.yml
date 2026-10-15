@@ -1,0 +1,26 @@
+id: perpres-2014-187
+judul: Peraturan Presiden Nomor 187 Tahun 2014 tentang Pengesahan Agreement On Cultural
+  Cooperation Between The Governments Of The Member States Of The Association Of Southeast
+  Asian Nations And The Government Of The Russian Federation (Persetujuan Kerja Sama
+  Di Bidang Kebudayaan Antara Pemerintah Negara Anggota Perhimpunan Bangsa-Bangsa
+  Asia Tenggara Dan Pemerintah Federasi Rusia)
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

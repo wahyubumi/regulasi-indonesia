@@ -66157,6 +66157,24 @@
   source: regulasi/pusat/perpres/2007/perpres-2007-048-tunjangan-jabatan-fungsional-agen/source.yml
   subjek: []
   sektor: []
+- id: perpres-2007-049
+  jenis: perpres
+  nomor: '49'
+  tahun: 2007
+  judul: Tunjangan Jabatan Fungsional Polisi Kehutanan
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2007/perpres-2007-049-tunjangan-jabatan-fungsional-polisi-kehutanan
+  metadata: regulasi/pusat/perpres/2007/perpres-2007-049-tunjangan-jabatan-fungsional-polisi-kehutanan/metadata.yml
+  source: regulasi/pusat/perpres/2007/perpres-2007-049-tunjangan-jabatan-fungsional-polisi-kehutanan/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2007-050
   jenis: perpres
   nomor: '50'
@@ -66669,6 +66687,25 @@
   source: regulasi/pusat/perpres/2007/perpres-2007-077-daftar-bidang-usaha-yang-tertutup-dan-bidang-usaha-yang-terbuka-dengan-persyaratan-di-bidang-penanaman-modal/source.yml
   subjek: []
   sektor: []
+- id: perpres-2007-078
+  jenis: perpres
+  nomor: '78'
+  tahun: 2007
+  judul: Pengesahan Convention For The Safeguarding Of The Intangible Cultural Heritage
+    (Konvensi Untuk Perlindungan Warisan Budaya Takbenda)
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2007/perpres-2007-078-pengesahan-convention-for-the-safeguarding-of-the-intangible-cultural-heritage-konvensi-untuk-perlindungan-warisan-buday
+  metadata: regulasi/pusat/perpres/2007/perpres-2007-078-pengesahan-convention-for-the-safeguarding-of-the-intangible-cultural-heritage-konvensi-untuk-perlindungan-warisan-buday/metadata.yml
+  source: regulasi/pusat/perpres/2007/perpres-2007-078-pengesahan-convention-for-the-safeguarding-of-the-intangible-cultural-heritage-konvensi-untuk-perlindungan-warisan-buday/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2007-079
   jenis: perpres
   nomor: '79'
@@ -66896,6 +66933,26 @@
   path: regulasi/pusat/perpres/2007/perpres-2007-090-badan-koordinasi-penanaman-modal
   metadata: regulasi/pusat/perpres/2007/perpres-2007-090-badan-koordinasi-penanaman-modal/metadata.yml
   source: regulasi/pusat/perpres/2007/perpres-2007-090-badan-koordinasi-penanaman-modal/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2007-091
+  jenis: perpres
+  nomor: '91'
+  tahun: 2007
+  judul: Perubahan Atas Peraturan Presiden Nomor 86 Tahun 2006 Tentang Pemberian Jaminan
+    Pemerintah Untuk Percepatan Pembangunan Pembangkit Tenaga Listrik Yang Menggunakan
+    Batubara
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2007/perpres-2007-091-perubahan-atas-peraturan-presiden-nomor-86-tahun-2006-tentang-pemberian-jaminan-pemerintah-untuk-percepatan-pembangunan
+  metadata: regulasi/pusat/perpres/2007/perpres-2007-091-perubahan-atas-peraturan-presiden-nomor-86-tahun-2006-tentang-pemberian-jaminan-pemerintah-untuk-percepatan-pembangunan/metadata.yml
+  source: regulasi/pusat/perpres/2007/perpres-2007-091-perubahan-atas-peraturan-presiden-nomor-86-tahun-2006-tentang-pemberian-jaminan-pemerintah-untuk-percepatan-pembangunan/source.yml
   subjek: []
   sektor: []
 - id: perpres-2007-092
@@ -67184,6 +67241,25 @@
   source: regulasi/pusat/perpres/2007/perpres-2007-106-lembaga-kebijakan-pengadaan-barang-jasa-pemerintah/source.yml
   subjek: []
   sektor: []
+- id: perpres-2007-107
+  jenis: perpres
+  nomor: '107'
+  tahun: 2007
+  judul: Honorarium Bagi Anggota Dewan Pengarah Lembaga Ketahanan Nasional Republik
+    Indonesia
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2007/perpres-2007-107-honorarium-bagi-anggota-dewan-pengarah-lembaga-ketahanan-nasional-republik-indonesia
+  metadata: regulasi/pusat/perpres/2007/perpres-2007-107-honorarium-bagi-anggota-dewan-pengarah-lembaga-ketahanan-nasional-republik-indonesia/metadata.yml
+  source: regulasi/pusat/perpres/2007/perpres-2007-107-honorarium-bagi-anggota-dewan-pengarah-lembaga-ketahanan-nasional-republik-indonesia/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2007-108
   jenis: perpres
   nomor: '108'
@@ -67275,6 +67351,80 @@
   path: regulasi/pusat/perpres/2007/perpres-2007-112-penataan-dan-pembinaan-pasar-tradisional-pusat-perbelanjaan-dan-toko-modern
   metadata: regulasi/pusat/perpres/2007/perpres-2007-112-penataan-dan-pembinaan-pasar-tradisional-pusat-perbelanjaan-dan-toko-modern/metadata.yml
   source: regulasi/pusat/perpres/2007/perpres-2007-112-penataan-dan-pembinaan-pasar-tradisional-pusat-perbelanjaan-dan-toko-modern/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2007-114
+  jenis: perpres
+  nomor: '114'
+  tahun: 2007
+  judul: Nilai Tukar Mata Uang Yang Digunakan Ntuk Penghitungan Dan Pembayaran Bea
+    Masuk
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2007/perpres-2007-114-nilai-tukar-mata-uang-yang-digunakan-ntuk-penghitungan-dan-pembayaran-bea-masuk
+  metadata: regulasi/pusat/perpres/2007/perpres-2007-114-nilai-tukar-mata-uang-yang-digunakan-ntuk-penghitungan-dan-pembayaran-bea-masuk/metadata.yml
+  source: regulasi/pusat/perpres/2007/perpres-2007-114-nilai-tukar-mata-uang-yang-digunakan-ntuk-penghitungan-dan-pembayaran-bea-masuk/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2007-116
+  jenis: perpres
+  nomor: '116'
+  tahun: 2007
+  judul: Penyelenggaraan Pendidikan Inklusi
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2007/perpres-2007-116-penyelenggaraan-pendidikan-inklusi
+  metadata: regulasi/pusat/perpres/2007/perpres-2007-116-penyelenggaraan-pendidikan-inklusi/metadata.yml
+  source: regulasi/pusat/perpres/2007/perpres-2007-116-penyelenggaraan-pendidikan-inklusi/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2007-117
+  jenis: perpres
+  nomor: '117'
+  tahun: 2007
+  judul: perpres
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2007/perpres-2007-117-perpres
+  metadata: regulasi/pusat/perpres/2007/perpres-2007-117-perpres/metadata.yml
+  source: regulasi/pusat/perpres/2007/perpres-2007-117-perpres/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2007-119
+  jenis: perpres
+  nomor: '119'
+  tahun: 2007
+  judul: Persyaratan Administratif Dalam Rangka Pengusulan Dan Penetapan Satuan Kerja
+    Instansi Pemerintah Untuk Menerapkan Pengelolaan Keuangan Badan Layanan Umum
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2007/perpres-2007-119-persyaratan-administratif-dalam-rangka-pengusulan-dan-penetapan-satuan-kerja-instansi-pemerintah-untuk-menerapkan-pengel
+  metadata: regulasi/pusat/perpres/2007/perpres-2007-119-persyaratan-administratif-dalam-rangka-pengusulan-dan-penetapan-satuan-kerja-instansi-pemerintah-untuk-menerapkan-pengel/metadata.yml
+  source: regulasi/pusat/perpres/2007/perpres-2007-119-persyaratan-administratif-dalam-rangka-pengusulan-dan-penetapan-satuan-kerja-instansi-pemerintah-untuk-menerapkan-pengel/source.yml
   subjek: []
   sektor: []
 - id: perpres-2007-124
@@ -67539,6 +67689,24 @@
   path: regulasi/pusat/perpres/2008/perpres-2008-013-hak-keuangan-dan-fasilitas-lainnya-bagi-kepala-badan-pelaksana-wakil-kepala-badan-pelaksana-sekretaris-badan-pelaksana-d
   metadata: regulasi/pusat/perpres/2008/perpres-2008-013-hak-keuangan-dan-fasilitas-lainnya-bagi-kepala-badan-pelaksana-wakil-kepala-badan-pelaksana-sekretaris-badan-pelaksana-d/metadata.yml
   source: regulasi/pusat/perpres/2008/perpres-2008-013-hak-keuangan-dan-fasilitas-lainnya-bagi-kepala-badan-pelaksana-wakil-kepala-badan-pelaksana-sekretaris-badan-pelaksana-d/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2008-014
+  jenis: perpres
+  nomor: '14'
+  tahun: 2008
+  judul: perpres
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2008/perpres-2008-014-perpres
+  metadata: regulasi/pusat/perpres/2008/perpres-2008-014-perpres/metadata.yml
+  source: regulasi/pusat/perpres/2008/perpres-2008-014-perpres/source.yml
   subjek: []
   sektor: []
 - id: perpres-2008-015
@@ -71797,6 +71965,25 @@
   source: regulasi/pusat/perpres/2011/perpres-2011-007-rencana-kebutuhan-pinjaman-luar-negeri-tahun-2010-2014-ep/source.yml
   subjek: []
   sektor: []
+- id: perpres-2011-008
+  jenis: perpres
+  nomor: '8'
+  tahun: 2011
+  judul: Tarif Tenaga Listrik Yang Disediakan Oleh Perusahaan Perseroan (Persero)
+    Pt Perusahaan Listrik Negara
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2011/perpres-2011-008-tarif-tenaga-listrik-yang-disediakan-oleh-perusahaan-perseroan-persero-pt-perusahaan-listrik-negara
+  metadata: regulasi/pusat/perpres/2011/perpres-2011-008-tarif-tenaga-listrik-yang-disediakan-oleh-perusahaan-perseroan-persero-pt-perusahaan-listrik-negara/metadata.yml
+  source: regulasi/pusat/perpres/2011/perpres-2011-008-tarif-tenaga-listrik-yang-disediakan-oleh-perusahaan-perseroan-persero-pt-perusahaan-listrik-negara/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2011-009
   jenis: perpres
   nomor: '9'
@@ -72169,6 +72356,24 @@
   source: regulasi/pusat/perpres/2011/perpres-2011-031-um-pengesahan-framework-agreement-on-trade-preferential-system-among-the-member-states-of-the-organization-of-the-islami/source.yml
   subjek: []
   sektor: []
+- id: perpres-2011-032
+  jenis: perpres
+  nomor: '32'
+  tahun: 2011
+  judul: Masterplan Percepatan Dan Perluasan Pembangunan Ekonomi Indonesia 2011-2025
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2011/perpres-2011-032-masterplan-percepatan-dan-perluasan-pembangunan-ekonomi-indonesia-2011-2025
+  metadata: regulasi/pusat/perpres/2011/perpres-2011-032-masterplan-percepatan-dan-perluasan-pembangunan-ekonomi-indonesia-2011-2025/metadata.yml
+  source: regulasi/pusat/perpres/2011/perpres-2011-032-masterplan-percepatan-dan-perluasan-pembangunan-ekonomi-indonesia-2011-2025/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2011-033
   jenis: perpres
   nomor: '33'
@@ -72245,6 +72450,29 @@
   source: regulasi/pusat/perpres/2011/perpres-2011-036-ep-perubahan-atas-tarif-pajak-bahan-bakar-kendaraan-bermotor/source.yml
   subjek: []
   sektor: []
+- id: perpres-2011-037
+  jenis: perpres
+  nomor: '37'
+  tahun: 2011
+  judul: Pengesahan Second Protocol To Amend The Agreement On Trade In Goods Of The
+    Framework Agreement On Comprehensive Economic Co-Operation Between The Association
+    Of Southeast Asian Nations And The People’S Republic Of China (Protokol Kedua
+    Untuk Mengubah Persetujuan Perdagangan Barang Dalam Persetujuan Kerangka Kerja
+    Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa Asia Tenggara
+    Dan Republik Rakyat China)
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2011/perpres-2011-037-pengesahan-second-protocol-to-amend-the-agreement-on-trade-in-goods-of-the-framework-agreement-on-comprehensive-economic
+  metadata: regulasi/pusat/perpres/2011/perpres-2011-037-pengesahan-second-protocol-to-amend-the-agreement-on-trade-in-goods-of-the-framework-agreement-on-comprehensive-economic/metadata.yml
+  source: regulasi/pusat/perpres/2011/perpres-2011-037-pengesahan-second-protocol-to-amend-the-agreement-on-trade-in-goods-of-the-framework-agreement-on-comprehensive-economic/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2011-038
   jenis: perpres
   nomor: '38'
@@ -72281,6 +72509,25 @@
   path: regulasi/pusat/perpres/2011/perpres-2011-039-penghasilan-bagi-ketua-dan-anggota-dewan-pengawas-radio-republik-indonesia
   metadata: regulasi/pusat/perpres/2011/perpres-2011-039-penghasilan-bagi-ketua-dan-anggota-dewan-pengawas-radio-republik-indonesia/metadata.yml
   source: regulasi/pusat/perpres/2011/perpres-2011-039-penghasilan-bagi-ketua-dan-anggota-dewan-pengawas-radio-republik-indonesia/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2011-040
+  jenis: perpres
+  nomor: '40'
+  tahun: 2011
+  judul: Tunjangan Kinerja Bagi Pegawai Di Lingkungan Kementerian Hukum Dan Hak Asasi
+    Manusia
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2011/perpres-2011-040-tunjangan-kinerja-bagi-pegawai-di-lingkungan-kementerian-hukum-dan-hak-asasi-manusia
+  metadata: regulasi/pusat/perpres/2011/perpres-2011-040-tunjangan-kinerja-bagi-pegawai-di-lingkungan-kementerian-hukum-dan-hak-asasi-manusia/metadata.yml
+  source: regulasi/pusat/perpres/2011/perpres-2011-040-tunjangan-kinerja-bagi-pegawai-di-lingkungan-kementerian-hukum-dan-hak-asasi-manusia/source.yml
   subjek: []
   sektor: []
 - id: perpres-2011-041
@@ -72746,6 +72993,24 @@
   source: regulasi/pusat/perpres/2011/perpres-2011-064-pemeriksaan-kesehatan-dan-psikologi-calon-tenaga-kerja-indonesia/source.yml
   subjek: []
   sektor: []
+- id: perpres-2011-065
+  jenis: perpres
+  nomor: '65'
+  tahun: 2011
+  judul: Percepatan Pembangunan Provinsi Papua Dan Provinsi Papua Barat
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2011/perpres-2011-065-percepatan-pembangunan-provinsi-papua-dan-provinsi-papua-barat
+  metadata: regulasi/pusat/perpres/2011/perpres-2011-065-percepatan-pembangunan-provinsi-papua-dan-provinsi-papua-barat/metadata.yml
+  source: regulasi/pusat/perpres/2011/perpres-2011-065-percepatan-pembangunan-provinsi-papua-dan-provinsi-papua-barat/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2011-066
   jenis: perpres
   nomor: '66'
@@ -73034,6 +73299,26 @@
   source: regulasi/pusat/perpres/2011/perpres-2011-080-dana-perwalian/source.yml
   subjek: []
   sektor: []
+- id: perpres-2011-081
+  jenis: perpres
+  nomor: '81'
+  tahun: 2011
+  judul: Pengesahan Third Protocol Amending The Treaty Of Amity And Cooperation In
+    Southeast Asia (Protokol Ketiga Perubahan Traktat Persahabatan Dan Kerja Sama
+    Di Asia Tenggara)
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2011/perpres-2011-081-pengesahan-third-protocol-amending-the-treaty-of-amity-and-cooperation-in-southeast-asia-protokol-ketiga-perubahan-trakt
+  metadata: regulasi/pusat/perpres/2011/perpres-2011-081-pengesahan-third-protocol-amending-the-treaty-of-amity-and-cooperation-in-southeast-asia-protokol-ketiga-perubahan-trakt/metadata.yml
+  source: regulasi/pusat/perpres/2011/perpres-2011-081-pengesahan-third-protocol-amending-the-treaty-of-amity-and-cooperation-in-southeast-asia-protokol-ketiga-perubahan-trakt/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2011-082
   jenis: perpres
   nomor: '82'
@@ -73091,6 +73376,24 @@
   path: regulasi/pusat/perpres/2011/perpres-2011-084-perubahan-atas-peraturan-presiden-nomor-66-tahun-2011-tentang-unit-percepatan-pembangunan-provinsi-papua-dan-provinsi-pa
   metadata: regulasi/pusat/perpres/2011/perpres-2011-084-perubahan-atas-peraturan-presiden-nomor-66-tahun-2011-tentang-unit-percepatan-pembangunan-provinsi-papua-dan-provinsi-pa/metadata.yml
   source: regulasi/pusat/perpres/2011/perpres-2011-084-perubahan-atas-peraturan-presiden-nomor-66-tahun-2011-tentang-unit-percepatan-pembangunan-provinsi-papua-dan-provinsi-pa/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2011-085
+  jenis: perpres
+  nomor: '85'
+  tahun: 2011
+  judul: Tim Koordinasi Misi Pemeliharaan Perdamaian
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2011/perpres-2011-085-tim-koordinasi-misi-pemeliharaan-perdamaian
+  metadata: regulasi/pusat/perpres/2011/perpres-2011-085-tim-koordinasi-misi-pemeliharaan-perdamaian/metadata.yml
+  source: regulasi/pusat/perpres/2011/perpres-2011-085-tim-koordinasi-misi-pemeliharaan-perdamaian/source.yml
   subjek: []
   sektor: []
 - id: perpres-2011-086
@@ -80209,6 +80512,25 @@
   source: regulasi/pusat/perpres/2014/perpres-2014-127-pendirian-institut-seni-budaya-indonesia-tanah-papua/source.yml
   subjek: []
   sektor: []
+- id: perpres-2014-128
+  jenis: perpres
+  nomor: '128'
+  tahun: 2014
+  judul: Kontingen Garuda Satuan Tugas Kompi Zeni Tentara Nasional Indonesia Pada
+    Misi Pemeliharaan Perdamaian Perserikatan Bangsa-Bangsa Di Republik Afrika Tengah
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2014/perpres-2014-128-kontingen-garuda-satuan-tugas-kompi-zeni-tentara-nasional-indonesia-pada-misi-pemeliharaan-perdamaian-perserikatan-bangs
+  metadata: regulasi/pusat/perpres/2014/perpres-2014-128-kontingen-garuda-satuan-tugas-kompi-zeni-tentara-nasional-indonesia-pada-misi-pemeliharaan-perdamaian-perserikatan-bangs/metadata.yml
+  source: regulasi/pusat/perpres/2014/perpres-2014-128-kontingen-garuda-satuan-tugas-kompi-zeni-tentara-nasional-indonesia-pada-misi-pemeliharaan-perdamaian-perserikatan-bangs/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2014-129
   jenis: perpres
   nomor: '129'
@@ -80977,6 +81299,24 @@
   source: regulasi/pusat/perpres/2014/perpres-2014-169-tunjangan-jaba-f-n-fungsional-penyuluh-perikanan/source.yml
   subjek: []
   sektor: []
+- id: perpres-2014-170
+  jenis: perpres
+  nomor: '170'
+  tahun: 2014
+  judul: Tunjangan Jabatan Fungsional Pengendali Ekosistem Hutan
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2014/perpres-2014-170-tunjangan-jabatan-fungsional-pengendali-ekosistem-hutan
+  metadata: regulasi/pusat/perpres/2014/perpres-2014-170-tunjangan-jabatan-fungsional-pengendali-ekosistem-hutan/metadata.yml
+  source: regulasi/pusat/perpres/2014/perpres-2014-170-tunjangan-jabatan-fungsional-pengendali-ekosistem-hutan/source.yml
+  subjek: []
+  sektor: []
 - id: perpres-2014-171
   jenis: perpres
   nomor: '171'
@@ -81033,6 +81373,28 @@
   path: regulasi/pusat/perpres/2014/perpres-2014-173-pengesahan-memorandum-saling-pengertian-antara-pemertntah-republik-indonesia-dan-pemerintah-republik-rakyat-tiongkok-ten
   metadata: regulasi/pusat/perpres/2014/perpres-2014-173-pengesahan-memorandum-saling-pengertian-antara-pemertntah-republik-indonesia-dan-pemerintah-republik-rakyat-tiongkok-ten/metadata.yml
   source: regulasi/pusat/perpres/2014/perpres-2014-173-pengesahan-memorandum-saling-pengertian-antara-pemertntah-republik-indonesia-dan-pemerintah-republik-rakyat-tiongkok-ten/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2014-174
+  jenis: perpres
+  nomor: '174'
+  tahun: 2014
+  judul: Pengesahan Persetujuan Antarapemerintah Republik Indonesia Dan Organisasi
+    Kerja Sama Ekonomi Dan Pembangunan(Oecd) Tentang Pendirian Kantor Perwakilanoecd
+    Di Indonesia (Agreement Between The Government Of The Republic Of Indonesia And
+    The Organisation For The Economic Co-Operation And Development (Oecd) On The Establishment
+    Of The Oecd Country Office In Indonesia)
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2014/perpres-2014-174-pengesahan-persetujuan-antarapemerintah-republik-indonesia-dan-organisasi-kerja-sama-ekonomi-dan-pembangunan-oecd-tentan
+  metadata: regulasi/pusat/perpres/2014/perpres-2014-174-pengesahan-persetujuan-antarapemerintah-republik-indonesia-dan-organisasi-kerja-sama-ekonomi-dan-pembangunan-oecd-tentan/metadata.yml
+  source: regulasi/pusat/perpres/2014/perpres-2014-174-pengesahan-persetujuan-antarapemerintah-republik-indonesia-dan-organisasi-kerja-sama-ekonomi-dan-pembangunan-oecd-tentan/source.yml
   subjek: []
   sektor: []
 - id: perpres-2014-175
@@ -81270,6 +81632,28 @@
   path: regulasi/pusat/perpres/2014/perpres-2014-186-perpres-nomor
   metadata: regulasi/pusat/perpres/2014/perpres-2014-186-perpres-nomor/metadata.yml
   source: regulasi/pusat/perpres/2014/perpres-2014-186-perpres-nomor/source.yml
+  subjek: []
+  sektor: []
+- id: perpres-2014-187
+  jenis: perpres
+  nomor: '187'
+  tahun: 2014
+  judul: Pengesahan Agreement On Cultural Cooperation Between The Governments Of The
+    Member States Of The Association Of Southeast Asian Nations And The Government
+    Of The Russian Federation (Persetujuan Kerja Sama Di Bidang Kebudayaan Antara
+    Pemerintah Negara Anggota Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Pemerintah
+    Federasi Rusia)
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/perpres/2014/perpres-2014-187-pengesahan-agreement-on-cultural-cooperation-between-the-governments-of-the-member-states-of-the-association-of-southeas
+  metadata: regulasi/pusat/perpres/2014/perpres-2014-187-pengesahan-agreement-on-cultural-cooperation-between-the-governments-of-the-member-states-of-the-association-of-southeas/metadata.yml
+  source: regulasi/pusat/perpres/2014/perpres-2014-187-pengesahan-agreement-on-cultural-cooperation-between-the-governments-of-the-member-states-of-the-association-of-southeas/source.yml
   subjek: []
   sektor: []
 - id: perpres-2014-188
@@ -162891,6 +163275,24 @@
   source: regulasi/pusat/pp/2009/pp-2009-039-jenis-dan-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-kementerian-negara-pemuda-dan-olahraga/source.yml
   subjek: []
   sektor: []
+- id: pp-2009-040
+  jenis: pp
+  nomor: '40'
+  tahun: 2009
+  judul: Kepemudaan
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2009/pp-2009-040-kepemudaan
+  metadata: regulasi/pusat/pp/2009/pp-2009-040-kepemudaan/metadata.yml
+  source: regulasi/pusat/pp/2009/pp-2009-040-kepemudaan/source.yml
+  subjek: []
+  sektor: []
 - id: pp-2009-041
   jenis: pp
   nomor: '41'
@@ -167853,6 +168255,24 @@
   path: regulasi/pusat/pp/2012/pp-2012-057-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2012-kepada-pegawai-negeri-pejabat-negara-dan-p
   metadata: regulasi/pusat/pp/2012/pp-2012-057-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2012-kepada-pegawai-negeri-pejabat-negara-dan-p/metadata.yml
   source: regulasi/pusat/pp/2012/pp-2012-057-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2012-kepada-pegawai-negeri-pejabat-negara-dan-p/source.yml
+  subjek: []
+  sektor: []
+- id: pp-2012-058
+  jenis: pp
+  nomor: '58'
+  tahun: 2012
+  judul: Pendirian Perusahaan Penerbit Surat Berharga Syariah Negara Indonesia Iv
+  status: perlu_verifikasi
+  tingkat: pusat
+  lembaga:
+  - Presiden Republik Indonesia
+  wilayah:
+    level: ''
+    kode: ''
+    nama: ''
+  path: regulasi/pusat/pp/2012/pp-2012-058-pendirian-perusahaan-penerbit-surat-berharga-syariah-negara-indonesia-iv
+  metadata: regulasi/pusat/pp/2012/pp-2012-058-pendirian-perusahaan-penerbit-surat-berharga-syariah-negara-indonesia-iv/metadata.yml
+  source: regulasi/pusat/pp/2012/pp-2012-058-pendirian-perusahaan-penerbit-surat-berharga-syariah-negara-indonesia-iv/source.yml
   subjek: []
   sektor: []
 - id: pp-2012-059

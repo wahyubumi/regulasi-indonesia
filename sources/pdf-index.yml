@@ -38949,6 +38949,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2007-049
+  jenis: perpres
+  tahun: 2007
+  nomor: '49'
+  judul: Tunjangan Jabatan Fungsional Polisi Kehutanan
+  markdown_path: regulasi/pusat/perpres/2007/perpres-2007-049-tunjangan-jabatan-fungsional-polisi-kehutanan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2007-050
   jenis: perpres
   tahun: 2007
@@ -39237,6 +39247,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2007-078
+  jenis: perpres
+  tahun: 2007
+  nomor: '78'
+  judul: Pengesahan Convention For The Safeguarding Of The Intangible Cultural Heritage
+    (Konvensi Untuk Perlindungan Warisan Budaya Takbenda)
+  markdown_path: regulasi/pusat/perpres/2007/perpres-2007-078-pengesahan-convention-for-the-safeguarding-of-the-intangible-cultural-heritage-konvensi-untuk-perlindungan-warisan-buday/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2007-079
   jenis: perpres
   tahun: 2007
@@ -39366,6 +39387,18 @@
   nomor: '90'
   judul: Badan Koordinasi Penanaman Modal
   markdown_path: regulasi/pusat/perpres/2007/perpres-2007-090-badan-koordinasi-penanaman-modal/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2007-091
+  jenis: perpres
+  tahun: 2007
+  nomor: '91'
+  judul: Perubahan Atas Peraturan Presiden Nomor 86 Tahun 2006 Tentang Pemberian Jaminan
+    Pemerintah Untuk Percepatan Pembangunan Pembangkit Tenaga Listrik Yang Menggunakan
+    Batubara
+  markdown_path: regulasi/pusat/perpres/2007/perpres-2007-091-perubahan-atas-peraturan-presiden-nomor-86-tahun-2006-tentang-pemberian-jaminan-pemerintah-untuk-percepatan-pembangunan/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -39536,6 +39569,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2007-107
+  jenis: perpres
+  tahun: 2007
+  nomor: '107'
+  judul: Honorarium Bagi Anggota Dewan Pengarah Lembaga Ketahanan Nasional Republik
+    Indonesia
+  markdown_path: regulasi/pusat/perpres/2007/perpres-2007-107-honorarium-bagi-anggota-dewan-pengarah-lembaga-ketahanan-nasional-republik-indonesia/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2007-108
   jenis: perpres
   tahun: 2007
@@ -39585,6 +39629,48 @@
   nomor: '112'
   judul: Penataan Dan Pembinaan Pasar Tradisional Pusat Perbelanjaan Dan Toko Modern
   markdown_path: regulasi/pusat/perpres/2007/perpres-2007-112-penataan-dan-pembinaan-pasar-tradisional-pusat-perbelanjaan-dan-toko-modern/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2007-114
+  jenis: perpres
+  tahun: 2007
+  nomor: '114'
+  judul: Nilai Tukar Mata Uang Yang Digunakan Ntuk Penghitungan Dan Pembayaran Bea
+    Masuk
+  markdown_path: regulasi/pusat/perpres/2007/perpres-2007-114-nilai-tukar-mata-uang-yang-digunakan-ntuk-penghitungan-dan-pembayaran-bea-masuk/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2007-116
+  jenis: perpres
+  tahun: 2007
+  nomor: '116'
+  judul: Penyelenggaraan Pendidikan Inklusi
+  markdown_path: regulasi/pusat/perpres/2007/perpres-2007-116-penyelenggaraan-pendidikan-inklusi/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2007-117
+  jenis: perpres
+  tahun: 2007
+  nomor: '117'
+  judul: perpres
+  markdown_path: regulasi/pusat/perpres/2007/perpres-2007-117-perpres/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2007-119
+  jenis: perpres
+  tahun: 2007
+  nomor: '119'
+  judul: Persyaratan Administratif Dalam Rangka Pengusulan Dan Penetapan Satuan Kerja
+    Instansi Pemerintah Untuk Menerapkan Pengelolaan Keuangan Badan Layanan Umum
+  markdown_path: regulasi/pusat/perpres/2007/perpres-2007-119-persyaratan-administratif-dalam-rangka-pengusulan-dan-penetapan-satuan-kerja-instansi-pemerintah-untuk-menerapkan-pengel/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -39737,6 +39823,16 @@
     Badan Pelaksana, Sekretaris Badan Pelaksana Dan Deputi Badan Pelaksana Pada Badan
     Penanggulangan Lumpur Sidoarjo
   markdown_path: regulasi/pusat/perpres/2008/perpres-2008-013-hak-keuangan-dan-fasilitas-lainnya-bagi-kepala-badan-pelaksana-wakil-kepala-badan-pelaksana-sekretaris-badan-pelaksana-d/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2008-014
+  jenis: perpres
+  tahun: 2008
+  nomor: '14'
+  judul: perpres
+  markdown_path: regulasi/pusat/perpres/2008/perpres-2008-014-perpres/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -42237,6 +42333,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2011-008
+  jenis: perpres
+  tahun: 2011
+  nomor: '8'
+  judul: Tarif Tenaga Listrik Yang Disediakan Oleh Perusahaan Perseroan (Persero)
+    Pt Perusahaan Listrik Negara
+  markdown_path: regulasi/pusat/perpres/2011/perpres-2011-008-tarif-tenaga-listrik-yang-disediakan-oleh-perusahaan-perseroan-persero-pt-perusahaan-listrik-negara/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2011-009
   jenis: perpres
   tahun: 2011
@@ -42457,6 +42564,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2011-032
+  jenis: perpres
+  tahun: 2011
+  nomor: '32'
+  judul: Masterplan Percepatan Dan Perluasan Pembangunan Ekonomi Indonesia 2011-2025
+  markdown_path: regulasi/pusat/perpres/2011/perpres-2011-032-masterplan-percepatan-dan-perluasan-pembangunan-ekonomi-indonesia-2011-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2011-033
   jenis: perpres
   tahun: 2011
@@ -42501,6 +42618,21 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2011-037
+  jenis: perpres
+  tahun: 2011
+  nomor: '37'
+  judul: Pengesahan Second Protocol To Amend The Agreement On Trade In Goods Of The
+    Framework Agreement On Comprehensive Economic Co-Operation Between The Association
+    Of Southeast Asian Nations And The People’S Republic Of China (Protokol Kedua
+    Untuk Mengubah Persetujuan Perdagangan Barang Dalam Persetujuan Kerangka Kerja
+    Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa Asia Tenggara
+    Dan Republik Rakyat China)
+  markdown_path: regulasi/pusat/perpres/2011/perpres-2011-037-pengesahan-second-protocol-to-amend-the-agreement-on-trade-in-goods-of-the-framework-agreement-on-comprehensive-economic/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2011-038
   jenis: perpres
   tahun: 2011
@@ -42519,6 +42651,17 @@
   nomor: '39'
   judul: Penghasilan Bagi Ketua Dan Anggota Dewan Pengawas Radio Republik Indonesia
   markdown_path: regulasi/pusat/perpres/2011/perpres-2011-039-penghasilan-bagi-ketua-dan-anggota-dewan-pengawas-radio-republik-indonesia/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2011-040
+  jenis: perpres
+  tahun: 2011
+  nomor: '40'
+  judul: Tunjangan Kinerja Bagi Pegawai Di Lingkungan Kementerian Hukum Dan Hak Asasi
+    Manusia
+  markdown_path: regulasi/pusat/perpres/2011/perpres-2011-040-tunjangan-kinerja-bagi-pegawai-di-lingkungan-kementerian-hukum-dan-hak-asasi-manusia/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -42794,6 +42937,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2011-065
+  jenis: perpres
+  tahun: 2011
+  nomor: '65'
+  judul: Percepatan Pembangunan Provinsi Papua Dan Provinsi Papua Barat
+  markdown_path: regulasi/pusat/perpres/2011/perpres-2011-065-percepatan-pembangunan-provinsi-papua-dan-provinsi-papua-barat/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2011-066
   jenis: perpres
   tahun: 2011
@@ -42962,6 +43115,18 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2011-081
+  jenis: perpres
+  tahun: 2011
+  nomor: '81'
+  judul: Pengesahan Third Protocol Amending The Treaty Of Amity And Cooperation In
+    Southeast Asia (Protokol Ketiga Perubahan Traktat Persahabatan Dan Kerja Sama
+    Di Asia Tenggara)
+  markdown_path: regulasi/pusat/perpres/2011/perpres-2011-081-pengesahan-third-protocol-amending-the-treaty-of-amity-and-cooperation-in-southeast-asia-protokol-ketiga-perubahan-trakt/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2011-082
   jenis: perpres
   tahun: 2011
@@ -42993,6 +43158,16 @@
   judul: Perubahan Atas Peraturan Presiden Nomor 66 Tahun 2011 Tentang Unit Percepatan
     Pembangunan Provinsi Papua Dan Provinsi Papua Barat
   markdown_path: regulasi/pusat/perpres/2011/perpres-2011-084-perubahan-atas-peraturan-presiden-nomor-66-tahun-2011-tentang-unit-percepatan-pembangunan-provinsi-papua-dan-provinsi-pa/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2011-085
+  jenis: perpres
+  tahun: 2011
+  nomor: '85'
+  judul: Tim Koordinasi Misi Pemeliharaan Perdamaian
+  markdown_path: regulasi/pusat/perpres/2011/perpres-2011-085-tim-koordinasi-misi-pemeliharaan-perdamaian/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -47145,6 +47320,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2014-128
+  jenis: perpres
+  tahun: 2014
+  nomor: '128'
+  judul: Kontingen Garuda Satuan Tugas Kompi Zeni Tentara Nasional Indonesia Pada
+    Misi Pemeliharaan Perdamaian Perserikatan Bangsa-Bangsa Di Republik Afrika Tengah
+  markdown_path: regulasi/pusat/perpres/2014/perpres-2014-128-kontingen-garuda-satuan-tugas-kompi-zeni-tentara-nasional-indonesia-pada-misi-pemeliharaan-perdamaian-perserikatan-bangs/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2014-129
   jenis: perpres
   tahun: 2014
@@ -47585,6 +47771,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2014-170
+  jenis: perpres
+  tahun: 2014
+  nomor: '170'
+  judul: Tunjangan Jabatan Fungsional Pengendali Ekosistem Hutan
+  markdown_path: regulasi/pusat/perpres/2014/perpres-2014-170-tunjangan-jabatan-fungsional-pengendali-ekosistem-hutan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2014-171
   jenis: perpres
   tahun: 2014
@@ -47615,6 +47811,20 @@
     And The Government Of The , People'S Republic Of China On Scientific -And Technological
     Cooperation)
   markdown_path: regulasi/pusat/perpres/2014/perpres-2014-173-pengesahan-memorandum-saling-pengertian-antara-pemertntah-republik-indonesia-dan-pemerintah-republik-rakyat-tiongkok-ten/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2014-174
+  jenis: perpres
+  tahun: 2014
+  nomor: '174'
+  judul: Pengesahan Persetujuan Antarapemerintah Republik Indonesia Dan Organisasi
+    Kerja Sama Ekonomi Dan Pembangunan(Oecd) Tentang Pendirian Kantor Perwakilanoecd
+    Di Indonesia (Agreement Between The Government Of The Republic Of Indonesia And
+    The Organisation For The Economic Co-Operation And Development (Oecd) On The Establishment
+    Of The Oecd Country Office In Indonesia)
+  markdown_path: regulasi/pusat/perpres/2014/perpres-2014-174-pengesahan-persetujuan-antarapemerintah-republik-indonesia-dan-organisasi-kerja-sama-ekonomi-dan-pembangunan-oecd-tentan/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -47756,6 +47966,20 @@
   nomor: '186'
   judul: Perpres+Nomor+++
   markdown_path: regulasi/pusat/perpres/2014/perpres-2014-186-perpres-nomor/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2014-187
+  jenis: perpres
+  tahun: 2014
+  nomor: '187'
+  judul: Pengesahan Agreement On Cultural Cooperation Between The Governments Of The
+    Member States Of The Association Of Southeast Asian Nations And The Government
+    Of The Russian Federation (Persetujuan Kerja Sama Di Bidang Kebudayaan Antara
+    Pemerintah Negara Anggota Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Pemerintah
+    Federasi Rusia)
+  markdown_path: regulasi/pusat/perpres/2014/perpres-2014-187-pengesahan-agreement-on-cultural-cooperation-between-the-governments-of-the-member-states-of-the-association-of-southeas/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -94587,6 +94811,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2009-040
+  jenis: pp
+  tahun: 2009
+  nomor: '40'
+  judul: Kepemudaan
+  markdown_path: regulasi/pusat/pp/2009/pp-2009-040-kepemudaan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2009-041
   jenis: pp
   tahun: 2009
@@ -97443,6 +97677,16 @@
   judul: Pemberian Gaji/Pensiun/Tunjangan Bulan Ketiga Belas Dalam Tahun Anggaran
     2012 Kepada Pegawai Negeri, Pejabat Negara, Dan Penerima Pensiun/Tunjangan
   markdown_path: regulasi/pusat/pp/2012/pp-2012-057-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2012-kepada-pegawai-negeri-pejabat-negara-dan-p/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2012-058
+  jenis: pp
+  tahun: 2012
+  nomor: '58'
+  judul: Pendirian Perusahaan Penerbit Surat Berharga Syariah Negara Indonesia Iv
+  markdown_path: regulasi/pusat/pp/2012/pp-2012-058-pendirian-perusahaan-penerbit-surat-berharga-syariah-negara-indonesia-iv/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null

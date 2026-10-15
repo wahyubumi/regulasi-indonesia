@@ -44,7 +44,7 @@
     judul: Peternakan dan Kesehatan Hewan
     path: regulasi/pusat/uu/2009/uu-2009-018-peternakan-dan-kesehatan-hewan
 - id: belum_diisi
-  jumlah: 12095
+  jumlah: 12117
   regulasi:
   - id: uu-1911-085
     jenis: uu
@@ -29047,6 +29047,13 @@
     tahun: 2007
     judul: Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
     path: regulasi/pusat/perpres/2007/perpres-2007-106-lembaga-kebijakan-pengadaan-barang-jasa-pemerintah
+  - id: perpres-2007-107
+    jenis: perpres
+    nomor: '107'
+    tahun: 2007
+    judul: Honorarium Bagi Anggota Dewan Pengarah Lembaga Ketahanan Nasional Republik
+      Indonesia
+    path: regulasi/pusat/perpres/2007/perpres-2007-107-honorarium-bagi-anggota-dewan-pengarah-lembaga-ketahanan-nasional-republik-indonesia
   - id: perpres-2007-108
     jenis: perpres
     nomor: '108'
@@ -29090,6 +29097,33 @@
     tahun: 2007
     judul: Penataan Dan Pembinaan Pasar Tradisional Pusat Perbelanjaan Dan Toko Modern
     path: regulasi/pusat/perpres/2007/perpres-2007-112-penataan-dan-pembinaan-pasar-tradisional-pusat-perbelanjaan-dan-toko-modern
+  - id: perpres-2007-114
+    jenis: perpres
+    nomor: '114'
+    tahun: 2007
+    judul: Nilai Tukar Mata Uang Yang Digunakan Ntuk Penghitungan Dan Pembayaran Bea
+      Masuk
+    path: regulasi/pusat/perpres/2007/perpres-2007-114-nilai-tukar-mata-uang-yang-digunakan-ntuk-penghitungan-dan-pembayaran-bea-masuk
+  - id: perpres-2007-116
+    jenis: perpres
+    nomor: '116'
+    tahun: 2007
+    judul: Penyelenggaraan Pendidikan Inklusi
+    path: regulasi/pusat/perpres/2007/perpres-2007-116-penyelenggaraan-pendidikan-inklusi
+  - id: perpres-2007-117
+    jenis: perpres
+    nomor: '117'
+    tahun: 2007
+    judul: perpres
+    path: regulasi/pusat/perpres/2007/perpres-2007-117-perpres
+  - id: perpres-2007-119
+    jenis: perpres
+    nomor: '119'
+    tahun: 2007
+    judul: Persyaratan Administratif Dalam Rangka Pengusulan Dan Penetapan Satuan
+      Kerja Instansi Pemerintah Untuk Menerapkan Pengelolaan Keuangan Badan Layanan
+      Umum
+    path: regulasi/pusat/perpres/2007/perpres-2007-119-persyaratan-administratif-dalam-rangka-pengusulan-dan-penetapan-satuan-kerja-instansi-pemerintah-untuk-menerapkan-pengel
   - id: perpres-2007-012
     jenis: perpres
     nomor: '12'
@@ -29360,6 +29394,12 @@
     tahun: 2007
     judul: Tunjangan Jabatan Fungsional Agen
     path: regulasi/pusat/perpres/2007/perpres-2007-048-tunjangan-jabatan-fungsional-agen
+  - id: perpres-2007-049
+    jenis: perpres
+    nomor: '49'
+    tahun: 2007
+    judul: Tunjangan Jabatan Fungsional Polisi Kehutanan
+    path: regulasi/pusat/perpres/2007/perpres-2007-049-tunjangan-jabatan-fungsional-polisi-kehutanan
   - id: perpres-2007-005
     jenis: perpres
     nomor: '5'
@@ -29557,6 +29597,13 @@
     judul: Daftar Bidang Usaha Yang Tertutup Dan Bidang Usaha Yang Terbuka Dengan
       Persyaratan Di Bidang Penanaman Modal
     path: regulasi/pusat/perpres/2007/perpres-2007-077-daftar-bidang-usaha-yang-tertutup-dan-bidang-usaha-yang-terbuka-dengan-persyaratan-di-bidang-penanaman-modal
+  - id: perpres-2007-078
+    jenis: perpres
+    nomor: '78'
+    tahun: 2007
+    judul: Pengesahan Convention For The Safeguarding Of The Intangible Cultural Heritage
+      (Konvensi Untuk Perlindungan Warisan Budaya Takbenda)
+    path: regulasi/pusat/perpres/2007/perpres-2007-078-pengesahan-convention-for-the-safeguarding-of-the-intangible-cultural-heritage-konvensi-untuk-perlindungan-warisan-buday
   - id: perpres-2007-079
     jenis: perpres
     nomor: '79'
@@ -29661,6 +29708,14 @@
     tahun: 2007
     judul: Badan Koordinasi Penanaman Modal
     path: regulasi/pusat/perpres/2007/perpres-2007-090-badan-koordinasi-penanaman-modal
+  - id: perpres-2007-091
+    jenis: perpres
+    nomor: '91'
+    tahun: 2007
+    judul: Perubahan Atas Peraturan Presiden Nomor 86 Tahun 2006 Tentang Pemberian
+      Jaminan Pemerintah Untuk Percepatan Pembangunan Pembangkit Tenaga Listrik Yang
+      Menggunakan Batubara
+    path: regulasi/pusat/perpres/2007/perpres-2007-091-perubahan-atas-peraturan-presiden-nomor-86-tahun-2006-tentang-pemberian-jaminan-pemerintah-untuk-percepatan-pembangunan
   - id: perpres-2007-092
     jenis: perpres
     nomor: '92'
@@ -30812,6 +30867,12 @@
       Badan Pelaksana, Sekretaris Badan Pelaksana Dan Deputi Badan Pelaksana Pada
       Badan Penanggulangan Lumpur Sidoarjo
     path: regulasi/pusat/perpres/2008/perpres-2008-013-hak-keuangan-dan-fasilitas-lainnya-bagi-kepala-badan-pelaksana-wakil-kepala-badan-pelaksana-sekretaris-badan-pelaksana-d
+  - id: perpres-2008-014
+    jenis: perpres
+    nomor: '14'
+    tahun: 2008
+    judul: perpres
+    path: regulasi/pusat/perpres/2008/perpres-2008-014-perpres
   - id: perpres-2008-015
     jenis: perpres
     nomor: '15'
@@ -33285,6 +33346,12 @@
     judul: Penambahan Penyertaan Modal Negara Republik Indonesia Ke Dalam Modal Perusahaan
       Umum (Perum) Jasa Tirta Ii
     path: regulasi/pusat/pp/2009/pp-2009-004-penambahan-penyertaan-modal-negara-republik-indonesia-ke-dalam-modal-perusahaan-umum-perum-jasa-tirta-ii
+  - id: pp-2009-040
+    jenis: pp
+    nomor: '40'
+    tahun: 2009
+    judul: Kepemudaan
+    path: regulasi/pusat/pp/2009/pp-2009-040-kepemudaan
   - id: pp-2009-041
     jenis: pp
     nomor: '41'
@@ -36433,6 +36500,12 @@
       KERJA MENGENAI pk SISTEM PREFERENSI PERDAGANGAN ANTAR NEGARA-NEGARA ANGGOTA
       ORGANISASI KONFERENSI ISLAM) de
     path: regulasi/pusat/perpres/2011/perpres-2011-031-um-pengesahan-framework-agreement-on-trade-preferential-system-among-the-member-states-of-the-organization-of-the-islami
+  - id: perpres-2011-032
+    jenis: perpres
+    nomor: '32'
+    tahun: 2011
+    judul: Masterplan Percepatan Dan Perluasan Pembangunan Ekonomi Indonesia 2011-2025
+    path: regulasi/pusat/perpres/2011/perpres-2011-032-masterplan-percepatan-dan-perluasan-pembangunan-ekonomi-indonesia-2011-2025
   - id: perpres-2011-033
     jenis: perpres
     nomor: '33'
@@ -36461,6 +36534,17 @@
     tahun: 2011
     judul: ep PERUBAHAN ATAS TARIF PAJAK BAHAN BAKAR KENDARAAN BERMOTOR
     path: regulasi/pusat/perpres/2011/perpres-2011-036-ep-perubahan-atas-tarif-pajak-bahan-bakar-kendaraan-bermotor
+  - id: perpres-2011-037
+    jenis: perpres
+    nomor: '37'
+    tahun: 2011
+    judul: Pengesahan Second Protocol To Amend The Agreement On Trade In Goods Of
+      The Framework Agreement On Comprehensive Economic Co-Operation Between The Association
+      Of Southeast Asian Nations And The People’S Republic Of China (Protokol Kedua
+      Untuk Mengubah Persetujuan Perdagangan Barang Dalam Persetujuan Kerangka Kerja
+      Mengenai Kerja Sama Ekonomi Menyeluruh Antara Perhimpunan Bangsa-Bangsa Asia
+      Tenggara Dan Republik Rakyat China)
+    path: regulasi/pusat/perpres/2011/perpres-2011-037-pengesahan-second-protocol-to-amend-the-agreement-on-trade-in-goods-of-the-framework-agreement-on-comprehensive-economic
   - id: perpres-2011-038
     jenis: perpres
     nomor: '38'
@@ -36484,6 +36568,13 @@
       GOVERNMENT OF THE REPUBLIC OF INDONESIA AND THE pk GOVERNMENT OF THE UNITED
       STATES OF AMERICA ON SCIENTIFIC AND TECHNOLOGICAL COOPERATION) de
     path: regulasi/pusat/perpres/2011/perpres-2011-004-pengesahan-persetujuan-antara-pemerintah-republik-indonesia-um-dan-pemerintah-amerika-serikat-tentang-kerja-sama-ilmiah
+  - id: perpres-2011-040
+    jenis: perpres
+    nomor: '40'
+    tahun: 2011
+    judul: Tunjangan Kinerja Bagi Pegawai Di Lingkungan Kementerian Hukum Dan Hak
+      Asasi Manusia
+    path: regulasi/pusat/perpres/2011/perpres-2011-040-tunjangan-kinerja-bagi-pegawai-di-lingkungan-kementerian-hukum-dan-hak-asasi-manusia
   - id: perpres-2011-041
     jenis: perpres
     nomor: '41'
@@ -36678,6 +36769,12 @@
     tahun: 2011
     judul: Pemeriksaan Kesehatan Dan Psikologi Calon Tenaga Kerja Indonesia
     path: regulasi/pusat/perpres/2011/perpres-2011-064-pemeriksaan-kesehatan-dan-psikologi-calon-tenaga-kerja-indonesia
+  - id: perpres-2011-065
+    jenis: perpres
+    nomor: '65'
+    tahun: 2011
+    judul: Percepatan Pembangunan Provinsi Papua Dan Provinsi Papua Barat
+    path: regulasi/pusat/perpres/2011/perpres-2011-065-percepatan-pembangunan-provinsi-papua-dan-provinsi-papua-barat
   - id: perpres-2011-066
     jenis: perpres
     nomor: '66'
@@ -36786,12 +36883,27 @@
     tahun: 2011
     judul: Kunjungan Kapal Wisata (Yacht) Asing Ke Indonesia
     path: regulasi/pusat/perpres/2011/perpres-2011-079-kunjungan-kapal-wisata-yacht-asing-ke-indonesia
+  - id: perpres-2011-008
+    jenis: perpres
+    nomor: '8'
+    tahun: 2011
+    judul: Tarif Tenaga Listrik Yang Disediakan Oleh Perusahaan Perseroan (Persero)
+      Pt Perusahaan Listrik Negara
+    path: regulasi/pusat/perpres/2011/perpres-2011-008-tarif-tenaga-listrik-yang-disediakan-oleh-perusahaan-perseroan-persero-pt-perusahaan-listrik-negara
   - id: perpres-2011-080
     jenis: perpres
     nomor: '80'
     tahun: 2011
     judul: Dana Perwalian
     path: regulasi/pusat/perpres/2011/perpres-2011-080-dana-perwalian
+  - id: perpres-2011-081
+    jenis: perpres
+    nomor: '81'
+    tahun: 2011
+    judul: Pengesahan Third Protocol Amending The Treaty Of Amity And Cooperation
+      In Southeast Asia (Protokol Ketiga Perubahan Traktat Persahabatan Dan Kerja
+      Sama Di Asia Tenggara)
+    path: regulasi/pusat/perpres/2011/perpres-2011-081-pengesahan-third-protocol-amending-the-treaty-of-amity-and-cooperation-in-southeast-asia-protokol-ketiga-perubahan-trakt
   - id: perpres-2011-082
     jenis: perpres
     nomor: '82'
@@ -36815,6 +36927,12 @@
     judul: Perubahan Atas Peraturan Presiden Nomor 66 Tahun 2011 Tentang Unit Percepatan
       Pembangunan Provinsi Papua Dan Provinsi Papua Barat
     path: regulasi/pusat/perpres/2011/perpres-2011-084-perubahan-atas-peraturan-presiden-nomor-66-tahun-2011-tentang-unit-percepatan-pembangunan-provinsi-papua-dan-provinsi-pa
+  - id: perpres-2011-085
+    jenis: perpres
+    nomor: '85'
+    tahun: 2011
+    judul: Tim Koordinasi Misi Pemeliharaan Perdamaian
+    path: regulasi/pusat/perpres/2011/perpres-2011-085-tim-koordinasi-misi-pemeliharaan-perdamaian
   - id: perpres-2011-086
     jenis: perpres
     nomor: '86'
@@ -39863,6 +39981,12 @@
     judul: Pemberian Gaji/Pensiun/Tunjangan Bulan Ketiga Belas Dalam Tahun Anggaran
       2012 Kepada Pegawai Negeri, Pejabat Negara, Dan Penerima Pensiun/Tunjangan
     path: regulasi/pusat/pp/2012/pp-2012-057-pemberian-gaji-pensiun-tunjangan-bulan-ketiga-belas-dalam-tahun-anggaran-2012-kepada-pegawai-negeri-pejabat-negara-dan-p
+  - id: pp-2012-058
+    jenis: pp
+    nomor: '58'
+    tahun: 2012
+    judul: Pendirian Perusahaan Penerbit Surat Berharga Syariah Negara Indonesia Iv
+    path: regulasi/pusat/pp/2012/pp-2012-058-pendirian-perusahaan-penerbit-surat-berharga-syariah-negara-indonesia-iv
   - id: pp-2012-059
     jenis: pp
     nomor: '59'
@@ -44960,6 +45084,13 @@
     tahun: 2014
     judul: Pendirian Institut Seni Budaya Indonesia Tanah Papua
     path: regulasi/pusat/perpres/2014/perpres-2014-127-pendirian-institut-seni-budaya-indonesia-tanah-papua
+  - id: perpres-2014-128
+    jenis: perpres
+    nomor: '128'
+    tahun: 2014
+    judul: Kontingen Garuda Satuan Tugas Kompi Zeni Tentara Nasional Indonesia Pada
+      Misi Pemeliharaan Perdamaian Perserikatan Bangsa-Bangsa Di Republik Afrika Tengah
+    path: regulasi/pusat/perpres/2014/perpres-2014-128-kontingen-garuda-satuan-tugas-kompi-zeni-tentara-nasional-indonesia-pada-misi-pemeliharaan-perdamaian-perserikatan-bangs
   - id: perpres-2014-129
     jenis: perpres
     nomor: '129'
@@ -45273,6 +45404,12 @@
       Daerah, Badan Pemeriksa Keuangan, Komisi Yudisial, Hakim Mahkamah Konstitusi,
       Dan Hakim Agung Mahkamah Agung
     path: regulasi/pusat/perpres/2014/perpres-2014-017-pencabutan-peraturan-presiden-nomor-106-tahun-2013-tentang-jaminan-pemeliharaan-kesehatan-ketua-wakil-ketua-dan-anggota
+  - id: perpres-2014-170
+    jenis: perpres
+    nomor: '170'
+    tahun: 2014
+    judul: Tunjangan Jabatan Fungsional Pengendali Ekosistem Hutan
+    path: regulasi/pusat/perpres/2014/perpres-2014-170-tunjangan-jabatan-fungsional-pengendali-ekosistem-hutan
   - id: perpres-2014-171
     jenis: perpres
     nomor: '171'
@@ -45295,6 +45432,16 @@
       And The Government Of The , People'S Republic Of China On Scientific -And Technological
       Cooperation)
     path: regulasi/pusat/perpres/2014/perpres-2014-173-pengesahan-memorandum-saling-pengertian-antara-pemertntah-republik-indonesia-dan-pemerintah-republik-rakyat-tiongkok-ten
+  - id: perpres-2014-174
+    jenis: perpres
+    nomor: '174'
+    tahun: 2014
+    judul: Pengesahan Persetujuan Antarapemerintah Republik Indonesia Dan Organisasi
+      Kerja Sama Ekonomi Dan Pembangunan(Oecd) Tentang Pendirian Kantor Perwakilanoecd
+      Di Indonesia (Agreement Between The Government Of The Republic Of Indonesia
+      And The Organisation For The Economic Co-Operation And Development (Oecd) On
+      The Establishment Of The Oecd Country Office In Indonesia)
+    path: regulasi/pusat/perpres/2014/perpres-2014-174-pengesahan-persetujuan-antarapemerintah-republik-indonesia-dan-organisasi-kerja-sama-ekonomi-dan-pembangunan-oecd-tentan
   - id: perpres-2014-175
     jenis: perpres
     nomor: '175'
@@ -45395,6 +45542,16 @@
     tahun: 2014
     judul: Perpres+Nomor+++
     path: regulasi/pusat/perpres/2014/perpres-2014-186-perpres-nomor
+  - id: perpres-2014-187
+    jenis: perpres
+    nomor: '187'
+    tahun: 2014
+    judul: Pengesahan Agreement On Cultural Cooperation Between The Governments Of
+      The Member States Of The Association Of Southeast Asian Nations And The Government
+      Of The Russian Federation (Persetujuan Kerja Sama Di Bidang Kebudayaan Antara
+      Pemerintah Negara Anggota Perhimpunan Bangsa-Bangsa Asia Tenggara Dan Pemerintah
+      Federasi Rusia)
+    path: regulasi/pusat/perpres/2014/perpres-2014-187-pengesahan-agreement-on-cultural-cooperation-between-the-governments-of-the-member-states-of-the-association-of-southeas
   - id: perpres-2014-188
     jenis: perpres
     nomor: '188'
