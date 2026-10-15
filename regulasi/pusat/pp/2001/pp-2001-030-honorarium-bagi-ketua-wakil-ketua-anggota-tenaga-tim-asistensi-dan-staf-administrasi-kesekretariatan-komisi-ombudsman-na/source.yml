@@ -1,0 +1,24 @@
+id: pp-2001-030
+judul: Peraturan Pemerintah Nomor 30 Tahun 2001 tentang Honorarium Bagi Ketua, Wakil
+  Ketua, Anggota, Tenaga Tim Asistensi Dan Staf Administrasi Kesekretariatan Komisi
+  Ombudsman Nasional
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: belum_diisi
+    url: belum_diisi
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

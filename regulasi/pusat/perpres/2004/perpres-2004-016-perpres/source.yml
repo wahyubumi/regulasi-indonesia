@@ -1,0 +1,22 @@
+id: perpres-2004-016
+judul: Peraturan Presiden Nomor 16 Tahun 2004 tentang perpres
+pdf:
+  stored_in_git: false
+  source_url:
+  - name: staging/incoming
+    url: http://jateng.tribunnews.com/2016/02/03/kejaksaan-tarik-surat-
+  external_storage:
+    provider: null
+    bucket: null
+    object_key: null
+    url: null
+  checksum:
+    algorithm: sha256
+    value: null
+  file_size_bytes: null
+  last_checked: null
+html_source:
+  available: null
+  url: null
+catatan:
+- Sumber awal berupa file Markdown di staging/incoming.

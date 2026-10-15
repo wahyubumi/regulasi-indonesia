@@ -1,0 +1,74 @@
+id: permen-1999-004
+jenis: permen
+jenis_lengkap: Peraturan Menteri
+nomor: '4'
+nomor_lengkap: '4'
+tahun: 1999
+judul: 'NOMOR : 44 TAHUN 2001 SERI: D NOMOR : 23 Pemerintahan Daerah (Lembaran Negara
+  Tahun 1999 Nomor 60, Tambahan Lembaran Negara Nomor PERATURAN DAERAH KABUPATEN KOLAKA
+  3839); NOMOR: 31 TAHUN 2001 3. Peraturan Menteri Dalam Nomor 4 Tahun 1999 TENTANG
+  Tentang Pencabutan beberapa Peraturan Menteri Dalam Negeri, Keputusan Menteri Dalam
+  Negeri dan PEMBERDAYAAN, PELESTARIAN DAN PENGEMBANGAN Instruksi Menteri Dalam Negeri
+  mengenai ADAT ISTIADAT DAN LEMBAGA ADAT pelaksanaan Undang-undang Nomor 5 tahun
+  1979'
+judul_lengkap: 'Peraturan Menteri Nomor 4 Tahun 1999 tentang NOMOR : 44 TAHUN 2001
+  SERI: D NOMOR : 23 Pemerintahan Daerah (Lembaran Negara Tahun 1999 Nomor 60, Tambahan
+  Lembaran Negara Nomor PERATURAN DAERAH KABUPATEN KOLAKA 3839); NOMOR: 31 TAHUN 2001
+  3. Peraturan Menteri Dalam Nomor 4 Tahun 1999 TENTANG Tentang Pencabutan beberapa
+  Peraturan Menteri Dalam Negeri, Keputusan Menteri Dalam Negeri dan PEMBERDAYAAN,
+  PELESTARIAN DAN PENGEMBANGAN Instruksi Menteri Dalam Negeri mengenai ADAT ISTIADAT
+  DAN LEMBAGA ADAT pelaksanaan Undang-undang Nomor 5 tahun 1979'
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Kementerian Dalam Negeri
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: belum_diisi
+  alternatif: []
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/pp31-2001.md.

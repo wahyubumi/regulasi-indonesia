@@ -6367,6 +6367,37 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: permen-1997-174
+  jenis: permen
+  tahun: 1997
+  nomor: '174'
+  judul: RETRIBUSI PEMAKAIAN DAN PERLENGKAPAN JALAN | DE [NGAN RAMMAT TUHAN YANG MAHA
+    ©F° BUPATL LUWU UTARA bahwai untuk menjamin kelangsungan perbaikan = dan pemeliharaan
+    jalan yang diurus oleh Pemerintah Daerah, maka diperlukan dukungan Dana yang bersumber
+    cari partisipasi pemakian jalan yang menggunakan kendaraan Bemotor. bahwa untuk
+    memungut Retribusi sebagaimana dimaksud pada huruf a perlu diatur dengan Peraturan
+    Daerah
+  markdown_path: regulasi/pusat/permen/1997/permen-1997-174-retribusi-pemakaian-dan-perlengkapan-jalan-de-ngan-rammat-tuhan-yang-maha-f-bupatl-luwu-utara-bahwai-untuk-menjamin-kela/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: permen-1999-004
+  jenis: permen
+  tahun: 1999
+  nomor: '4'
+  judul: 'NOMOR : 44 TAHUN 2001 SERI: D NOMOR : 23 Pemerintahan Daerah (Lembaran Negara
+    Tahun 1999 Nomor 60, Tambahan Lembaran Negara Nomor PERATURAN DAERAH KABUPATEN
+    KOLAKA 3839); NOMOR: 31 TAHUN 2001 3. Peraturan Menteri Dalam Nomor 4 Tahun 1999
+    TENTANG Tentang Pencabutan beberapa Peraturan Menteri Dalam Negeri, Keputusan
+    Menteri Dalam Negeri dan PEMBERDAYAAN, PELESTARIAN DAN PENGEMBANGAN Instruksi
+    Menteri Dalam Negeri mengenai ADAT ISTIADAT DAN LEMBAGA ADAT pelaksanaan Undang-undang
+    Nomor 5 tahun 1979'
+  markdown_path: regulasi/pusat/permen/1999/permen-1999-004-nomor-44-tahun-2001-seri-d-nomor-23-pemerintahan-daerah-lembaran-negara-tahun-1999-nomor-60-tambahan-lembaran-negara-nom/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: permen-2002-414
   jenis: permen
   tahun: 2002
@@ -36356,6 +36387,46 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2004-006
+  jenis: perpres
+  tahun: 2004
+  nomor: '6'
+  judul: Tunjangan Jabatan Fungsional Pranata Komputer
+  markdown_path: regulasi/pusat/perpres/2004/perpres-2004-006-tunjangan-jabatan-fungsional-pranata-komputer/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2004-007
+  jenis: perpres
+  tahun: 2004
+  nomor: '7'
+  judul: perpres
+  markdown_path: regulasi/pusat/perpres/2004/perpres-2004-007-perpres/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2004-016
+  jenis: perpres
+  tahun: 2004
+  nomor: '16'
+  judul: perpres
+  markdown_path: regulasi/pusat/perpres/2004/perpres-2004-016-perpres/dokumen.md
+  source_url: http://jateng.tribunnews.com/2016/02/03/kejaksaan-tarik-surat-
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2004-018
+  jenis: perpres
+  tahun: 2004
+  nomor: '18'
+  judul: perpres
+  markdown_path: regulasi/pusat/perpres/2004/perpres-2004-018-perpres/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2004-020
   jenis: perpres
   tahun: 2004
@@ -62646,12 +62717,97 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2025-070
+  jenis: perpres
+  tahun: 2025
+  nomor: '70'
+  judul: Perubahan Atas Peraturan Bupati Nomor 49 Tahun 2025 Tentang Penjabaran Perubahan
+    Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-070-perubahan-atas-peraturan-bupati-nomor-49-tahun-2025-tentang-penjabaran-perubahan-anggaran-pendapatan-dan-belanja-daerah/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-071
+  jenis: perpres
+  tahun: 2025
+  nomor: '71'
+  judul: Perubahan Atas Peraturan Presiden Nomor 57 Tahun 2024 Tentang Petunjuk Teknis
+    Danaalokasikhusus Fisik
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-071-perubahan-atas-peraturan-presiden-nomor-57-tahun-2024-tentang-petunjuk-teknis-danaalokasikhusus-fisik/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-072
+  jenis: perpres
+  tahun: 2025
+  nomor: '72'
+  judul: Standar Hargasatuanregional Denganrahmattuhanyangmahaesa
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-072-standar-hargasatuanregional-denganrahmattuhanyangmahaesa/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-073
+  jenis: perpres
+  tahun: 2025
+  nomor: '73'
+  judul: Perubahan Atas Peraturan Bupati Purbalingga Nomor 4 Tahun 2024 Tentang Tata
+    Cara Pemungutan Pajak Reklame Di Kabupaten Purbalingga
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-073-perubahan-atas-peraturan-bupati-purbalingga-nomor-4-tahun-2024-tentang-tata-cara-pemungutan-pajak-reklame-di-kabupaten-p/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-074
+  jenis: perpres
+  tahun: 2025
+  nomor: '74'
+  judul: Perubahan Atas Peraturan Bupati Purbalingga Nomor 5 Tahun 2024 Tentang Tata
+    Cara Pemungutan Pajak Air Tanah Di Kabupaten Purbalingga
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-074-perubahan-atas-peraturan-bupati-purbalingga-nomor-5-tahun-2024-tentang-tata-cara-pemungutan-pajak-air-tanah-di-kabupaten/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-075
+  jenis: perpres
+  tahun: 2025
+  nomor: '75'
+  judul: Perubahan Atas Peraturan Bupati Purbalingga Nomor 6 Tahun 2024 Tentang Tata
+    Cara Pemungutan Pajak Mineral Bukan Logam Dan Batuan Di Kabupaten Purbalingga
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-075-perubahan-atas-peraturan-bupati-purbalingga-nomor-6-tahun-2024-tentang-tata-cara-pemungutan-pajak-mineral-bukan-logam-da/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-076
+  jenis: perpres
+  tahun: 2025
+  nomor: '76'
+  judul: Rencana Aksi Daerah Penanggulangan Tuberkulosis Tahun 2025-2029
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-076-rencana-aksi-daerah-penanggulangan-tuberkulosis-tahun-2025-2029/dokumen.md
+  source_url: https://doi.org/10.1155/2013/828939
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2025-077
   jenis: perpres
   tahun: 2025
   nomor: '77'
   judul: Badan Otorita Pengelola Pantai Utara Jawa
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-077-badan-otorita-pengelola-pantai-utara-jawa/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-078
+  jenis: perpres
+  tahun: 2025
+  nomor: '78'
+  judul: Penyelenggaraan Rumah Mediasi Dikabupatenpurwakarta
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-078-penyelenggaraan-rumah-mediasi-dikabupatenpurwakarta/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62684,6 +62840,17 @@
     Spesialis, Dan Dokter Gigi Subspesialis Yang Bertugas Di Daerah Tertinggal, Perbatasan,
     Dan Kepulauan
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-081-tunjangan-khusus-bagi-dokter-spesialis-doi-mer-subspesialis-dokter-gigi-spesialis-dan-dokter-gigi-subspesialis-yang-bert/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-082
+  jenis: perpres
+  tahun: 2025
+  nomor: '82'
+  judul: Pedoman Penghargaan Opd Of The Year Di Lingkungan Pemerintah Kabupaten Purbalingga
+    Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-082-pedoman-penghargaan-opd-of-the-year-di-lingkungan-pemerintah-kabupaten-purbalingga-tahun-2025/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62795,12 +62962,43 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2025-093
+  jenis: perpres
+  tahun: 2025
+  nomor: '93'
+  judul: PEMBENTUKAN, ORGANISASI, DAN TATA KERJA RUMAH SAKIT UMUM DAERAH dr. R. GOETENG
+    TAROENADIBRATA
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-093-pembentukan-organisasi-dan-tata-kerja-rumah-sakit-umum-daerah-dr-r-goeteng-taroenadibrata/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2025-094
   jenis: perpres
   tahun: 2025
   nomor: '94'
   judul: I,Ayanan Digital Terpadu Pada Komoditas Mineral Dan Batubara
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-094-i-ayanan-digital-terpadu-pada-komoditas-mineral-dan-batubara/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-095
+  jenis: perpres
+  tahun: 2025
+  nomor: '95'
+  judul: perpres
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-095-perpres/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-096
+  jenis: perpres
+  tahun: 2025
+  nomor: '96'
+  judul: Pencegahan Dan Penanganan Intoleransi Kehidupan Bermasyarakat
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-096-pencegahan-dan-penanganan-intoleransi-kehidupan-bermasyarakat/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62813,6 +63011,16 @@
     Panitia Seleksi Dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga
     Penjamin Simpanan
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-097-perubahan-atas-peraturan-presiden-nomor-3-tahun-2025-tentang-susunan-keanggotaan-panitia-seleksi-dan-tata-cara-pelaksana/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-098
+  jenis: perpres
+  tahun: 2025
+  nomor: '98'
+  judul: Pembentukan, Organisasi, Dan Tata Kerja Unit Pelaksana Teknis Daerah Perbenihan
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-098-pembentukan-organisasi-dan-tata-kerja-unit-pelaksana-teknis-daerah-perbenihan/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62839,6 +63047,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2025-101
+  jenis: perpres
+  tahun: 2025
+  nomor: '101'
+  judul: Pembentukan, Organisasi, Dan Tata Kerja Unit Pelaksana Teknis Daerah Metrologi
+    Legal
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-101-pembentukan-organisasi-dan-tata-kerja-unit-pelaksana-teknis-daerah-metrologi-legal/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2025-102
   jenis: perpres
   tahun: 2025
@@ -62846,6 +63065,27 @@
   judul: Perubahan Atas Peraturan Presiden Nomor 121 Tahun 2022 Tentang Badan Pengarah
     Percepatan Pembangunan Otonomi Khusus Papua
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-102-perubahan-atas-peraturan-presiden-nomor-121-tahun-2022-tentang-badan-pengarah-percepatan-pembangunan-otonomi-khusus-papu/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-103
+  jenis: perpres
+  tahun: 2025
+  nomor: '103'
+  judul: Pembentukan, Organisasi, Dan Tata Kerja Unit Pelaksana Teknis Daerah Pengembangan
+    Industri Logam
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-103-pembentukan-organisasi-dan-tata-kerja-unit-pelaksana-teknis-daerah-pengembangan-industri-logam/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-104
+  jenis: perpres
+  tahun: 2025
+  nomor: '104'
+  judul: Kendaraan Dinas Sewa
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-104-kendaraan-dinas-sewa/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62867,6 +63107,27 @@
   judul: Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden,
     Asisten Khusus Presiden, Dan Staf Khusus Wakil Presiden
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-106-penasihat-khusus-presiden-utusan-khusus-presiden-staf-khusus-presiden-asisten-khusus-presiden-dan-staf-khusus-wakil-pres/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-107
+  jenis: perpres
+  tahun: 2025
+  nomor: '107'
+  judul: Perubahan Rencana Kerja Kecamatan Kutawaringin Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-107-perubahan-rencana-kerja-kecamatan-kutawaringin-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-108
+  jenis: perpres
+  tahun: 2025
+  nomor: '108'
+  judul: Pengadaan Barang/Jasa Pemerintah Dalam Rangka Percepatan Pembangunan Di Papua
+    Dengan Rah Mat Tuhan Yang Maha Esa
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-108-pengadaan-barang-jasa-pemerintah-dalam-rangka-percepatan-pembangunan-di-papua-dengan-rah-mat-tuhan-yang-maha-esa/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62893,6 +63154,17 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: perpres-2025-111
+  jenis: perpres
+  tahun: 2025
+  nomor: '111'
+  judul: Insentif Tenaga Kegawatdaruratan Pada Unit Pelaksana Teknis Daerah Public
+    Safety Center 1 1 9
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-111-insentif-tenaga-kegawatdaruratan-pada-unit-pelaksana-teknis-daerah-public-safety-center-1-1-9/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: perpres-2025-112
   jenis: perpres
   tahun: 2025
@@ -62911,6 +63183,16 @@
   judul: Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2025 Tentang Tata Kelola
     Pupuk Bersubsidi
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-113-perubahan-atas-peraturan-presiden-nomor-6-tahun-2025-tentang-tata-kelola-pupuk-bersubsidi/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-114
+  jenis: perpres
+  tahun: 2025
+  nomor: '114'
+  judul: Perubahan Rencana Kerja Inspektorat Daerah Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-114-perubahan-rencana-kerja-inspektorat-daerah-kabupaten-bandung-tahun-2025/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -62972,6 +63254,468 @@
   nomor: '120'
   judul: Penyelenggaraan Sekoi,Ah Rakyat
   markdown_path: regulasi/pusat/perpres/2025/perpres-2025-120-penyelenggaraan-sekoi-ah-rakyat/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-121
+  jenis: perpres
+  tahun: 2025
+  nomor: '121'
+  judul: Perubahan Rencana Kerja Dinas Kependudukan Dan Pencatatan Sipil Kabupaten
+    Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-121-perubahan-rencana-kerja-dinas-kependudukan-dan-pencatatan-sipil-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: https://disdukcapil.bandungkab.go.id
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-122
+  jenis: perpres
+  tahun: 2025
+  nomor: '122'
+  judul: PERUBAHAN ATAS PERATURAN BUPATI NOMOR 1 5 TAHUN 2 0 1 4 TENTANG PEDOMAN UMUM
+    PEMBENTUKAN SADAN USAHA MlLIK DESA (BUMDes)
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-122-perubahan-atas-peraturan-bupati-nomor-1-5-tahun-2-0-1-4-tentang-pedoman-umum-pembentukan-sadan-usaha-mllik-desa-bumdes/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-123
+  jenis: perpres
+  tahun: 2025
+  nomor: '123'
+  judul: Tentang Susunan Susunan Organisasi Organisasi Dan Tata Kerja Dan Tata Kerja
+    Dinas Perindustrian Dan Dinas Perindustrian Dan Perdagangan Perdagangan Kabupaten
+    Kabupaten Kolaka Kolaka
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-123-tentang-susunan-susunan-organisasi-organisasi-dan-tata-kerja-dan-tata-kerja-dinas-perindustrian-dan-dinas-perindustrian/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-124
+  jenis: perpres
+  tahun: 2025
+  nomor: '124'
+  judul: Perubahan Rencana Kerja Badan Kesatuan Bangsa Dan Politik Kabupaten Bandung
+    Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-124-perubahan-rencana-kerja-badan-kesatuan-bangsa-dan-politik-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-125
+  jenis: perpres
+  tahun: 2025
+  nomor: '125'
+  judul: Perubahan Rencana Kerja Dinas Ketenagakerjaan Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-125-perubahan-rencana-kerja-dinas-ketenagakerjaan-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-126
+  jenis: perpres
+  tahun: 2025
+  nomor: '126'
+  judul: Perubahan Rencana Kerja Kecamatan Banjaran Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-126-perubahan-rencana-kerja-kecamatan-banjaran-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-127
+  jenis: perpres
+  tahun: 2025
+  nomor: '127'
+  judul: Perubahan Rencana Kerja Kecamatan Cilengkrang Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-127-perubahan-rencana-kerja-kecamatan-cilengkrang-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-128
+  jenis: perpres
+  tahun: 2025
+  nomor: '128'
+  judul: Perubahan Rencana Kerja Kecamatan Katapang Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-128-perubahan-rencana-kerja-kecamatan-katapang-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-129
+  jenis: perpres
+  tahun: 2025
+  nomor: '129'
+  judul: Perubahan Rencana Kerja Kecamatan Cimaung Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-129-perubahan-rencana-kerja-kecamatan-cimaung-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-130
+  jenis: perpres
+  tahun: 2025
+  nomor: '130'
+  judul: Penyelenggaraan Koperasi Desa/Kelurahan Merah Putih
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-130-penyelenggaraan-koperasi-desa-kelurahan-merah-putih/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-131
+  jenis: perpres
+  tahun: 2025
+  nomor: '131'
+  judul: Perubahan Rencana Kerja Kecamatan Pasirjambu Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-131-perubahan-rencana-kerja-kecamatan-pasirjambu-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: https://skm.bandungkab.go.id/home
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-132
+  jenis: perpres
+  tahun: 2025
+  nomor: '132'
+  judul: Perubahan Rencana Kerja Kecamatan Pangalengan Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-132-perubahan-rencana-kerja-kecamatan-pangalengan-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-133
+  jenis: perpres
+  tahun: 2025
+  nomor: '133'
+  judul: Perubahan Rencana Kerja Kecamatan Ciwidey Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-133-perubahan-rencana-kerja-kecamatan-ciwidey-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-134
+  jenis: perpres
+  tahun: 2025
+  nomor: '134'
+  judul: Perubahan Rencana Kerja Kecamatan Majalaya Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-134-perubahan-rencana-kerja-kecamatan-majalaya-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-135
+  jenis: perpres
+  tahun: 2025
+  nomor: '135'
+  judul: Perubahan Rencana Kerja Kecamatan Solokanjeruk Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-135-perubahan-rencana-kerja-kecamatan-solokanjeruk-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-136
+  jenis: perpres
+  tahun: 2025
+  nomor: '136'
+  judul: Perubahan Rencana Kerja Kecamatan Margaasih Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-136-perubahan-rencana-kerja-kecamatan-margaasih-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-137
+  jenis: perpres
+  tahun: 2025
+  nomor: '137'
+  judul: Peraturan Internal Rumah Sakit Umum Daerah Oto Iskandar Di Nata
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-137-peraturan-internal-rumah-sakit-umum-daerah-oto-iskandar-di-nata/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-138
+  jenis: perpres
+  tahun: 2025
+  nomor: '138'
+  judul: Batas Desa Gerduren Kecamatan Purwojati
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-138-batas-desa-gerduren-kecamatan-purwojati/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-139
+  jenis: perpres
+  tahun: 2025
+  nomor: '139'
+  judul: Peraturan Internal Rumah Sakit Umum Daerah Cicalengka
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-139-peraturan-internal-rumah-sakit-umum-daerah-cicalengka/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-140
+  jenis: perpres
+  tahun: 2025
+  nomor: '140'
+  judul: perpres
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-140-perpres/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-141
+  jenis: perpres
+  tahun: 2025
+  nomor: '141'
+  judul: Batas Desa Karangtalun Lor Kecamatan Purwojati
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-141-batas-desa-karangtalun-lor-kecamatan-purwojati/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-142
+  jenis: perpres
+  tahun: 2025
+  nomor: '142'
+  judul: Peraturan Internal Rumah Sakit Umum Daerah Majalaya
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-142-peraturan-internal-rumah-sakit-umum-daerah-majalaya/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-143
+  jenis: perpres
+  tahun: 2025
+  nomor: '143'
+  judul: Batas Desa Klapasawit Kecamatan Purwojati
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-143-batas-desa-klapasawit-kecamatan-purwojati/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-144
+  jenis: perpres
+  tahun: 2025
+  nomor: '144'
+  judul: Batas Desa Karangmangu Kecamatan Purwojati
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-144-batas-desa-karangmangu-kecamatan-purwojati/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-145
+  jenis: perpres
+  tahun: 2025
+  nomor: '145'
+  judul: Batas Desa Kaliputih Kecamatan Purwojati
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-145-batas-desa-kaliputih-kecamatan-purwojati/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-146
+  jenis: perpres
+  tahun: 2025
+  nomor: '146'
+  judul: Batas Desa Kaliwangi Kecamatan Purwojati
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-146-batas-desa-kaliwangi-kecamatan-purwojati/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-147
+  jenis: perpres
+  tahun: 2025
+  nomor: '147'
+  judul: Pembudayaan Kegemaran Membaca
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-147-pembudayaan-kegemaran-membaca/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-148
+  jenis: perpres
+  tahun: 2025
+  nomor: '148'
+  judul: Perubahan Atas Peraturan Bupati Nomor 96 Tahun 2024 Tentang Kedudukan Keuangan
+    Bupati Dan Wakil Bupati
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-148-perubahan-atas-peraturan-bupati-nomor-96-tahun-2024-tentang-kedudukan-keuangan-bupati-dan-wakil-bupati/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-149
+  jenis: perpres
+  tahun: 2025
+  nomor: '149'
+  judul: Perubahan Rencana Kerja Dinas Pendidikan Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-149-perubahan-rencana-kerja-dinas-pendidikan-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-150
+  jenis: perpres
+  tahun: 2025
+  nomor: '150'
+  judul: perpres
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-150-perpres/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-151
+  jenis: perpres
+  tahun: 2025
+  nomor: '151'
+  judul: Perubahan Kedua Atas Peraturan Bupati Nomor 8 Tahun 2023 Tentang Standar
+    Harga Satuan Badan Layanan Umum Daerah Unit Pelaksana Teknis Rumah Sakit Umum
+    Daerah Massenrempulu Kabupaten Enrekang
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-151-perubahan-kedua-atas-peraturan-bupati-nomor-8-tahun-2023-tentang-standar-harga-satuan-badan-layanan-umum-daerah-unit-pel/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-152
+  jenis: perpres
+  tahun: 2025
+  nomor: '152'
+  judul: Perubahan Rencana Kerja Kecamatan Rancabali Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-152-perubahan-rencana-kerja-kecamatan-rancabali-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: https://sidalmonep.bandungkab.go.id/
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-153
+  jenis: perpres
+  tahun: 2025
+  nomor: '153'
+  judul: Perubahan Rencana Kerja Kecamatan Ibun Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-153-perubahan-rencana-kerja-kecamatan-ibun-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-154
+  jenis: perpres
+  tahun: 2025
+  nomor: '154'
+  judul: Perubahan Rencana Kerja Kecamatan Cileunyi Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-154-perubahan-rencana-kerja-kecamatan-cileunyi-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-155
+  jenis: perpres
+  tahun: 2025
+  nomor: '155'
+  judul: Perubahan Rencana Kerja Kecamatan Pameungpeuk Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-155-perubahan-rencana-kerja-kecamatan-pameungpeuk-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-156
+  jenis: perpres
+  tahun: 2025
+  nomor: '156'
+  judul: Perubahan Rencana Kerja Kecamatan Cikancung Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-156-perubahan-rencana-kerja-kecamatan-cikancung-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-157
+  jenis: perpres
+  tahun: 2025
+  nomor: '157'
+  judul: Perubahan Rencana Kerja Dinas Pemuda Dan Olah Raga Kabupaten Bandung Tahun
+    2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-157-perubahan-rencana-kerja-dinas-pemuda-dan-olah-raga-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-158
+  jenis: perpres
+  tahun: 2025
+  nomor: '158'
+  judul: Perubahan Rencana Kerja Dinas Pengendalian Penduduk, Keluarga Berencana,
+    Pemberdayaan Perempuan Dan Perlindungan Anak Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-158-perubahan-rencana-kerja-dinas-pengendalian-penduduk-keluarga-berencana-pemberdayaan-perempuan-dan-perlindungan-anak-kabu/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-159
+  jenis: perpres
+  tahun: 2025
+  nomor: '159'
+  judul: Perubahan Rencana Kerja Kecamatan Cimenyan Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-159-perubahan-rencana-kerja-kecamatan-cimenyan-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-160
+  jenis: perpres
+  tahun: 2025
+  nomor: '160'
+  judul: Perubahan Rencana Kerja Kecamatan Margahayu Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-160-perubahan-rencana-kerja-kecamatan-margahayu-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-161
+  jenis: perpres
+  tahun: 2025
+  nomor: '161'
+  judul: Perubahan Rencana Kerja Kecamatan Dayeuhkolot Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-161-perubahan-rencana-kerja-kecamatan-dayeuhkolot-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-162
+  jenis: perpres
+  tahun: 2025
+  nomor: '162'
+  judul: Perubahan Rencana Kerja Kecamatan Bojongsoang Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-162-perubahan-rencana-kerja-kecamatan-bojongsoang-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-163
+  jenis: perpres
+  tahun: 2025
+  nomor: '163'
+  judul: Perubahan Rencana Kerja Dinas Perpustakaan Dan Arsip Kabupaten Bandung Tahun
+    2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-163-perubahan-rencana-kerja-dinas-perpustakaan-dan-arsip-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-164
+  jenis: perpres
+  tahun: 2025
+  nomor: '164'
+  judul: Perubahan Rencana Kerja Dinas Perhubungan Kabupaten Bandung Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-164-perubahan-rencana-kerja-dinas-perhubungan-kabupaten-bandung-tahun-2025/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: perpres-2025-165
+  jenis: perpres
+  tahun: 2025
+  nomor: '165'
+  judul: Perubahan Rencana Kerja Dinas Pekerjaan Umum Dan Tata Ruang Kabupaten Bandung
+    Tahun 2025
+  markdown_path: regulasi/pusat/perpres/2025/perpres-2025-165-perubahan-rencana-kerja-dinas-pekerjaan-umum-dan-tata-ruang-kabupaten-bandung-tahun-2025/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -89034,6 +89778,16 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2001-001
+  jenis: pp
+  tahun: 2001
+  nomor: '1'
+  judul: Pusat Informasi Berbasis Teknologi Informatika Di Komplek Kemayoran
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-001-pusat-informasi-berbasis-teknologi-informatika-di-komplek-kemayoran/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2001-016
   jenis: pp
   tahun: 2001
@@ -89063,6 +89817,214 @@
   judul: Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Urusan
     Logistik
   markdown_path: regulasi/pusat/pp/2001/pp-2001-018-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-badan-urusan-logistik/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-021
+  jenis: pp
+  tahun: 2001
+  nomor: '21'
+  judul: pp
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-021-pp/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-022
+  jenis: pp
+  tahun: 2001
+  nomor: '22'
+  judul: 'Minyak dan Gas Bumi terhadap Undang-Undang Dasar Negara Republik Indonesia
+    Tahun 1945, yang diajukan oleh: [1.2] I. Pimpinan Pusat Muhammadiyah yang didirikan
+    berdasarkan Ketentuan Pasal 1, Pasal 2, dan Pasal 5 Staatsblaad 1870 Nomor 64
+    tentang Perkumpulan-Perkumpulan Berbadan Hukum yang kemudian disahkan berdasarkan
+    Keputusan'
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-022-minyak-dan-gas-bumi-terhadap-undang-undang-dasar-negara-republik-indonesia-tahun-1945-yang-diajukan-oleh-1-2-i-pimpinan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-023
+  jenis: pp
+  tahun: 2001
+  nomor: '23'
+  judul: Tim Pengkajian Kelembagaan Pengelolaan Gelanggang Olahraga Bung Karno
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-023-tim-pengkajian-kelembagaan-pengelolaan-gelanggang-olahraga-bung-karno/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-024
+  jenis: pp
+  tahun: 2001
+  nomor: '24'
+  judul: Tim Konsultasi Privatisasi Badan Usaha Milik Negara
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-024-tim-konsultasi-privatisasi-badan-usaha-milik-negara/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-025
+  jenis: pp
+  tahun: 2001
+  nomor: '25'
+  judul: Tim Koordinasi Penanggulangan Pertambangan Tanpa Izin, Penyalahgunaan Bahan
+    Bakar Minyak Serta Perusakan Instalasi Ketenagalistrikan Dan Pencurian Aliran
+    Listrik
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-025-tim-koordinasi-penanggulangan-pertambangan-tanpa-izin-penyalahgunaan-bahan-bakar-minyak-serta-perusakan-instalasi-ketena/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-026
+  jenis: pp
+  tahun: 2001
+  nomor: '26'
+  judul: Perubahan Atas Peraturan Pemerintah Nomor 7 Tahun 1977 Tentang Peraturan
+    Gaji Pegawai Negeri Sipil Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan
+    Peraturan Pemerintah Nomor 6 Tahun 1997
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-026-perubahan-atas-peraturan-pemerintah-nomor-7-tahun-1977-tentang-peraturan-gaji-pegawai-negeri-sipil-sebagaimana-telah-beb/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-027
+  jenis: pp
+  tahun: 2001
+  nomor: '27'
+  judul: Perubahan Atas Peraturan Pemerintah Nomor 8 Tahun 2000 Tentang Peraturan
+    Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, Dan Peradilan Agama
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-027-perubahan-atas-peraturan-pemerintah-nomor-8-tahun-2000-tentang-peraturan-gaji-hakim-peradilan-umum-peradilan-tata-usaha/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-028
+  jenis: pp
+  tahun: 2001
+  nomor: '28'
+  judul: Peraturan Gaji Anggota Tentara Nasional Indonesia
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-028-peraturan-gaji-anggota-tentara-nasional-indonesia/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-029
+  jenis: pp
+  tahun: 2001
+  nomor: '29'
+  judul: Peraturan Gaji Anggota Kepolisian Republik Indonesia
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-029-peraturan-gaji-anggota-kepolisian-republik-indonesia/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-030
+  jenis: pp
+  tahun: 2001
+  nomor: '30'
+  judul: Honorarium Bagi Ketua, Wakil Ketua, Anggota, Tenaga Tim Asistensi Dan Staf
+    Administrasi Kesekretariatan Komisi Ombudsman Nasional
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-030-honorarium-bagi-ketua-wakil-ketua-anggota-tenaga-tim-asistensi-dan-staf-administrasi-kesekretariatan-komisi-ombudsman-na/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-032
+  jenis: pp
+  tahun: 2001
+  nomor: '32'
+  judul: Penetapan Pensiun Pokok Purnawirawan/Warakawuri Atau Duda, Tunjangan Anak
+    Yatim/Piatu Dan Anak Yatim-Piatu Anggota Tentara Nasional Indonesia
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-032-penetapan-pensiun-pokok-purnawirawan-warakawuri-atau-duda-tunjangan-anak-yatim-piatu-dan-anak-yatim-piatu-anggota-tentar/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-033
+  jenis: pp
+  tahun: 2001
+  nomor: '33'
+  judul: pp
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-033-pp/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-034
+  jenis: pp
+  tahun: 2001
+  nomor: '34'
+  judul: Perubahan Atas Peraturan Pemerintah Nomor 34 Tahun 1985 Tentang Pemberian
+    Tunjangan Veteran Kepada Veteran Republik Indonesia
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-034-perubahan-atas-peraturan-pemerintah-nomor-34-tahun-1985-tentang-pemberian-tunjangan-veteran-kepada-veteran-republik-indo/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-035
+  jenis: pp
+  tahun: 2001
+  nomor: '35'
+  judul: Perubahan Atas Keputusan Presiden Nomor 162 Tahun 2000 Tentang Kedudukan,
+    Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Menteri Negara Koordinator
+    Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 170 Tahun 2000
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-035-perubahan-atas-keputusan-presiden-nomor-162-tahun-2000-tentang-kedudukan-tugas-fungsi-kewenangan-susunan-organisasi-dan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-036
+  jenis: pp
+  tahun: 2001
+  nomor: '36'
+  judul: Perubahan Atas Keputusan Presiden Nomor 174 Tahun 2000 Tentang Susunan Organisasi
+    Dan Tugas Menteri Negara Koordinator
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-036-perubahan-atas-keputusan-presiden-nomor-174-tahun-2000-tentang-susunan-organisasi-dan-tugas-menteri-negara-koordinator/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-037
+  jenis: pp
+  tahun: 2001
+  nomor: '37'
+  judul: Perubahan Atas Keputusan Presiden Nomor 165 Tahun 2000 Tentang Kedudukan,
+    Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Departemen, Sebagaimana
+    Telah Diubah Dengan Keputusan Presiden Nomor 172 Tahun 2000
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-037-perubahan-atas-keputusan-presiden-nomor-165-tahun-2000-tentang-kedudukan-tugas-fungsi-kewenangan-susunan-organisasi-dan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-038
+  jenis: pp
+  tahun: 2001
+  nomor: '38'
+  judul: Perubahan Atas Keputusan Presiden Nomor 177 Tahun 2000 Tentang Susunan Organisasi
+    Dan Tugas Departemen
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-038-perubahan-atas-keputusan-presiden-nomor-177-tahun-2000-tentang-susunan-organisasi-dan-tugas-departemen/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-040
+  jenis: pp
+  tahun: 2001
+  nomor: '40'
+  judul: Pedoman Kelembagaan Dan Pengelolaan Rumah Sakit Daerah
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-040-pedoman-kelembagaan-dan-pengelolaan-rumah-sakit-daerah/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-041
+  jenis: pp
+  tahun: 2001
+  nomor: '41'
+  judul: Dewan Bimbingan Massal Ketahanan Pangan
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-041-dewan-bimbingan-massal-ketahanan-pangan/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null
@@ -89100,6 +90062,41 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2001-045
+  jenis: pp
+  tahun: 2001
+  nomor: '45'
+  judul: Organisasi Dan Tata Kerja Unit Pelaksana Teknis Dinas Pusat Kesehatan Masyarakat
+    Pada Dinas Kesehatan Kabupaten Sumedang Sekretriat Daerah Kabupaten Sumedang 2001
+    Lembaran Daerah Kabupaten Sumedang Nomor 120 Tahun 2001 Seri D.117 ================================================
+    Peraturan Daerah Kabupaten Sumedang Nomor 45 Tahun 2001 Tentang Organisasi Dan
+    Tata Kerja Unit Pelaksana Teknis Dinas Pusat Kesehatan Masyarakat Pada Dinas Kesehatan
+    Kabupaten Sumedang
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-045-organisasi-dan-tata-kerja-unit-pelaksana-teknis-dinas-pusat-kesehatan-masyarakat-pada-dinas-kesehatan-kabupaten-sumedang/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-046
+  jenis: pp
+  tahun: 2001
+  nomor: '46'
+  judul: pp
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-046-pp/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-047
+  jenis: pp
+  tahun: 2001
+  nomor: '47'
+  judul: Panitia Penyelidik Masalah Konstitusi
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-047-panitia-penyelidik-masalah-konstitusi/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2001-048
   jenis: pp
   tahun: 2001
@@ -89111,6 +90108,59 @@
   storage_key: null
   sha256: null
   status_pdf: external
+- id: pp-2001-049
+  jenis: pp
+  tahun: 2001
+  nomor: '49'
+  judul: Penataan Lembaga Ketahanan Masyarakat Desa Atau Sebutan Lain
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-049-penataan-lembaga-ketahanan-masyarakat-desa-atau-sebutan-lain/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-050
+  jenis: pp
+  tahun: 2001
+  nomor: '50'
+  judul: Pendirian Sekolah Tinggi Penyuluhan Pertanian Bogor Dan Sekolah Tinggi Penyuluhan
+    Pertanian Malang
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-050-pendirian-sekolah-tinggi-penyuluhan-pertanian-bogor-dan-sekolah-tinggi-penyuluhan-pertanian-malang/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-051
+  jenis: pp
+  tahun: 2001
+  nomor: '51'
+  judul: Ijin Pemungutan Hasil Hutan (Iphh)
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-051-ijin-pemungutan-hasil-hutan-iphh/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-052
+  jenis: pp
+  tahun: 2001
+  nomor: '52'
+  judul: Perubahan Atas Keputusan Presiden Nomor 117 Tahun 2000 Tentang Sekretariat
+    Negara
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-052-perubahan-atas-keputusan-presiden-nomor-117-tahun-2000-tentang-sekretariat-negara/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-053
+  jenis: pp
+  tahun: 2001
+  nomor: '53'
+  judul: Pembentukan Pengadilan Hak Asasi Manusia Ad Hoc Pada Pengadilan Negeri Jakarta
+    Pusat
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-053-pembentukan-pengadilan-hak-asasi-manusia-ad-hoc-pada-pengadilan-negeri-jakarta-pusat/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
 - id: pp-2001-054
   jenis: pp
   tahun: 2001
@@ -89118,6 +90168,152 @@
   judul: Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Standardisasi
     Nasional
   markdown_path: regulasi/pusat/pp/2001/pp-2001-054-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-badan-standardisasi-nasional/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-055
+  jenis: pp
+  tahun: 2001
+  nomor: '55'
+  judul: Dewan Pengembangan Kawasan Timur Indonesia
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-055-dewan-pengembangan-kawasan-timur-indonesia/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-056
+  jenis: pp
+  tahun: 2001
+  nomor: '56'
+  judul: Retribusi Pemakaian Kekayaan Daerah
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-056-retribusi-pemakaian-kekayaan-daerah/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-057
+  jenis: pp
+  tahun: 2001
+  nomor: '57'
+  judul: Perubahan Atas Keputusan Presiden Nomor 175 Tahun 2000 Tentang Susunan Organisasi
+    Dan Tugas Menteri Negara
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-057-perubahan-atas-keputusan-presiden-nomor-175-tahun-2000-tentang-susunan-organisasi-dan-tugas-menteri-negara/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-058
+  jenis: pp
+  tahun: 2001
+  nomor: '58'
+  judul: Perubahan Atas Keputusan Presiden Nomor 177 Tahun 2000 Tentang Susunan Organisasi
+    Dan Tugas Departemen Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor
+    38 Tahun 2001
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-058-perubahan-atas-keputusan-presiden-nomor-177-tahun-2000-tentang-susunan-organisasi-dan-tugas-departemen-sebagaimana-telah/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-059
+  jenis: pp
+  tahun: 2001
+  nomor: '59'
+  judul: Lembaga Perlindungan Konsumen Swadaya Masyarakat
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-059-lembaga-perlindungan-konsumen-swadaya-masyarakat/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-060
+  jenis: pp
+  tahun: 2001
+  nomor: '60'
+  judul: Perubahan Atas Keputusan Presiden Nomor 178 Tahun 2000 Tentang Susunan Organisasi
+    Dan Tugas Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa Kali Diubah
+    Terakhir Dengan Keputusan Presiden Nomor 43 Tahun 2001
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-060-perubahan-atas-keputusan-presiden-nomor-178-tahun-2000-tentang-susunan-organisasi-dan-tugas-lembaga-pemerintah-non-depar/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-061
+  jenis: pp
+  tahun: 2001
+  nomor: '61'
+  judul: Tim Pengkajian Pengelolaan Komplek Kemayoran
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-061-tim-pengkajian-pengelolaan-komplek-kemayoran/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-062
+  jenis: pp
+  tahun: 2001
+  nomor: '62'
+  judul: Perubahan Atas Keputusan Presiden Nomor 166 Tahun 2000 Tentang Kedudukan,
+    Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah
+    Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan
+    Presiden Nomor 42 Tahun 2001
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-062-perubahan-atas-keputusan-presiden-nomor-166-tahun-2000-tentang-kedudukan-tugas-fungsi-kewenangan-susunan-organisasi-dan/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-063
+  jenis: pp
+  tahun: 2001
+  nomor: '63'
+  judul: Perubahan Atas Keputusan Presiden Nomor 9 Tahun 2001 Tentang Tunjangan Dosen
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-063-perubahan-atas-keputusan-presiden-nomor-9-tahun-2001-tentang-tunjangan-dosen/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-064
+  jenis: pp
+  tahun: 2001
+  nomor: '64'
+  judul: Pengalihan Kedudukan, Tugas Dan Kewenangan Menteri Keuangan Pada Perusahaan
+    Perseroan (Persero), Perusahaan Umum (Perum) Dan Perusahaan Jawatan (Perjan) Kepada
+    Menteri Negara Badan Usaha Milik Negara
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-064-pengalihan-kedudukan-tugas-dan-kewenangan-menteri-keuangan-pada-perusahaan-perseroan-persero-perusahaan-umum-perum-dan-p/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-065
+  jenis: pp
+  tahun: 2001
+  nomor: '65'
+  judul: Penyesuaian Gaji Pokok Hakim Menurut Peraturan Pemerintah Nomor 8 Tahun 2000
+    Tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, Dan
+    Peradilan Agama Ke Dalam Gaji Pokok Hakim Menurut Peraturan Pemerintah Nomor 27
+    Tahun 2001
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-065-penyesuaian-gaji-pokok-hakim-menurut-peraturan-pemerintah-nomor-8-tahun-2000-tentang-peraturan-gaji-hakim-peradilan-umum/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-066
+  jenis: pp
+  tahun: 2001
+  nomor: '66'
+  judul: Penyesuaian Gaji Pokok Anggota Tentara Nasional Indonesia Menurut Peraturan
+    Pemerintah Nomor 7 Tahun 1997 Ke Dalam Peraturan Pemerintah Nomor 28 Tahun 2001
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-066-penyesuaian-gaji-pokok-anggota-tentara-nasional-indonesia-menurut-peraturan-pemerintah-nomor-7-tahun-1997-ke-dalam-perat/dokumen.md
+  source_url: belum_diisi
+  storage_key: null
+  sha256: null
+  status_pdf: external
+- id: pp-2001-067
+  jenis: pp
+  tahun: 2001
+  nomor: '67'
+  judul: Penyesuaian Gaji Pokok Anggota Kepolisian Negara Republik Indonesia Menurut
+    Peraturan Pemerintah Nomor 7 Tahun 1997 Ke Dalam Peraturan Pemerintah Nomor 29
+    Tahun 2001
+  markdown_path: regulasi/pusat/pp/2001/pp-2001-067-penyesuaian-gaji-pokok-anggota-kepolisian-negara-republik-indonesia-menurut-peraturan-pemerintah-nomor-7-tahun-1997-ke-d/dokumen.md
   source_url: belum_diisi
   storage_key: null
   sha256: null

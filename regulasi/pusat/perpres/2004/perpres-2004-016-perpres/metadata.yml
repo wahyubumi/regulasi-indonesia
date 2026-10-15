@@ -1,0 +1,94 @@
+id: perpres-2004-016
+jenis: perpres
+jenis_lengkap: Peraturan Presiden
+nomor: '16'
+nomor_lengkap: '16'
+tahun: 2004
+judul: perpres
+judul_lengkap: Peraturan Presiden Nomor 16 Tahun 2004 tentang perpres
+tingkat: pusat
+hierarki_level: null
+lembaga_penerbit:
+- Presiden Republik Indonesia
+pejabat_penetap: []
+tanggal_ditetapkan: null
+tanggal_diundangkan: null
+tanggal_berlaku: null
+tempat_ditetapkan: null
+lembaran_negara:
+  nomor: null
+  tahun: null
+tambahan_lembaran_negara:
+  nomor: null
+berita_negara:
+  nomor: null
+  tahun: null
+tambahan_berita_negara:
+  nomor: null
+status:
+  berlaku: null
+  status_teks: perlu_verifikasi
+  mulai_berlaku: null
+  berakhir: null
+  dicabut_oleh: []
+  mencabut: []
+  mengubah: []
+  diubah_oleh: []
+subjek: []
+sektor: []
+kata_kunci: []
+wilayah:
+  level: ''
+  kode: ''
+  nama: ''
+sumber:
+  nama: staging/incoming
+  url: http://jateng.tribunnews.com/2016/02/03/kejaksaan-tarik-surat-
+  alternatif:
+  - http://m.tempo.co/read/news/2016/02/22/063747031/Hentikan-
+  - http://m.tempo.co/read/news/2016/02/22/078747023/Kejaksaa
+  - http://nasional.harianterbit.com/nasional/2016/04/02/593
+  - http://nasional.harianterbit.com/nasional/2016/04/02/59374/0/2
+  - http://nasional.kompas.com/read/2016/04/01/05100021/
+  - http://nasional.kompas.com/read/2016/04/01/05100021/Jaksa
+  - http://nasional.kompas.com/read/2016/04/01/05100021/Jaksa.Agung.Buka
+  - http://nasional.news.viva.co.id/news/read/755234-jaksa-
+  - http://nasional.republika.co.id/berita/breaking-
+  - http://nasional.republika.co.id/berita/nasional/hukum/16/01/29/
+  - http://nasional.rimanews.com/hukum/read/20160212/261196/
+  - http://nasional.rimanews.com/hukum/read/20160222/263288/
+  - http://news.detik.com/berita/2903593/polri-dalam-pra-
+  - http://news.detik.com/berita/3135079/jokowi-minta-kasus-
+  - http://news.detik.com/berita/3139813/jaksa-agung-kirim-surat-
+  - http://news.detik.com/berita/3148162/kejagung-stop-kasus-
+  - http://news.detik.com/berita/3149433/selain-novel-presiden-
+  - http://news.metrotvnews.com/read/2016/01/30/477075/kasus-
+  - http://news.metrotvnews.com/read/2016/02/03/479181/kpk-
+  - http://news.metrotvnews.com/read/2016/02/24/489464/pekan-
+  - http://www.antaranews.com/berita/552991/jaksa-agung-
+  - http://www.antaranews.com/berita/552991/jaksa-agung-kaji-
+  - http://www.antaranews.com/berita/552991/jaksa-agung-kaji-deponering-
+  - http://www.bbc.com/indonesia/berita_indonesia/2010/10/1010
+  - http://www.beritasatu.com/hukum/165190-jaksa-agung-
+  - http://www.cnnindonesia.com/politik/20160211191059-32-
+  - http://www.digilib.ui.ac.id/opac/themes/libri2/detail.jsp?id=2031
+  - http://www.hukumonline.com/berita/baca/lt4caf124762588/ma-
+  - http://www.tu.bphn.go.id/substantif/Data/ISI%20KEGIATAN%20TAHUN%
+  - https://m.tempo.co/read/news/
+  - https://m.tempo.co/read/news/2016/04/01/063758775/ja
+  - https://m.tempo.co/read/news/2016/04/01/063758775/jaksa-
+file:
+  markdown_utama: dokumen.md
+  batang_tubuh: null
+  penjelasan: null
+  lampiran: []
+  pdf_asli: external
+konversi:
+  metode: staging markdown import
+  tanggal_konversi: null
+  alat: AI-assisted conversion
+  ocr: null
+  status_kualitas: needs_review
+  pemeriksa: null
+catatan:
+- Diimpor dari staging/incoming/perpres16-2004.md.

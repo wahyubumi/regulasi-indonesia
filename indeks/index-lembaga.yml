@@ -12908,8 +12908,31 @@
     judul: Pelindungan Peker,.'A Rumah Tangga
     path: regulasi/pusat/uu/2026/uu-2026-002-pelindungan-peker-a-rumah-tangga
 - id: Kementerian Dalam Negeri
-  jumlah: 534
+  jumlah: 536
   regulasi:
+  - id: permen-1997-174
+    jenis: permen
+    nomor: '174'
+    tahun: 1997
+    judul: RETRIBUSI PEMAKAIAN DAN PERLENGKAPAN JALAN | DE [NGAN RAMMAT TUHAN YANG
+      MAHA ©F° BUPATL LUWU UTARA bahwai untuk menjamin kelangsungan perbaikan = dan
+      pemeliharaan jalan yang diurus oleh Pemerintah Daerah, maka diperlukan dukungan
+      Dana yang bersumber cari partisipasi pemakian jalan yang menggunakan kendaraan
+      Bemotor. bahwa untuk memungut Retribusi sebagaimana dimaksud pada huruf a perlu
+      diatur dengan Peraturan Daerah
+    path: regulasi/pusat/permen/1997/permen-1997-174-retribusi-pemakaian-dan-perlengkapan-jalan-de-ngan-rammat-tuhan-yang-maha-f-bupatl-luwu-utara-bahwai-untuk-menjamin-kela
+  - id: permen-1999-004
+    jenis: permen
+    nomor: '4'
+    tahun: 1999
+    judul: 'NOMOR : 44 TAHUN 2001 SERI: D NOMOR : 23 Pemerintahan Daerah (Lembaran
+      Negara Tahun 1999 Nomor 60, Tambahan Lembaran Negara Nomor PERATURAN DAERAH
+      KABUPATEN KOLAKA 3839); NOMOR: 31 TAHUN 2001 3. Peraturan Menteri Dalam Nomor
+      4 Tahun 1999 TENTANG Tentang Pencabutan beberapa Peraturan Menteri Dalam Negeri,
+      Keputusan Menteri Dalam Negeri dan PEMBERDAYAAN, PELESTARIAN DAN PENGEMBANGAN
+      Instruksi Menteri Dalam Negeri mengenai ADAT ISTIADAT DAN LEMBAGA ADAT pelaksanaan
+      Undang-undang Nomor 5 tahun 1979'
+    path: regulasi/pusat/permen/1999/permen-1999-004-nomor-44-tahun-2001-seri-d-nomor-23-pemerintahan-daerah-lembaran-negara-tahun-1999-nomor-60-tambahan-lembaran-negara-nom
   - id: permen-2005-031
     jenis: permen
     nomor: '31'
@@ -20050,7 +20073,7 @@
     judul: RKPD Provinsi Papua Barat Tahun 2026
     path: regulasi/daerah/provinsi/92-papua-barat/pergub/2025/pergub-papua-barat-2025-014-rkpd-provinsi-papua-barat-tahun-2026
 - id: Presiden Republik Indonesia
-  jumlah: 8789
+  jumlah: 8899
   regulasi:
   - id: uu-1911-085
     jenis: uu
@@ -44067,6 +44090,12 @@
     judul: Perubahan Atas Undang-Undang Nomor 49 Tahun 1999 Tentang Pembentukan Kabupaten
       Kepulauan Mentawai
     path: regulasi/pusat/uu/2000/uu-2000-009-perubahan-atas-undang-undang-nomor-49-tahun-1999-tentang-pembentukan-kabupaten-kepulauan-mentawai
+  - id: pp-2001-001
+    jenis: pp
+    nomor: '1'
+    tahun: 2001
+    judul: Pusat Informasi Berbasis Teknologi Informatika Di Komplek Kemayoran
+    path: regulasi/pusat/pp/2001/pp-2001-001-pusat-informasi-berbasis-teknologi-informatika-di-komplek-kemayoran
   - id: pp-2001-016
     jenis: pp
     nomor: '16'
@@ -44088,6 +44117,139 @@
     judul: Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan
       Urusan Logistik
     path: regulasi/pusat/pp/2001/pp-2001-018-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-badan-urusan-logistik
+  - id: pp-2001-021
+    jenis: pp
+    nomor: '21'
+    tahun: 2001
+    judul: pp
+    path: regulasi/pusat/pp/2001/pp-2001-021-pp
+  - id: pp-2001-022
+    jenis: pp
+    nomor: '22'
+    tahun: 2001
+    judul: 'Minyak dan Gas Bumi terhadap Undang-Undang Dasar Negara Republik Indonesia
+      Tahun 1945, yang diajukan oleh: [1.2] I. Pimpinan Pusat Muhammadiyah yang didirikan
+      berdasarkan Ketentuan Pasal 1, Pasal 2, dan Pasal 5 Staatsblaad 1870 Nomor 64
+      tentang Perkumpulan-Perkumpulan Berbadan Hukum yang kemudian disahkan berdasarkan
+      Keputusan'
+    path: regulasi/pusat/pp/2001/pp-2001-022-minyak-dan-gas-bumi-terhadap-undang-undang-dasar-negara-republik-indonesia-tahun-1945-yang-diajukan-oleh-1-2-i-pimpinan
+  - id: pp-2001-023
+    jenis: pp
+    nomor: '23'
+    tahun: 2001
+    judul: Tim Pengkajian Kelembagaan Pengelolaan Gelanggang Olahraga Bung Karno
+    path: regulasi/pusat/pp/2001/pp-2001-023-tim-pengkajian-kelembagaan-pengelolaan-gelanggang-olahraga-bung-karno
+  - id: pp-2001-024
+    jenis: pp
+    nomor: '24'
+    tahun: 2001
+    judul: Tim Konsultasi Privatisasi Badan Usaha Milik Negara
+    path: regulasi/pusat/pp/2001/pp-2001-024-tim-konsultasi-privatisasi-badan-usaha-milik-negara
+  - id: pp-2001-025
+    jenis: pp
+    nomor: '25'
+    tahun: 2001
+    judul: Tim Koordinasi Penanggulangan Pertambangan Tanpa Izin, Penyalahgunaan Bahan
+      Bakar Minyak Serta Perusakan Instalasi Ketenagalistrikan Dan Pencurian Aliran
+      Listrik
+    path: regulasi/pusat/pp/2001/pp-2001-025-tim-koordinasi-penanggulangan-pertambangan-tanpa-izin-penyalahgunaan-bahan-bakar-minyak-serta-perusakan-instalasi-ketena
+  - id: pp-2001-026
+    jenis: pp
+    nomor: '26'
+    tahun: 2001
+    judul: Perubahan Atas Peraturan Pemerintah Nomor 7 Tahun 1977 Tentang Peraturan
+      Gaji Pegawai Negeri Sipil Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan
+      Peraturan Pemerintah Nomor 6 Tahun 1997
+    path: regulasi/pusat/pp/2001/pp-2001-026-perubahan-atas-peraturan-pemerintah-nomor-7-tahun-1977-tentang-peraturan-gaji-pegawai-negeri-sipil-sebagaimana-telah-beb
+  - id: pp-2001-027
+    jenis: pp
+    nomor: '27'
+    tahun: 2001
+    judul: Perubahan Atas Peraturan Pemerintah Nomor 8 Tahun 2000 Tentang Peraturan
+      Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara, Dan Peradilan Agama
+    path: regulasi/pusat/pp/2001/pp-2001-027-perubahan-atas-peraturan-pemerintah-nomor-8-tahun-2000-tentang-peraturan-gaji-hakim-peradilan-umum-peradilan-tata-usaha
+  - id: pp-2001-028
+    jenis: pp
+    nomor: '28'
+    tahun: 2001
+    judul: Peraturan Gaji Anggota Tentara Nasional Indonesia
+    path: regulasi/pusat/pp/2001/pp-2001-028-peraturan-gaji-anggota-tentara-nasional-indonesia
+  - id: pp-2001-029
+    jenis: pp
+    nomor: '29'
+    tahun: 2001
+    judul: Peraturan Gaji Anggota Kepolisian Republik Indonesia
+    path: regulasi/pusat/pp/2001/pp-2001-029-peraturan-gaji-anggota-kepolisian-republik-indonesia
+  - id: pp-2001-030
+    jenis: pp
+    nomor: '30'
+    tahun: 2001
+    judul: Honorarium Bagi Ketua, Wakil Ketua, Anggota, Tenaga Tim Asistensi Dan Staf
+      Administrasi Kesekretariatan Komisi Ombudsman Nasional
+    path: regulasi/pusat/pp/2001/pp-2001-030-honorarium-bagi-ketua-wakil-ketua-anggota-tenaga-tim-asistensi-dan-staf-administrasi-kesekretariatan-komisi-ombudsman-na
+  - id: pp-2001-032
+    jenis: pp
+    nomor: '32'
+    tahun: 2001
+    judul: Penetapan Pensiun Pokok Purnawirawan/Warakawuri Atau Duda, Tunjangan Anak
+      Yatim/Piatu Dan Anak Yatim-Piatu Anggota Tentara Nasional Indonesia
+    path: regulasi/pusat/pp/2001/pp-2001-032-penetapan-pensiun-pokok-purnawirawan-warakawuri-atau-duda-tunjangan-anak-yatim-piatu-dan-anak-yatim-piatu-anggota-tentar
+  - id: pp-2001-033
+    jenis: pp
+    nomor: '33'
+    tahun: 2001
+    judul: pp
+    path: regulasi/pusat/pp/2001/pp-2001-033-pp
+  - id: pp-2001-034
+    jenis: pp
+    nomor: '34'
+    tahun: 2001
+    judul: Perubahan Atas Peraturan Pemerintah Nomor 34 Tahun 1985 Tentang Pemberian
+      Tunjangan Veteran Kepada Veteran Republik Indonesia
+    path: regulasi/pusat/pp/2001/pp-2001-034-perubahan-atas-peraturan-pemerintah-nomor-34-tahun-1985-tentang-pemberian-tunjangan-veteran-kepada-veteran-republik-indo
+  - id: pp-2001-035
+    jenis: pp
+    nomor: '35'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 162 Tahun 2000 Tentang Kedudukan,
+      Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Menteri Negara
+      Koordinator Sebagaimana Telah Diubah Dengan Keputusan Presiden Nomor 170 Tahun
+      2000
+    path: regulasi/pusat/pp/2001/pp-2001-035-perubahan-atas-keputusan-presiden-nomor-162-tahun-2000-tentang-kedudukan-tugas-fungsi-kewenangan-susunan-organisasi-dan
+  - id: pp-2001-036
+    jenis: pp
+    nomor: '36'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 174 Tahun 2000 Tentang Susunan
+      Organisasi Dan Tugas Menteri Negara Koordinator
+    path: regulasi/pusat/pp/2001/pp-2001-036-perubahan-atas-keputusan-presiden-nomor-174-tahun-2000-tentang-susunan-organisasi-dan-tugas-menteri-negara-koordinator
+  - id: pp-2001-037
+    jenis: pp
+    nomor: '37'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 165 Tahun 2000 Tentang Kedudukan,
+      Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Departemen, Sebagaimana
+      Telah Diubah Dengan Keputusan Presiden Nomor 172 Tahun 2000
+    path: regulasi/pusat/pp/2001/pp-2001-037-perubahan-atas-keputusan-presiden-nomor-165-tahun-2000-tentang-kedudukan-tugas-fungsi-kewenangan-susunan-organisasi-dan
+  - id: pp-2001-038
+    jenis: pp
+    nomor: '38'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 177 Tahun 2000 Tentang Susunan
+      Organisasi Dan Tugas Departemen
+    path: regulasi/pusat/pp/2001/pp-2001-038-perubahan-atas-keputusan-presiden-nomor-177-tahun-2000-tentang-susunan-organisasi-dan-tugas-departemen
+  - id: pp-2001-040
+    jenis: pp
+    nomor: '40'
+    tahun: 2001
+    judul: Pedoman Kelembagaan Dan Pengelolaan Rumah Sakit Daerah
+    path: regulasi/pusat/pp/2001/pp-2001-040-pedoman-kelembagaan-dan-pengelolaan-rumah-sakit-daerah
+  - id: pp-2001-041
+    jenis: pp
+    nomor: '41'
+    tahun: 2001
+    judul: Dewan Bimbingan Massal Ketahanan Pangan
+    path: regulasi/pusat/pp/2001/pp-2001-041-dewan-bimbingan-massal-ketahanan-pangan
   - id: pp-2001-042
     jenis: pp
     nomor: '42'
@@ -44109,6 +44271,29 @@
     judul: Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Departemen
       Kebudayaan Dan Pariwisata
     path: regulasi/pusat/pp/2001/pp-2001-044-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-departemen-kebudayaan-dan-pariwisata
+  - id: pp-2001-045
+    jenis: pp
+    nomor: '45'
+    tahun: 2001
+    judul: Organisasi Dan Tata Kerja Unit Pelaksana Teknis Dinas Pusat Kesehatan Masyarakat
+      Pada Dinas Kesehatan Kabupaten Sumedang Sekretriat Daerah Kabupaten Sumedang
+      2001 Lembaran Daerah Kabupaten Sumedang Nomor 120 Tahun 2001 Seri D.117 ================================================
+      Peraturan Daerah Kabupaten Sumedang Nomor 45 Tahun 2001 Tentang Organisasi Dan
+      Tata Kerja Unit Pelaksana Teknis Dinas Pusat Kesehatan Masyarakat Pada Dinas
+      Kesehatan Kabupaten Sumedang
+    path: regulasi/pusat/pp/2001/pp-2001-045-organisasi-dan-tata-kerja-unit-pelaksana-teknis-dinas-pusat-kesehatan-masyarakat-pada-dinas-kesehatan-kabupaten-sumedang
+  - id: pp-2001-046
+    jenis: pp
+    nomor: '46'
+    tahun: 2001
+    judul: pp
+    path: regulasi/pusat/pp/2001/pp-2001-046-pp
+  - id: pp-2001-047
+    jenis: pp
+    nomor: '47'
+    tahun: 2001
+    judul: Panitia Penyelidik Masalah Konstitusi
+    path: regulasi/pusat/pp/2001/pp-2001-047-panitia-penyelidik-masalah-konstitusi
   - id: pp-2001-048
     jenis: pp
     nomor: '48'
@@ -44117,6 +44302,39 @@
       Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Pengawas Tenaga
       Nuklir
     path: regulasi/pusat/pp/2001/pp-2001-048-perubahan-atas-peraturan-pemerintah-nomor-134-tahun-2000-tentang-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-ber
+  - id: pp-2001-049
+    jenis: pp
+    nomor: '49'
+    tahun: 2001
+    judul: Penataan Lembaga Ketahanan Masyarakat Desa Atau Sebutan Lain
+    path: regulasi/pusat/pp/2001/pp-2001-049-penataan-lembaga-ketahanan-masyarakat-desa-atau-sebutan-lain
+  - id: pp-2001-050
+    jenis: pp
+    nomor: '50'
+    tahun: 2001
+    judul: Pendirian Sekolah Tinggi Penyuluhan Pertanian Bogor Dan Sekolah Tinggi
+      Penyuluhan Pertanian Malang
+    path: regulasi/pusat/pp/2001/pp-2001-050-pendirian-sekolah-tinggi-penyuluhan-pertanian-bogor-dan-sekolah-tinggi-penyuluhan-pertanian-malang
+  - id: pp-2001-051
+    jenis: pp
+    nomor: '51'
+    tahun: 2001
+    judul: Ijin Pemungutan Hasil Hutan (Iphh)
+    path: regulasi/pusat/pp/2001/pp-2001-051-ijin-pemungutan-hasil-hutan-iphh
+  - id: pp-2001-052
+    jenis: pp
+    nomor: '52'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 117 Tahun 2000 Tentang Sekretariat
+      Negara
+    path: regulasi/pusat/pp/2001/pp-2001-052-perubahan-atas-keputusan-presiden-nomor-117-tahun-2000-tentang-sekretariat-negara
+  - id: pp-2001-053
+    jenis: pp
+    nomor: '53'
+    tahun: 2001
+    judul: Pembentukan Pengadilan Hak Asasi Manusia Ad Hoc Pada Pengadilan Negeri
+      Jakarta Pusat
+    path: regulasi/pusat/pp/2001/pp-2001-053-pembentukan-pengadilan-hak-asasi-manusia-ad-hoc-pada-pengadilan-negeri-jakarta-pusat
   - id: pp-2001-054
     jenis: pp
     nomor: '54'
@@ -44124,6 +44342,101 @@
     judul: Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan
       Standardisasi Nasional
     path: regulasi/pusat/pp/2001/pp-2001-054-tarif-atas-jenis-penerimaan-negara-bukan-pajak-yang-berlaku-pada-badan-standardisasi-nasional
+  - id: pp-2001-055
+    jenis: pp
+    nomor: '55'
+    tahun: 2001
+    judul: Dewan Pengembangan Kawasan Timur Indonesia
+    path: regulasi/pusat/pp/2001/pp-2001-055-dewan-pengembangan-kawasan-timur-indonesia
+  - id: pp-2001-056
+    jenis: pp
+    nomor: '56'
+    tahun: 2001
+    judul: Retribusi Pemakaian Kekayaan Daerah
+    path: regulasi/pusat/pp/2001/pp-2001-056-retribusi-pemakaian-kekayaan-daerah
+  - id: pp-2001-057
+    jenis: pp
+    nomor: '57'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 175 Tahun 2000 Tentang Susunan
+      Organisasi Dan Tugas Menteri Negara
+    path: regulasi/pusat/pp/2001/pp-2001-057-perubahan-atas-keputusan-presiden-nomor-175-tahun-2000-tentang-susunan-organisasi-dan-tugas-menteri-negara
+  - id: pp-2001-058
+    jenis: pp
+    nomor: '58'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 177 Tahun 2000 Tentang Susunan
+      Organisasi Dan Tugas Departemen Sebagaimana Telah Diubah Dengan Keputusan Presiden
+      Nomor 38 Tahun 2001
+    path: regulasi/pusat/pp/2001/pp-2001-058-perubahan-atas-keputusan-presiden-nomor-177-tahun-2000-tentang-susunan-organisasi-dan-tugas-departemen-sebagaimana-telah
+  - id: pp-2001-059
+    jenis: pp
+    nomor: '59'
+    tahun: 2001
+    judul: Lembaga Perlindungan Konsumen Swadaya Masyarakat
+    path: regulasi/pusat/pp/2001/pp-2001-059-lembaga-perlindungan-konsumen-swadaya-masyarakat
+  - id: pp-2001-060
+    jenis: pp
+    nomor: '60'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 178 Tahun 2000 Tentang Susunan
+      Organisasi Dan Tugas Lembaga Pemerintah Non Departemen Sebagaimana Telah Beberapa
+      Kali Diubah Terakhir Dengan Keputusan Presiden Nomor 43 Tahun 2001
+    path: regulasi/pusat/pp/2001/pp-2001-060-perubahan-atas-keputusan-presiden-nomor-178-tahun-2000-tentang-susunan-organisasi-dan-tugas-lembaga-pemerintah-non-depar
+  - id: pp-2001-061
+    jenis: pp
+    nomor: '61'
+    tahun: 2001
+    judul: Tim Pengkajian Pengelolaan Komplek Kemayoran
+    path: regulasi/pusat/pp/2001/pp-2001-061-tim-pengkajian-pengelolaan-komplek-kemayoran
+  - id: pp-2001-062
+    jenis: pp
+    nomor: '62'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 166 Tahun 2000 Tentang Kedudukan,
+      Tugas, Fungsi, Kewenangan, Susunan Organisasi, Dan Tata Kerja Lembaga Pemerintah
+      Non Departemen Sebagaimana Telah Beberapa Kali Diubah Terakhir Dengan Keputusan
+      Presiden Nomor 42 Tahun 2001
+    path: regulasi/pusat/pp/2001/pp-2001-062-perubahan-atas-keputusan-presiden-nomor-166-tahun-2000-tentang-kedudukan-tugas-fungsi-kewenangan-susunan-organisasi-dan
+  - id: pp-2001-063
+    jenis: pp
+    nomor: '63'
+    tahun: 2001
+    judul: Perubahan Atas Keputusan Presiden Nomor 9 Tahun 2001 Tentang Tunjangan
+      Dosen
+    path: regulasi/pusat/pp/2001/pp-2001-063-perubahan-atas-keputusan-presiden-nomor-9-tahun-2001-tentang-tunjangan-dosen
+  - id: pp-2001-064
+    jenis: pp
+    nomor: '64'
+    tahun: 2001
+    judul: Pengalihan Kedudukan, Tugas Dan Kewenangan Menteri Keuangan Pada Perusahaan
+      Perseroan (Persero), Perusahaan Umum (Perum) Dan Perusahaan Jawatan (Perjan)
+      Kepada Menteri Negara Badan Usaha Milik Negara
+    path: regulasi/pusat/pp/2001/pp-2001-064-pengalihan-kedudukan-tugas-dan-kewenangan-menteri-keuangan-pada-perusahaan-perseroan-persero-perusahaan-umum-perum-dan-p
+  - id: pp-2001-065
+    jenis: pp
+    nomor: '65'
+    tahun: 2001
+    judul: Penyesuaian Gaji Pokok Hakim Menurut Peraturan Pemerintah Nomor 8 Tahun
+      2000 Tentang Peraturan Gaji Hakim Peradilan Umum, Peradilan Tata Usaha Negara,
+      Dan Peradilan Agama Ke Dalam Gaji Pokok Hakim Menurut Peraturan Pemerintah Nomor
+      27 Tahun 2001
+    path: regulasi/pusat/pp/2001/pp-2001-065-penyesuaian-gaji-pokok-hakim-menurut-peraturan-pemerintah-nomor-8-tahun-2000-tentang-peraturan-gaji-hakim-peradilan-umum
+  - id: pp-2001-066
+    jenis: pp
+    nomor: '66'
+    tahun: 2001
+    judul: Penyesuaian Gaji Pokok Anggota Tentara Nasional Indonesia Menurut Peraturan
+      Pemerintah Nomor 7 Tahun 1997 Ke Dalam Peraturan Pemerintah Nomor 28 Tahun 2001
+    path: regulasi/pusat/pp/2001/pp-2001-066-penyesuaian-gaji-pokok-anggota-tentara-nasional-indonesia-menurut-peraturan-pemerintah-nomor-7-tahun-1997-ke-dalam-perat
+  - id: pp-2001-067
+    jenis: pp
+    nomor: '67'
+    tahun: 2001
+    judul: Penyesuaian Gaji Pokok Anggota Kepolisian Negara Republik Indonesia Menurut
+      Peraturan Pemerintah Nomor 7 Tahun 1997 Ke Dalam Peraturan Pemerintah Nomor
+      29 Tahun 2001
+    path: regulasi/pusat/pp/2001/pp-2001-067-penyesuaian-gaji-pokok-anggota-kepolisian-negara-republik-indonesia-menurut-peraturan-pemerintah-nomor-7-tahun-1997-ke-d
   - id: pp-2001-068
     jenis: pp
     nomor: '68'
@@ -45672,6 +45985,18 @@
     judul: Perubahan Sekolah Tinggi Agama Hindu Negeri Denpasar Menjadi Institut Hindu
       Dharma Negeri Denpasar
     path: regulasi/pusat/perpres/2004/perpres-2004-001-perubahan-sekolah-tinggi-agama-hindu-negeri-denpasar-menjadi-institut-hindu-dharma-negeri-denpasar
+  - id: perpres-2004-016
+    jenis: perpres
+    nomor: '16'
+    tahun: 2004
+    judul: perpres
+    path: regulasi/pusat/perpres/2004/perpres-2004-016-perpres
+  - id: perpres-2004-018
+    jenis: perpres
+    nomor: '18'
+    tahun: 2004
+    judul: perpres
+    path: regulasi/pusat/perpres/2004/perpres-2004-018-perpres
   - id: perpres-2004-002
     jenis: perpres
     nomor: '2'
@@ -45699,6 +46024,18 @@
     judul: Pembentukan Tim Penilai Akhir Pengangkatan, Pemindahan, Dan Pemberhentian
       Dalam Dan Dari Jabatan Struktural Eselon I
     path: regulasi/pusat/perpres/2004/perpres-2004-005-pembentukan-tim-penilai-akhir-pengangkatan-pemindahan-dan-pemberhentian-dalam-dan-dari-jabatan-struktural-eselon-i
+  - id: perpres-2004-006
+    jenis: perpres
+    nomor: '6'
+    tahun: 2004
+    judul: Tunjangan Jabatan Fungsional Pranata Komputer
+    path: regulasi/pusat/perpres/2004/perpres-2004-006-tunjangan-jabatan-fungsional-pranata-komputer
+  - id: perpres-2004-007
+    jenis: perpres
+    nomor: '7'
+    tahun: 2004
+    judul: perpres
+    path: regulasi/pusat/perpres/2004/perpres-2004-007-perpres
   - id: pp-2004-001
     jenis: pp
     nomor: '1'
@@ -78567,6 +78904,13 @@
     judul: Pengesahan Asean Mutual Recogn Ition Arran Gement On Fligi+T Crew Licensing
       (Pengaturan Saling Pengakuan Asean Mengenai Penerbitan Lisensi Penerbang)
     path: regulasi/pusat/perpres/2025/perpres-2025-100-pengesahan-asean-mutual-recogn-ition-arran-gement-on-fligi-t-crew-licensing-pengaturan-saling-pengakuan-asean-mengenai-p
+  - id: perpres-2025-101
+    jenis: perpres
+    nomor: '101'
+    tahun: 2025
+    judul: Pembentukan, Organisasi, Dan Tata Kerja Unit Pelaksana Teknis Daerah Metrologi
+      Legal
+    path: regulasi/pusat/perpres/2025/perpres-2025-101-pembentukan-organisasi-dan-tata-kerja-unit-pelaksana-teknis-daerah-metrologi-legal
   - id: perpres-2025-102
     jenis: perpres
     nomor: '102'
@@ -78574,6 +78918,19 @@
     judul: Perubahan Atas Peraturan Presiden Nomor 121 Tahun 2022 Tentang Badan Pengarah
       Percepatan Pembangunan Otonomi Khusus Papua
     path: regulasi/pusat/perpres/2025/perpres-2025-102-perubahan-atas-peraturan-presiden-nomor-121-tahun-2022-tentang-badan-pengarah-percepatan-pembangunan-otonomi-khusus-papu
+  - id: perpres-2025-103
+    jenis: perpres
+    nomor: '103'
+    tahun: 2025
+    judul: Pembentukan, Organisasi, Dan Tata Kerja Unit Pelaksana Teknis Daerah Pengembangan
+      Industri Logam
+    path: regulasi/pusat/perpres/2025/perpres-2025-103-pembentukan-organisasi-dan-tata-kerja-unit-pelaksana-teknis-daerah-pengembangan-industri-logam
+  - id: perpres-2025-104
+    jenis: perpres
+    nomor: '104'
+    tahun: 2025
+    judul: Kendaraan Dinas Sewa
+    path: regulasi/pusat/perpres/2025/perpres-2025-104-kendaraan-dinas-sewa
   - id: perpres-2025-105
     jenis: perpres
     nomor: '105'
@@ -78587,6 +78944,20 @@
     judul: Penasihat Khusus Presiden, Utusan Khusus Presiden, Staf Khusus Presiden,
       Asisten Khusus Presiden, Dan Staf Khusus Wakil Presiden
     path: regulasi/pusat/perpres/2025/perpres-2025-106-penasihat-khusus-presiden-utusan-khusus-presiden-staf-khusus-presiden-asisten-khusus-presiden-dan-staf-khusus-wakil-pres
+  - id: perpres-2025-107
+    jenis: perpres
+    nomor: '107'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Kutawaringin Kabupaten Bandung Tahun
+      2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-107-perubahan-rencana-kerja-kecamatan-kutawaringin-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-108
+    jenis: perpres
+    nomor: '108'
+    tahun: 2025
+    judul: Pengadaan Barang/Jasa Pemerintah Dalam Rangka Percepatan Pembangunan Di
+      Papua Dengan Rah Mat Tuhan Yang Maha Esa
+    path: regulasi/pusat/perpres/2025/perpres-2025-108-pengadaan-barang-jasa-pemerintah-dalam-rangka-percepatan-pembangunan-di-papua-dengan-rah-mat-tuhan-yang-maha-esa
   - id: perpres-2025-109
     jenis: perpres
     nomor: '109'
@@ -78607,6 +78978,13 @@
     judul: PENYELENGGARAAN INSTRUMEN NILAI EKONOMI KARtsON DAN PENGENDALIAN EMISI
       GAS RUMAH KACA NASIONAL
     path: regulasi/pusat/perpres/2025/perpres-2025-110-penyelenggaraan-instrumen-nilai-ekonomi-kartson-dan-pengendalian-emisi-gas-rumah-kaca-nasional
+  - id: perpres-2025-111
+    jenis: perpres
+    nomor: '111'
+    tahun: 2025
+    judul: Insentif Tenaga Kegawatdaruratan Pada Unit Pelaksana Teknis Daerah Public
+      Safety Center 1 1 9
+    path: regulasi/pusat/perpres/2025/perpres-2025-111-insentif-tenaga-kegawatdaruratan-pada-unit-pelaksana-teknis-daerah-public-safety-center-1-1-9
   - id: perpres-2025-112
     jenis: perpres
     nomor: '112'
@@ -78621,6 +78999,12 @@
     judul: Perubahan Atas Peraturan Presiden Nomor 6 Tahun 2025 Tentang Tata Kelola
       Pupuk Bersubsidi
     path: regulasi/pusat/perpres/2025/perpres-2025-113-perubahan-atas-peraturan-presiden-nomor-6-tahun-2025-tentang-tata-kelola-pupuk-bersubsidi
+  - id: perpres-2025-114
+    jenis: perpres
+    nomor: '114'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Inspektorat Daerah Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-114-perubahan-rencana-kerja-inspektorat-daerah-kabupaten-bandung-tahun-2025
   - id: perpres-2025-115
     jenis: perpres
     nomor: '115'
@@ -78664,12 +79048,132 @@
     tahun: 2025
     judul: Penyelenggaraan Sekoi,Ah Rakyat
     path: regulasi/pusat/perpres/2025/perpres-2025-120-penyelenggaraan-sekoi-ah-rakyat
+  - id: perpres-2025-121
+    jenis: perpres
+    nomor: '121'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Dinas Kependudukan Dan Pencatatan Sipil Kabupaten
+      Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-121-perubahan-rencana-kerja-dinas-kependudukan-dan-pencatatan-sipil-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-122
+    jenis: perpres
+    nomor: '122'
+    tahun: 2025
+    judul: PERUBAHAN ATAS PERATURAN BUPATI NOMOR 1 5 TAHUN 2 0 1 4 TENTANG PEDOMAN
+      UMUM PEMBENTUKAN SADAN USAHA MlLIK DESA (BUMDes)
+    path: regulasi/pusat/perpres/2025/perpres-2025-122-perubahan-atas-peraturan-bupati-nomor-1-5-tahun-2-0-1-4-tentang-pedoman-umum-pembentukan-sadan-usaha-mllik-desa-bumdes
+  - id: perpres-2025-123
+    jenis: perpres
+    nomor: '123'
+    tahun: 2025
+    judul: Tentang Susunan Susunan Organisasi Organisasi Dan Tata Kerja Dan Tata Kerja
+      Dinas Perindustrian Dan Dinas Perindustrian Dan Perdagangan Perdagangan Kabupaten
+      Kabupaten Kolaka Kolaka
+    path: regulasi/pusat/perpres/2025/perpres-2025-123-tentang-susunan-susunan-organisasi-organisasi-dan-tata-kerja-dan-tata-kerja-dinas-perindustrian-dan-dinas-perindustrian
+  - id: perpres-2025-124
+    jenis: perpres
+    nomor: '124'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Badan Kesatuan Bangsa Dan Politik Kabupaten Bandung
+      Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-124-perubahan-rencana-kerja-badan-kesatuan-bangsa-dan-politik-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-125
+    jenis: perpres
+    nomor: '125'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Dinas Ketenagakerjaan Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-125-perubahan-rencana-kerja-dinas-ketenagakerjaan-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-126
+    jenis: perpres
+    nomor: '126'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Banjaran Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-126-perubahan-rencana-kerja-kecamatan-banjaran-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-127
+    jenis: perpres
+    nomor: '127'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Cilengkrang Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-127-perubahan-rencana-kerja-kecamatan-cilengkrang-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-128
+    jenis: perpres
+    nomor: '128'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Katapang Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-128-perubahan-rencana-kerja-kecamatan-katapang-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-129
+    jenis: perpres
+    nomor: '129'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Cimaung Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-129-perubahan-rencana-kerja-kecamatan-cimaung-kabupaten-bandung-tahun-2025
   - id: perpres-2025-013
     jenis: perpres
     nomor: '13'
     tahun: 2025
     judul: tah Pengganti Undang-Undang Nomor I Tahun 2O14 tentang
     path: regulasi/pusat/perpres/2025/perpres-2025-013-tah-pengganti-undang-undang-nomor-i-tahun-2o14-tentang
+  - id: perpres-2025-130
+    jenis: perpres
+    nomor: '130'
+    tahun: 2025
+    judul: Penyelenggaraan Koperasi Desa/Kelurahan Merah Putih
+    path: regulasi/pusat/perpres/2025/perpres-2025-130-penyelenggaraan-koperasi-desa-kelurahan-merah-putih
+  - id: perpres-2025-131
+    jenis: perpres
+    nomor: '131'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Pasirjambu Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-131-perubahan-rencana-kerja-kecamatan-pasirjambu-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-132
+    jenis: perpres
+    nomor: '132'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Pangalengan Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-132-perubahan-rencana-kerja-kecamatan-pangalengan-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-133
+    jenis: perpres
+    nomor: '133'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Ciwidey Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-133-perubahan-rencana-kerja-kecamatan-ciwidey-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-134
+    jenis: perpres
+    nomor: '134'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Majalaya Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-134-perubahan-rencana-kerja-kecamatan-majalaya-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-135
+    jenis: perpres
+    nomor: '135'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Solokanjeruk Kabupaten Bandung Tahun
+      2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-135-perubahan-rencana-kerja-kecamatan-solokanjeruk-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-136
+    jenis: perpres
+    nomor: '136'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Margaasih Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-136-perubahan-rencana-kerja-kecamatan-margaasih-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-137
+    jenis: perpres
+    nomor: '137'
+    tahun: 2025
+    judul: Peraturan Internal Rumah Sakit Umum Daerah Oto Iskandar Di Nata
+    path: regulasi/pusat/perpres/2025/perpres-2025-137-peraturan-internal-rumah-sakit-umum-daerah-oto-iskandar-di-nata
+  - id: perpres-2025-138
+    jenis: perpres
+    nomor: '138'
+    tahun: 2025
+    judul: Batas Desa Gerduren Kecamatan Purwojati
+    path: regulasi/pusat/perpres/2025/perpres-2025-138-batas-desa-gerduren-kecamatan-purwojati
+  - id: perpres-2025-139
+    jenis: perpres
+    nomor: '139'
+    tahun: 2025
+    judul: Peraturan Internal Rumah Sakit Umum Daerah Cicalengka
+    path: regulasi/pusat/perpres/2025/perpres-2025-139-peraturan-internal-rumah-sakit-umum-daerah-cicalengka
   - id: perpres-2025-014
     jenis: perpres
     nomor: '14'
@@ -78684,6 +79188,67 @@
       Menetapkan PERATURAN PRESIDEN TENTANG PERUBAHAN INSTITUT SENI INDONESIA DENPASAR
       MENJADI INSTITUT SENI INDONESIA BALI'
     path: regulasi/pusat/perpres/2025/perpres-2025-014-peraturan-scni-indonesia-denpasar-menjadi-institut-scni-lndonesia-bali-i-pasal-4-ayat-l-undang-undang-dasar-negara-repub
+  - id: perpres-2025-140
+    jenis: perpres
+    nomor: '140'
+    tahun: 2025
+    judul: perpres
+    path: regulasi/pusat/perpres/2025/perpres-2025-140-perpres
+  - id: perpres-2025-141
+    jenis: perpres
+    nomor: '141'
+    tahun: 2025
+    judul: Batas Desa Karangtalun Lor Kecamatan Purwojati
+    path: regulasi/pusat/perpres/2025/perpres-2025-141-batas-desa-karangtalun-lor-kecamatan-purwojati
+  - id: perpres-2025-142
+    jenis: perpres
+    nomor: '142'
+    tahun: 2025
+    judul: Peraturan Internal Rumah Sakit Umum Daerah Majalaya
+    path: regulasi/pusat/perpres/2025/perpres-2025-142-peraturan-internal-rumah-sakit-umum-daerah-majalaya
+  - id: perpres-2025-143
+    jenis: perpres
+    nomor: '143'
+    tahun: 2025
+    judul: Batas Desa Klapasawit Kecamatan Purwojati
+    path: regulasi/pusat/perpres/2025/perpres-2025-143-batas-desa-klapasawit-kecamatan-purwojati
+  - id: perpres-2025-144
+    jenis: perpres
+    nomor: '144'
+    tahun: 2025
+    judul: Batas Desa Karangmangu Kecamatan Purwojati
+    path: regulasi/pusat/perpres/2025/perpres-2025-144-batas-desa-karangmangu-kecamatan-purwojati
+  - id: perpres-2025-145
+    jenis: perpres
+    nomor: '145'
+    tahun: 2025
+    judul: Batas Desa Kaliputih Kecamatan Purwojati
+    path: regulasi/pusat/perpres/2025/perpres-2025-145-batas-desa-kaliputih-kecamatan-purwojati
+  - id: perpres-2025-146
+    jenis: perpres
+    nomor: '146'
+    tahun: 2025
+    judul: Batas Desa Kaliwangi Kecamatan Purwojati
+    path: regulasi/pusat/perpres/2025/perpres-2025-146-batas-desa-kaliwangi-kecamatan-purwojati
+  - id: perpres-2025-147
+    jenis: perpres
+    nomor: '147'
+    tahun: 2025
+    judul: Pembudayaan Kegemaran Membaca
+    path: regulasi/pusat/perpres/2025/perpres-2025-147-pembudayaan-kegemaran-membaca
+  - id: perpres-2025-148
+    jenis: perpres
+    nomor: '148'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Bupati Nomor 96 Tahun 2024 Tentang Kedudukan Keuangan
+      Bupati Dan Wakil Bupati
+    path: regulasi/pusat/perpres/2025/perpres-2025-148-perubahan-atas-peraturan-bupati-nomor-96-tahun-2024-tentang-kedudukan-keuangan-bupati-dan-wakil-bupati
+  - id: perpres-2025-149
+    jenis: perpres
+    nomor: '149'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Dinas Pendidikan Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-149-perubahan-rencana-kerja-dinas-pendidikan-kabupaten-bandung-tahun-2025
   - id: perpres-2025-015
     jenis: perpres
     nomor: '15'
@@ -78692,12 +79257,114 @@
       TO A Cl,F,en F,@NOIuIY (PERSETUJUAN KERANGKA EKONOMI INDO-PASIFIK UNTUK KEMAKMURAN
       TERKAIT EKONOMI BERSIH}
     path: regulasi/pusat/perpres/2025/perpres-2025-015-penoesahan-inn-pacific-eeonomtc-framework-for-prosperiiy-agreemeitt-relating-to-a-cl-f-en-f-noiuiy-persetujuan-kerangka
+  - id: perpres-2025-150
+    jenis: perpres
+    nomor: '150'
+    tahun: 2025
+    judul: perpres
+    path: regulasi/pusat/perpres/2025/perpres-2025-150-perpres
+  - id: perpres-2025-151
+    jenis: perpres
+    nomor: '151'
+    tahun: 2025
+    judul: Perubahan Kedua Atas Peraturan Bupati Nomor 8 Tahun 2023 Tentang Standar
+      Harga Satuan Badan Layanan Umum Daerah Unit Pelaksana Teknis Rumah Sakit Umum
+      Daerah Massenrempulu Kabupaten Enrekang
+    path: regulasi/pusat/perpres/2025/perpres-2025-151-perubahan-kedua-atas-peraturan-bupati-nomor-8-tahun-2023-tentang-standar-harga-satuan-badan-layanan-umum-daerah-unit-pel
+  - id: perpres-2025-152
+    jenis: perpres
+    nomor: '152'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Rancabali Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-152-perubahan-rencana-kerja-kecamatan-rancabali-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-153
+    jenis: perpres
+    nomor: '153'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Ibun Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-153-perubahan-rencana-kerja-kecamatan-ibun-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-154
+    jenis: perpres
+    nomor: '154'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Cileunyi Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-154-perubahan-rencana-kerja-kecamatan-cileunyi-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-155
+    jenis: perpres
+    nomor: '155'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Pameungpeuk Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-155-perubahan-rencana-kerja-kecamatan-pameungpeuk-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-156
+    jenis: perpres
+    nomor: '156'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Cikancung Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-156-perubahan-rencana-kerja-kecamatan-cikancung-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-157
+    jenis: perpres
+    nomor: '157'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Dinas Pemuda Dan Olah Raga Kabupaten Bandung Tahun
+      2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-157-perubahan-rencana-kerja-dinas-pemuda-dan-olah-raga-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-158
+    jenis: perpres
+    nomor: '158'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Dinas Pengendalian Penduduk, Keluarga Berencana,
+      Pemberdayaan Perempuan Dan Perlindungan Anak Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-158-perubahan-rencana-kerja-dinas-pengendalian-penduduk-keluarga-berencana-pemberdayaan-perempuan-dan-perlindungan-anak-kabu
+  - id: perpres-2025-159
+    jenis: perpres
+    nomor: '159'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Cimenyan Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-159-perubahan-rencana-kerja-kecamatan-cimenyan-kabupaten-bandung-tahun-2025
   - id: perpres-2025-016
     jenis: perpres
     nomor: '16'
     tahun: 2025
     judul: Sistem Sertifikasi Kei,Apa Sawit Berkei.,Anjutan Indonesia
     path: regulasi/pusat/perpres/2025/perpres-2025-016-sistem-sertifikasi-kei-apa-sawit-berkei-anjutan-indonesia
+  - id: perpres-2025-160
+    jenis: perpres
+    nomor: '160'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Margahayu Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-160-perubahan-rencana-kerja-kecamatan-margahayu-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-161
+    jenis: perpres
+    nomor: '161'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Dayeuhkolot Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-161-perubahan-rencana-kerja-kecamatan-dayeuhkolot-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-162
+    jenis: perpres
+    nomor: '162'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Kecamatan Bojongsoang Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-162-perubahan-rencana-kerja-kecamatan-bojongsoang-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-163
+    jenis: perpres
+    nomor: '163'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Dinas Perpustakaan Dan Arsip Kabupaten Bandung
+      Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-163-perubahan-rencana-kerja-dinas-perpustakaan-dan-arsip-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-164
+    jenis: perpres
+    nomor: '164'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Dinas Perhubungan Kabupaten Bandung Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-164-perubahan-rencana-kerja-dinas-perhubungan-kabupaten-bandung-tahun-2025
+  - id: perpres-2025-165
+    jenis: perpres
+    nomor: '165'
+    tahun: 2025
+    judul: Perubahan Rencana Kerja Dinas Pekerjaan Umum Dan Tata Ruang Kabupaten Bandung
+      Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-165-perubahan-rencana-kerja-dinas-pekerjaan-umum-dan-tata-ruang-kabupaten-bandung-tahun-2025
   - id: perpres-2025-017
     jenis: perpres
     nomor: '17'
@@ -78985,12 +79652,65 @@
     tahun: 2025
     judul: Neraca Komoditas
     path: regulasi/pusat/perpres/2025/perpres-2025-007-neraca-komoditas
+  - id: perpres-2025-070
+    jenis: perpres
+    nomor: '70'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Bupati Nomor 49 Tahun 2025 Tentang Penjabaran
+      Perubahan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-070-perubahan-atas-peraturan-bupati-nomor-49-tahun-2025-tentang-penjabaran-perubahan-anggaran-pendapatan-dan-belanja-daerah
+  - id: perpres-2025-071
+    jenis: perpres
+    nomor: '71'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Presiden Nomor 57 Tahun 2024 Tentang Petunjuk
+      Teknis Danaalokasikhusus Fisik
+    path: regulasi/pusat/perpres/2025/perpres-2025-071-perubahan-atas-peraturan-presiden-nomor-57-tahun-2024-tentang-petunjuk-teknis-danaalokasikhusus-fisik
+  - id: perpres-2025-072
+    jenis: perpres
+    nomor: '72'
+    tahun: 2025
+    judul: Standar Hargasatuanregional Denganrahmattuhanyangmahaesa
+    path: regulasi/pusat/perpres/2025/perpres-2025-072-standar-hargasatuanregional-denganrahmattuhanyangmahaesa
+  - id: perpres-2025-073
+    jenis: perpres
+    nomor: '73'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Bupati Purbalingga Nomor 4 Tahun 2024 Tentang
+      Tata Cara Pemungutan Pajak Reklame Di Kabupaten Purbalingga
+    path: regulasi/pusat/perpres/2025/perpres-2025-073-perubahan-atas-peraturan-bupati-purbalingga-nomor-4-tahun-2024-tentang-tata-cara-pemungutan-pajak-reklame-di-kabupaten-p
+  - id: perpres-2025-074
+    jenis: perpres
+    nomor: '74'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Bupati Purbalingga Nomor 5 Tahun 2024 Tentang
+      Tata Cara Pemungutan Pajak Air Tanah Di Kabupaten Purbalingga
+    path: regulasi/pusat/perpres/2025/perpres-2025-074-perubahan-atas-peraturan-bupati-purbalingga-nomor-5-tahun-2024-tentang-tata-cara-pemungutan-pajak-air-tanah-di-kabupaten
+  - id: perpres-2025-075
+    jenis: perpres
+    nomor: '75'
+    tahun: 2025
+    judul: Perubahan Atas Peraturan Bupati Purbalingga Nomor 6 Tahun 2024 Tentang
+      Tata Cara Pemungutan Pajak Mineral Bukan Logam Dan Batuan Di Kabupaten Purbalingga
+    path: regulasi/pusat/perpres/2025/perpres-2025-075-perubahan-atas-peraturan-bupati-purbalingga-nomor-6-tahun-2024-tentang-tata-cara-pemungutan-pajak-mineral-bukan-logam-da
+  - id: perpres-2025-076
+    jenis: perpres
+    nomor: '76'
+    tahun: 2025
+    judul: Rencana Aksi Daerah Penanggulangan Tuberkulosis Tahun 2025-2029
+    path: regulasi/pusat/perpres/2025/perpres-2025-076-rencana-aksi-daerah-penanggulangan-tuberkulosis-tahun-2025-2029
   - id: perpres-2025-077
     jenis: perpres
     nomor: '77'
     tahun: 2025
     judul: Badan Otorita Pengelola Pantai Utara Jawa
     path: regulasi/pusat/perpres/2025/perpres-2025-077-badan-otorita-pengelola-pantai-utara-jawa
+  - id: perpres-2025-078
+    jenis: perpres
+    nomor: '78'
+    tahun: 2025
+    judul: Penyelenggaraan Rumah Mediasi Dikabupatenpurwakarta
+    path: regulasi/pusat/perpres/2025/perpres-2025-078-penyelenggaraan-rumah-mediasi-dikabupatenpurwakarta
   - id: perpres-2025-079
     jenis: perpres
     nomor: '79'
@@ -79011,6 +79731,13 @@
       Spesialis, Dan Dokter Gigi Subspesialis Yang Bertugas Di Daerah Tertinggal,
       Perbatasan, Dan Kepulauan
     path: regulasi/pusat/perpres/2025/perpres-2025-081-tunjangan-khusus-bagi-dokter-spesialis-doi-mer-subspesialis-dokter-gigi-spesialis-dan-dokter-gigi-subspesialis-yang-bert
+  - id: perpres-2025-082
+    jenis: perpres
+    nomor: '82'
+    tahun: 2025
+    judul: Pedoman Penghargaan Opd Of The Year Di Lingkungan Pemerintah Kabupaten
+      Purbalingga Tahun 2025
+    path: regulasi/pusat/perpres/2025/perpres-2025-082-pedoman-penghargaan-opd-of-the-year-di-lingkungan-pemerintah-kabupaten-purbalingga-tahun-2025
   - id: perpres-2025-083
     jenis: perpres
     nomor: '83'
@@ -79084,12 +79811,31 @@
     tahun: 2025
     judul: Kementerian Haji Dan Umrah
     path: regulasi/pusat/perpres/2025/perpres-2025-092-kementerian-haji-dan-umrah
+  - id: perpres-2025-093
+    jenis: perpres
+    nomor: '93'
+    tahun: 2025
+    judul: PEMBENTUKAN, ORGANISASI, DAN TATA KERJA RUMAH SAKIT UMUM DAERAH dr. R.
+      GOETENG TAROENADIBRATA
+    path: regulasi/pusat/perpres/2025/perpres-2025-093-pembentukan-organisasi-dan-tata-kerja-rumah-sakit-umum-daerah-dr-r-goeteng-taroenadibrata
   - id: perpres-2025-094
     jenis: perpres
     nomor: '94'
     tahun: 2025
     judul: I,Ayanan Digital Terpadu Pada Komoditas Mineral Dan Batubara
     path: regulasi/pusat/perpres/2025/perpres-2025-094-i-ayanan-digital-terpadu-pada-komoditas-mineral-dan-batubara
+  - id: perpres-2025-095
+    jenis: perpres
+    nomor: '95'
+    tahun: 2025
+    judul: perpres
+    path: regulasi/pusat/perpres/2025/perpres-2025-095-perpres
+  - id: perpres-2025-096
+    jenis: perpres
+    nomor: '96'
+    tahun: 2025
+    judul: Pencegahan Dan Penanganan Intoleransi Kehidupan Bermasyarakat
+    path: regulasi/pusat/perpres/2025/perpres-2025-096-pencegahan-dan-penanganan-intoleransi-kehidupan-bermasyarakat
   - id: perpres-2025-097
     jenis: perpres
     nomor: '97'
@@ -79098,6 +79844,12 @@
       Panitia Seleksi Dan Tata Cara Pelaksanaan Seleksi Anggota Dewan Komisioner Lembaga
       Penjamin Simpanan
     path: regulasi/pusat/perpres/2025/perpres-2025-097-perubahan-atas-peraturan-presiden-nomor-3-tahun-2025-tentang-susunan-keanggotaan-panitia-seleksi-dan-tata-cara-pelaksana
+  - id: perpres-2025-098
+    jenis: perpres
+    nomor: '98'
+    tahun: 2025
+    judul: Pembentukan, Organisasi, Dan Tata Kerja Unit Pelaksana Teknis Daerah Perbenihan
+    path: regulasi/pusat/perpres/2025/perpres-2025-098-pembentukan-organisasi-dan-tata-kerja-unit-pelaksana-teknis-daerah-perbenihan
   - id: perpres-2025-099
     jenis: perpres
     nomor: '99'
